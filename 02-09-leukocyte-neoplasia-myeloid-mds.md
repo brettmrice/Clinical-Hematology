@@ -1,0 +1,198 @@
+# Myelodysplastic {-}
+
+## **Overview of Myelodysplastic Syndromes (MDS)** {-}
+
+*   **Definition:** A group of clonal hematopoietic stem cell disorders characterized by *ineffective hematopoiesis,* resulting in cytopenias (anemia, thrombocytopenia, and/or neutropenia) and a variable risk of transformation to acute myeloid leukemia (AML)
+*   **Key Features:**
+    *   Dysplasia: Abnormal morphology and maturation of hematopoietic cells in the bone marrow
+    *   Ineffective Hematopoiesis: Increased apoptosis (programmed cell death) of hematopoietic precursors in the bone marrow, leading to decreased production of mature blood cells
+    *   Cytopenias: One or more peripheral blood cytopenias (anemia, thrombocytopenia, and/or neutropenia)
+    *   Risk of Transformation: Variable risk of progression to acute myeloid leukemia (AML)
+*   **Epidemiology:** Primarily affects older adults (median age at diagnosis is >65 years)
+*   **Etiology:**
+    *   Most cases are *de novo* (arising without a known cause)
+    *   Some cases are therapy-related (t-MDS), occurring after exposure to cytotoxic chemotherapy or radiation therapy
+    *   Genetic predisposition plays a role in a small number of cases
+
+## **Pathophysiology** {-}
+
+*   **Clonal Hematopoiesis:** MDS arises from a mutated hematopoietic stem cell that has a proliferative advantage over normal stem cells
+*   **Genetic Mutations:** Acquired mutations in genes involved in:
+    *   Splicing factors (e.g., *SF3B1*, *SRSF2*, *U2AF1*)
+    *   DNA methylation (e.g., *TET2*, *DNMT3A*)
+    *   Transcription factors (e.g., *RUNX1*, *TP53*)
+    *   Signaling pathways (e.g., *RAS* pathway)
+*   **Impaired Differentiation:** Mutations disrupt normal differentiation and maturation of hematopoietic cells
+*   **Dysplasia:** Abnormal morphological features in one or more cell lines (erythroid, myeloid, megakaryocytic)
+*   **Increased Apoptosis:** Dysplastic cells are prone to apoptosis (programmed cell death) in the bone marrow, contributing to ineffective hematopoiesis
+*   **Cytokine Dysregulation:** Abnormal production of cytokines by bone marrow cells can contribute to ineffective hematopoiesis and cytopenias
+*   **Immune Dysregulation:** Abnormal immune responses may contribute to bone marrow failure in some cases
+
+## **WHO Classification of MDS (2016 Revision)** {-}
+
+The World Health Organization (WHO) classification is used to categorize MDS based on:
+
+*   **Morphological Features:** Dysplasia in one or more cell lines, blast percentage
+*   **Cytogenetic Abnormalities:** Specific chromosomal abnormalities
+*   **Blast Percentage:** Percentage of blasts in the bone marrow and peripheral blood
+
+Key Subtypes of MDS:
+
+*   **MDS with Single Lineage Dysplasia (MDS-SLD):**
+    *   Cytopenia in one cell line (anemia, thrombocytopenia, or neutropenia)
+    *   Dysplasia in one cell line only
+    *   <5% blasts in the bone marrow and <1% blasts in the peripheral blood
+*   **MDS with Ring Sideroblasts (MDS-RS):**
+    *   Subclassified as:
+        *   **MDS-RS-SLD:** Single lineage dysplasia with ≥15% ring sideroblasts in the bone marrow
+        *   **MDS-RS-MLD:** Multilineage dysplasia with ≥15% ring sideroblasts in the bone marrow
+    *   Cytopenia in one or more cell lines
+    *   <5% blasts in the bone marrow and <1% blasts in the peripheral blood
+    *   Often associated with *SF3B1* mutation
+*   **MDS with Multilineage Dysplasia (MDS-MLD):**
+    *   Cytopenia in one or more cell lines
+    *   Dysplasia in ≥50% of cells in at least two cell lines
+    *   <5% blasts in the bone marrow and <1% blasts in the peripheral blood
+*   **MDS with Excess Blasts (MDS-EB):**
+    *   Subclassified as:
+        *   **MDS-EB-1:** 5-9% blasts in the bone marrow or 2-4% blasts in the peripheral blood
+        *   **MDS-EB-2:** 10-19% blasts in the bone marrow or 5-9% blasts in the peripheral blood
+    *   Cytopenias in one or more cell lines
+    *   May have Auer rods
+*   **MDS with Isolated del(5q):**
+    *   Anemia
+    *   Normal or increased platelet count
+    *   <5% blasts in the bone marrow and <1% blasts in the peripheral blood
+    *   Isolated del(5q) cytogenetic abnormality
+    *   Often responsive to lenalidomide
+
+## **Clinical Manifestations** {-}
+
+*   **Symptoms of Cytopenias:**
+
+    *   Anemia: Fatigue, weakness, pallor, shortness of breath
+    *   Thrombocytopenia: Bleeding, bruising, petechiae (small, pinpoint hemorrhages)
+    *   Neutropenia: Increased susceptibility to infections
+
+*   **Other Symptoms:**
+
+    *   Some patients are asymptomatic and MDS is found incidentally in the blood test
+    *   Splenomegaly (enlarged spleen): Less common than in myeloproliferative neoplasms
+    *   Hepatosplenomegaly (enlarged liver and spleen)
+    *   Systemic Symptoms (Less Common): Fever, weight loss, night sweats
+
+## **Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+
+    *   Cytopenias in one or more cell lines (anemia, thrombocytopenia, neutropenia)
+        *   May see macrocytosis (increased MCV) or dimorphic RBC population
+    *   Variable WBC count (may be low, normal, or high)
+    *   Presence of blasts in the peripheral blood (variable, depends on the subtype of MDS)
+
+*   **Peripheral Blood Smear:**
+
+    *   Dysplastic Features in One or More Cell Lines:
+        *   RBCs: Oval macrocytes, hypochromia, basophilic stippling, Howell-Jolly bodies, teardrop cells
+        *   Neutrophils: Pseudo-Pelger-Huët anomaly (bilobed or unsegmented neutrophils), hypogranulation, abnormal nuclear segmentation
+        *   Platelets: Large platelets, abnormal granulation
+
+*   **Reticulocyte Count:**
+
+    *   Low or Normal (inappropriately low for the degree of anemia)
+
+*   **Bone Marrow Aspiration and Biopsy:**
+
+    *   Increased Cellularity (Hypercellular) or Decreased Cellularity (Hypocellular)
+    *   Dysplasia in One or More Cell Lines:
+        *   Erythroid dysplasia: Multinucleated erythroid precursors, nuclear budding, megaloblastoid changes
+        *   Myeloid dysplasia: Abnormal nuclear segmentation, hypogranulation, Auer rods (rare)
+        *   Megakaryocytic dysplasia: Micromegakaryocytes, hypolobated megakaryocytes
+    *   Increased Blast Percentage: Used to classify MDS subtypes
+    *   Ring Sideroblasts: Erythroid precursors with iron-laden mitochondria encircling the nucleus (≥15% ring sideroblasts in MDS-RS subtypes)
+
+*   **Cytogenetic Analysis:**
+
+    *   Chromosomal Abnormalities are Common in MDS
+        *   del(5q): Seen in MDS with isolated del(5q)
+        *   Trisomy 8 (+8)
+        *   del(20q)
+        *   del(7q) or monosomy 7 (-7)
+        *   Complex Karyotype: Presence of multiple cytogenetic abnormalities; associated with poor prognosis
+
+*   **Flow Cytometry Immunophenotyping:**
+
+    *   To Identify Abnormal Cell Populations and Assess for Dysplasia
+        *   Aberrant expression of cell surface markers
+        *   Abnormal cell ratios
+        *   Helps differentiate MDS from other conditions
+
+*   **Molecular Testing:**
+
+    *   To Detect Gene Mutations that are Important for Diagnosis, Prognosis, and Treatment Planning
+        *   Commonly Mutated Genes:
+            *   *SF3B1* (splicing factor)
+            *   *TET2* (DNA methylation)
+            *   *DNMT3A* (DNA methylation)
+            *   *ASXL1* (chromatin modifier)
+            *   *RUNX1* (transcription factor)
+            *   *TP53* (tumor suppressor)
+            *   *EZH2* (chromatin modifier)
+
+## **Diagnostic Criteria** {-}
+
+*   Presence of One or More Cytopenias (Anemia, Thrombocytopenia, and/or Neutropenia)
+*   Dysplasia in at least One Cell Line (Erythroid, Myeloid, or Megakaryocytic) in the Bone Marrow
+*   Blast Percentage in the Bone Marrow is <20%
+*   Absence of Other Myeloid Neoplasms (e.g., CML, AML with recurrent genetic abnormalities)
+*   Cytogenetic Abnormalities - Helpful for Classification and Prognosis
+
+## **Prognostic Scoring Systems** {-}
+
+*   **Revised International Prognostic Scoring System (IPSS-R):**
+    *   Used to estimate the prognosis and risk of AML transformation in patients with MDS
+    *   Based on:
+        *   Percentage of blasts in the bone marrow
+        *   Cytogenetic abnormalities
+        *   Number of cytopenias
+        *   Assigns patients to risk categories: Very low, low, intermediate, high, or very high
+
+## **Treatment and Management** {-}
+
+*   **Goals of Treatment:**
+
+    *   Improve blood counts
+    *   Reduce the risk of infections and bleeding
+    *   Delay or prevent transformation to AML
+    *   Improve quality of life and survival
+
+*   **Treatment Options:**
+
+    *   Supportive Care:
+        *   Transfusions (RBCs and platelets) to manage anemia and thrombocytopenia
+        *   Growth factors (e.g., erythropoietin, G-CSF) to stimulate blood cell production
+        *   Antibiotics to treat infections
+        *   Iron chelation therapy to manage iron overload from chronic transfusions (if needed)
+    *   Hypomethylating Agents (HMAs):
+        *   Azacitidine and decitabine
+        *   Inhibit DNA methylation, leading to improved hematopoiesis and reduced risk of AML transformation
+        *   Used in higher-risk MDS
+    *   Lenalidomide:
+        *   An immunomodulatory drug used for patients with MDS with deletion 5q
+        *   Effective in reducing transfusion dependence and improving cytopenias
+    *   Luspatercept:
+        *   A recombinant fusion protein that binds to TGF-β superfamily ligands
+        *   Promotes erythroid maturation and reduces transfusion burden in patients with MDS-RS
+    *   Hematopoietic Stem Cell Transplantation (HSCT):
+        *   Potentially curative option, especially for younger patients with high-risk MDS
+        *   Involves replacing the patient's damaged bone marrow with healthy stem cells from a donor
+
+## **Key Terms** {-}
+
+*   **Myelodysplastic Syndromes (MDS):** Clonal hematopoietic stem cell disorders with ineffective hematopoiesis and dysplasia
+*   **Dysplasia:** Abnormal cell development or maturation
+*   **Cytopenia:** Deficiency of blood cells (e.g., anemia, neutropenia, thrombocytopenia)
+*   **Ring Sideroblasts:** Erythroid precursors with iron-laden mitochondria encircling the nucleus
+*   **Refractory Anemia:** Anemia that does not respond to standard treatments
+*   **Hypomethylating Agents:** Drugs that inhibit DNA methylation
+*   **Hematopoietic Stem Cell Transplantation (HSCT):** Procedure to replace damaged bone marrow with healthy stem cells

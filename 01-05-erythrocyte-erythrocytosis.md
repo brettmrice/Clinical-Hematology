@@ -1,0 +1,172 @@
+# Erythrocytosis {-}
+
+## **Overview of Erythrocytosis** {-}
+
+*   **Definition:** An abnormal increase in the number of red blood cells (RBCs) in the blood, leading to an elevated hemoglobin (HGB) concentration and hematocrit (HCT) value
+*   **Alternative Terms:** Polycythemia, erythremia
+*   **Classification:**
+    *   **Relative Erythrocytosis:** An apparent increase in RBC count due to a decrease in plasma volume
+    *   **Absolute Erythrocytosis:** A true increase in the total red blood cell mass in the body
+*   **Causes:** Can range from benign to life-threatening conditions
+*   **Symptoms:** May be asymptomatic or present with a variety of symptoms, including headache, dizziness, fatigue, blurred vision, pruritus (itching), and thrombosis (blood clots)
+
+## **Relative Erythrocytosis** {-}
+
+*   **Definition:** An elevated hematocrit (HCT) and hemoglobin (HGB) concentration due to a *decrease* in plasma volume, rather than an actual increase in red blood cell mass
+*   **Causes:**
+    *   **Dehydration:**
+        *   Reduced fluid intake
+        *   Excessive fluid loss (e.g., vomiting, diarrhea, diuretic use, burns)
+    *   **Stress Erythrocytosis (Gaisböck Syndrome):**
+        *   More common in middle-aged men who are obese, hypertensive, and smokers
+        *   Underlying mechanism is not fully understood but may involve increased catecholamines, which lead to decreased plasma volume
+        *   Often associated with anxiety and stress
+*   **Laboratory Findings:**
+    *   Elevated HGB and HCT
+    *   Normal red blood cell mass
+    *   Elevated RBC count
+    *   Normal or elevated serum protein and albumin levels (due to hemoconcentration)
+    *   Normal or low-normal Erythropoietin level (EPO)
+    *   Normal Oxygen Saturation (SaO2)
+
+## **Absolute Erythrocytosis** {-}
+
+*   **Definition:** A true increase in the total red blood cell mass in the body
+*   **Classification:**
+    *   **Primary Erythrocytosis:**
+        *   Caused by intrinsic abnormalities of the bone marrow, leading to uncontrolled RBC production
+        *   Independent of erythropoietin (EPO) levels
+    *   **Secondary Erythrocytosis:**
+        *   Caused by factors external to the bone marrow that stimulate increased RBC production
+        *   Associated with elevated erythropoietin (EPO) levels
+
+## **Primary Erythrocytosis** {-}
+
+*   **Polycythemia Vera (PV):**
+    *   A myeloproliferative neoplasm characterized by uncontrolled proliferation of all myeloid cell lines (RBCs, WBCs, and platelets), but with predominant increase in RBCs
+    *   Cause: In most cases (>95%), caused by a mutation in the JAK2 gene (Janus kinase 2), which leads to constitutive activation of the EPO receptor signaling pathway
+    *   Symptoms: Headache, dizziness, fatigue, pruritus (especially after a warm bath), erythromelalgia (burning pain and redness in the extremities), splenomegaly, and thrombosis (both arterial and venous)
+    *   Laboratory Findings:
+        *   Elevated HGB and HCT
+        *   Elevated RBC count
+        *   Normal or decreased EPO level
+        *   Increased WBC count and platelet count in some cases
+        *   Positive JAK2 mutation
+        *   Bone marrow examination: Hypercellular marrow with increased erythroid, myeloid, and megakaryocytic lineages
+
+## **Secondary Erythrocytosis** {-}
+
+*   **Definition:** Increased RBC production due to an underlying condition that stimulates erythropoietin (EPO) production
+*   **Causes:**
+    *   **Hypoxia-Induced Erythrocytosis:**
+        *   Chronic lung disease (e.g., COPD, emphysema)
+        *   High altitude
+        *   Obstructive sleep apnea
+        *   Cyanotic heart disease
+        *   Reduced oxygen levels stimulate EPO production by the kidneys
+    *   **EPO-Producing Tumors:**
+        *   Renal cell carcinoma
+        *   Hepatocellular carcinoma
+        *   Hemangioblastoma
+        *   These tumors secrete EPO, leading to increased RBC production
+    *   **Other Causes:**
+        *   Exogenous EPO administration (e.g., in athletes for performance enhancement)
+        *   Androgen use
+        *   Certain medications
+        *   Post-kidney transplant erythrocytosis
+*   **Laboratory Findings:**
+    *   Elevated HGB and HCT
+    *   Elevated RBC count
+    *   Elevated EPO level (except in cases of exogenous EPO administration)
+    *   Normal or elevated WBC count and platelet count
+    *   Arterial blood gas analysis: May show hypoxemia (low oxygen levels) in hypoxia-induced erythrocytosis
+    *   Imaging studies: To detect EPO-producing tumors
+
+## **Diagnostic Approach to Erythrocytosis** {-}
+
+1.  **Confirm Erythrocytosis:**
+    *   Check HGB and HCT levels
+2.  **Rule Out Relative Erythrocytosis:**
+    *   Assess hydration status
+    *   Check serum protein and albumin levels
+3.  **Measure Red Blood Cell Mass:**
+    *   If available, direct measurement of RBC mass can differentiate between relative and absolute erythrocytosis
+4.  **Measure Serum Erythropoietin (EPO) Level:**
+    *   Low or normal EPO: Suggests primary erythrocytosis (e.g., PV)
+    *   Elevated EPO: Suggests secondary erythrocytosis
+5.  **If EPO is Low or Normal:**
+    *   Test for JAK2 mutation (highly suggestive of PV)
+    *   If JAK2 is negative, consider other myeloproliferative neoplasms or rare causes of primary erythrocytosis
+    *   Bone marrow examination may be necessary
+6.  **If EPO is Elevated:**
+    *   Assess for hypoxia:
+        *   Arterial blood gas analysis
+        *   Pulse oximetry
+    *   Evaluate for EPO-producing tumors:
+        *   Imaging studies (e.g., CT scan, MRI)
+    *   Consider other causes:
+        *   Exogenous EPO administration
+        *   Androgen use
+        *   Other medications
+
+## **Complications of Erythrocytosis** {-}
+
+*   **Thrombosis:**
+    *   Increased risk of blood clots due to increased blood viscosity and platelet activation
+    *   Can lead to stroke, heart attack, pulmonary embolism, and deep vein thrombosis (DVT)
+*   **Bleeding:**
+    *   Paradoxically, some patients with PV may experience bleeding due to abnormal platelet function
+*   **Splenomegaly:**
+    *   Enlargement of the spleen due to increased workload
+*   **Myelofibrosis:**
+    *   In PV, bone marrow can become fibrotic over time, leading to cytopenias
+*   **Transformation to Acute Leukemia:**
+    *   Small risk of transformation to acute myeloid leukemia (AML) in PV, especially after treatment with certain agents
+
+## **Treatment of Erythrocytosis** {-}
+
+*   **Relative Erythrocytosis:**
+    *   Address the underlying cause (e.g., rehydration)
+*   **Polycythemia Vera:**
+    *   Phlebotomy: To reduce HCT to <45%
+    *   Low-dose aspirin: To reduce the risk of thrombosis
+    *   Cytoreductive therapy:
+        *   Hydroxyurea: To suppress bone marrow proliferation
+        *   Ruxolitinib: A JAK2 inhibitor used in patients who are resistant to or intolerant of hydroxyurea
+*   **Secondary Erythrocytosis:**
+    *   Address the underlying cause:
+        *   Oxygen therapy for hypoxia
+        *   Surgical removal of EPO-producing tumors
+    *   Phlebotomy: May be used to reduce Hct in symptomatic patients
+
+## **Key Laboratory Tests for Erythrocytosis** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   HGB and HCT: Elevated
+    *   RBC count: Elevated
+    *   WBC count: May be normal or elevated
+    *   Platelet count: May be normal or elevated
+*   **Serum Erythropoietin (EPO) Level:**
+    *   Low or normal: Suggests primary erythrocytosis
+    *   Elevated: Suggests secondary erythrocytosis
+*   **Arterial Blood Gas Analysis:**
+    *   To assess oxygen saturation and partial pressure of oxygen (PaO2) in hypoxia-induced erythrocytosis
+*   **JAK2 Mutation Analysis:**
+    *   To diagnose polycythemia vera
+*   **Bone Marrow Examination:**
+    *   To assess cellularity and morphology of hematopoietic cells
+*   **Imaging Studies (CT Scan, MRI):**
+    *   To detect EPO-producing tumors
+
+## **Key Terms** {-}
+
+*   **Erythrocytosis:** Increased red blood cell count
+*   **Polycythemia:** Increased red blood cell count
+*   **Relative Erythrocytosis:** Decreased plasma volume
+*   **Absolute Erythrocytosis:** Increased red blood cell mass
+*   **Polycythemia Vera (PV):** Myeloproliferative neoplasm with increased RBCs, WBCs, and PLTs
+*   **JAK2 Mutation:** Mutation associated with PV
+*   **Erythropoietin (EPO):** Hormone that stimulates RBC production
+*   **Phlebotomy:** Removal of blood
+*   **Hydroxyurea:** Cytoreductive agent
+*   **Ruxolitinib:** JAK2 inhibitor

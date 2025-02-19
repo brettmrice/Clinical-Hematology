@@ -1,0 +1,228 @@
+# Myeloproliferative {-}
+
+## **Overview of Myeloproliferative Neoplasms (MPNs)** {-}
+
+*   **Definition:** A group of clonal hematopoietic stem cell disorders characterized by *increased* proliferation of one or more myeloid cell lines in the bone marrow
+*   **Key Features:**
+    *   Increased Blood Cell Counts: Elevated WBC count, RBC count, and/or platelet count
+    *   Extramedullary Hematopoiesis: Hematopoiesis (blood cell production) occurs outside the bone marrow, often in the spleen (leading to splenomegaly) and liver
+    *   Risk of Thrombosis and Bleeding: Due to abnormal platelet function and/or elevated blood cell counts
+    *   Risk of Transformation: Can progress to myelofibrosis (scarring of the bone marrow) or acute leukemia
+*   **Diagnostic Hallmark:** MPNs are often characterized by specific genetic mutations that drive the increased proliferation
+*   **Classification:**
+    *   Chronic Myeloid Leukemia (CML)
+    *   Polycythemia Vera (PV)
+    *   Essential Thrombocythemia (ET)
+    *   Primary Myelofibrosis (PMF)
+    *   Other, rarer MPNs
+
+## **Chronic Myeloid Leukemia (CML)** {-}
+
+*   **Definition:** A myeloproliferative neoplasm characterized by the presence of the *BCR-ABL1* fusion gene, resulting from a reciprocal translocation between chromosomes 9 and 22 (t(9;22)(q34.1;q11.2))
+*   **Pathophysiology:**
+    *   *BCR-ABL1 Fusion Gene:* The translocation creates the Philadelphia chromosome (Ph chromosome) and results in the fusion of the *BCR* gene on chromosome 22 with the *ABL1* gene on chromosome 9
+    *   *Constitutive Tyrosine Kinase Activity:* The BCR-ABL1 fusion protein has constitutive (always "on") tyrosine kinase activity, which drives uncontrolled proliferation of myeloid cells
+*   **Phases of CML:**
+    *   Chronic Phase (CP):
+        *   Relatively indolent phase with increased WBC count, but <10% blasts in the bone marrow and peripheral blood
+    *   Accelerated Phase (AP):
+        *   Increasing WBC count, blasts between 10-19% in the bone marrow or peripheral blood, resistance to treatment, new cytogenetic abnormalities
+    *   Blast Phase (BP):
+        *   Transformation to acute leukemia (either myeloid or lymphoid) with ≥20% blasts in the bone marrow or peripheral blood
+*   **Clinical Features:**
+    *   Chronic Phase:
+        *   Often asymptomatic
+        *   Fatigue
+        *   Splenomegaly
+        *   Night sweats
+        *   Weight loss
+    *   Accelerated Phase and Blast Phase:
+        *   Worsening symptoms
+        *   Fever
+        *   Bone pain
+        *   Bleeding
+        *   Infections
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Elevated WBC count (often > 25 x 10^9/L)
+        *   Neutrophilia with a "left shift" (increased band neutrophils, metamyelocytes, and myelocytes)
+        *   Basophilia
+        *   Eosinophilia
+        *   Anemia (variable)
+        *   Platelet count: Normal or elevated
+    *   Peripheral Blood Smear:
+        *   Increased granulocytes at various stages of maturation
+        *   Basophilia
+        *   Small number of blasts (in chronic phase)
+        *   Presence of blasts and promyelocytes (in accelerated and blast phases)
+    *   Bone Marrow Aspiration and Biopsy:
+        *   Hypercellular marrow with increased granulopoiesis
+        *   Myeloid:erythroid (M:E) ratio is increased
+        *   Blast percentage: <10% in chronic phase, 10-19% in accelerated phase, and ≥20% in blast phase
+    *   Cytogenetic Analysis:
+        *   Philadelphia chromosome (Ph chromosome): t(9;22)(q34.1;q11.2)
+    *   Molecular Testing:
+        *   BCR-ABL1 Fusion Gene: Detected by PCR or FISH (fluorescence in situ hybridization)
+*   **Treatment:**
+    *   Tyrosine Kinase Inhibitors (TKIs):
+        *   Imatinib, dasatinib, nilotinib, bosutinib, ponatinib
+        *   Target the BCR-ABL1 tyrosine kinase activity, leading to apoptosis of leukemic cells
+        *   Highly effective in achieving and maintaining remission in most patients with chronic phase CML
+    *   Hematopoietic Stem Cell Transplantation (HSCT):
+        *   Potentially curative option
+        *   Typically reserved for patients who fail TKI therapy or who are in accelerated or blast phase
+    *   Interferon-alpha:
+        *   An older treatment option that is now less commonly used
+
+## **Polycythemia Vera (PV)** {-}
+
+*   **Definition:** A myeloproliferative neoplasm characterized by increased production of red blood cells (erythrocytosis), often accompanied by increased production of white blood cells and platelets
+*   **Diagnostic Criteria:**
+    *   Elevated hemoglobin and hematocrit
+    *   Presence of the JAK2 V617F mutation (or other *JAK2* exon 12 mutation)
+    *   Bone marrow showing erythroid, granulocytic, and megakaryocytic proliferation
+*   **Pathophysiology:**
+    *   *JAK2 Mutation:* A mutation in the *JAK2* gene (Janus kinase 2), most commonly the V617F mutation
+        *   JAK2 is a tyrosine kinase involved in signal transduction for several growth factors, including erythropoietin (EPO)
+        *   The *JAK2* mutation leads to constitutive activation of the EPO receptor signaling pathway, resulting in uncontrolled RBC production, independent of EPO levels
+    *   *Erythroid Progenitor Hypersensitivity:* Erythroid progenitors become hypersensitive to growth factors
+*   **Clinical Features:**
+    *   Elevated red cell mass is what causes:
+        *   Headache
+        *   Dizziness
+        *   Fatigue
+        *   Blurred Vision
+        *   Pruritus (itching, especially after a warm bath)
+        *   Erythromelalgia (burning pain and redness in the extremities)
+        *   Thrombosis: Increased risk of blood clots (stroke, heart attack, pulmonary embolism, DVT)
+        *   Bleeding: Paradoxically, some patients may experience bleeding due to abnormal platelet function
+        *   Splenomegaly: Enlarged spleen
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Elevated HGB and HCT
+        *   Elevated RBC count
+        *   WBC count: May be normal or elevated
+        *   Platelet count: May be normal or elevated
+    *   Peripheral Blood Smear:
+        *   May show erythrocytosis (increased RBCs)
+        *   May see some granulocytosis and thrombocytosis
+    *   Serum Erythropoietin (EPO) Level:
+        *   Low or Normal
+    *   JAK2 Mutation Analysis:
+        *   Positive for *JAK2* V617F mutation (or other *JAK2* mutation)
+    *   Bone Marrow Examination (not always required):
+        *   Hypercellular marrow with increased erythroid, granulocytic, and megakaryocytic lineages
+*   **Treatment:**
+    *   Phlebotomy:
+        *   To reduce HCT to <45%
+        *   Mainstay of therapy
+    *   Low-Dose Aspirin:
+        *   To reduce the risk of thrombosis
+    *   Cytoreductive Therapy:
+        *   Hydroxyurea: To suppress bone marrow proliferation
+        *   Ruxolitinib: A JAK2 inhibitor used in patients who are resistant to or intolerant of hydroxyurea
+    *   Interferon-alpha:
+        *   May be used in younger patients or pregnant women
+
+## **Essential Thrombocythemia (ET)** {-}
+
+*   **Definition:** A myeloproliferative neoplasm characterized by sustained thrombocytosis (elevated platelet count)
+*   **Diagnostic Criteria:**
+    *   Sustained Platelet Count ≥450 x 10^9/L
+    *   Bone Marrow Showing Increased Numbers of Megakaryocytes
+    *   Exclusion of Other MPNs: Absence of criteria for PV, PMF, or CML
+    *   Presence of a Clonal Marker (e.g., JAK2, CALR, or MPL mutation) or Evidence of Clonal Hematopoiesis in the Absence of Other Causes of Thrombocytosis
+*   **Pathophysiology:**
+    *   Mutations in *JAK2*, *CALR*, or *MPL* genes lead to increased megakaryocyte proliferation and platelet production
+        *   *JAK2* mutation (Janus kinase 2): Affects signal transduction
+        *   *CALR* mutation (calreticulin): Affects protein folding and calcium signaling
+        *   *MPL* mutation (thrombopoietin receptor): Affects thrombopoietin signaling
+*   **Clinical Features:**
+    *   Often asymptomatic
+    *   Thrombosis: Increased risk of blood clots (stroke, heart attack, DVT, pulmonary embolism)
+    *   Bleeding: Paradoxically, some patients may experience bleeding due to abnormal platelet function
+    *   Erythromelalgia: Burning pain and redness in the extremities
+    *   Splenomegaly: Enlarged spleen (less common than in PV or PMF)
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Elevated platelet count (≥450 x 10^9/L)
+        *   WBC count: May be normal or slightly elevated
+        *   RBC count: Usually normal
+    *   Peripheral Blood Smear:
+        *   Thrombocytosis: Increased number of platelets
+        *   Large platelets (megathrombocytes)
+        *   Abnormal platelet morphology (e.g., hypogranular platelets)
+    *   Bone Marrow Examination (not always required):
+        *   Increased numbers of megakaryocytes with abnormal morphology
+    *   Molecular Testing:
+        *   Positive for *JAK2*, *CALR*, or *MPL* mutation (in most cases)
+*   **Treatment:**
+    *   Low-Dose Aspirin:
+        *   To reduce the risk of thrombosis
+    *   Cytoreductive Therapy:
+        *   Hydroxyurea: To lower the platelet count
+        *   Anagrelide: Inhibits platelet production
+        *   Interferon-alpha: May be used in younger patients or pregnant women
+
+## **Primary Myelofibrosis (PMF)** {-}
+
+*   **Definition:** A myeloproliferative neoplasm characterized by progressive bone marrow fibrosis (scarring), splenomegaly, and extramedullary hematopoiesis
+*   **Diagnostic Criteria:**
+    *   Megakaryocyte proliferation and dysplasia in the bone marrow
+    *   Reticulin and/or collagen fibrosis
+    *   Exclusion of Other MPNs: Absence of criteria for PV, ET, or CML
+    *   Presence of a Clonal Marker (e.g., JAK2, CALR, or MPL mutation) or Evidence of Clonal Hematopoiesis in the Absence of Other Causes of Myelofibrosis
+*   **Pathophysiology:**
+    *   Mutations in *JAK2*, *CALR*, or *MPL* genes lead to:
+        *   Abnormal megakaryocyte proliferation and activation
+        *   Release of cytokines (e.g., TGF-β, PDGF, VEGF) that stimulate fibroblast proliferation and collagen deposition in the bone marrow
+    *   Progressive bone marrow fibrosis impairs normal hematopoiesis, leading to:
+        *   Cytopenias (anemia, thrombocytopenia)
+        *   Extramedullary hematopoiesis (blood cell production in the spleen, liver, and other organs)
+*   **Clinical Features:**
+    *   Anemia: Fatigue, weakness
+    *   Splenomegaly: Abdominal discomfort, early satiety
+    *   Constitutional Symptoms: Fatigue, weight loss, night sweats, fever
+    *   Bone Pain
+    *   Thrombosis and Bleeding: Due to abnormal platelet function
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Anemia (usually present)
+        *   Thrombocytopenia or thrombocytosis (variable)
+        *   Leukoerythroblastosis: Presence of immature granulocytes and nucleated RBCs in the peripheral blood
+    *   Peripheral Blood Smear:
+        *   Teardrop cells (dacrocytes): Abnormally shaped RBCs that are characteristic of PMF
+        *   Leukoerythroblastosis: Immature granulocytes and nucleated RBCs
+        *   Large, abnormal platelets
+    *   Bone Marrow Aspiration and Biopsy:
+        *   Hypercellular marrow (early stages)
+        *   Increased megakaryocytes with abnormal morphology
+        *   Reticulin and/or collagen fibrosis (graded on a scale of 0-3)
+    *   Molecular Testing:
+        *   Positive for *JAK2*, *CALR*, or *MPL* mutation (in most cases)
+*   **Treatment:**
+    *   Supportive Care:
+        *   Transfusions to manage anemia and thrombocytopenia
+        *   Ruxolitinib: A JAK2 inhibitor that reduces spleen size, improves constitutional symptoms, and may prolong survival
+        *   Danazol or thalidomide: May improve anemia or thrombocytopenia
+        *   Hydroxyurea: To manage thrombocytosis or leukocytosis
+    *   Splenectomy: May be considered for symptomatic splenomegaly or refractory cytopenias, but carries significant risks
+    *   Hematopoietic Stem Cell Transplantation (HSCT):
+        *   The only potentially curative option
+        *   Reserved for younger patients with high-risk disease
+
+## **Key Terms** {-}
+
+*   **Myeloproliferative Neoplasm (MPN):** A clonal hematopoietic stem cell disorder with increased production of myeloid cells
+*   **Chronic Myeloid Leukemia (CML):** MPN with the BCR-ABL1 fusion gene
+*   **Polycythemia Vera (PV):** MPN with increased red blood cell production; often associated with JAK2 V617F mutation
+*   **Essential Thrombocythemia (ET):** MPN with increased platelet production; associated with JAK2, CALR, or MPL mutations
+*   **Primary Myelofibrosis (PMF):** MPN characterized by bone marrow fibrosis and extramedullary hematopoiesis; associated with JAK2, CALR, or MPL mutations
+*   **Extramedullary Hematopoiesis:** Blood cell production outside the bone marrow (e.g., in the spleen and liver)
+*   **Splenomegaly:** Enlargement of the spleen
+*   **Thrombosis:** Formation of blood clots
+*   **Hepatomegaly:** Enlargement of the liver
+*   **Leukoerythroblastosis:** Presence of immature granulocytes and nucleated RBCs in the peripheral blood
+*   **Teardrop Cells (Dacrocytes):** Abnormally shaped RBCs seen in primary myelofibrosis
+*   **Hydroxyurea:** A chemotherapeutic drug used to suppress bone marrow proliferation
+*   **Ruxolitinib:** A JAK2 inhibitor used to treat MPNs

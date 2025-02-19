@@ -1,0 +1,233 @@
+# AML {-}
+
+## **Overview of Acute Myeloid Leukemia (AML)** {-}
+
+*   **Definition:** A group of aggressive hematologic malignancies characterized by the rapid proliferation and accumulation of *myeloblasts* (immature myeloid cells) in the bone marrow and peripheral blood
+*   **Hallmark:** >20% blasts in the bone marrow
+*   **Classification:**
+    *   The World Health Organization (WHO) classification is the most widely used system and is based on:
+        *   Morphology
+        *   Immunophenotype
+        *   Genetic abnormalities (cytogenetics and molecular genetics)
+        *   Clinical features
+    *   Key Categories (According to WHO):
+        *   AML with Recurrent Genetic Abnormalities
+        *   AML with Myelodysplasia-Related Changes
+        *   Therapy-Related AML (t-AML)
+        *   AML Not Otherwise Specified (AML-NOS)
+*   **Pathophysiology:**
+    *   Genetic mutations disrupt normal myeloid differentiation, leading to a buildup of myeloblasts
+    *   Myeloblasts crowd out normal hematopoietic cells in the bone marrow, causing cytopenias (anemia, thrombocytopenia, neutropenia)
+*   **Clinical Significance:** Rapidly progressive and life-threatening if untreated
+
+## **Etiology and Risk Factors** {-}
+
+*   **Genetic Mutations:**
+    *   AML is typically caused by acquired genetic mutations in hematopoietic stem cells or early myeloid progenitors
+    *   These mutations can affect:
+        *   Transcription factors (e.g., RUNX1, CEBPA)
+        *   Signal transduction pathways (e.g., FLT3, RAS)
+        *   Epigenetic modifiers (e.g., DNMT3A, TET2)
+        *   Spliceosome components (e.g., SF3B1)
+*   **Prior Chemotherapy or Radiation Therapy:**
+    *   Therapy-related AML (t-AML) is a secondary leukemia that develops after exposure to cytotoxic agents or radiation
+    *   t-AML often has poor prognosis
+*   **Underlying Hematologic Disorders:**
+    *   Myelodysplastic syndromes (MDS) can transform into AML
+    *   Myeloproliferative neoplasms (MPNs) can transform into AML
+*   **Genetic Predisposition:**
+    *   Certain inherited genetic syndromes increase the risk of developing AML (e.g., Fanconi anemia, Down syndrome)
+*   **Environmental Factors:**
+    *   Exposure to benzene or other chemicals
+    *   Smoking
+
+## **Classification of AML (WHO 2016)** {-}
+
+*   **AML with Recurrent Genetic Abnormalities:**
+    *   **AML with t(8;21)(q22;q22.1); *RUNX1-RUNX1T1***
+        *   Favorable prognosis
+        *   Often associated with Auer rods and maturation
+    *   **AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22); *CBFB-MYH11***
+        *   Favorable prognosis
+        *   Often associated with increased eosinophils in the bone marrow
+    *   **Acute Promyelocytic Leukemia (APL) with t(15;17)(q24.1;q21.1); *PML-RARA***
+        *   Good prognosis with appropriate treatment
+        *   Associated with disseminated intravascular coagulation (DIC)
+        *   Abnormal promyelocytes with Auer rods
+    *   **AML with t(9;11)(p21.3;q23.3); *MLLT3-KMT2A***
+        *   Intermediate prognosis
+        *   Often associated with monocytic differentiation
+    *   **AML with t(v;11q23.3); *KMT2A* rearranged:**
+    *   **AML with t(6;9)(p23;q34.1); *DEK-NUP214***
+    *   **AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); *GATA2, MECOM***
+    *   **AML with t(1;22)(p13.3;q13.1); *RBM15-MKL1***
+
+*   **AML with Myelodysplasia-Related Changes:**
+
+    *   History of myelodysplastic syndrome (MDS) or myeloproliferative neoplasm (MPN)
+    *   Multilineage dysplasia in the bone marrow (dysplasia in ≥50% of cells in at least 2 cell lineages)
+    *   Specific cytogenetic abnormalities
+
+*   **Therapy-Related AML (t-AML):**
+
+    *   Occurs after exposure to cytotoxic chemotherapy or radiation therapy
+    *   Often associated with specific cytogenetic abnormalities and poor prognosis
+
+*   **AML Not Otherwise Specified (AML-NOS):**
+
+    *   AML cases that do not meet the criteria for the other WHO subtypes
+    *   Subclassified based on morphology:
+        *   AML with minimal differentiation
+        *   AML without maturation
+        *   AML with maturation
+        *   Acute myelomonocytic leukemia
+        *   Acute monoblastic/monocytic leukemia
+        *   Acute erythroid leukemia
+        *   Acute megakaryoblastic leukemia
+        *   Acute basophilic leukemia
+        *   Acute panmyelosis with myelofibrosis
+
+## **Clinical Features** {-}
+
+*   **Symptoms of Anemia:**
+    *   Fatigue
+    *   Weakness
+    *   Pallor (pale skin)
+    *   Shortness of breath
+*   **Symptoms of Thrombocytopenia:**
+    *   Bleeding (e.g., nosebleeds, gum bleeding, easy bruising)
+    *   Petechiae (small, pinpoint hemorrhages)
+    *   Ecchymoses (bruises)
+*   **Symptoms of Neutropenia:**
+    *   Frequent infections
+    *   Fever
+    *   Sore throat
+*   **Other Symptoms:**
+    *   Bone pain
+    *   Splenomegaly (enlarged spleen)
+    *   Hepatomegaly (enlarged liver)
+    *   Lymphadenopathy (swollen lymph nodes) - less common in AML than ALL
+    *   Gingival hyperplasia (swelling of the gums), especially in acute monocytic leukemia
+    *   Skin infiltration (leukemia cutis)
+    *   Disseminated Intravascular Coagulation (DIC):
+        *   Can occur, especially in acute promyelocytic leukemia (APL)
+
+## **Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Hemoglobin (HGB): Decreased (anemia)
+    *   Hematocrit (HCT): Decreased
+    *   Red Blood Cell Count (RBC): Decreased
+    *   Platelet Count: Decreased (thrombocytopenia)
+    *   White Blood Cell Count (WBC): Variable; can be low, normal, or elevated
+        *   Neutropenia: Often present, but some patients may have elevated neutrophil counts
+    *   Presence of blasts in the peripheral blood (usually >20% of WBCs)
+*   **Peripheral Blood Smear:**
+    *   Myeloblasts: Large, immature cells with:
+        *   High nucleus-to-cytoplasm (N:C) ratio
+        *   Fine chromatin
+        *   Prominent nucleoli
+        *   Auer rods: Rod-shaped inclusions in the cytoplasm (especially in AML with t(15;17))
+    *   Decreased mature granulocytes and platelets
+*   **Coagulation Studies (PT, aPTT, Fibrinogen, D-dimer):**
+    *   May be abnormal, especially in acute promyelocytic leukemia (APL) due to disseminated intravascular coagulation (DIC)
+*   **Bone Marrow Aspiration and Biopsy:**
+    *   Hypercellular marrow with >20% blasts
+    *   Dysplastic changes in one or more cell lines
+    *   Special stains:
+        *   Myeloperoxidase (MPO): Positive in myeloblasts
+        *   Sudan Black B (SBB): Positive in myeloblasts
+        *   Esterase stains: Differentiate myeloblasts from monoblasts
+*   **Flow Cytometry Immunophenotyping:**
+    *   Identifies cell surface markers on the blasts to determine the lineage (myeloid) and subtype of AML
+    *   Common markers:
+        *   Myeloid markers: CD13, CD33, CD117, myeloperoxidase (MPO), CD15
+        *   Stem cell markers: CD34, HLA-DR
+*   **Cytogenetic Analysis:**
+    *   Identifies chromosomal abnormalities (e.g., translocations, inversions, deletions) that are used for diagnosis and prognosis
+*   **Molecular Testing:**
+    *   Detects gene mutations (e.g., FLT3, NPM1, CEBPA) that are used for diagnosis, prognosis, and treatment planning
+
+## **Diagnosis** {-}
+
+*   **Based on the Following Criteria:**
+    *   Bone Marrow Aspiration and Biopsy: >20% blasts in the bone marrow
+    *   Peripheral Blood Smear: Presence of blasts
+    *   Immunophenotyping: Identifies the lineage and subtype of AML
+    *   Cytogenetic Analysis: Detects chromosomal abnormalities
+    *   Molecular Testing: Detects gene mutations
+
+## **Treatment** {-}
+
+*   **Goals of Treatment:**
+    *   Achieve complete remission (CR): Eradication of blasts from the bone marrow and restoration of normal hematopoiesis
+    *   Prevent relapse
+    *   Prolong survival
+*   **Phases of Treatment:**
+    *   Induction Chemotherapy:
+        *   Intensive chemotherapy to rapidly reduce the number of leukemic cells in the bone marrow and peripheral blood
+        *   Common regimens:
+            *   "7+3" (cytarabine for 7 days and daunorubicin or idarubicin for 3 days)
+        *   Patients are at high risk for complications (e.g., infection, bleeding) during induction
+    *   Consolidation Therapy:
+        *   Administered after achieving remission to eliminate any remaining leukemic cells and prevent relapse
+        *   Options:
+            *   Chemotherapy
+            *   Hematopoietic Stem Cell Transplantation (HSCT):
+                *   Allogeneic HSCT (from a matched donor) is the preferred consolidation therapy for many patients with high-risk AML
+*   **Treatment of Acute Promyelocytic Leukemia (APL):**
+    *   All-trans retinoic acid (ATRA) plus arsenic trioxide (ATO) is the preferred treatment for most patients with APL
+    *   This combination therapy targets the PML-RARA fusion protein and promotes differentiation of promyelocytes
+    *   Chemotherapy may be added in high-risk cases
+*   **Supportive Care:**
+
+    *   Transfusions (RBCs and platelets) to manage anemia and thrombocytopenia
+    *   Antibiotics and antifungals to treat infections
+    *   Growth factors (e.g., G-CSF) to stimulate neutrophil production
+    *   Management of tumor lysis syndrome (TLS): A metabolic complication caused by the rapid breakdown of leukemic cells
+
+## **Prognosis** {-}
+
+*   **Factors Influencing Prognosis:**
+
+    *   Cytogenetic Abnormalities: Certain chromosomal abnormalities are associated with favorable or unfavorable outcomes
+    *   Gene Mutations: The presence of certain gene mutations (e.g., FLT3-ITD) is associated with poorer prognosis, while others (e.g., NPM1) are associated with more favorable outcomes
+    *   Age: Younger patients generally have better outcomes than older patients
+    *   Performance Status: Overall health and fitness of the patient
+    *   Response to Induction Chemotherapy: Achievement of complete remission is a key prognostic factor
+*   **Risk Stratification:**
+
+    *   Patients are classified into risk groups (favorable, intermediate, or adverse) based on cytogenetic and molecular abnormalities
+    *   Risk stratification guides treatment decisions and helps predict the likelihood of achieving long-term remission
+
+## **Key Laboratory Findings** {-}
+
+*   **CBC:**
+    *   Anemia
+    *   Thrombocytopenia
+    *   Neutropenia
+    *   Presence of blasts in the peripheral blood
+*   **Peripheral Blood Smear:**
+    *   Myeloblasts
+    *   Auer rods (in some cases)
+*   **Bone Marrow Examination:**
+    *   Hypercellular marrow with >20% blasts
+*   **Flow Cytometry:**
+    *   Identifies cell surface markers on the blasts
+*   **Cytogenetic Analysis:**
+    *   Detects chromosomal abnormalities
+*   **Molecular Testing:**
+    *   Detects gene mutations
+
+## **Key Terms** {-}
+
+*   **Acute Myeloid Leukemia (AML):** An aggressive leukemia characterized by >20% blasts in the bone marrow
+*   **Myeloblast:** Immature myeloid cell
+*   **Auer Rods:** Rod-shaped inclusions in the cytoplasm of myeloblasts
+*   **Cytopenia:** Deficiency of blood cells (e.g., anemia, thrombocytopenia, neutropenia)
+*   **Complete Remission (CR):** Eradication of blasts from the bone marrow and restoration of normal hematopoiesis
+*   **Induction Chemotherapy:** Initial intensive chemotherapy to achieve remission
+*   **Consolidation Therapy:** Treatment to prevent relapse after achieving remission
+*   **Hematopoietic Stem Cell Transplantation (HSCT):** Procedure to replace damaged bone marrow with healthy stem cells
+*   **Cytogenetic Analysis:** The study of chromosomes and their abnormalities
+*   **Molecular Testing:** Techniques to detect gene mutations and other molecular abnormalities

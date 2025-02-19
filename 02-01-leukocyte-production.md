@@ -1,0 +1,201 @@
+# (PART\*) Leukocytes
+
+
+# WBC Production {-}
+
+## **Overview of Leukocyte Production** {-}
+
+*   **Definition:** The process of white blood cell (leukocyte) production, development, and maturation in the bone marrow and, for lymphocytes, also in secondary lymphoid organs
+*   **Purpose:** To maintain an adequate supply of functional leukocytes to defend the body against infection, inflammation, and other threats.
+*   **Regulation:** Complex interplay of growth factors, cytokines, and transcription factors
+*   **Location:** Primarily occurs in the bone marrow, except for lymphocytes, which also undergo maturation and differentiation in the thymus and secondary lymphoid organs (e.g., lymph nodes, spleen)
+*   **Types of Leukocytes:**
+    *   Granulocytes: Neutrophils, eosinophils, and basophils
+    *   Monocytes
+    *   Lymphocytes: T lymphocytes (T cells), B lymphocytes (B cells), and natural killer (NK) cells
+
+## **Hematopoietic Stem Cells (HSCs) and Leukocyte Development** {-}
+
+*   **Hematopoietic Stem Cells (HSCs):**
+    *   Self-renewing cells that can differentiate into all blood cell lineages
+    *   Reside in the bone marrow
+*   **Common Myeloid Progenitor (CMP):**
+    *   Gives rise to granulocytes, monocytes, macrophages, and megakaryocytes
+*   **Common Lymphoid Progenitor (CLP):**
+    *   Gives rise to lymphocytes (T cells, B cells, and NK cells)
+
+## **Granulopoiesis (Production of Granulocytes)** {-}
+
+*   **Myeloblast:**
+    *   Earliest recognizable granulocyte precursor
+    *   Large cell with a high nucleus-to-cytoplasm (N:C) ratio
+    *   Fine chromatin and prominent nucleoli
+    *   Cytoplasm is basophilic and lacks granules
+*   **Promyelocyte:**
+    *   Large cell with a slightly lower N:C ratio than myeloblast
+    *   Primary (azurophilic) granules appear in the cytoplasm
+    *   Primary granules contain enzymes and other substances involved in killing and digesting microorganisms (e.g., myeloperoxidase, lysozyme, elastase)
+*   **Myelocyte:**
+    *   Smaller than promyelocyte
+    *   Nucleus is round and eccentric
+    *   Secondary (specific) granules appear in the cytoplasm
+        *   Neutrophilic myelocyte: Produces neutrophilic granules (stain pink or lavender)
+        *   Eosinophilic myelocyte: Produces eosinophilic granules (stain orange-red)
+        *   Basophilic myelocyte: Produces basophilic granules (stain dark blue or purple)
+    *   "Dawn of neutrophilia": Refers to the appearance of pinkish cytoplasm in neutrophilic myelocytes
+*   **Metamyelocyte:**
+    *   Smaller than myelocyte
+    *   Nucleus is indented (kidney bean-shaped)
+    *   Cytoplasm contains secondary granules
+*   **Band Form:**
+    *   Nucleus is horseshoe-shaped (band-shaped)
+    *   Represents a late stage of neutrophil maturation
+    *   Small percentage of band neutrophils are normally found in the peripheral blood
+*   **Mature Granulocytes:**
+    *   **Neutrophil:**
+        *   Most abundant WBC in the peripheral blood
+        *   Multi-lobed nucleus (3-5 lobes)
+        *   Cytoplasm contains fine, pinkish-lilac granules
+        *   Function: Phagocytosis and killing of bacteria and fungi
+    *   **Eosinophil:**
+        *   Bilobed nucleus
+        *   Cytoplasm contains large, orange-red granules
+        *   Function: Defense against parasites and involvement in allergic reactions
+    *   **Basophil:**
+        *   Lobulated nucleus (often obscured by granules)
+        *   Cytoplasm contains large, dark blue or purple granules
+        *   Function: Release of histamine and other mediators involved in allergic and inflammatory responses
+
+## **Monocytopoiesis (Production of Monocytes)** {-}
+
+*   **Monoblast:**
+    *   Earliest recognizable monocyte precursor
+    *   Large cell with a high N:C ratio
+    *   Fine chromatin and prominent nucleoli
+    *   Cytoplasm is basophilic and lacks granules
+*   **Promonocyte:**
+    *   Large cell with an indented or folded nucleus
+    *   Cytoplasm is gray-blue and contains fine granules
+*   **Monocyte:**
+    *   Large cell with a horseshoe-shaped or kidney bean-shaped nucleus
+    *   Cytoplasm is gray-blue and contains fine granules and vacuoles
+    *   Circulates in the blood for a few days and then migrates into tissues, where it differentiates into macrophages
+
+## **Lymphopoiesis (Production of Lymphocytes)** {-}
+
+*   **Lymphoblast:**
+    *   Earliest recognizable lymphocyte precursor
+    *   Small to medium-sized cell with a high N:C ratio
+    *   Fine chromatin and prominent nucleoli
+    *   Cytoplasm is scant and basophilic
+*   **Prolymphocyte:**
+    *   Slightly larger than lymphoblast
+    *   Slightly more condensed chromatin
+    *   May have a few azurophilic granules
+*   **Mature Lymphocytes:**
+    *   **B Lymphocytes (B Cells):**
+        *   Mature in the bone marrow and then migrate to secondary lymphoid organs
+        *   Responsible for humoral immunity (antibody production)
+        *   When activated, differentiate into plasma cells, which produce antibodies
+    *   **T Lymphocytes (T Cells):**
+        *   Mature in the thymus
+        *   Responsible for cell-mediated immunity
+        *   Types of T cells:
+            *   Helper T cells (CD4+): Help activate other immune cells
+            *   Cytotoxic T cells (CD8+): Kill infected or cancerous cells
+            *   Regulatory T cells: Suppress immune responses
+    *   **Natural Killer (NK) Cells:**
+        *   Large granular lymphocytes
+        *   Part of the innate immune system
+        *   Kill infected or cancerous cells without prior sensitization
+
+## **Regulation of Leukopoiesis** {-}
+
+*   **Growth Factors and Cytokines:**
+    *   Colony-Stimulating Factors (CSFs):
+        *   Stimulate the proliferation and differentiation of hematopoietic progenitor cells
+        *   Examples:
+            *   Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF): Stimulates the production of granulocytes and macrophages
+            *   Granulocyte Colony-Stimulating Factor (G-CSF): Stimulates the production of neutrophils
+            *   Macrophage Colony-Stimulating Factor (M-CSF): Stimulates the production of monocytes and macrophages
+        *   Interleukins (ILs):
+            *   A diverse group of cytokines with various effects on leukocyte development and function
+            *   Examples:
+                *   IL-3: Stimulates the growth and differentiation of early hematopoietic progenitors
+                *   IL-5: Promotes the growth and differentiation of eosinophils
+                *   IL-7: Important for B and T cell development
+    *   Tumor Necrosis Factor (TNF):
+        *   Involved in inflammation and immune responses
+        *   Can stimulate or inhibit leukocyte production depending on the context
+    *   Transforming Growth Factor-beta (TGF-β):
+        *   Inhibits proliferation of hematopoietic cells
+        *   Promotes differentiation of regulatory T cells
+*   **Transcription Factors:**
+    *   PU.1:
+        *   Essential for the development of myeloid and lymphoid cells
+    *   GATA-1:
+        *   Important for erythroid and megakaryocytic development
+    *   Ikaros:
+        *   Required for lymphoid development
+
+## **Disorders of Leukopoiesis** {-}
+
+*   **Leukopenia:**
+    *   Decreased number of WBCs
+    *   Neutropenia: Decreased neutrophils
+        *   Causes: Infections, medications, autoimmune disorders, bone marrow disorders
+    *   Lymphopenia: Decreased lymphocytes
+        *   Causes: HIV infection, immunosuppressive drugs, congenital immunodeficiency syndromes
+*   **Leukocytosis:**
+    *   Increased number of WBCs
+    *   Neutrophilia: Increased neutrophils
+        *   Causes: Bacterial infections, inflammation, stress
+    *   Lymphocytosis: Increased lymphocytes
+        *   Causes: Viral infections, chronic lymphocytic leukemia
+    *   Eosinophilia: Increased eosinophils
+        *   Causes: Parasitic infections, allergic reactions
+*   **Leukemia:**
+    *   Malignant disorders characterized by the uncontrolled proliferation of abnormal leukocytes in the bone marrow and peripheral blood
+    *   Classified as acute or chronic, and myeloid or lymphoid, based on the cell lineage and stage of maturation
+
+## **Laboratory Evaluation of Leukopoiesis** {-}
+
+*   **Complete Blood Count (CBC) with Differential:**
+    *   WBC count: Measures the total number of leukocytes in the blood
+    *   Differential count: Determines the percentages and absolute numbers of each type of leukocyte (neutrophils, lymphocytes, monocytes, eosinophils, basophils)
+    *   Abnormal cells: Identifies the presence of immature or abnormal cells (e.g., blasts, atypical lymphocytes)
+*   **Peripheral Blood Smear Examination:**
+    *   Morphology: Evaluates the morphology of leukocytes
+        *   Toxic granulation in neutrophils (indicates severe infection or inflammation)
+        *   Atypical lymphocytes (seen in viral infections or lymphoproliferative disorders)
+        *   Blast cells (suggestive of acute leukemia)
+    *   Cell counts: Verifies the accuracy of the automated differential count
+*   **Bone Marrow Aspiration and Biopsy:**
+    *   Cellularity: Assesses the cellularity of the bone marrow
+    *   Maturation: Evaluates the maturation of hematopoietic cells
+    *   Dysplasia: Detects abnormal cell development (e.g., in myelodysplastic syndromes)
+    *   Special stains: Used to identify specific cell types or abnormalities (e.g., myeloperoxidase stain, esterase stain)
+    *   Flow cytometry: To identify cell surface markers and classify leukemias and lymphomas
+    *   Cytogenetic analysis: To detect chromosomal abnormalities
+    *   Molecular testing: To identify gene mutations
+
+## **Key Terms** {-}
+
+*   **Leukopoiesis:** White blood cell production
+*   **Granulopoiesis:** Production of granulocytes (neutrophils, eosinophils, and basophils)
+*   **Monocytopoiesis:** Production of monocytes
+*   **Lymphopoiesis:** Production of lymphocytes (T cells, B cells, and NK cells)
+*   **Myeloblast:** Earliest recognizable granulocyte precursor
+*   **Lymphoblast:** Earliest recognizable lymphocyte precursor
+*   **Colony-Stimulating Factors (CSFs):** Growth factors that stimulate leukocyte production
+*   **Interleukins (ILs):** Cytokines that regulate leukocyte development and function
+*   **Leukocytosis:** Increased number of WBCs
+*   **Leukopenia:** Decreased number of WBCs
+*   **Neutrophilia:** Increased neutrophils
+*   **Neutropenia:** Decreased neutrophils
+*   **Lymphocytosis:** Increased lymphocytes
+*   **Lymphopenia:** Decreased lymphocytes
+*   **Agranulocytosis:** Severe neutropenia (virtual absence of granulocytes)
+*   **Blast Cells:** Immature, abnormal cells seen in acute leukemia
+*   **Myelodysplastic Syndromes (MDS):** Clonal hematopoietic stem cell disorders with ineffective hematopoiesis
+*   **Leukemia:** Malignant disorder of leukocytes

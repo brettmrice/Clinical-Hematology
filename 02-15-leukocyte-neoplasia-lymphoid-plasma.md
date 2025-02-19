@@ -1,0 +1,152 @@
+# Plasma Cell {-}
+
+## **Overview of Plasma Cell Dyscrasias**
+
+*   **Definition:** A group of disorders characterized by the abnormal proliferation of a single clone of plasma cells, leading to the overproduction of a monoclonal immunoglobulin (M protein)
+*   **Synonyms:** Monoclonal Gammopathies, Plasma Cell Disorders
+*   **Key Features:**
+    *   Monoclonal Gammopathy: The presence of a monoclonal immunoglobulin (M protein) in the serum or urine. The M protein is produced by the abnormal clone of plasma cells
+    *   Bone Marrow Involvement: The bone marrow is often infiltrated by the clonal plasma cells
+    *   Organ Damage: May lead to organ damage due to M protein deposition, bone lesions, hypercalcemia, renal dysfunction, and increased susceptibility to infections
+*   **Spectrum of Disorders:** Range from benign to malignant:
+    *   Monoclonal Gammopathy of Undetermined Significance (MGUS): Benign condition with low levels of M protein and no evidence of end-organ damage
+    *   Smoldering Multiple Myeloma (SMM): Intermediate condition with higher levels of M protein but still no end-organ damage
+    *   Multiple Myeloma (MM): Malignant plasma cell disorder with M protein, bone marrow involvement, and end-organ damage
+    *   Waldenström Macroglobulinemia (WM): A lymphoplasmacytic lymphoma that produces IgM M protein (covered in the previous study guide)
+    *   Other Plasma Cell Dyscrasias: Rare disorders such as heavy chain diseases and plasma cell leukemia
+
+## **Multiple Myeloma (MM)** {-}
+
+*   **Definition:** A malignant plasma cell disorder characterized by the clonal proliferation of plasma cells in the bone marrow, leading to the overproduction of a monoclonal immunoglobulin (M protein) and associated end-organ damage
+*   **Diagnostic Criteria:**
+    *   Clonal Bone Marrow Plasma Cells ≥10% or Biopsy-Proven Extramedullary Plasmacytoma
+    *   Presence of M Protein in Serum and/or Urine (except in rare cases of nonsecretory myeloma)
+    *   Evidence of End-Organ Damage (CRAB Criteria):
+        *   Hypercalcemia: Elevated serum calcium level
+        *   Renal Insufficiency: Elevated creatinine or decreased glomerular filtration rate (GFR)
+        *   Anemia: Low hemoglobin level
+        *   Bone Lesions: Lytic lesions, fractures, or osteopenia on skeletal survey or imaging studies
+*   **Pathophysiology:**
+    *   Clonal Plasma Cell Proliferation: Abnormal plasma cells accumulate in the bone marrow, disrupting normal hematopoiesis
+    *   M Protein Production: Excessive production of a monoclonal immunoglobulin (IgG, IgA, IgD, or IgE) or light chains (kappa or lambda)
+    *   Bone Destruction: Myeloma cells secrete factors that stimulate osteoclast activity, leading to bone resorption and lytic lesions
+    *   Immunosuppression: Myeloma cells suppress the normal immune system, increasing susceptibility to infections
+*   **Clinical Features:**
+    *   Bone Pain: Most common symptom
+    *   Fatigue and Weakness: Due to anemia
+    *   Pathologic Fractures: Fractures that occur with minimal trauma due to weakened bones
+    *   Recurrent Infections: Due to immunosuppression
+    *   Renal Insufficiency: Due to M protein deposition in the kidneys (myeloma cast nephropathy)
+    *   Hypercalcemia: Can cause confusion, constipation, and kidney damage
+    *   Neurological Symptoms: Due to spinal cord compression or hyperviscosity syndrome
+    *   Amyloidosis: Deposition of light chains in tissues, causing organ damage
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Anemia (normocytic or normochromic)
+        *   Thrombocytopenia
+        *   Leukopenia (less common)
+        *   Rouleaux formation: Stacking of RBCs due to increased serum protein
+    *   Peripheral Blood Smear:
+        *   Normal or abnormal RBC morphology
+        *   May see plasma cells or circulating myeloma cells (rare)
+    *   Serum Protein Electrophoresis (SPEP):
+        *   Monoclonal spike (M protein) in the gamma region (usually IgG or IgA)
+    *   Serum Immunofixation Electrophoresis (IFE):
+        *   Confirms the presence and type of M protein (IgG kappa, IgA lambda, etc.)
+    *   Serum Free Light Chain (FLC) Assay:
+        *   Measures free kappa and lambda light chains in the serum
+        *   Increased FLC ratio (kappa/lambda or lambda/kappa) is common
+    *   Urine Protein Electrophoresis (UPEP) and Immunofixation:
+        *   May detect Bence Jones protein (free light chains) in the urine
+    *   Serum Beta-2 Microglobulin:
+        *   Elevated levels indicate increased tumor burden
+        *   Used for staging and prognosis
+    *   Serum Albumin:
+        *   Decreased levels are associated with poorer prognosis
+    *   Serum Calcium:
+        *   Elevated in hypercalcemia
+    *   Renal Function Tests:
+        *   Elevated creatinine and decreased GFR in renal insufficiency
+    *   Skeletal Survey (X-rays):
+        *   Lytic lesions ("punched-out" lesions) in bones
+        *   Osteopenia
+        *   Fractures
+    *   Bone Marrow Aspiration and Biopsy:
+        *   Increased plasma cells (≥10%)
+        *   Abnormal plasma cell morphology
+        *   Immunohistochemistry: To identify plasma cell markers (CD138, CD56)
+    *   Cytogenetic Analysis:
+        *   Karyotyping and FISH (fluorescence in situ hybridization)
+        *   Detect chromosomal abnormalities that are used for prognosis and risk stratification (e.g., del(17p), t(4;14), t(14;16))
+    *   Molecular Testing:
+        *   To detect gene mutations that are used for prognosis (e.g., *TP53*, *BRAF*)
+
+*   **Staging:**
+    *   Revised International Staging System (R-ISS):
+        *   Used to determine treatment and outcomes.
+        *   Serum beta2-microglobulin level
+        *   Serum albumin level
+        *   Cytogenetic abnormalities (detected by FISH)
+
+*   **Treatment:**
+    *   Treatment depends on risk assessment and patient fitness
+    *   Proteasome Inhibitors:
+        *   Bortezomib, carfilzomib, ixazomib
+    *   Immunomodulatory Drugs (IMiDs):
+        *   Lenalidomide, thalidomide, pomalidomide
+    *   Monoclonal Antibodies:
+        *   Daratumumab (anti-CD38)
+        *   Elotuzumab (anti-SLAMF7)
+    *   Chemotherapy:
+        *   Alkylating agents (e.g., melphalan, cyclophosphamide)
+    *   Corticosteroids:
+        *   Dexamethasone, prednisone
+    *   Autologous Hematopoietic Stem Cell Transplantation (ASCT):
+        *   A standard treatment for eligible patients
+    *   CAR T-Cell Therapy:
+        *   Used for relapsed/refractory myeloma
+    *   Bispecific Antibodies:
+        *   Emerging therapies that bind to both CD3 on T cells and BCMA on myeloma cells, bringing them together to kill the myeloma cells
+
+## **Monoclonal Gammopathy of Undetermined Significance (MGUS)** {-}
+
+*   **Definition:** A benign condition characterized by the presence of a monoclonal immunoglobulin (M protein) in the serum or urine, *without* evidence of end-organ damage or other features of multiple myeloma, Waldenström macroglobulinemia, or other lymphoid disorders
+*   **Diagnostic Criteria:**
+    *   Serum M protein < 3 g/dL
+    *   Bone marrow plasma cells <10%
+    *   Absence of end-organ damage (CRAB criteria):
+        *   Hypercalcemia
+        *   Renal insufficiency
+        *   Anemia
+        *   Bone lesions
+*   **Epidemiology:** Common, especially in older adults
+*   **Pathophysiology:**
+    *   Unknown cause
+    *   Thought to be a premalignant condition with a low risk of progression to multiple myeloma or other lymphoid malignancies
+*   **Clinical Features:**
+    *   Typically asymptomatic
+    *   Usually discovered incidentally during routine blood tests
+*   **Laboratory Findings:**
+    *   Serum Protein Electrophoresis (SPEP): Small monoclonal spike (M protein)
+    *   Serum Immunofixation Electrophoresis (IFE): Confirms the presence and type of M protein (IgG, IgA, IgM, etc.)
+    *   Serum Free Light Chain (FLC) Assay: May be normal or show a slightly elevated kappa/lambda ratio
+    *   CBC, Renal Function Tests, Calcium Level: Normal
+    *   Bone Marrow Aspiration and Biopsy: Not typically required for diagnosis, but may be performed to rule out other disorders
+*   **Management:**
+    *   No treatment is required
+    *   Periodic monitoring with SPEP, IFE, and serum FLC assay to assess for progression to multiple myeloma or other malignancies
+    *   Risk of Progression: Approximately 1% per year progress to multiple myeloma or other related disorders
+
+## **Key Terms** {-}
+
+*   **Plasma Cell Dyscrasia:** A disorder characterized by abnormal proliferation of a single clone of plasma cells
+*   **Monoclonal Gammopathy:** The presence of a monoclonal immunoglobulin (M protein) in the serum or urine
+*   **M Protein:** A monoclonal immunoglobulin produced by the abnormal clone of plasma cells
+*   **MGUS (Monoclonal Gammopathy of Undetermined Significance):** Benign condition with low levels of M protein and no end-organ damage
+*   **Multiple Myeloma (MM):** Malignant plasma cell disorder with M protein, bone marrow involvement, and end-organ damage
+*   **Bence Jones Protein:** Free light chains in the urine
+*   **Lytic Lesions:** "Punched-out" lesions in bones seen on X-ray
+*   **CRAB Criteria:** Hypercalcemia, Renal insufficiency, Anemia, Bone lesions (used to define end-organ damage in myeloma)
+*   **Serum Protein Electrophoresis (SPEP):** A test that separates proteins in the serum based on their electrical charge
+*   **Immunofixation Electrophoresis (IFE):** A test that identifies the type of M protein (IgG, IgA, IgM, etc.)
+*   **Autologous Stem Cell Transplant:** Stem cells are collected from and transplanted to the same person

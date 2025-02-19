@@ -1,0 +1,164 @@
+# Nonmegaloblastic {-}
+
+## **Overview of Non-Megaloblastic Macrocytic Anemias** {-}
+
+*   **Definition:** Macrocytic anemias (MCV > 100 fL) that are *not* caused by vitamin B12 or folate deficiency. In other words, they are *not* megaloblastic anemias. The macrocytosis is due to other mechanisms affecting RBC size.
+*   **Key Feature:** Macrocytosis (large RBCs), *without* the typical morphological changes seen in megaloblastic anemia (i.e., *no* hypersegmented neutrophils or oval macrocytes). Bone marrow examination (if performed) will *not* show megaloblasts.
+*   **Common Causes:**
+    *   Alcoholism
+    *   Liver Disease
+    *   Hypothyroidism
+    *   Myelodysplastic Syndromes (MDS)
+    *   Reticulocytosis
+    *   Medications
+
+## **Pathophysiology** {-}
+
+The exact mechanisms leading to macrocytosis in these anemias are complex and may vary depending on the underlying cause. Some common mechanisms include:
+
+*   **Altered Lipid Metabolism:**
+    *   Alcohol and liver disease can disrupt lipid metabolism, leading to increased cholesterol deposition in the RBC membrane
+    *   This increases the surface area of the RBC membrane, resulting in a larger cell size (macrocytosis)
+*   **Accelerated Erythropoiesis:**
+    *   In conditions with increased red blood cell turnover (e.g., hemolysis, acute blood loss), there is an increased number of reticulocytes in the peripheral blood
+    *   Reticulocytes are larger than mature RBCs, so a high reticulocyte count can increase the MCV, leading to macrocytosis
+*   **Membrane Abnormalities:**
+    *   Hypothyroidism can alter RBC membrane composition, leading to increased cell size
+*   **Clonal Hematopoiesis:**
+    *   In myelodysplastic syndromes (MDS), abnormal stem cells in the bone marrow produce dysplastic blood cells, including macrocytes
+
+## **Etiology and Associated Conditions** {-}
+
+*   **Alcoholism:**
+    *   Most common cause of non-megaloblastic macrocytosis
+    *   Alcohol can directly affect RBC membrane lipids and also lead to folate deficiency (contributing to a mixed picture)
+*   **Liver Disease:**
+    *   Altered lipid metabolism and increased cholesterol deposition in RBC membranes
+    *   Also, can be associated with spur cell anemia (acanthocytes)
+*   **Hypothyroidism:**
+    *   Decreased thyroid hormone affects RBC membrane composition and slows down erythropoiesis
+*   **Myelodysplastic Syndromes (MDS):**
+    *   Clonal hematopoietic stem cell disorders with dysplastic changes in one or more cell lines
+    *   Macrocytosis may be present due to abnormal maturation of erythroid precursors
+*   **Reticulocytosis:**
+    *   Increased number of reticulocytes in response to hemolysis or blood loss
+    *   Reticulocytes are larger than mature RBCs, increasing the MCV
+*   **Medications:**
+    *   Hydroxyurea: Interferes with DNA synthesis
+    *   Azathioprine and other immunosuppressants: Can disrupt cell division
+    *   Antiretroviral drugs (e.g., zidovudine): Can cause macrocytosis, especially in patients with HIV
+
+## **Clinical Manifestations** {-}
+
+*   **Symptoms of Anemia (if present):**
+    *   Fatigue
+    *   Weakness
+    *   Pallor (pale skin)
+    *   Shortness of breath
+    *   Dizziness
+*   **Other Symptoms Depend on the Underlying Cause:**
+    *   Alcoholism: Liver disease, neuropathy, cognitive impairment
+    *   Liver disease: Jaundice, edema, ascites, coagulopathy
+    *   Hypothyroidism: Fatigue, weight gain, constipation, dry skin, cold intolerance
+    *   Myelodysplastic Syndromes (MDS): Infections, bleeding, fatigue
+
+## **Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Hemoglobin (HGB): Decreased (anemia)
+    *   Hematocrit (HCT): Decreased
+    *   Red Blood Cell Count (RBC): Decreased
+    *   Mean Corpuscular Volume (MCV): Increased (macrocytic) > 100 fL
+    *   Mean Corpuscular Hemoglobin (MCH): Increased
+    *   Mean Corpuscular Hemoglobin Concentration (MCHC): Normal
+    *   Red Cell Distribution Width (RDW): Normal or Increased
+    *   White Blood Cell Count (WBC): May be normal, decreased (leukopenia), or increased (leukocytosis), depending on the cause
+    *   Platelet Count: May be normal, decreased (thrombocytopenia), or increased (thrombocytosis), depending on the cause
+*   **Peripheral Blood Smear:**
+    *   Macrocytes: Large RBCs, typically round (not oval)
+    *   Anisocytosis (variation in RBC size) and poikilocytosis (variation in RBC shape) may be present, but are *not* as prominent as in megaloblastic anemias
+    *   *Absence* of hypersegmented neutrophils and *absence* of oval macrocytes (helps to rule out megaloblastic anemia)
+    *   Other findings may be present, depending on the underlying cause:
+        *   Acanthocytes (spur cells) in liver disease
+        *   Target cells
+        *   Schistocytes (in some cases of MDS)
+*   **Reticulocyte Count:**
+    *   May be low, normal, or elevated, depending on the underlying cause
+*   **Vitamin B12 and Folate Levels:**
+    *   Normal (rules out megaloblastic anemia)
+*   **Liver Function Tests (LFTs):**
+    *   Elevated in liver disease
+*   **Thyroid Function Tests (TFTs):**
+    *   Abnormal in hypothyroidism (low T4, high TSH)
+*   **Bone Marrow Aspiration and Biopsy:**
+    *   Cellularity: Variable (can be normocellular, hypercellular, or hypocellular)
+    *   Maturation: May show dysplastic changes in one or more cell lines (MDS)
+    *   *Absence* of megaloblasts
+    *   Cytogenetic Analysis: To detect chromosomal abnormalities in MDS
+*   **Other Tests:**
+    *   Reticulocyte count
+    *   Liver and thyroid test panels
+
+## **Differential Diagnosis** {-}
+
+*   **Megaloblastic Anemias:**
+    *   Vitamin B12 deficiency
+    *   Folate deficiency
+    *   Distinguished by *hypersegmented neutrophils*, *oval macrocytes* on peripheral smear, and abnormal B12/folate studies
+*   **Hemolytic Anemias:**
+    *   May cause macrocytosis due to increased reticulocytes
+    *   Elevated reticulocyte count, elevated bilirubin and LDH, decreased haptoglobin
+*   **Cold Agglutinin Disease:**
+    *   Agglutinated red blood cells can falsely elevate MCV
+*   **Medication Side Effects**
+
+## **Treatment and Management** {-}
+
+*   **Treat the Underlying Cause:** This is the most important aspect of management
+
+    *   **Alcoholism:**
+        *   Alcohol cessation
+        *   Nutritional support (thiamine, folate, multivitamin)
+    *   **Liver Disease:**
+        *   Management of underlying liver disease (e.g., antiviral therapy for hepatitis, abstinence from alcohol)
+        *   Supportive care (e.g., diuretics for ascites)
+    *   **Hypothyroidism:**
+        *   Thyroid hormone replacement therapy (levothyroxine)
+    *   **Myelodysplastic Syndromes (MDS):**
+        *   Supportive care (transfusions, growth factors)
+        *   Hypomethylating agents (azacitidine, decitabine)
+        *   Lenalidomide (for MDS with deletion 5q)
+        *   Hematopoietic Stem Cell Transplantation (HSCT)
+    *   **Medications:**
+        *   Discontinue offending medications (if possible)
+*   **Supportive Care:**
+
+    *   Folic acid supplementation
+        *   Although folate deficiency is *not* the primary cause of non-megaloblastic macrocytosis, folate supplementation may improve RBC production and overall hematopoiesis. This is controversial, and should be undertaken only when there is a concern that there is a folate deficiency in addition to another condition
+    *   Blood transfusions:
+        *   To manage severe anemia
+
+## **Key Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Macrocytosis (high MCV)
+    *   Normal MCHC
+    *   Normal or increased RDW
+*   **Peripheral Blood Smear:**
+    *   Macrocytes (round, not oval)
+    *   *No* hypersegmented neutrophils
+*   **Vitamin B12 and Folate Levels:**
+    *   Normal
+*   **Other Tests:**
+    *   Elevated liver function tests (LFTs) in liver disease
+    *   Abnormal thyroid function tests (TFTs) in hypothyroidism
+
+## **Key Terms** {-}
+
+*   **Non-Megaloblastic Macrocytic Anemia:** Macrocytic anemia not caused by vitamin B12 or folate deficiency
+*   **Macrocytosis:** Large red blood cells (MCV > 100 fL)
+*   **Myelodysplastic Syndromes (MDS):** Clonal hematopoietic stem cell disorders with ineffective hematopoiesis
+*   **Reticulocytosis:** Increased number of reticulocytes in the blood
+*   **Acanthocytes (Spur Cells):** RBCs with irregular, spiky projections seen in liver disease
+*   **Hypersegmented Neutrophils:** Neutrophils with 5 or more lobes (seen in megaloblastic anemia, *not* non-megaloblastic)
+*   **Megaloblasts:** Abnormal erythroid precursors with delayed nuclear maturation (seen in megaloblastic anemia, *not* non-megaloblastic)

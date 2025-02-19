@@ -1,0 +1,192 @@
+# RBC Destruction {-}
+
+## **Overview of Erythrocyte Destruction** {-}
+
+-   **Purpose:** To remove aged or damaged red blood cells (RBCs) from circulation, preventing the release of potentially harmful intracellular components and recycling valuable components like iron
+-   **Mechanisms:**
+    -   **Extravascular Hemolysis:** The primary pathway, occurring mainly in the spleen and liver
+    -   **Intravascular Hemolysis:** Occurs within the blood vessels
+-   **Lifespan of a Normal RBC:** Approximately 120 days
+
+## **Extravascular Hemolysis** {-}
+
+-   **Location:** Mononuclear Phagocyte System (MPS); primarily in the spleen, but also in the liver and bone marrow
+-   **Process:**
+    1.  **Senescence (Aging):** As RBCs age, they undergo changes:
+        -   Decreased flexibility
+        -   Decreased enzyme activity
+        -   Changes in membrane proteins
+        -   Increased binding of antibodies and complement proteins
+    2.  **Recognition by Macrophages:**
+        -   Macrophages in the spleen recognize senescent or damaged RBCs based on surface markers (e.g., altered glycoproteins, bound antibodies)
+    3.  **Phagocytosis:**
+        -   Macrophages engulf the RBCs
+    4.  **Hemoglobin Breakdown:**
+        -   Within the macrophage, hemoglobin is broken down:
+            -   **Globin:** Degraded into amino acids, which are recycled
+            -   **Iron:** Stored as ferritin or hemosiderin within the macrophage, or transported to the bone marrow by transferrin for new RBC production
+            -   **Heme:** Broken down into biliverdin, which is then converted to bilirubin
+    5.  **Bilirubin Metabolism:**
+        -   Bilirubin is released from the macrophage into the plasma, where it binds to albumin (unconjugated or indirect bilirubin)
+        -   The albumin-bilirubin complex is transported to the liver
+        -   In the liver, bilirubin is conjugated with glucuronic acid (conjugated or direct bilirubin)
+        -   Conjugated bilirubin is excreted into the bile and then into the intestines
+        -   In the intestines, bilirubin is converted to urobilinogen by bacteria
+        -   Urobilinogen is either:
+            -   Excreted in the feces (as stercobilin, which gives feces its brown color)
+            -   Reabsorbed into the bloodstream and excreted in the urine (as urobilin, which gives urine its yellow color)
+-   **Mononuclear Phagocyte System (MPS)**
+    -   *Note: While "Reticuloendothelial System" is an older term, you'll still encounter it. The more modern and accurate term is the "Mononuclear Phagocyte System."*
+-   **Definition:** The MPS is a diffuse network of phagocytic cells (primarily macrophages) located throughout the body, strategically positioned to filter blood and tissues, remove debris, and participate in immune responses.
+-   **Key Components:**
+    -   **Macrophages:** The main effector cells of the MPS. They are derived from monocytes and are capable of phagocytosis (engulfing and destroying particles).
+    -   **Locations:** Macrophages are found in:
+        -   **Spleen:** Red pulp macrophages are critical for filtering the blood and removing damaged or senescent RBCs.
+        -   **Liver:** Kupffer cells (macrophages in the liver sinusoids) remove bacteria, debris, and old blood cells.
+        -   **Bone Marrow:** Macrophages support erythropoiesis and remove cellular debris.
+        -   **Lymph Nodes:** Macrophages filter lymph and present antigens to immune cells.
+        -   **Lungs:** Alveolar macrophages clear debris and pathogens from the air spaces.
+        -   **Connective Tissues:** Histiocytes (tissue macrophages) engulf debris and participate in inflammation.
+-   **Functions:**
+    -   **Phagocytosis:** Engulfing and destroying pathogens, cellular debris, and senescent or damaged cells.
+    -   **Antigen Presentation:** Presenting antigens to T lymphocytes to initiate adaptive immune responses.
+    -   **Cytokine Production:** Producing cytokines that regulate inflammation and immune responses.
+    -   **Iron Recycling:** Recycling iron from senescent RBCs.
+    -   **Lipid Metabolism:** Processing and metabolizing lipids.
+
+**Splenic Functions: Pitting and Culling**
+
+The spleen is a key organ of the MPS and plays a vital role in filtering the blood and removing abnormal RBCs. Two important splenic functions are pitting and culling:
+
+-   **Culling:**
+    -   **Definition:** The process by which the spleen removes *entire* senescent or damaged red blood cells from the circulation. This is complete phagocytosis and destruction of the RBC.
+    -   **Mechanism:**
+        -   As RBCs circulate through the splenic red pulp, they must squeeze through narrow interendothelial slits to re-enter the circulation.
+        -   Senescent or damaged RBCs are less flexible and have difficulty passing through these slits.
+        -   Macrophages in the spleen recognize and engulf these less deformable RBCs, leading to their complete destruction.
+    -   **Outcome:**
+        -   Removal of old or damaged RBCs, preventing them from causing harm.
+        -   Breakdown of hemoglobin into its components (globin, iron, and porphyrin).
+        -   Recycling of iron.
+        -   Production of bilirubin (from porphyrin), which is then transported to the liver for excretion.
+-   **Pitting:**
+    -   **Definition:** The process by which the spleen removes *inclusions* or damaged components from RBCs *without* destroying the entire cell.
+    -   **Mechanism:**
+        -   As RBCs pass through the spleen, macrophages can "pluck out" certain inclusions from the RBCs, such as:
+            -   Howell-Jolly bodies (nuclear remnants).
+            -   Heinz bodies (denatured hemoglobin).
+            -   Parasites (e.g., malaria).
+            -   Iron granules (Pappenheimer bodies).
+        -   The RBC membrane reseals after the inclusion is removed, allowing the RBC to continue circulating.
+    -   **Outcome:**
+        -   Removal of harmful inclusions from RBCs, improving their function and lifespan.
+        -   RBCs can continue to circulate and transport oxygen.
+    -   **Clinical Significance:**
+        -   After splenectomy (removal of the spleen), patients may have increased numbers of RBCs with inclusions (e.g., Howell-Jolly bodies) in their peripheral blood, as the pitting function is lost.
+
+**In Summary**
+
+-   The Mononuclear Phagocyte System (MPS) is a network of phagocytic cells, primarily macrophages, that remove debris and participate in immune responses.
+-   The spleen is a key organ of the MPS, responsible for filtering the blood.
+-   **Culling** is the complete removal and destruction of senescent or damaged RBCs by splenic macrophages.
+-   **Pitting** is the removal of inclusions from RBCs by splenic macrophages without destroying the entire cell.
+
+## **Intravascular Hemolysis** {-}
+
+-   **Location:** Within the blood vessels
+-   **Causes:**
+    -   Mechanical trauma (e.g., microangiopathic hemolytic anemia)
+    -   Complement activation via immune-mediated
+    -   Infections
+    -   Toxic substances
+-   **Process:**
+    1.  **RBC Lysis:** RBCs rupture within the bloodstream, releasing hemoglobin directly into the plasma
+    2.  **Hemoglobin Binding to Haptoglobin:**
+        -   Free hemoglobin binds to haptoglobin, a plasma protein
+        -   The hemoglobin-haptoglobin complex is rapidly cleared from the circulation by the liver
+    3.  **Hemoglobin Breakdown (When Haptoglobin is Saturated):**
+        -   When haptoglobin is saturated, free hemoglobin can:
+            -   Be oxidized to methemoglobin (Fe3+), which dissociates into globin and heme
+            -   Heme binds to hemopexin, a plasma protein, and is transported to the liver
+            -   Globin is broken down into amino acids
+        -   Free hemoglobin can also be filtered by the kidneys:
+            -   Some hemoglobin is reabsorbed by the renal tubules
+            -   Excess hemoglobin is excreted in the urine (hemoglobinuria)
+            -   Iron can accumulate in the renal tubular cells as hemosiderin (hemosiderinuria)
+
+## **Key Enzymes and Proteins Involved** {-}
+
+-   **Heme Oxygenase:**
+    -   Enzyme that breaks down heme into biliverdin
+-   **Biliverdin Reductase:**
+    -   Enzyme that converts biliverdin to bilirubin
+-   **UDP-Glucuronosyltransferase (UGT):**
+    -   Enzyme in the liver that conjugates bilirubin with glucuronic acid
+-   **Haptoglobin:**
+    -   Plasma protein that binds free hemoglobin
+-   **Hemopexin:**
+    -   Plasma protein that binds free heme
+-   **Transferrin:**
+    -   Protein that transports iron in the plasma
+-   **Ferritin:**
+    -   Storage form of iron within cells
+
+## **Clinical Significance of Erythrocyte Destruction** {-}
+
+-   **Anemia:**
+    -   Increased RBC destruction can lead to hemolytic anemia
+-   **Jaundice:**
+    -   Elevated bilirubin levels (hyperbilirubinemia) can cause jaundice (yellowing of the skin and eyes)
+-   **Splenomegaly:**
+    -   Enlargement of the spleen due to increased RBC destruction
+-   **Hemoglobinuria:**
+    -   Hemoglobin in the urine
+-   **Hemosiderinuria:**
+    -   Hemosiderin (iron) in the urine
+-   **Elevated Lactate Dehydrogenase (LDH):**
+    -   Enzyme released from damaged cells, including RBCs
+-   **Decreased Haptoglobin:**
+    -   Due to binding with free hemoglobin and clearance from the circulation
+
+## **Laboratory Assessment of Erythrocyte Destruction** {-}
+
+-   **Complete Blood Count (CBC):**
+    -   Hemoglobin (HGB): Low in hemolytic anemia
+    -   Hematocrit (HCT): Low in hemolytic anemia
+    -   Reticulocyte Count: Elevated due to increased RBC production in response to hemolysis
+-   **Peripheral Blood Smear:**
+    -   Schistocytes (fragmented RBCs): Indicate mechanical hemolysis
+    -   Spherocytes: Indicate extravascular hemolysis (e.g., hereditary spherocytosis)
+    -   Polychromasia: Increased number of reticulocytes
+-   **Bilirubin Levels:**
+    -   Total Bilirubin: Elevated, especially the indirect (unconjugated) fraction
+    -   Direct Bilirubin: May be elevated in liver disease or biliary obstruction
+-   **Lactate Dehydrogenase (LDH):**
+    -   Elevated in hemolytic anemia
+-   **Haptoglobin Level:**
+    -   Decreased in hemolytic anemia
+-   **Direct Antiglobulin Test (DAT):**
+    -   Detects antibodies or complement proteins on the surface of RBCs
+    -   Used to diagnose autoimmune hemolytic anemia
+-   **Coombs Test:**
+    -   Same as DAT
+-   **Urine Hemoglobin and Hemosiderin:**
+    -   Present in intravascular hemolysis
+-   **Osmotic Fragility Test:**
+    -   Increased fragility in hereditary spherocytosis
+-   **Glucose-6-Phosphate Dehydrogenase (G6PD) Assay:**
+    -   Used to diagnose G6PD deficiency
+
+## **Key Terms** {-}
+
+-   **Hemolysis:** Destruction of red blood cells
+-   **Extravascular Hemolysis:** RBC destruction outside blood vessels (primarily in the spleen)
+-   **Intravascular Hemolysis:** RBC destruction within blood vessels
+-   **Senescence:** Aging
+-   **Schistocytes:** Fragmented red blood cells
+-   **Spherocytes:** Spherical red blood cells
+-   **Haptoglobin:** Protein that binds free hemoglobin
+-   **Hemopexin:** Protein that binds free heme
+-   **Bilirubin:** Product of heme breakdown
+-   **Jaundice:** Yellowing of the skin and eyes due to elevated bilirubin levels
+-   **Reticulocyte:** Immature red blood cell

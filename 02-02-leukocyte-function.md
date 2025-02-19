@@ -1,0 +1,205 @@
+# WBC Function {-}
+
+## **Overview of Leukocyte Function** {-}
+
+*   **Definition:** Leukocytes (white blood cells) are essential components of the immune system, responsible for defending the body against infection, inflammation, and other threats
+*   **Classification:**
+    *   **Granulocytes:** Neutrophils, eosinophils, and basophils
+    *   **Monocytes**
+    *   **Lymphocytes:** T lymphocytes (T cells), B lymphocytes (B cells), and natural killer (NK) cells
+*   **General Functions:**
+    *   **Innate Immunity:** Immediate, non-specific defense mechanisms (e.g., phagocytosis, inflammation)
+    *   **Adaptive Immunity:** Slower, antigen-specific immune responses mediated by lymphocytes
+
+## **Granulocytes** {-}
+
+*   **Neutrophils:**
+    *   **Function:** Primary role in defense against bacterial and fungal infections
+    *   **Mechanisms of Action:**
+        *   **Phagocytosis:** Engulfing and destroying pathogens and debris
+        *   **Degranulation:** Releasing antimicrobial substances from granules:
+            *   Lysozyme: Breaks down bacterial cell walls
+            *   Myeloperoxidase (MPO): Generates reactive oxygen species (ROS) to kill pathogens
+            *   Defensins: Antimicrobial peptides
+            *   Elastase: Degrades bacterial proteins
+        *   **Oxidative Burst:** Production of reactive oxygen species (ROS) to kill phagocytosed pathogens:
+            *   NADPH oxidase: Enzyme responsible for generating superoxide (O2-)
+            *   Superoxide dismutase (SOD): Converts superoxide to hydrogen peroxide (H2O2)
+            *   Myeloperoxidase (MPO): Uses H2O2 and chloride ions to produce hypochlorous acid (HOCl, bleach)
+        *   **Neutrophil Extracellular Traps (NETs):** Extruding a meshwork of DNA, histones, and antimicrobial proteins to trap and kill bacteria extracellularly
+    *   **Chemotaxis:** Migration of neutrophils to sites of infection or inflammation in response to chemical signals (chemokines)
+    *   **Clinical Significance:**
+        *   Neutrophilia: Increased neutrophils, often seen in bacterial infections, inflammation, or stress
+        *   Neutropenia: Decreased neutrophils, increasing susceptibility to infections
+            *   Agranulocytosis: Severe neutropenia (ANC < 200 cells/μL)
+
+*   **Eosinophils:**
+    *   **Function:** Primarily involved in defense against parasitic infections and allergic reactions
+    *   **Mechanisms of Action:**
+        *   **Degranulation:** Releasing substances from granules to kill parasites and modulate allergic responses:
+            *   Major basic protein (MBP): Toxic to parasites
+            *   Eosinophil peroxidase (EPO): Generates reactive oxygen species
+            *   Eosinophil cationic protein (ECP): Toxic to parasites and causes mast cell degranulation
+            *   Eosinophil-derived neurotoxin (EDN): Involved in nerve damage in some parasitic infections
+        *   **Phagocytosis:** Engulfing antigen-antibody complexes and other debris
+        *   **Modulation of Allergic Reactions:**
+            *   Releasing enzymes that degrade mediators released by mast cells and basophils (e.g., histaminase, arylsulfatase)
+    *   **Clinical Significance:**
+        *   Eosinophilia: Increased eosinophils, often seen in parasitic infections, allergic reactions, asthma, and certain malignancies
+        *   Eosinopenia: Decreased eosinophils, can occur in acute infections or corticosteroid use
+
+*   **Basophils:**
+    *   **Function:** Primarily involved in allergic reactions and inflammation
+    *   **Mechanisms of Action:**
+        *   **Degranulation:** Releasing substances from granules that mediate allergic and inflammatory responses:
+            *   Histamine: Increases vascular permeability and causes smooth muscle contraction
+            *   Heparin: Anticoagulant
+            *   Leukotrienes: Promote inflammation and bronchoconstriction
+        *   **IgE Receptors:** Basophils express high-affinity IgE receptors, which bind to IgE antibodies
+            *   Crosslinking of IgE receptors by antigens triggers basophil degranulation
+    *   **Clinical Significance:**
+        *   Basophilia: Increased basophils, seen in myeloproliferative neoplasms, allergic reactions, and certain infections
+        *   Basopenia: Decreased basophils, difficult to detect due to the normally low number of basophils in the blood
+
+## **Monocytes and Macrophages** {-}
+
+*   **Monocytes:**
+    *   **Function:** Circulate in the blood and then migrate into tissues, where they differentiate into macrophages or dendritic cells
+    *   **Mechanisms of Action:**
+        *   Phagocytosis: Engulfing pathogens, debris, and dead cells
+        *   Cytokine Production: Secreting cytokines that regulate inflammation and immune responses (e.g., TNF-α, IL-1, IL-6)
+        *   Antigen Presentation: Presenting antigens to T lymphocytes to initiate adaptive immune responses
+*   **Macrophages:**
+    *   **Function:** Tissue-resident phagocytes that play a critical role in innate and adaptive immunity, tissue remodeling, and wound healing
+    *   **Types of Macrophages:**
+        *   Kupffer cells (liver)
+        *   Alveolar macrophages (lungs)
+        *   Histiocytes (connective tissue)
+        *   Microglia (brain)
+        *   Osteoclasts (bone)
+        *   Splenic macrophages (spleen)
+    *   **Mechanisms of Action:**
+        *   Phagocytosis: Engulfing pathogens, debris, and dead cells
+        *   Antigen Presentation: Processing and presenting antigens to T lymphocytes
+        *   Cytokine Production: Secreting cytokines that regulate inflammation and immune responses
+    *   **Clinical Significance:**
+        *   Monocytosis: Increased monocytes, seen in chronic infections, inflammation, and certain malignancies
+        *   Monocytopenia: Decreased monocytes, can occur in severe infections or bone marrow disorders
+*   **Differentiation of Macrophages:** Macrophages can differentiate into functionally distinct populations:
+    *   M1 Macrophages (classically activated): Promote inflammation and kill pathogens
+    *   M2 Macrophages (alternatively activated): Promote tissue repair and suppress inflammation
+
+## **Lymphocytes** {-}
+
+*   **T Lymphocytes (T Cells):**
+    *   **Function:** Mediate cell-mediated immunity, recognize antigens presented by antigen-presenting cells (APCs)
+    *   **Types of T Cells:**
+        *   Helper T Cells (CD4+ T Cells):
+            *   Recognize antigens presented on MHC class II molecules
+            *   Secrete cytokines that activate other immune cells (e.g., B cells, cytotoxic T cells, macrophages)
+            *   Essential for coordinating adaptive immune responses
+            *   Subsets:
+                *   Th1 cells: Promote cell-mediated immunity and defense against intracellular pathogens
+                *   Th2 cells: Promote humoral immunity and defense against extracellular parasites
+                *   Th17 cells: Involved in inflammation and defense against extracellular bacteria and fungi
+                *   Treg cells: Suppress immune responses and maintain tolerance
+        *   Cytotoxic T Cells (CD8+ T Cells):
+            *   Recognize antigens presented on MHC class I molecules
+            *   Kill infected or cancerous cells by releasing cytotoxic granules containing perforin and granzymes
+    *   **Mechanisms of Action:**
+        *   T Cell Receptor (TCR): Recognizes specific antigens presented on MHC molecules
+        *   Cytokine Production: Secreting cytokines that regulate immune responses
+        *   Cytotoxicity: Killing target cells through direct cell-to-cell contact
+*   **B Lymphocytes (B Cells):**
+    *   **Function:** Mediate humoral immunity, produce antibodies
+    *   **Mechanisms of Action:**
+        *   Antibody Production:
+            *   B cells recognize antigens via their B cell receptor (BCR), which is a membrane-bound antibody
+            *   Upon activation, B cells differentiate into plasma cells, which secrete large amounts of antibodies
+        *   Antibody Functions:
+            *   Neutralization: Binding to pathogens to prevent them from infecting cells
+            *   Opsonization: Coating pathogens to enhance phagocytosis
+            *   Complement Activation: Triggering the classical pathway of complement activation
+            *   Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC): Targeting infected cells for destruction by NK cells or other immune cells
+    *   **Memory B Cells:**
+        *   Long-lived B cells that provide long-term immunity
+        *   Upon re-exposure to an antigen, memory B cells rapidly differentiate into plasma cells and produce antibodies
+*   **Natural Killer (NK) Cells:**
+    *   **Function:** Part of the innate immune system, kill infected or cancerous cells without prior sensitization
+    *   **Mechanisms of Action:**
+        *   Release of Cytotoxic Granules: Perforin and granzymes
+        *   Antibody-Dependent Cell-Mediated Cytotoxicity (ADCC): Recognize and kill antibody-coated cells
+        *   Release of Cytokines: IFN-γ and TNF-α
+    *   **Activation and Inhibition:** NK cell activity is regulated by a balance of activating and inhibitory receptors
+        *   Activating receptors: Recognize stress-induced ligands on target cells
+        *   Inhibitory receptors: Recognize MHC class I molecules on normal cells, preventing NK cell activation
+
+## **Leukocyte Extravasation** {-}
+
+*   **Definition:** The process by which leukocytes leave the bloodstream and migrate into tissues to reach sites of infection or inflammation
+*   **Steps:**
+    1.  Rolling: Leukocytes loosely attach to the endothelium via selectins (on endothelial cells) and their ligands (on leukocytes)
+    2.  Activation: Chemokines activate leukocytes, increasing the affinity of integrins
+    3.  Adhesion: Integrins (on leukocytes) bind tightly to adhesion molecules (ICAMs and VCAMs) on endothelial cells
+    4.  Transmigration (Diapedesis): Leukocytes squeeze between endothelial cells and migrate into the tissues
+
+## **Regulation of Leukocyte Function** {-}
+
+*   **Cytokines:**
+    *   Interleukins (ILs): A diverse group of cytokines that regulate leukocyte development, activation, and function
+    *   Interferons (IFNs): Inhibit viral replication and modulate immune responses
+    *   Tumor Necrosis Factor (TNF): Pro-inflammatory cytokine that activates leukocytes
+    *   Chemokines: Attract leukocytes to sites of infection or inflammation
+*   **Complement System:**
+    *   Complement fragments (e.g., C3a, C5a) attract and activate leukocytes
+*   **Lipid Mediators:**
+    *   Leukotrienes and prostaglandins: Promote inflammation and leukocyte recruitment
+*   **Cell-Cell Interactions:**
+    *   Interactions between leukocytes and other cells (e.g., endothelial cells, fibroblasts) regulate leukocyte function
+
+## **Disorders of Leukocyte Function** {-}
+
+*   **Quantitative Disorders:**
+    *   Leukopenia: Decreased number of WBCs
+    *   Leukocytosis: Increased number of WBCs
+*   **Qualitative Disorders:**
+    *   Phagocytic Disorders: Impaired ability of phagocytes (neutrophils and macrophages) to engulf and kill pathogens
+        *   Chronic granulomatous disease (CGD): Defect in NADPH oxidase, leading to impaired production of reactive oxygen species
+        *   Chediak-Higashi syndrome: Defect in lysosomal trafficking, leading to impaired phagocytosis and degranulation
+    *   Adhesion Disorders: Impaired ability of leukocytes to adhere to endothelial cells and migrate into tissues
+        *   Leukocyte adhesion deficiency (LAD): Defects in integrins or selectin ligands
+    *   Other Functional Defects: Impaired chemotaxis, degranulation, or cytokine production
+
+## **Laboratory Evaluation of Leukocyte Function** {-}
+
+*   **Complete Blood Count (CBC) with Differential:**
+    *   WBC count: Measures the total number of leukocytes
+    *   Differential count: Determines the percentages and absolute numbers of each type of leukocyte
+*   **Peripheral Blood Smear Examination:**
+    *   Morphology: Evaluates the morphology of leukocytes (e.g., toxic granulation, Dohle bodies)
+*   **Flow Cytometry:**
+    *   Immunophenotyping: Identifies cell surface markers and classifies leukocytes
+    *   Functional assays: Measures leukocyte activation, proliferation, and cytokine production
+*   **Functional Assays:**
+    *   Neutrophil oxidative burst assay: Measures the production of reactive oxygen species
+    *   Chemotaxis assay: Measures the ability of leukocytes to migrate in response to chemical gradients
+    *   Phagocytosis assay: Measures the ability of leukocytes to engulf particles
+    *   Adhesion assay: Measures the ability of leukocytes to adhere to endothelial cells
+*   **Genetic Testing:**
+    *   Identifies mutations in genes associated with inherited leukocyte disorders
+
+## **Key Terms** {-}
+
+*   **Leukocytes:** White blood cells
+*   **Neutrophil:** Most abundant WBC, involved in bacterial and fungal infections
+*   **Eosinophil:** WBC involved in parasitic infections and allergic reactions
+*   **Basophil:** WBC involved in allergic reactions and inflammation
+*   **Monocyte:** WBC that differentiates into macrophages
+*   **Macrophage:** Tissue-resident phagocyte
+*   **Lymphocyte:** T cell, B cell, and NK cell
+*   **Phagocytosis:** Engulfment and destruction of particles
+*   **Chemotaxis:** Migration of cells in response to chemical signals
+*   **Cytokines:** Signaling molecules that regulate immune responses
+*   **Extravasation:** Migration of leukocytes from the bloodstream into tissues
+*   **Innate Immunity:** Immediate, non-specific defense mechanisms
+*   **Adaptive Immunity:** Slower, antigen-specific immune responses
