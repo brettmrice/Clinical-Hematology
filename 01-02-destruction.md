@@ -1,3 +1,0 @@
-# B. Destruction {-}
-
-RES
