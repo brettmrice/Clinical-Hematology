@@ -1,0 +1,61 @@
+# Thrombocytopenia {-}
+
+## **Overview of Thrombocytopenia** {-}
+
+*   **Definition:** A condition characterized by a decreased platelet count in the peripheral blood. Generally defined as a platelet count less than 150 x 10^9/L (150,000/µL).
+*   **Significance:** Thrombocytopenia increases the risk of bleeding, with the severity of bleeding correlating with the degree of platelet reduction.
+*   **Classification:**
+    *   Based on Mechanism:
+        *   Increased Platelet Destruction (Immune and Non-Immune)
+        *   Decreased Platelet Production
+        *   Sequestration (less common)
+        *   Dilutional
+        *   Pseudothrombocytopenia (Spurious Thrombocytopenia)
+    *   Based on Severity:
+        *   Mild Thrombocytopenia: 100-150 x 10^9/L
+        *   Moderate Thrombocytopenia: 50-99 x 10^9/L
+        *   Severe Thrombocytopenia: <50 x 10^9/L
+
+## **Increased Platelet Destruction** {-}
+
+*   **Immune Thrombocytopenic Purpura (ITP):**
+    *   **Definition:** An acquired autoimmune disorder characterized by the destruction of platelets by autoantibodies
+
+*   **Thrombotic Thrombocytopenic Purpura (TTP):**
+    *   **Definition:** A life-threatening disorder characterized by thrombotic microangiopathy (TMA), leading to microvascular thrombosis, thrombocytopenia, and hemolytic anemia
+
+*   **Heparin-Induced Thrombocytopenia (HIT):**
+    *   **Definition:** A prothrombotic disorder caused by antibodies against heparin-platelet factor 4 (PF4) complexes
+
+## **Decreased Platelet Production**
+
+*   **Bone Marrow Failure:**
+*   **Medications:**
+
+## **Pseudothrombocytopenia (Spurious Thrombocytopenia)**
+
+*   **Definition:** A falsely low platelet count due to in vitro platelet clumping or satellitism
+
+## **General Laboratory Tests**
+
+*   **Complete Blood Count (CBC) with Peripheral Blood Smear:** Essential for diagnosing and classifying thrombocytopenia
+*   **Reticulocyte Count:** Assesses bone marrow response
+*   **Coagulation Studies (PT, aPTT, Fibrinogen, D-dimer):** To evaluate for DIC
+*   **Direct Antiglobulin Test (DAT):** To evaluate for autoimmune hemolytic anemia (Evans syndrome)
+*   **HIV Testing:** To rule out HIV-associated thrombocytopenia
+*   **Hepatitis C Testing:** To rule out hepatitis C-associated thrombocytopenia
+*   **Bone Marrow Aspiration and Biopsy:** May be necessary to evaluate for bone marrow disorders (e.g., aplastic anemia, MDS)
+*   **ADAMTS13 Activity Assay:** To diagnose TTP
+*   **HIT Antibody Testing:** To diagnose heparin-induced thrombocytopenia
+
+## **Key Terms**
+
+*   **Thrombocytopenia:** Decreased platelet count
+*   **Purpura:** Bruising due to bleeding under the skin
+*   **Petechiae:** Small, pinpoint hemorrhages
+*   **Idiopathic Thrombocytopenic Purpura (ITP):** Autoimmune destruction of platelets
+*   **Thrombotic Thrombocytopenic Purpura (TTP):** Thrombotic microangiopathy due to ADAMTS13 deficiency
+*   **Heparin-Induced Thrombocytopenia (HIT):** Thrombocytopenia caused by antibodies against heparin-PF4 complexes
+*   **Schistocytes:** Fragmented red blood cells (seen in TTP and other microangiopathic hemolytic anemias)
+*   **Pseudothrombocytopenia:** Falsely low platelet count due to in vitro platelet clumping or satellitism
+*   **Megakaryocytes:** Bone marrow cells that produce platelets

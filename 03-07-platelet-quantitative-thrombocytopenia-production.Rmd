@@ -1,0 +1,152 @@
+# Production {-}
+
+## **Overview of Thrombocytopenia due to Decreased Production** {-}
+
+*   **Definition:** A type of thrombocytopenia (low platelet count) resulting from a *decreased* rate of platelet production by megakaryocytes in the bone marrow. The bone marrow simply isn't making enough platelets
+*   **Key Feature:** The bone marrow is *hypoactive* (producing too few megakaryocytes) or *ineffective* (megakaryocytes are present but are not producing enough platelets). This can often be identified with a bone marrow aspirate and biopsy
+*   **Reticulated Platelets:** Reticulated platelets, also known as immature platelets, are newly released platelets that contain RNA. A low count can correlate with a decreased rate of platelet production
+*   **Etiology:** Can be caused by a variety of factors, including bone marrow disorders, infections, medications, and nutritional deficiencies
+*   **General Mechanisms:**
+    *   Damage or destruction of megakaryocytes (the platelet precursor cells in the bone marrow)
+    *   Impaired megakaryocyte proliferation and differentiation
+    *   Disruption of thrombopoietin (TPO) signaling
+
+## **Specific Causes of Thrombocytopenia due to Decreased Production** {-}
+
+*   **Bone Marrow Failure or Infiltration**
+
+    *   **Aplastic Anemia:**
+        *   **Definition:** Bone marrow failure characterized by pancytopenia (decreased RBCs, WBCs, and platelets) and a hypocellular bone marrow
+        *   **Pathophysiology:** Damage to or destruction of hematopoietic stem cells (HSCs) in the bone marrow, leading to reduced production of all blood cell lines, including megakaryocytes
+        *   **Causes:**
+            *   Acquired:
+                *   Idiopathic (most common) - thought to be autoimmune in many cases
+                *   Drug-induced (e.g., chloramphenicol, sulfonamides, NSAIDs)
+                *   Chemical exposure (e.g., benzene)
+                *   Radiation exposure
+                *   Infections (e.g., parvovirus B19, EBV, HIV)
+                *   Autoimmune disorders
+            *   Inherited:
+                *   Fanconi anemia
+                *   Dyskeratosis congenita
+        *   **Laboratory Findings:**
+            *   CBC: Pancytopenia (low HGB, HCT, RBC count, WBC count, and platelet count)
+            *   Peripheral Blood Smear:
+                *   Normocytic, normochromic RBCs
+                *   Absence of abnormal cells
+            *   Reticulocyte Count: Low
+            *   Bone Marrow Examination: Hypocellular marrow with decreased or absent hematopoietic cells (including megakaryocytes)
+            *   Flow cytometry: May show decreased or abnormal hematopoietic stem cells
+        *   **Clinical Features:**
+            *   Symptoms of anemia (fatigue, weakness, pallor)
+            *   Symptoms of thrombocytopenia (bleeding, bruising)
+            *   Symptoms of neutropenia (increased susceptibility to infections)
+        *   **Treatment:**
+            *   Supportive Care:
+                *   Transfusions (RBCs and platelets) to alleviate symptoms
+                *   Antibiotics to treat infections
+            *   Immunosuppressive Therapy:
+                *   Antithymocyte globulin (ATG)
+                *   Cyclosporine
+            *   Hematopoietic Stem Cell Transplantation (HSCT):
+                *   Potentially curative option, especially for younger patients with matched donors
+    
+    *   **Myelodysplastic Syndromes (MDS):**
+        *   **Definition:** A group of clonal hematopoietic stem cell disorders characterized by ineffective hematopoiesis, dysplasia in one or more cell lines, and a variable risk of progression to acute myeloid leukemia (AML)
+        *   **Pathophysiology:**
+            *   Genetic mutations impair the differentiation and maturation of hematopoietic cells, leading to cytopenias and dysplasia
+            *   Dysplastic megakaryocytes may have abnormal morphology and decreased platelet production
+        *   **Causes:**
+            *   Acquired mutations in hematopoietic stem cells
+            *   Risk factors: Advanced age, exposure to certain chemicals or radiation, prior chemotherapy or radiation therapy
+        *   **Laboratory Findings:**
+            *   CBC: Cytopenias (anemia, thrombocytopenia, leukopenia)
+            *   Peripheral Blood Smear: Dysplastic features in one or more cell lines
+                *   Abnormal megakaryocytes (e.g., micromegakaryocytes, hypolobated megakaryocytes)
+                *   Large platelets, abnormal granulation
+            *   Bone Marrow Examination:
+                *   Hypercellular or hypocellular marrow with dysplasia in one or more cell lines
+                *   Increased megakaryocytes with abnormal morphology
+            *   Cytogenetic Analysis: Chromosomal abnormalities are common (e.g., deletion 5q)
+        *   **Clinical Features:**
+            *   Symptoms of anemia (fatigue, weakness, pallor)
+            *   Bleeding and bruising due to thrombocytopenia
+            *   Increased susceptibility to infections due to neutropenia
+        *   **Treatment:**
+            *   Supportive care: Transfusions, growth factors
+            *   Hypomethylating Agents: Azacitidine and decitabine
+            *   Lenalidomide: Used for MDS with deletion 5q
+            *   Hematopoietic Stem Cell Transplantation (HSCT): Potentially curative
+    
+    *   **Bone Marrow Infiltration:**
+    
+        *   Metastatic Cancer: Cancer cells from solid tumors can infiltrate the bone marrow, crowding out normal hematopoietic cells, including megakaryocytes
+        *   Lymphoma: Infiltration of the bone marrow by lymphoma cells can suppress megakaryopoiesis
+        *   Myeloma: Infiltration of the bone marrow by plasma cells in multiple myeloma can suppress megakaryopoiesis
+        *   Laboratory Findings:
+            *   CBC: Cytopenias (including thrombocytopenia)
+            *   Peripheral Blood Smear: May show abnormal cells (e.g., tumor cells, lymphoma cells)
+            *   Bone Marrow Examination: Evidence of infiltration by malignant cells
+
+*   **Infection**
+
+    *   **Viral Infections:**
+    
+        *   HIV: Can directly infect and damage megakaryocytes, leading to decreased platelet production
+        *   Parvovirus B19: Can transiently suppress erythropoiesis and, less commonly, thrombocytopoiesis
+        *   Other viral infections (e.g., EBV, CMV) can also cause thrombocytopenia through various mechanisms
+    *   **Bacterial Infections:**
+    
+        *   Sepsis: Severe systemic infection can lead to bone marrow suppression and decreased platelet production
+
+*   **Nutritional Deficiencies**
+
+    *   **Vitamin B12 Deficiency:**
+        *   Impaired DNA synthesis affects megakaryocyte maturation and platelet production
+    *   **Folate Deficiency:**
+        *   Impaired DNA synthesis affects megakaryocyte maturation and platelet production
+    *   **Iron Deficiency Anemia:**
+        *   Severe iron deficiency can impair megakaryopoiesis and platelet production
+
+*   **Medications**
+
+    *   Chemotherapy: Cytotoxic agents can damage megakaryocytes and suppress platelet production
+    *   Alcohol: Chronic alcohol abuse can impair megakaryopoiesis
+    *   Thiazide Diuretics: Can cause thrombocytopenia in some individuals
+
+## **Key Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Thrombocytopenia (platelet count < 150 x 10^9/L)
+    *   May see other cytopenias (anemia and/or leukopenia), depending on the underlying cause
+*   **Peripheral Blood Smear:**
+    *   Decreased number of platelets
+    *   May see normal or abnormal platelets (depending on the cause)
+    *   May see other abnormal cells (e.g., blasts, tumor cells, dysplastic cells)
+*   **Reticulocyte Count:**
+    *   In cases of isolated thrombocytopenia, the reticulocyte count will be normal
+    *   If there is concurrent anemia, the reticulocyte count will help to classify the anemia:
+        *   High reticulocyte count: Suggests increased RBC destruction or blood loss
+        *   Low reticulocyte count: Suggests decreased RBC production
+*   **Bone Marrow Aspiration and Biopsy:**
+    *   Essential for evaluating the cause of thrombocytopenia
+    *   Assess cellularity of the bone marrow
+    *   Evaluate megakaryocyte number and morphology
+    *   Rule out bone marrow disorders (e.g., aplastic anemia, MDS, bone marrow infiltration)
+*   **Other Tests:**
+    *   Vitamin B12 and Folate Levels: To rule out nutritional deficiencies
+    *   HIV Testing: To rule out HIV-associated thrombocytopenia
+    *   HepC Testing: To rule out HepC-associated thrombocytopenia
+    *   Parvovirus B19 PCR: To rule out parvovirus B19 infection
+    *   Antinuclear Antibody (ANA) Testing: To evaluate for autoimmune disorders
+
+## **Key Terms** {-}
+
+*   **Thrombocytopenia:** Decreased platelet count
+*   **Megakaryocytes:** Bone marrow cells that produce platelets
+*   **Aplastic Anemia:** Bone marrow failure with pancytopenia and hypocellular marrow
+*   **Myelodysplastic Syndromes (MDS):** Clonal hematopoietic stem cell disorders with ineffective hematopoiesis and dysplasia
+*   **Pancytopenia:** Deficiency of all blood cell lines (RBCs, WBCs, platelets)
+*   **Hypocellular:** Decreased cellularity in the bone marrow
+*   **Dysplasia:** Abnormal cell development or maturation
+*   **Thrombopoietin (TPO):** Hormone that stimulates platelet production

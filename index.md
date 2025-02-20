@@ -9,16 +9,20 @@ bibliography:
 - book.bib
 - packages.bib
 description: |
-  Information presented is intended to help your preparation for ASCP BOC's Hematology content for the MLS, H, and SH certification exams.
+  Information intended to assist preparation for Clinical Hematology content on ASCP BOC's MLS, H, and SH certification exams
 biblio-style: apalike
 csl: "chicago-fullnote-bibliography.csl"
 ---
 
 # About {-}
 
-Information presented is intended to help your preparation for the Clinical Hematology content areas as described in <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC's</a> Content Guidelines for the MLS, H, and SH certification exams
+Information intended to assist preparation for Clinical Hematology content on <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC's</a> MLS, H, and SH certification exams Content Guidelines for the MLS, H, and SH certification exams
 
-It is recommend that you use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC</a> for each certification
+You are recommend to use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC</a> for each certification
+
+* <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Medical Laboratory Scientist, MLS(ASCP)</a>
+* <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Technologist in Hematology, H(ASCP)</a>
+* <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Specialist in Hematology, SH(ASCP)</a>
 
 ## Author {-}
 
@@ -35,3 +39,7 @@ AI was used in the creation of this site. AI makes mistakes, so double-check the
 ## Last Updated {-}
 
 Last edit pushed to this site was on 2025-02-19
+
+## License {-}
+
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>

@@ -6,3 +6,9 @@ general-laboratory-findings-in-immune-mediated-hemolytic-anemias
 key-terms-11
 part-leukocytes
 overview-of-plasma-cell-dyscrasias
+part-platelets
+overview-of-thrombocytopenia-due-to-increased-platelet-destruction
+decreased-platelet-production
+pseudothrombocytopenia-spurious-thrombocytopenia
+general-laboratory-tests
+key-terms-37

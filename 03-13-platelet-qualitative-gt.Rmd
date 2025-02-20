@@ -1,0 +1,120 @@
+# Glanzmann {-}
+
+## **Overview of Glanzmann Thrombasthenia (GT)** {-}
+
+*   **Definition:** A rare, inherited bleeding disorder characterized by:
+    *   Normal platelet count
+    *   Defective platelet aggregation
+    *   Absent or severely reduced expression of the platelet glycoprotein IIb/IIIa (GPIIb/IIIa) complex (also known as αIIbβ3 integrin)
+*   **Genetic Basis:** Autosomal recessive inheritance of mutations in the genes encoding GPIIb (ITGA2B) or GPIIIa (ITGB3)
+*   **Key Feature:** Impaired platelet aggregation due to a defect in the fibrinogen receptor (GPIIb/IIIa), which is essential for platelet cross-linking and thrombus formation
+*   **Clinical Significance:** Leads to mucocutaneous bleeding tendencies, such as easy bruising, nosebleeds, gum bleeding, and prolonged bleeding after trauma or surgery
+
+## **Platelet Glycoprotein IIb/IIIa (GPIIb/IIIa) Complex** {-}
+
+*   **Structure:** A heterodimeric complex consisting of two transmembrane glycoproteins:
+    *   GPIIb (αIIb or CD41)
+    *   GPIIIa (β3 or CD61)
+*   **Function:**
+    *   Major Integrin on Platelets: GPIIb/IIIa is the most abundant integrin on the platelet surface
+    *   Fibrinogen Receptor: It acts as a receptor for fibrinogen, von Willebrand factor (vWF), fibronectin, and other adhesive ligands
+    *   Platelet Aggregation: GPIIb/IIIa mediates platelet aggregation by binding to fibrinogen, which forms bridges between adjacent platelets, leading to thrombus formation
+    *   Inside-Out Signaling: Platelet activation triggers a conformational change in GPIIb/IIIa that increases its affinity for fibrinogen
+    *   Outside-In Signaling: Binding of fibrinogen to GPIIb/IIIa triggers intracellular signaling pathways that stabilize platelet aggregates and promote clot retraction
+
+## **Pathophysiology of Glanzmann Thrombasthenia** {-}
+
+*   **Genetic Mutations:** Mutations in the genes encoding GPIIb (*ITGA2B*) or GPIIIa (*ITGB3*) lead to:
+    *   Decreased Expression of GPIIb/IIIa on the Platelet Surface:
+        *   Type I GT: Severely reduced or absent GPIIb/IIIa expression (<5% of normal)
+        *   Type II GT: Reduced GPIIb/IIIa expression (5-20% of normal)
+    *   Dysfunctional GPIIb/IIIa Complex:
+        *   Abnormal structure of the GPIIb/IIIa complex, impairing its ability to bind to fibrinogen and other ligands
+*   **Impaired Platelet Aggregation:**
+    *   Deficiency or dysfunction of GPIIb/IIIa impairs platelet aggregation, preventing platelets from forming stable clots
+    *   Leads to a prolonged bleeding time and increased susceptibility to bleeding
+
+## **Clinical Features** {-}
+
+*   **Mucocutaneous Bleeding:** The hallmark of GT
+    *   Easy bruising (purpura)
+    *   Nosebleeds (epistaxis)
+    *   Gum bleeding (gingival bleeding)
+    *   Menorrhagia (heavy menstrual bleeding) in women
+    *   Prolonged bleeding after minor cuts or dental procedures
+*   **Severity:**
+    *   Severity of bleeding varies among patients, even within the same type of GT
+    *   Bleeding episodes can be spontaneous or triggered by trauma or surgery
+*   **Joint Bleeds (Hemarthrosis):** Rare in GT, unlike hemophilia
+
+## **Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Platelet count: Usually normal
+    *   RBC and WBC counts: Normal
+*   **Peripheral Blood Smear:**
+    *   Normal platelet morphology and number (except for possible macroplatelets)
+    *   No platelet clumps
+*   **Bleeding Time:**
+    *   Prolonged (often significantly prolonged)
+    *   *Note:* The bleeding time is not a very specific or sensitive test and is rarely used now. PFA testing has taken its place.
+*   **Platelet Function Analyzer (PFA-100):**
+    *   Prolonged Closure Time with Both Epinephrine and ADP Cartridges
+        *   Suggests a global platelet dysfunction
+*   **Platelet Aggregation Studies:** The key diagnostic test for GT
+    *   Absent or Severely Reduced Aggregation with ADP, Collagen, Epinephrine, and Thrombin
+        *   These agonists require functional GPIIb/IIIa to induce platelet aggregation
+    *   Normal Aggregation with Ristocetin
+        *   Ristocetin induces platelet aggregation by binding vWF to GPIb/IX/V (which is normal in GT)
+        *   Since the GPIIb/IIIa complex is not required for this interaction, ristocetin-induced aggregation is normal in GT
+*   **Clot Retraction:**
+    *   Absent or Impaired
+    *   GPIIb/IIIa is required for clot retraction, so this process is abnormal in GT
+*   **Flow Cytometry Immunophenotyping:**
+    *   Decreased or Absent Expression of GPIIb (CD41) and/or GPIIIa (CD61) on Platelets
+        *   Confirms the defect in the GPIIb/IIIa complex
+        *   Can differentiate between Type I (severely reduced expression) and Type II (reduced expression) GT
+
+## **Diagnostic Approach** {-}
+
+1.  **Suspect GT:** In a patient with:
+    *   Lifelong history of mucocutaneous bleeding
+    *   Normal platelet count
+    *   Prolonged bleeding time (or abnormal PFA result)
+2.  **Perform Platelet Aggregation Studies:** Absent aggregation with ADP, collagen, epinephrine, and thrombin, but normal aggregation with ristocetin, is highly suggestive of GT
+3.  **Confirm Diagnosis with Flow Cytometry:** Demonstrate decreased or absent expression of GPIIb (CD41) and/or GPIIIa (CD61) on platelets
+4.  **Rule Out Other Platelet Function Disorders:**
+    *   Acquired platelet dysfunction (e.g., drug-induced): Recent exposure to aspirin or other antiplatelet medications
+    *   Bernard-Soulier Syndrome: Giant platelets, absent ristocetin-induced aggregation that is *not* corrected by normal plasma, abnormal GPIb/IX/V expression
+
+## **Treatment and Management** {-}
+
+*   **No Specific Cure:** Treatment is primarily supportive and aimed at controlling bleeding episodes
+*   **Avoid Platelet Inhibitors:** Aspirin and other antiplatelet medications are contraindicated
+*   **Local Hemostatic Measures:**
+    *   Topical thrombin or fibrin sealants to control minor bleeding
+    *   Pressure dressings to control bleeding from cuts or wounds
+*   **Antifibrinolytic Agents:**
+    *   Tranexamic acid or aminocaproic acid may be used to control mucosal bleeding (e.g., nosebleeds, menorrhagia)
+    *   These medications inhibit fibrinolysis (the breakdown of blood clots)
+*   **Recombinant Factor VIIa (rFVIIa):**
+
+    *   May be used to control bleeding in patients with GT
+    *   Mechanism of action is not fully understood, but it may promote thrombin generation and platelet activation
+*   **Platelet Transfusions:**
+
+    *   Used to treat severe bleeding episodes or before surgery
+    *   Patients may develop alloantibodies (antibodies against foreign platelets) with repeated transfusions, making subsequent transfusions less effective
+    *   HLA-matched platelets may be required in patients who have become alloimmunized
+*   **Hematopoietic Stem Cell Transplantation (HSCT):**
+
+    *   Potentially curative option for severe cases of GT
+    *   Involves replacing the patient's damaged bone marrow with healthy stem cells from a donor
+
+## **Key Terms** {-}
+
+*   **Glanzmann Thrombasthenia (GT):** Rare inherited bleeding disorder characterized by defective platelet aggregation
+*   **GPIIb/IIIa (αIIbβ3 Integrin):** Platelet glycoprotein complex that binds to fibrinogen and mediates platelet aggregation
+*   **Platelet Aggregation Studies:** Tests that measure the ability of platelets to clump together
+*   **Ristocetin:** An antibiotic that induces vWF-dependent platelet agglutination
+*   **Alloantibodies:** Antibodies against foreign antigens (e.g., transfused platelets)

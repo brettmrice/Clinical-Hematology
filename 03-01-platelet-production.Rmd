@@ -1,0 +1,147 @@
+# (PART\*) Platelets
+
+
+# PLT Production {-}
+
+## **Overview of Thrombopoiesis** {-}
+
+*   **Definition:** The process of platelet production, development, and maturation, primarily occurring in the bone marrow
+*   **Purpose:** To maintain an adequate number of platelets in the circulation to ensure proper hemostasis (blood clotting) and prevent excessive bleeding
+*   **Key Cell:** Megakaryocyte (MK) - the large, multinucleated cell responsible for producing platelets
+*   **Regulation:** Primarily regulated by thrombopoietin (TPO), but other factors also play a role
+
+## **Hematopoietic Stem Cells (HSCs) and Megakaryocyte Development** {-}
+
+*   **Hematopoietic Stem Cells (HSCs):**
+    *   Self-renewing cells that can differentiate into all blood cell lineages
+    *   Reside in the bone marrow
+*   **Common Myeloid Progenitor (CMP):**
+    *   Gives rise to granulocytes, monocytes, macrophages, megakaryocytes, and erythrocytes
+*   **Megakaryocyte-Erythroid Progenitor (MEP):**
+    *   A progenitor cell that can differentiate into either megakaryocytes or erythrocytes
+*   **Megakaryoblast:**
+    *   Earliest identifiable megakaryocyte precursor
+    *   Large cell with a single, round nucleus
+    *   Cytoplasm is basophilic and lacks granules
+*   **Promegakaryocyte:**
+    *   Larger than megakaryoblast
+    *   Nucleus undergoes endomitosis (DNA replication without cell division), resulting in a multilobed or polyploid nucleus
+    *   Cytoplasm becomes more abundant and contains some granules
+*   **Megakaryocyte (MK):**
+    *   The largest cell in the bone marrow
+    *   Large, multilobed nucleus with condensed chromatin
+    *   Abundant cytoplasm filled with granules (alpha granules and dense granules)
+    *   Responsible for platelet production
+*   **Platelet Production:**
+    *   Megakaryocytes extend long, branching cytoplasmic processes called *proplatelets* into the bone marrow sinusoids (blood vessels)
+    *   Proplatelets fragment into individual platelets, which are then released into the circulation
+
+## **Thrombopoietin (TPO) and Regulation of Thrombopoiesis** {-}
+
+*   **Thrombopoietin (TPO):**
+    *   Primary regulator of megakaryopoiesis and thrombopoiesis
+    *   Produced mainly by the liver, with smaller amounts produced by the kidney and bone marrow stromal cells
+    *   Binds to the *MPL* receptor (also known as *c-MPL*) on hematopoietic stem cells, megakaryocyte progenitors, and platelets
+*   **Mechanisms of Action of TPO:**
+    *   Stimulates the proliferation and differentiation of megakaryocyte progenitors
+    *   Promotes megakaryocyte maturation and polyploidization (endomitosis)
+    *   Increases platelet production by megakaryocytes
+    *   Prevents apoptosis (programmed cell death) of megakaryocytes
+*   **Regulation of TPO Levels:**
+    *   TPO production is relatively constant
+    *   Platelets and megakaryocytes bind and internalize TPO, reducing the amount of TPO available to stimulate further platelet production
+    *   In thrombocytopenia (low platelet count), there are fewer platelets to bind TPO, so TPO levels increase, stimulating megakaryopoiesis
+    *   In thrombocytosis (high platelet count), there are more platelets to bind TPO, so TPO levels decrease, suppressing megakaryopoiesis
+
+## **Other Factors Influencing Thrombopoiesis** {-}
+
+*   **Cytokines:**
+    *   Interleukin-6 (IL-6): Stimulates megakaryocyte proliferation and maturation
+    *   Interleukin-11 (IL-11): Promotes megakaryocyte maturation and platelet production
+    *   Stem Cell Factor (SCF): Supports the survival and proliferation of HSCs and early progenitors
+*   **Growth Factors:**
+    *   Thrombopoietin (TPO) is the main driver!
+*   **Transcription Factors:**
+    *   GATA-1: Essential for megakaryocyte development
+    *   FLI1: Involved in megakaryocyte differentiation and function
+*   **Bone Marrow Microenvironment:**
+    *   Stromal cells in the bone marrow provide a supportive niche for megakaryocytes
+    *   Extracellular matrix components, adhesion molecules, and growth factors influence megakaryopoiesis
+
+## **Platelet Structure and Function** {-}
+
+*   **Platelets (Thrombocytes):**
+    *   Small, anucleate cell fragments produced by megakaryocytes
+    *   Essential for hemostasis (blood clotting)
+    *   Normal Platelet Count: 150-450 x 10^9/L
+*   **Structure:**
+    *   Plasma membrane: Contains receptors for adhesion, activation, and aggregation
+    *   Glycocalyx: Outer coating containing glycoproteins that mediate adhesion to subendothelial matrix and other platelets
+    *   Cytoplasm:
+        *   Granules:
+            *   Alpha granules: Contain clotting factors (e.g., fibrinogen, von Willebrand factor), growth factors, and adhesion molecules
+            *   Dense granules (δ-granules): Contain ADP, ATP, serotonin, and calcium
+        *   Open Canalicular System (OCS): System of channels that connect the platelet interior to the external environment
+        *   Dense Tubular System (DTS): Storage site for calcium ions
+        *   Microtubules and Actin Filaments: Provide structural support and facilitate shape change and movement
+*   **Functions:**
+    *   Primary Hemostasis: Formation of the platelet plug
+    *   Secondary Hemostasis: Contributing to the coagulation cascade and fibrin clot formation
+    *   Vessel Repair: Releasing growth factors that promote wound healing and angiogenesis
+    *   Inflammation: Releasing inflammatory mediators
+
+## **Disorders of Thrombopoiesis** {-}
+
+*   **Thrombocytopenia:** Decreased platelet count (<150 x 10^9/L)
+    *   Decreased Production:
+        *   Aplastic anemia
+        *   Myelodysplastic syndromes (MDS)
+        *   Infections
+        *   Medications
+        *   Alcohol abuse
+    *   Increased Destruction:
+        *   Immune thrombocytopenic purpura (ITP)
+        *   Thrombotic thrombocytopenic purpura (TTP)
+        *   Heparin-induced thrombocytopenia (HIT)
+        *   Disseminated intravascular coagulation (DIC)
+    *   Sequestration:
+        *   Splenomegaly
+*   **Thrombocytosis:** Increased platelet count (>450 x 10^9/L)
+    *   Reactive Thrombocytosis:
+        *   Occurs in response to another condition (e.g., infection, inflammation, iron deficiency, splenectomy)
+        *   Platelet count is usually mildly elevated and transient
+    *   Essential Thrombocythemia (ET):
+        *   A myeloproliferative neoplasm characterized by sustained thrombocytosis and increased risk of thrombosis and bleeding
+        *   Associated with mutations in *JAK2*, *CALR*, or *MPL*
+
+## **Laboratory Evaluation of Thrombopoiesis** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Platelet Count: Measures the number of platelets in the blood
+*   **Peripheral Blood Smear Examination:**
+    *   Platelet Estimate: Evaluates the number of platelets on the smear and confirms the automated platelet count
+    *   Platelet Morphology: Identifies abnormal platelet morphology (e.g., giant platelets, hypogranular platelets)
+*   **Bone Marrow Aspiration and Biopsy:**
+    *   Megakaryocyte Number and Morphology: Assesses the number and morphology of megakaryocytes in the bone marrow
+*   **Flow Cytometry:**
+    *   To identify cell surface markers on megakaryocytes
+*   **Molecular Testing:**
+    *   To detect mutations in genes involved in megakaryopoiesis (e.g., *JAK2*, *CALR*, *MPL*)
+*   **Platelet Function Tests:**
+    *   To evaluate platelet adhesion, aggregation, and secretion
+    *   Platelet aggregation studies
+    *   Platelet function analyzer (PFA-100)
+
+## **Key Terms** {-}
+
+*   **Thrombopoiesis:** Platelet production
+*   **Megakaryocyte:** Large, multinucleated cell responsible for producing platelets
+*   **Thrombopoietin (TPO):** Hormone that regulates megakaryopoiesis and thrombopoiesis
+*   **Platelet (Thrombocyte):** Small, anucleate cell fragment involved in hemostasis
+*   **Thrombocytopenia:** Decreased platelet count
+*   **Thrombocytosis:** Increased platelet count
+*   **Essential Thrombocythemia (ET):** Myeloproliferative neoplasm with sustained thrombocytosis
+*   **Endomitosis:** DNA replication without cell division
+*   **Proplatelets:** Cytoplasmic extensions of megakaryocytes that fragment into platelets
+*   **Platelet Aggregation:** The clumping together of platelets to form a platelet plug
+*   **Mean Platelet Volume (MPV):** The average size of platelets

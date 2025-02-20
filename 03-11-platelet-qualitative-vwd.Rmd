@@ -1,0 +1,169 @@
+# von Willebrand {-}
+
+## **Overview of von Willebrand Disease (vWD)** {-}
+
+*   **Definition:** The most common inherited bleeding disorder, characterized by a quantitative (amount) or qualitative (functional) defect in von Willebrand factor (vWF)
+*   **Prevalence:** Estimated to affect 1-3% of the population, though many cases are mild and undiagnosed
+*   **Key Features:**
+    *   Mucocutaneous bleeding: Easy bruising, nosebleeds (epistaxis), gum bleeding, menorrhagia (heavy menstrual bleeding)
+    *   Prolonged bleeding after cuts, dental procedures, or surgery
+*   **Genetic Basis:** vWD is usually inherited as an autosomal dominant trait, although autosomal recessive inheritance is possible in some subtypes.
+*   **Treatment:** Varies depending on the type and severity of vWD, and may include desmopressin, vWF/FVIII concentrates, and antifibrinolytic agents
+
+## **von Willebrand Factor (vWF): Structure and Function** {-}
+
+*   **vWF Structure:**
+    *   A large, multimeric glycoprotein found in plasma, platelets, and subendothelial connective tissue
+    *   Synthesized by endothelial cells and megakaryocytes
+    *   Monomers of vWF are assembled into dimers, which then polymerize to form large multimers
+    *   The size and structure of vWF multimers are critical for its function
+*   **vWF Functions:**
+    *   **Platelet Adhesion:
+        *   vWF binds to exposed collagen in the subendothelium of damaged blood vessels
+        *   vWF then binds to the platelet glycoprotein Ib/IX/V (GPIb/IX/V) receptor on the platelet surface, mediating initial platelet adhesion
+        *   This interaction is crucial for platelet plug formation at sites of vascular injury, especially under high shear stress conditions
+    *   **Factor VIII Carrier:
+        *   vWF binds to factor VIII (FVIII), a coagulation protein
+        *   vWF protects FVIII from degradation and prolongs its half-life in the circulation
+        *   Decreased vWF can lead to decreased FVIII levels
+
+## **Classification of vWD** {-}
+
+*   **Type 1 vWD:** (60-80% of cases)
+
+    *   Partial quantitative deficiency of vWF
+    *   vWF is present, but in reduced amounts
+    *   All vWF multimers are present, but in decreased concentration
+    *   Inheritance: Usually autosomal dominant
+*   **Type 2 vWD:** (20-30% of cases)
+
+    *   Qualitative defects in vWF function
+    *   vWF is present in normal or near-normal amounts, but its ability to perform its functions is impaired
+    *   Subtypes:
+        *   Type 2A:
+            *   Decreased high-molecular-weight vWF multimers
+            *   Impaired platelet adhesion
+            *   Often caused by increased proteolysis or abnormal multimer assembly
+        *   Type 2B:
+            *   Increased affinity of vWF for platelets
+            *   Spontaneous binding of vWF to platelets, leading to clearance of both vWF and platelets from the circulation, resulting in thrombocytopenia
+            *   Ristocetin-induced platelet aggregation (RIPA) is enhanced at low concentrations of ristocetin
+        *   Type 2M:
+            *   Decreased binding of vWF to platelets or collagen
+            *   Normal vWF multimer distribution
+            *   Differentiation of subtypes depends on which binding activity is affected (platelets or collagen)
+        *   Type 2N:
+            *   Decreased binding of vWF to factor VIII
+            *   Markedly reduced factor VIII levels
+            *   May be misdiagnosed as mild hemophilia A (factor VIII deficiency)
+    *   Inheritance: Usually autosomal dominant
+*   **Type 3 vWD:** (Rare)
+    *   Severe quantitative deficiency of vWF (vWF is virtually absent)
+    *   Very low or undetectable levels of vWF and factor VIII
+    *   Severe bleeding symptoms
+    *   Inheritance: Autosomal recessive
+
+## **Clinical Features** {-}
+
+*   **Variable bleeding symptoms:**
+    *   Severity of bleeding depends on the type and severity of vWD
+    *   Bleeding symptoms may be mild and only become apparent after surgery or trauma
+*   **Common Manifestations:**
+
+    *   Nosebleeds (epistaxis)
+    *   Easy bruising
+    *   Prolonged bleeding after cuts or dental procedures
+    *   Menorrhagia (heavy menstrual bleeding) in women
+    *   Postpartum hemorrhage
+    *   Gastrointestinal bleeding (less common)
+    *   Joint bleeds (hemarthrosis) are rare, unlike in hemophilia
+*   **Symptoms by vWD Type:**
+
+    *   Type 1 vWD: Mild to moderate bleeding symptoms
+    *   Type 2 vWD: Variable bleeding symptoms, depending on the subtype
+        *   Type 2A: Moderate bleeding symptoms
+        *   Type 2B: Moderate bleeding symptoms; may also have thrombocytopenia
+        *   Type 2M: Mild to moderate bleeding symptoms
+        *   Type 2N: Moderate to severe bleeding symptoms; may be misdiagnosed as hemophilia A
+    *   Type 3 vWD: Severe bleeding symptoms
+
+## **Laboratory Diagnosis** {-}
+
+*   **Screening Tests:**
+
+    *   Complete Blood Count (CBC):
+        *   Platelet count is usually normal, but may be decreased in some cases (e.g., type 2B vWD)
+    *   Prothrombin Time (PT): Usually normal
+    *   Activated Partial Thromboplastin Time (aPTT): May be prolonged if factor VIII is significantly reduced (especially in type 2N and type 3 vWD)
+
+*   **Specific vWD Assays:**
+
+    *   von Willebrand Factor Antigen (vWF:Ag):
+        *   Measures the amount of vWF protein in the plasma
+        *   Decreased in type 1 and type 3 vWD
+        *   May be normal in type 2 vWD
+    *   von Willebrand Factor Activity (vWF:RCo):
+        *   Measures the ability of vWF to bind to platelets using ristocetin as a cofactor
+        *   Ristocetin-induced platelet aggregation (RIPA)
+        *   Decreased in most types of vWD (except for type 2B, where it is increased)
+    *   Factor VIII Activity (FVIII:C):
+        *   Measures the activity of factor VIII
+        *   May be decreased in vWD, especially in type 2N and type 3
+    *   vWF Multimer Analysis:
+        *   Evaluates the distribution of vWF multimers
+        *   Decreased high molecular weight multimers in type 2A vWD
+    *   Platelet Function Analyzer (PFA-100):
+        *   Measures platelet function under high shear stress
+        *   Prolonged closure time in most types of vWD
+
+*   **Diagnostic Approach:**
+
+    1.  Perform Initial Screening Tests (CBC, PT, aPTT)
+    2.  Measure vWF:Ag and vWF:RCo:
+        *   If both are decreased -> Consider type 1 or type 3 vWD
+        *   If vWF:Ag is normal but vWF:RCo is decreased -> Consider type 2 vWD
+    3.  Perform FVIII:C Assay:
+        *   If FVIII:C is decreased -> Consider type 2N vWD
+    4.  Perform vWF Multimer Analysis:
+        *   To differentiate type 2A from other subtypes
+    5.  Perform RIPA at low concentrations of ristocetin:
+        *   To identify type 2B vWD (RIPA is enhanced)
+    6.  Genetic Testing: May be considered in some cases to confirm the diagnosis or classify the subtype of vWD
+
+## **Treatment** {-}
+
+*   **Desmopressin (DDAVP):**
+
+    *   A synthetic analog of vasopressin that stimulates the release of vWF and factor VIII from endothelial cells
+    *   Effective in treating type 1 vWD and some subtypes of type 2 vWD
+    *   Administered intravenously, subcutaneously, or intranasally
+    *   Side effects: Flushing, headache, hyponatremia (low sodium)
+*   **vWF/Factor VIII Concentrates:**
+
+    *   Plasma-derived concentrates that contain both vWF and factor VIII
+    *   Used to treat bleeding episodes or for prophylaxis in patients with severe vWD or those who do not respond to DDAVP
+    *   Examples: Humate-P, Alphanate SDH, Wilate
+*   **Antifibrinolytic Agents:**
+
+    *   Tranexamic acid or aminocaproic acid
+    *   Inhibit fibrinolysis (the breakdown of blood clots)
+    *   Used to prevent or treat bleeding, especially mucosal bleeding (e.g., menorrhagia, dental procedures)
+*   **Topical Hemostatic Agents:**
+
+    *   Thrombin-soaked gauze or fibrin sealants
+    *   Used to control local bleeding
+*   **Other Considerations:**
+
+    *   Avoid Aspirin and NSAIDs: These medications can impair platelet function and increase the risk of bleeding
+    *   Hormonal Therapy: Oral contraceptives or other hormonal treatments may be used to manage menorrhagia
+
+## **Key Terms** {-}
+
+*   **von Willebrand Factor (vWF):** A protein that mediates platelet adhesion and carries factor VIII
+*   **vWF Antigen (vWF:Ag):** Measures the amount of vWF protein
+*   **vWF Activity (vWF:RCo):** Measures the ability of vWF to bind to platelets
+*   **Factor VIII (FVIII:C):** A coagulation protein that is carried by vWF
+*   **Ristocetin-Induced Platelet Aggregation (RIPA):** A test used to assess vWF function
+*   **Desmopressin (DDAVP):** A synthetic analog of vasopressin that stimulates the release of vWF and factor VIII
+*   **Multimers:** Polymers of vWF subunits
+*   **Platelet Function Analyzer (PFA):** A test that measures platelet function under high shear stress

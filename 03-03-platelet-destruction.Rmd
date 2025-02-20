@@ -1,0 +1,43 @@
+# PLT Destruction {-}
+
+## **Overview of Thrombocytopenia Due to Increased Platelet Destruction**
+
+*   **Definition:** A group of disorders characterized by a decreased platelet count (<150 x 10^9/L) resulting from the accelerated destruction or consumption of platelets.
+*   **Key Distinctions:**
+
+    *   Differentiating between *increased destruction* and *decreased production* is key. The bone marrow response (megakaryocyte number and activity) is essential for this distinction.
+    *   A normal, or even increased, megakaryocyte number in the bone marrow suggests that the *problem lies in the destruction of platelets*.
+*   **General Mechanisms:**
+    *   Immune-Mediated Destruction: Antibodies or complement proteins bind to platelets, leading to their destruction by the mononuclear phagocyte system (MPS) or through complement-mediated lysis
+    *   Non-Immune-Mediated Destruction: Platelets are mechanically damaged or consumed in thrombotic microangiopathies (TMAs)
+    *   Sequestration: Platelets are trapped in the spleen due to splenomegaly
+
+**Key Laboratory Tests**
+
+*   **Complete Blood Count (CBC):** 
+    *   To evaluate platelet count and other blood cell parameters
+*   **Peripheral Blood Smear Examination:** 
+    *   To assess platelet morphology and rule out other causes of thrombocytopenia
+*   **Direct Antiglobulin Test (DAT):** 
+    *   To rule out immune hemolysis
+*   **Coagulation Studies (PT, aPTT, Fibrinogen, D-dimer):** 
+    *   To rule out DIC
+*   **ADAMTS13 Activity Level:** 
+    *   To diagnose TTP
+*   **Stool Shiga Toxin Assay:** 
+    *   To diagnose typical HUS
+*   **HIT Antibody Testing:** 
+    *   To diagnose heparin-induced thrombocytopenia
+*   **Bone Marrow Aspiration and Biopsy:** 
+    *   To evaluate megakaryocytes and rule out other bone marrow disorders
+
+**Key Terms**
+
+*   **Thrombocytopenia:** Decreased platelet count (<150 x 10^9/L)
+*   **ITP (Immune Thrombocytopenic Purpura):** Autoimmune destruction of platelets
+*   **TTP (Thrombotic Thrombocytopenic Purpura):** Microangiopathic hemolytic anemia and thrombocytopenia due to ADAMTS13 deficiency
+*   **HUS (Hemolytic Uremic Syndrome):** Microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury
+*   **DIC (Disseminated Intravascular Coagulation):** Systemic activation of coagulation and fibrinolysis
+*   **Schistocytes:** Fragmented red blood cells
+*   **ADAMTS13:** A metalloprotease that cleaves von Willebrand factor (vWF)
+*   **Haptoglobin:** Protein that binds free hemoglobin released into the plasma

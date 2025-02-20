@@ -1,0 +1,201 @@
+# Destruction {-}
+
+## **Overview of Thrombocytopenias due to Increased Destruction** {-}
+
+*   **Definition of Thrombocytopenia:** Abnormally low platelet count, defined as a platelet count less than 150 x 10^9/L (150,000/µL)
+*   **Clinical Significance:** Increases the risk of bleeding, ranging from minor skin bruising to severe or life-threatening hemorrhages
+*   **Major Causes of Thrombocytopenia Due to Increased Destruction (Immune and Non-Immune):**
+
+    *   Immune Thrombocytopenic Purpura (ITP)
+    *   Thrombotic Thrombocytopenic Purpura (TTP)
+    *   Heparin-Induced Thrombocytopenia (HIT)
+    *   Disseminated Intravascular Coagulation (DIC): Consumptive Coagulopathy, may also be due to non-immune consumptive process
+    *   Hemolytic Uremic Syndrome (HUS)
+*   **General Laboratory Findings:**
+    *   Reduced platelet count.
+    *   Normal or increased megakaryocytes in the bone marrow (in thrombocytopenias due to increased destruction)
+    *   Prolonged bleeding time and/or abnormal platelet function tests
+    *   Other findings specific to each disorder (see below)
+
+## **Immune Thrombocytopenic Purpura (ITP)** {-}
+
+*   **Definition:** An acquired autoimmune disorder characterized by isolated thrombocytopenia (low platelet count) with normal bone marrow and no other causes of thrombocytopenia
+*   **Also Known As:** Idiopathic Thrombocytopenic Purpura
+*   **Types:**
+    *   Primary ITP: No identifiable underlying cause
+    *   Secondary ITP: Associated with underlying conditions, such as:
+        *   Autoimmune disorders (e.g., SLE, rheumatoid arthritis)
+        *   Infections (e.g., HIV, hepatitis C, *Helicobacter pylori*)
+        *   Lymphoproliferative disorders (e.g., CLL)
+        *   Medications
+*   **Pathophysiology:**
+    *   Autoantibody Production: Autoantibodies (typically IgG) are produced against platelet membrane glycoproteins (e.g., GPIIb/IIIa, GPIb/IX)
+    *   Platelet Destruction: Antibody-coated platelets are recognized and destroyed by macrophages in the spleen (extravascular hemolysis)
+    *   Impaired Platelet Production: Some autoantibodies may also target megakaryocytes, impairing platelet production
+*   **Clinical Features:**
+    *   Many patients are asymptomatic
+    *   Bleeding Manifestations:
+        *   Petechiae (small, pinpoint hemorrhages)
+        *   Purpura (bruising)
+        *   Nosebleeds (epistaxis)
+        *   Gum bleeding
+        *   Menorrhagia (heavy menstrual periods)
+        *   Gastrointestinal bleeding (less common)
+        *   Intracranial hemorrhage (rare but life-threatening)
+*   **Laboratory Findings:**
+    *   Complete Blood Count (CBC):
+        *   Isolated thrombocytopenia (platelet count <150 x 10^9/L)
+        *   Normal hemoglobin, white blood cell count, and differential
+    *   Peripheral Blood Smear:
+        *   Decreased number of platelets
+        *   May see large platelets (megathrombocytes), reflecting increased platelet production by the bone marrow
+        *   No other significant abnormalities (e.g., schistocytes, blasts)
+    *   Bone Marrow Aspiration and Biopsy (Not always necessary; usually performed to rule out other causes of thrombocytopenia):
+        *   Normal or increased megakaryocytes (platelet precursors)
+        *   Normal cellularity and maturation of other cell lines
+    *   Direct Antibody Test (DAT) for Platelets:
+        *   Detects the presence of anti-platelet antibodies
+        *   Not always performed, as the sensitivity and specificity of these tests are limited
+    *   Exclusion of Other Causes of Thrombocytopenia:
+        *   Rule out drug-induced thrombocytopenia, TTP, HUS, DIC, and other conditions that can cause thrombocytopenia
+*   **Diagnosis:** Diagnosis of exclusion. ITP is diagnosed when other causes of thrombocytopenia have been ruled out and is supported by normal or increased megakaryocytes in the bone marrow
+*   **Treatment:**
+    *   Observation: Mild thrombocytopenia in asymptomatic patients may not require immediate treatment
+    *   Corticosteroids: Prednisone or dexamethasone
+        *   Suppress autoantibody production and decrease platelet destruction
+        *   First-line treatment for symptomatic ITP
+    *   Intravenous Immunoglobulin (IVIG):
+        *   Used to rapidly increase the platelet count in patients with significant bleeding or requiring urgent surgery
+        *   Mechanism: Blocks Fc receptors on macrophages, reducing platelet destruction
+    *   Anti-D Immunoglobulin (WinRho):
+        *   Used in Rh-positive patients with ITP
+        *   Mechanism: Antibody-coated RBCs are then cleared by the spleen, "sparing" the platelets from destruction
+    *   Rituximab:
+        *   Anti-CD20 monoclonal antibody that depletes B cells, reducing autoantibody production
+        *   Used in patients who are refractory to corticosteroids and IVIG
+    *   Thrombopoietin Receptor Agonists (TPO-RAs):
+        *   Eltrombopag and romiplostim
+        *   Stimulate platelet production by binding to and activating the thrombopoietin receptor on megakaryocytes
+        *   Used in patients who have failed other treatments
+    *   Splenectomy:
+        *   Surgical removal of the spleen
+        *   Used in patients with severe, refractory ITP
+        *   Increases the risk of infection with encapsulated organisms (Streptococcus pneumoniae, Haemophilus influenzae, Neisseria meningitidis)
+        *   Patients require vaccination before splenectomy
+
+## **Thrombotic Thrombocytopenic Purpura (TTP)** {-}
+
+*   **Definition:** A life-threatening thrombotic microangiopathy (TMA) characterized by microangiopathic hemolytic anemia (MAHA) and thrombocytopenia
+*   **Hallmark:** Pentad of Thrombocytopenia, Microangiopathic Hemolytic Anemia, Neurologic Abnormalities, Fever, and Renal Abnormalities
+*   **Types:**
+    *   Acquired TTP:
+        *   Autoimmune: Antibodies against ADAMTS13
+        *   Idiopathic: No known underlying cause
+        *   Secondary: Associated with pregnancy, autoimmune disorders, medications, or stem cell transplantation
+    *   Hereditary TTP (Upshaw-Schulman Syndrome):
+        *   Inherited deficiency of ADAMTS13
+*   **Pathophysiology:**
+    *   ADAMTS13 Deficiency: Reduced or absent activity of ADAMTS13, a metalloprotease that cleaves von Willebrand factor (vWF)
+    *   vWF Multimer Accumulation: Ultra-large vWF multimers accumulate in the microvasculature
+    *   Platelet Activation and Microthrombi Formation: vWF multimers bind to platelets, leading to platelet activation, aggregation, and the formation of microthrombi in small blood vessels
+    *   Microangiopathic Hemolytic Anemia (MAHA): RBCs are damaged as they pass through the microthrombi, resulting in fragmentation (schistocytes) and hemolysis
+    *   Thrombocytopenia: Platelets are consumed in the formation of microthrombi
+    *   Organ Ischemia: Microthrombi obstruct blood flow to vital organs (brain, kidneys, heart), leading to organ damage
+*   **Clinical Features:**
+    *   Thrombocytopenia: Bleeding manifestations (petechiae, purpura, etc.)
+    *   Microangiopathic Hemolytic Anemia (MAHA): Fatigue, pallor, jaundice
+    *   Neurologic Abnormalities: Headache, confusion, seizures, stroke
+    *   Fever
+    *   Renal Abnormalities: Elevated creatinine, hematuria, proteinuria
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Thrombocytopenia (platelet count <150 x 10^9/L)
+        *   Anemia (decreased HGB and HCT)
+        *   Increased reticulocyte count
+    *   Peripheral Blood Smear:
+        *   Schistocytes (fragmented RBCs)
+        *   Polychromasia (increased reticulocytes)
+        *   Decreased platelets
+    *   Coagulation Studies:
+        *   PT and aPTT: Usually normal
+        *   Fibrinogen: Normal or slightly increased
+        *   D-dimer: May be elevated
+    *   Lactate Dehydrogenase (LDH): Elevated (due to hemolysis)
+    *   Indirect Bilirubin: Elevated (due to hemolysis)
+    *   Haptoglobin: Decreased (due to hemolysis)
+    *   Creatinine: Elevated (due to renal involvement)
+    *   ADAMTS13 Activity Assay:
+        *   Markedly reduced (<10% of normal) in most cases of acquired TTP
+        *   Absent in hereditary TTP
+    *   ADAMTS13 Inhibitor Assay:
+        *   Detects the presence of autoantibodies against ADAMTS13
+*   **Diagnosis:** Diagnosis of TTP requires prompt recognition and treatment
+*   **Treatment:**
+    *   Plasma Exchange:
+        *   Mainstay of treatment
+        *   Removes vWF multimers and replaces ADAMTS13
+    *   Corticosteroids:
+        *   To suppress autoantibody production
+    *   Rituximab:
+        *   Anti-CD20 monoclonal antibody that depletes B cells and reduces autoantibody production
+    *   Caplacizumab:
+        *   A humanized nanobody that binds to vWF and inhibits its interaction with platelets
+        *   Reduces the risk of thrombotic events and shortens the duration of plasma exchange
+    *   Avoid Platelet Transfusions: Platelet transfusions may exacerbate the thrombotic process and are generally avoided unless life-threatening bleeding occurs
+
+## **Heparin-Induced Thrombocytopenia (HIT)** {-}
+
+*   **Definition:** A potentially life-threatening immune-mediated disorder characterized by thrombocytopenia and an increased risk of thrombosis following exposure to heparin
+*   **Types:**
+    *   Type I HIT (Non-Immune): Mild, transient thrombocytopenia occurring within the first 2 days of heparin exposure. Not clinically significant
+    *   Type II HIT (Immune-Mediated):
+        *   Antibodies against heparin-platelet factor 4 (PF4) complex, leading to platelet activation and thrombosis
+        *   Clinically significant and associated with a high risk of venous and arterial thrombosis
+*   **Pathophysiology:**
+    *   Heparin-PF4 Complex Formation: Heparin binds to platelet factor 4 (PF4), a positively charged protein released from platelets
+    *   Antibody Production: Patients develop IgG antibodies against the heparin-PF4 complex
+    *   Platelet Activation: IgG antibodies bind to the heparin-PF4 complex on platelet surfaces, leading to platelet activation and aggregation via FcγIIa receptors
+    *   Thrombosis: Activated platelets release procoagulant factors, leading to thrombin generation and thrombosis
+    *   Thrombocytopenia: Platelets are consumed in the formation of thrombi and cleared from the circulation
+*   **Clinical Features:**
+    *   Thrombocytopenia: Typically occurs 5-10 days after starting heparin (but can occur earlier with prior heparin exposure)
+    *   Thrombosis: Venous and arterial thromboembolic events (e.g., DVT, pulmonary embolism, stroke, limb ischemia, skin necrosis)
+    *   Skin Necrosis at Heparin Injection Sites
+    *   Systemic Reactions: Chills, fever, dyspnea (less common)
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Thrombocytopenia (platelet count typically <150 x 10^9/L, but can be variable)
+    *   Peripheral Blood Smear:
+        *   Usually normal; may see large platelets
+    *   HIT Antibody Testing:
+        *   Screening Assay: ELISA or immunoturbidimetric assay to detect antibodies against heparin-PF4 complex (high sensitivity, but lower specificity)
+        *   Confirmatory Assay: Serotonin Release Assay (SRA) or Heparin-Induced Platelet Activation (HIPA) assay (high specificity)
+    *   Coagulation Studies:
+        *   aPTT: May be prolonged, normal, or shortened
+    *   D-dimer: Elevated
+*   **Diagnosis:** 4Ts Scoring System
+    *   Thrombocytopenia: Degree and timing of platelet count fall
+    *   Timing: When did the thrombocytopenia occur in relation to Heparin use
+    *   Thrombosis: Presence of new thrombosis or skin necrosis
+    *   Other Causes for Thrombocytopenia: Absence of other obvious causes of thrombocytopenia
+*   **Treatment:**
+    *   Stop Heparin Immediately: This is the *most* important step
+    *   Administer Alternative Anticoagulant:
+        *   Direct Thrombin Inhibitors (DTIs): Argatroban, bivalirudin
+        *   Fondaparinux: A synthetic pentasaccharide that inhibits factor Xa
+    *   Avoid Platelet Transfusions: Platelet transfusions may exacerbate thrombosis in HIT
+    *   Warfarin: Should be avoided acutely due to the risk of venous limb gangrene; can be initiated once the platelet count has recovered and the patient is on a stable dose of a non-heparin anticoagulant
+    
+## **Key Terms** {-}
+
+*   **Thrombocytopenia:** Decreased platelet count (<150 x 10^9/L)
+*   **ITP (Immune Thrombocytopenic Purpura):** Autoimmune destruction of platelets
+*   **TTP (Thrombotic Thrombocytopenic Purpura):** Microangiopathic hemolytic anemia and thrombocytopenia due to ADAMTS13 deficiency
+*   **HUS (Hemolytic Uremic Syndrome):** Microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury
+*   **DIC (Disseminated Intravascular Coagulation):** Systemic activation of coagulation and fibrinolysis
+*   **Schistocytes:** Fragmented red blood cells
+*   **ADAMTS13:** A metalloprotease that cleaves von Willebrand factor (vWF)
+*   **Heparin-Induced Thrombocytopenia (HIT):** Immune-mediated thrombocytopenia caused by antibodies against heparin-PF4 complex
+*   **Heparin-Platelet Factor 4 (PF4) Complex:** Target for antibodies in HIT
+*   **Haptoglobin:** Protein that binds free hemoglobin released into the plasma
+*   **Microangiopathic Hemolytic Anemia (MAHA):** Hemolytic anemia caused by mechanical destruction of RBCs in small blood vessels

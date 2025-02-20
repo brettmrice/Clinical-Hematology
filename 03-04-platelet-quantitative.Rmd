@@ -1,0 +1,187 @@
+# Quantitative {-}
+
+## **Overview of Platelet Quantitative Abnormalities** {-}
+
+*   **Platelets (Thrombocytes):** Small, anucleate cell fragments essential for hemostasis (blood clotting)
+*   **Normal Platelet Count:** 150,000 - 450,000 /μL (150-450 x 10^9/L)
+*   **Quantitative Abnormalities:**
+    *   Thrombocytopenia: Decreased platelet count
+    *   Thrombocytosis: Increased platelet count
+*   **Clinical Significance:** Abnormal platelet counts can lead to bleeding (thrombocytopenia) or thrombosis (thrombocytosis)
+*   **Laboratory Evaluation:** Accurate platelet counting and peripheral blood smear examination are essential for diagnosis and management
+
+## **Thrombocytopenia** {-}
+
+*   **Definition:** A decreased platelet count, defined as a platelet count <150 x 10^9/L
+*   **Classification:**
+    *   Based on Mechanism:
+        *   Decreased Platelet Production: The bone marrow is not producing enough platelets
+        *   Increased Platelet Destruction: Platelets are being destroyed or consumed at an accelerated rate
+        *   Sequestration: Platelets are trapped in the spleen
+        *   Dilutional: As a result of blood transfusions or fluid administration.
+    *   Based on Severity:
+        *   Mild Thrombocytopenia: 100-150 x 10^9/L
+        *   Moderate Thrombocytopenia: 50-100 x 10^9/L
+        *   Severe Thrombocytopenia: <50 x 10^9/L
+*   **Pseudothrombocytopenia:** A falsely low platelet count due to platelet clumping in the presence of EDTA anticoagulant
+
+## **Causes of Thrombocytopenia** {-}
+
+*   **Decreased Platelet Production:**
+    *   Bone Marrow Disorders:
+        *   Aplastic Anemia: Bone marrow failure with decreased production of all blood cell lines
+        *   Myelodysplastic Syndromes (MDS): Dysplastic changes in megakaryocytes leading to impaired platelet production
+        *   Leukemia: Infiltration of the bone marrow by leukemic cells, crowding out normal megakaryocytes
+        *   Myelofibrosis: Scarring of the bone marrow, impairing megakaryopoiesis
+    *   Infections:
+        *   Viral Infections: Parvovirus B19, HIV, hepatitis C
+        *   Bacterial Infections: Sepsis
+    *   Nutritional Deficiencies:
+        *   Vitamin B12 or folate deficiency (megaloblastic anemia)
+        *   Iron deficiency
+    *   Alcohol Abuse:
+        *   Direct toxic effect on megakaryocytes
+    *   Medications:
+        *   Chemotherapy
+        *   Thiazide diuretics
+        *   Alcohol abuse
+        *   Others
+*   **Increased Platelet Destruction:**
+    *   Immune Thrombocytopenic Purpura (ITP):
+        *   Autoantibodies (usually IgG) bind to platelet surface antigens, leading to their destruction by the spleen
+        *   Can be acute (often in children after viral infection) or chronic (more common in adults)
+        *   Warm Autoimmune Hemolytic Anemia (AIHA):
+            *   The RBC is also destroyed
+            *   Evans Syndrome is having an AIHA and Immune Thrombocytopenia Purpura (ITP) at the same time
+        *   Drug-Induced Thrombocytopenia:
+            *   Certain drugs (e.g., heparin, quinine, sulfonamides) can induce antibody formation that leads to platelet destruction
+        *   Heparin-Induced Thrombocytopenia (HIT):
+            *   Antibodies against heparin-platelet factor 4 (PF4) complex, leading to platelet activation and thrombosis
+    *   Thrombotic Microangiopathies (TMAs):
+        *   Thrombotic Thrombocytopenic Purpura (TTP):
+            *   Deficiency of ADAMTS13, a metalloprotease that cleaves von Willebrand factor (vWF)
+            *   Large vWF multimers accumulate in the microvasculature, leading to platelet activation, microthrombi formation, and organ damage
+            *   PENTAD: Thrombocytopenia, Microangiopathic Hemolytic Anemia (MAHA), Neurologic Abnormalities, Fever, and Renal abnormalities.
+        *   Hemolytic Uremic Syndrome (HUS):
+            *   Primarily caused by Shiga toxin-producing *Escherichia coli* (STEC-HUS)
+            *   Shiga toxin damages endothelial cells in the kidneys, leading to platelet activation, microthrombi formation, and renal failure
+            *   Triad: Thrombocytopenia, MAHA, and acute kidney injury
+        *   Disseminated Intravascular Coagulation (DIC):
+            *   Systemic activation of coagulation and fibrinolysis, leading to consumption of platelets and clotting factors
+            *   Caused by infection, trauma, malignancy, or obstetric complications
+    *   HELLP Syndrome (Hemolysis, Elevated Liver Enzymes, Low Platelet Count):
+        *   A complication of pregnancy characterized by hemolysis, elevated liver enzymes, and thrombocytopenia
+    *   Post-Transfusion Purpura (PTP):
+        *   Rare, delayed hemolytic transfusion reaction in which the patient develops antibodies against platelet antigens, leading to thrombocytopenia
+
+*   **Sequestration:**
+
+    *   Hypersplenism: Enlargement of the spleen, leading to increased trapping and destruction of platelets
+
+*   **Dilutional:**
+
+    *   Massive transfusion or fluid resuscitation may cause dilutional thrombocytopenia
+
+## **Laboratory Findings** {-}
+
+*   **Complete Blood Count (CBC):**
+    *   Platelet Count: Decreased (<150 x 10^9/L)
+    *   Other Cell Lines: May be normal or abnormal depending on the underlying cause
+        *   Anemia: May be present in some cases
+        *   Leukopenia or Leukocytosis: May be present depending on the cause
+*   **Peripheral Blood Smear Examination:**
+    *   Platelet Estimate: To confirm the accuracy of the automated platelet count
+    *   Platelet Morphology:
+        *   Large platelets (megathrombocytes): May be seen in ITP and other conditions with increased platelet turnover
+        *   Schistocytes (fragmented RBCs): Seen in thrombotic microangiopathies (TTP, HUS, DIC)
+    *   Red Blood Cell Morphology:
+        *   Spherocytes: May be seen in AIHA
+        *   Schistocytes: Seen in thrombotic microangiopathies
+    *   Presence of Abnormal Cells:
+        *   Blasts: May be seen in bone marrow disorders
+*   **Bone Marrow Aspiration and Biopsy (If Indicated):**
+    *   Megakaryocyte Number: To assess platelet production
+        *   Increased in thrombocytopenia due to increased destruction
+        *   Decreased in thrombocytopenia due to decreased production
+    *   Megakaryocyte Morphology: To evaluate for dysplasia
+*   **Coagulation Studies (PT, aPTT, Fibrinogen, D-dimer):**
+    *   To evaluate for DIC
+*   **Direct Antiglobulin Test (DAT or Coombs Test):**
+    *   To detect antibodies or complement proteins on the surface of RBCs (used to rule out AIHA)
+*   **Specific Tests for Immune-Mediated Thrombocytopenia:**
+    *   Platelet Antibody Testing: Detects antibodies against platelet surface antigens (e.g., GPIIb/IIIa, GPIb/IX)
+    *   HIT Antibody Testing: Detects antibodies against heparin-platelet factor 4 (PF4) complex
+*   **ADAMTS13 Activity Assay:**
+    *   Measures the activity of ADAMTS13, which is decreased or absent in TTP
+*   **Stool Shiga Toxin Assay:**
+    *   Detects Shiga toxin in the stool, which is associated with STEC-HUS
+
+**Thrombocytosis**
+
+*   **Definition:** An increased platelet count, defined as a platelet count >450 x 10^9/L
+*   **Classification:**
+    *   Reactive (Secondary) Thrombocytosis:
+        *   Transient elevation in the platelet count due to an underlying condition
+    *   Primary (Essential) Thrombocythemia (ET):
+        *   A myeloproliferative neoplasm characterized by sustained thrombocytosis and increased risk of thrombosis and bleeding
+
+## **Causes of Thrombocytosis** {-}
+
+*   **Reactive (Secondary) Thrombocytosis:**
+
+    *   Infections:
+        *   Acute and chronic infections (bacterial, viral, fungal)
+    *   Inflammation:
+        *   Rheumatoid arthritis
+        *   Inflammatory bowel disease (IBD)
+        *   Vasculitis
+    *   Iron Deficiency Anemia:
+        *   Mechanism is not fully understood but may involve increased thrombopoietin (TPO) levels
+    *   Splenectomy:
+        *   Loss of splenic sequestration leads to increased circulating platelets
+    *   Surgery or Trauma
+    *   Malignancy:
+        *   Certain cancers can stimulate thrombocytosis
+    *   Rebound Thrombocytosis:
+        *   After recovery from thrombocytopenia
+    *   Physiologic:
+        *   Exercise
+        *   Stress
+        *   Pregnancy
+        *   Postpartum
+
+*   **Essential Thrombocythemia (ET):**
+
+    *   A myeloproliferative neoplasm characterized by sustained thrombocytosis and increased risk of thrombosis and bleeding
+    *   Caused by mutations in *JAK2*, *CALR*, or *MPL* genes
+
+## **Laboratory Findings** {-}
+
+*   **Thrombocytopenia:**
+    *   Platelet Count: Decreased (<150 x 10^9/L)
+    *   Peripheral Blood Smear: Decreased number of platelets, may show large platelets (megathrombocytes)
+    *   Bone Marrow Examination:
+        *   Increased, normal, or decreased megakaryocytes depending on the cause
+*   **Thrombocytosis:**
+    *   Platelet Count: Increased (>450 x 10^9/L)
+    *   Peripheral Blood Smear:
+        *   Increased number of platelets
+        *   May show large platelets or abnormal platelet morphology
+    *   Tests to Evaluate for Underlying Causes (for Reactive Thrombocytosis):
+        *   Inflammatory markers (ESR, CRP)
+        *   Iron studies (serum iron, TIBC, ferritin)
+        *   Complete blood count (CBC) to assess for infection or other hematologic abnormalities
+    *   Molecular Testing (for Suspected ET):
+        *   *JAK2*, *CALR*, and *MPL* mutation analysis
+
+## **Key Terms** {-}
+
+*   **Thrombocytopenia:** Decreased platelet count (<150 x 10^9/L)
+*   **Thrombocytosis:** Increased platelet count (>450 x 10^9/L)
+*   **Reactive Thrombocytosis:** Transient increase in platelet count due to an underlying condition
+*   **Essential Thrombocythemia (ET):** Myeloproliferative neoplasm with sustained thrombocytosis
+*   **Megathrombocytes:** Large platelets
+*   **JAK2, CALR, MPL:** Genes mutated in myeloproliferative neoplasms
+*   **ADAMTS13:** A metalloprotease that cleaves von Willebrand factor (vWF)
+*   **Schistocytes:** Fragmented red blood cells
+*   **Bone Marrow Aspiration and Biopsy:** Procedures to collect and examine bone marrow cells

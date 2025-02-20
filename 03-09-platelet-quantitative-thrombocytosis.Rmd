@@ -1,0 +1,166 @@
+# Thrombocytosis {-}
+
+## **Overview of Thrombocytosis** {-}
+
+*   **Definition:** An abnormally elevated platelet count in the peripheral blood, generally defined as a platelet count greater than 450 x 10^9/L (450,000/µL)
+*   **Clinical Significance:** Thrombocytosis can increase the risk of thrombosis (blood clots) and, paradoxically, in some cases, bleeding
+*   **Classification:**
+    *   Reactive (Secondary) Thrombocytosis: The most common type, caused by an underlying condition
+    *   Essential (Primary) Thrombocythemia: A myeloproliferative neoplasm characterized by sustained thrombocytosis and increased risk of thrombosis and bleeding
+
+## **Reactive Thrombocytosis (Secondary Thrombocytosis)** {-}
+
+*   **Definition:** An elevated platelet count that occurs as a *reaction* to an underlying condition. It's not a primary disorder of the bone marrow
+*   **Characteristics:**
+    *   Transient: Platelet count usually returns to normal once the underlying condition resolves
+    *   Mild to Moderate Elevation: Platelet counts are typically less than 1000 x 10^9/L, but this is not a strict cutoff
+    *   Lack of Clonal Marker: Absence of genetic mutations (e.g., JAK2, CALR, MPL) associated with essential thrombocythemia
+
+*   **Common Causes of Reactive Thrombocytosis:**
+    *   Infections:
+        *   Acute and chronic bacterial infections
+        *   Fungal infections
+        *   Viral infections (less common)
+    *   Inflammation:
+        *   Autoimmune disorders (e.g., rheumatoid arthritis, inflammatory bowel disease)
+        *   Vasculitis
+        *   Acute pancreatitis
+        *   Tissue injury (e.g., trauma, surgery, burns)
+    *   Iron Deficiency Anemia (IDA):
+        *   Platelet count may normalize after iron repletion
+    *   Hemorrhage:
+        *   Following acute blood loss, the platelet count may temporarily increase
+    *   Splenectomy:
+        *   Removal of the spleen leads to increased platelet counts, as the spleen normally removes senescent platelets
+        *   Platelet counts can be very high (>1000 x 10^9/L) after splenectomy
+    *   Rebound Thrombocytosis:
+        *   Following recovery from thrombocytopenia caused by chemotherapy or bone marrow suppression
+    *   Malignancy:
+        *   Certain cancers (e.g., lung, breast, ovarian) can cause reactive thrombocytosis
+    *   Medications:
+        *   Corticosteroids
+        *   Epinephrine
+
+*   **Pathophysiology:**
+    *   Increased Thrombopoietin (TPO) Production:
+        *   Many of the underlying conditions associated with reactive thrombocytosis stimulate the production of thrombopoietin (TPO), the primary regulator of platelet production
+        *   TPO is produced mainly by the liver and kidneys
+        *   TPO stimulates megakaryocyte proliferation and differentiation in the bone marrow, leading to increased platelet production
+    *   Increased Release of Platelets from the Bone Marrow:
+        *   Inflammatory cytokines can promote the release of platelets from the bone marrow storage pool
+    *   Decreased Platelet Sequestration:
+        *   Splenectomy removes the spleen, the main site of platelet destruction and sequestration, leading to increased platelet counts
+
+*   **Clinical Features of Reactive Thrombocytosis:**
+    *   Often asymptomatic
+    *   Symptoms of the underlying condition may be present (e.g., fever, pain, inflammation)
+    *   Thrombotic or bleeding complications are *rare* in reactive thrombocytosis, especially when platelet counts are <1000 x 10^9/L
+
+*   **Laboratory Findings in Reactive Thrombocytosis:**
+    *   Complete Blood Count (CBC):
+        *   Elevated platelet count (usually < 1000 x 10^9/L)
+        *   May see other abnormalities depending on the underlying cause (e.g., elevated WBC count in infection, anemia in iron deficiency)
+    *   Peripheral Blood Smear:
+        *   Increased number of platelets
+        *   Platelets usually appear normal in size and morphology
+        *   May see other abnormalities related to the underlying condition (e.g., microcytes in iron deficiency)
+    *   Iron Studies:
+        *   May be abnormal in iron deficiency anemia (low serum iron and ferritin, high TIBC)
+    *   Inflammatory Markers:
+        *   Elevated ESR, CRP, and/or other inflammatory markers
+    *   JAK2, CALR, and MPL Mutation Testing:
+        *   *Negative*: Helps to rule out essential thrombocythemia (ET)
+
+## **Essential Thrombocythemia (Primary Thrombocythemia)** {-}
+
+*   **Definition:** A myeloproliferative neoplasm characterized by sustained thrombocytosis and increased risk of thrombosis and bleeding. It's a primary disorder of the bone marrow
+*   **Diagnostic Criteria (WHO Criteria):**
+    *   Sustained Platelet Count ≥450 x 10^9/L
+    *   Bone Marrow Showing Increased Numbers of Megakaryocytes with Abnormal Morphology
+        *   Increased numbers of large, mature megakaryocytes with hyperlobated nuclei
+    *   Exclusion of Other MPNs: Absence of criteria for PV, PMF, or CML
+    *   Presence of a Clonal Marker or Evidence of Clonal Hematopoiesis:
+        *   *JAK2* V617F mutation (present in approximately 50-60% of patients)
+        *   *CALR* mutation (present in approximately 25% of patients)
+        *   *MPL* mutation (present in approximately 5% of patients)
+        *   If all three mutations are negative, other evidence of clonality is required
+*   **Pathophysiology:**
+    *   Mutations in *JAK2, CALR, or MPL* Genes:
+        *   These mutations lead to constitutive activation of signaling pathways that control megakaryocyte proliferation and platelet production
+        *   *JAK2* V617F: A point mutation in the *JAK2* gene
+        *   *CALR* mutations: Insertions or deletions in the *CALR* gene
+        *   *MPL* mutations: Mutations in the *MPL* gene (thrombopoietin receptor)
+    *   Megakaryocyte Hyperplasia: Increased numbers of megakaryocytes in the bone marrow
+    *   Increased Platelet Production: Megakaryocytes produce excessive numbers of platelets
+*   **Clinical Features:**
+    *   Many patients are asymptomatic at diagnosis
+    *   Thrombotic Events:
+        *   Stroke
+        *   Transient ischemic attack (TIA)
+        *   Myocardial infarction (heart attack)
+        *   Deep vein thrombosis (DVT)
+        *   Pulmonary embolism (PE)
+        *   Erythromelalgia (burning pain and redness in the extremities)
+    *   Bleeding Events:
+        *   Paradoxically, some patients may experience bleeding due to abnormal platelet function
+        *   Easy bruising
+        *   Nosebleeds
+        *   Gastrointestinal bleeding
+    *   Splenomegaly: Enlarged spleen (less common than in PV or PMF)
+    *   Constitutional Symptoms: Fatigue, night sweats, weight loss (less common)
+*   **Laboratory Findings:**
+    *   CBC:
+        *   Elevated platelet count (sustained >450 x 10^9/L)
+        *   WBC count: May be normal or slightly elevated
+        *   RBC count: Usually normal, but may be slightly elevated
+    *   Peripheral Blood Smear:
+        *   Thrombocytosis (increased platelets)
+        *   Large platelets (megathrombocytes)
+        *   Abnormal platelet morphology (e.g., hypogranular platelets)
+    *   Bone Marrow Examination:
+        *   Increased numbers of megakaryocytes with abnormal morphology (e.g., large, hyperlobated nuclei)
+        *   May see increased granulopoiesis
+        *   Little or no reticulin fibrosis (unlike primary myelofibrosis)
+    *   Molecular Testing:
+        *   Positive for *JAK2*, *CALR*, or *MPL* mutation (in most cases)
+*   **Treatment:**
+    *   Low-Risk Patients (Low Risk of Thrombosis):
+        *   Low-Dose Aspirin: To reduce the risk of thrombosis
+    *   High-Risk Patients (High Risk of Thrombosis):
+        *   Low-Dose Aspirin
+        *   Cytoreductive Therapy:
+            *   Hydroxyurea: To lower the platelet count
+            *   Anagrelide: Inhibits platelet production
+            *   Interferon-alpha: May be used in younger patients or pregnant women
+    *   Risk Stratification:
+        *   Various risk scoring systems are used to estimate the risk of thrombosis and guide treatment decisions
+
+## **Distinguishing Reactive Thrombocytosis from Essential Thrombocythemia** {-}
+
+| Feature             | Reactive Thrombocytosis                   | Essential Thrombocythemia                |
+| ------------------- | --------------------------------------- | ----------------------------------------- |
+| Platelet Count      | Usually < 1000 x 10^9/L                 | ≥450 x 10^9/L                             |
+| Platelet Morphology | Usually normal                           | Large platelets, abnormal morphology        |
+| Cause               | Underlying condition (e.g., infection, inflammation, IDA) | Clonal myeloproliferative neoplasm          |
+| *JAK2*, *CALR*, *MPL* | Negative                                | Often positive                            |
+| Thrombosis Risk     | Low                                     | Increased                                 |
+| Splenomegaly        | Absent or mild                          | Can be present (but less prominent than PMF) |
+
+## **General Laboratory Tests for Thrombocytosis** {-}
+
+*   **Complete Blood Count (CBC) with Peripheral Blood Smear:** Essential for diagnosis and classification
+*   **Iron Studies:** To rule out iron deficiency anemia
+*   **Inflammatory Markers:** (ESR, CRP) to assess for underlying inflammation
+*   **Mutation Testing:** (JAK2, CALR, and MPL) to rule out essential thrombocythemia and primary myelofibrosis
+*   **Bone Marrow Aspiration and Biopsy:** May be necessary to evaluate for MPNs or other bone marrow disorders
+
+## **Key Terms** {-}
+
+*   **Thrombocytosis:** Elevated platelet count
+*   **Reactive Thrombocytosis:** Thrombocytosis due to an underlying condition
+*   **Essential Thrombocythemia (ET):** Clonal MPN with sustained thrombocytosis
+*   **Myeloproliferative Neoplasm (MPN):** Clonal disorder of hematopoietic stem cells
+*   **JAK2, CALR, MPL:** Genes commonly mutated in MPNs
+*   **Phlebotomy:** Removal of blood to reduce red cell mass
+*   **Hydroxyurea:** A chemotherapeutic drug used to suppress bone marrow proliferation
+*   **Anagrelide:** A drug that inhibits platelet production

@@ -1,0 +1,95 @@
+# Pseudo {-}
+
+## **Overview of Pseudothrombocytopenia** {-}
+
+*   **Definition:** A falsely low platelet count reported by automated hematology analyzers due to in vitro platelet clumping or platelet satellitism. The *actual* platelet count in the patient is normal or only mildly reduced
+*   **Significance:** Recognizing pseudothrombocytopenia is crucial to avoid misdiagnosis of true thrombocytopenia and to prevent unnecessary and potentially harmful investigations and treatments (e.g., bone marrow biopsy, platelet transfusions)
+*   **Key Feature:** Platelet clumping or platelet satellitism is present on the peripheral blood smear, but the patient does not have clinical signs of bleeding (e.g., petechiae, purpura, easy bruising)
+
+## **Mechanisms of Pseudothrombocytopenia** {-}
+*   **EDTA-Induced Platelet Clumping:**
+
+    *   *Most common cause* of pseudothrombocytopenia
+    *   EDTA (ethylenediaminetetraacetic acid) is the anticoagulant used in most CBC collection tubes
+    *   In some individuals, EDTA triggers the exposure of cryptic platelet antigens (e.g., GPIIb/IIIa)
+    *   Autoantibodies (usually IgG or IgM) against these exposed platelet antigens cause platelets to clump together in vitro
+    *   The automated analyzer counts these clumps as single events, resulting in a falsely low platelet count
+*   **Platelet Satellitism:**
+
+    *   Less common than platelet clumping
+    *   Platelets adhere to the surface of neutrophils or, less commonly, other blood cells (lymphocytes, RBCs)
+    *   The automated analyzer may misidentify these platelets as part of the white blood cell population, leading to an inaccurate platelet count
+
+## **Laboratory Findings** {-}
+
+*   **Automated Platelet Count:**
+
+    *   Falsely low platelet count (often significantly reduced)
+    *   The degree of thrombocytopenia can vary depending on the severity of the platelet clumping or satellitism
+
+*   **Peripheral Blood Smear:**
+
+    *   Essential for diagnosing pseudothrombocytopenia
+    *   Platelet Clumps:
+        *   Aggregates of platelets are visible on the smear, ranging from small clumps to large aggregates
+        *   The clumps are often unevenly distributed on the smear
+        *   The presence of platelet clumping is *essential* for diagnosing EDTA-induced pseudothrombocytopenia
+    *   Platelet Satellitism:
+        *   Platelets adhere to the surface of neutrophils or other blood cells, forming a "ring" or "halo" around the cells
+        *   May be difficult to distinguish from true platelet adherence in some cases
+
+## **Corrective Action Procedure** {-}
+
+The following steps should be taken when pseudothrombocytopenia is suspected:
+
+1.  **Review the CBC Results and Peripheral Blood Smear:**
+    *   Assess the platelet count and other CBC parameters
+    *   Examine the peripheral blood smear to confirm the presence of platelet clumping or platelet satellitism
+2.  **Repeat the CBC on a Sample Collected in a Different Anticoagulant:**
+    *   This is the *most important* step
+    *   Collect a new blood sample in a tube containing sodium citrate (light blue top) or heparin (green top) as the anticoagulant
+    *   Citrate and heparin typically do not cause platelet clumping in individuals with EDTA-induced pseudothrombocytopenia
+    *   **Important Note:** Sodium citrate dilutes the blood sample, so the platelet count obtained from the citrate tube must be multiplied by a correction factor (usually 1.1) to account for the dilution:
+
+        *Corrected Platelet Count = Platelet Count (Citrate Tube) x 1.1*
+3.  **Perform a Manual Platelet Count:**
+    *   If platelet clumping persists despite using an alternative anticoagulant, a manual platelet count may be necessary
+    *   Prepare a well-made peripheral blood smear and count platelets manually, avoiding areas with platelet clumping
+    *   Use a microscope with a calibrated eyepiece graticule to count platelets in a defined area or number of fields
+4.  **Warm the Sample:**
+    *   Warming the sample to 37°C may help disperse platelet clumps in some cases
+    *   Incubate the sample at 37°C for 15-30 minutes before re-analyzing
+5.  **Dilution:**
+    *   Diluting the sample with saline or another appropriate diluent may help disperse platelet clumps
+    *   Ensure that the dilution factor is accounted for when calculating the final platelet count
+6.  **Rule Out Other Causes of Thrombocytopenia:**
+    *   If the platelet count remains low despite corrective actions, consider other causes of true thrombocytopenia, such as:
+        *   Increased platelet destruction (e.g., ITP, TTP, HIT)
+        *   Decreased platelet production (e.g., bone marrow failure)
+7.  **Documentation and Reporting:**
+    *   Clearly document all corrective actions taken in the patient's laboratory record, including:
+        *   The initial platelet count and the presence of platelet clumping on the smear
+        *   The type of anticoagulant used for the repeat sample
+        *   The corrected platelet count (if applicable)
+        *   A comment indicating that pseudothrombocytopenia was present and that the results were corrected accordingly
+    *   Report the corrected platelet count to the physician, noting that pseudothrombocytopenia was identified
+8.  **Communication with the Physician:**
+    *   Notify the physician about the presence of pseudothrombocytopenia and the corrective actions taken
+    *   Explain the potential for falsely low platelet counts and the importance of relying on the corrected results
+    *   Discuss the need for further investigation if the patient has clinical signs of bleeding or if the corrected platelet count is significantly low
+
+## **Key Considerations** {-}
+
+*   **Prompt Action:** It's essential to take prompt action when pseudothrombocytopenia is suspected to avoid unnecessary investigations and treatments
+*   **Visual Confirmation:** Always confirm the presence of platelet clumping or satellitism on the peripheral blood smear before initiating corrective actions
+*   **Accuracy:** Ensure accurate measurement and replacement of plasma volume when performing saline replacement procedures
+*   **Documentation:** Thorough documentation of the procedure and results is essential for accurate reporting and patient management
+*   **Communication:** Clear communication with the physician is critical for ensuring appropriate clinical decision-making
+
+## **Key Terms** {-}
+
+*   **Pseudothrombocytopenia:** Falsely low platelet count due to in vitro platelet clumping or satellitism
+*   **EDTA:** Ethylenediaminetetraacetic acid, the anticoagulant used in most CBC tubes
+*   **Platelet Clumping:** Aggregation of platelets in vitro
+*   **Platelet Satellitism:** Adherence of platelets to other blood cells
+*   **Corrected Platelet Count:** The platelet count obtained after correcting for the effects of dilution or other factors

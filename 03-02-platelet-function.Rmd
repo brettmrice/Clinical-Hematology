@@ -1,0 +1,150 @@
+# PLT Function {-}
+
+## **Overview of Platelet Function** {-}
+
+*   **Definition:** Platelets (thrombocytes) are small, anucleate cell fragments that play a critical role in hemostasis (blood clotting), thrombosis (blood clot formation), and inflammation
+*   **Primary Function:** To initiate and participate in the formation of a platelet plug at sites of vascular injury, thereby preventing excessive bleeding
+*   **Secondary Functions:** Contributing to the coagulation cascade and fibrin clot formation
+*   **Normal Platelet Count:** 150,000 - 450,000 /μL (150-450 x 10^9/L)
+*   **Thrombocytopenia:** Platelet count < 150,000 /μL
+*   **Thrombocytosis:** Platelet count > 450,000 /μL
+
+## **Platelet Structure** {-}
+
+*   **Plasma Membrane:**
+    *   Phospholipid bilayer with embedded glycoproteins and receptors
+    *   Glycocalyx: Outer coating containing glycoproteins that mediate adhesion to subendothelial matrix and other platelets
+*   **Cytoplasm:**
+    *   Granules:
+        *   Alpha Granules: Contain clotting factors (e.g., fibrinogen, von Willebrand factor [vWF]), growth factors (e.g., platelet-derived growth factor [PDGF]), and adhesion molecules (e.g., P-selectin)
+        *   Dense Granules (δ-granules): Contain ADP, ATP, serotonin, and calcium
+        *   Lysosomes: Contain hydrolytic enzymes
+    *   Open Canalicular System (OCS): System of channels that connect the platelet interior to the external environment, facilitating the release of granular contents and increasing surface area
+    *   Dense Tubular System (DTS): Storage site for calcium ions and enzymes involved in prostaglandin and thromboxane synthesis
+    *   Microtubules and Actin Filaments: Provide structural support and facilitate shape change, movement, and clot retraction
+
+## **Key Steps in Platelet Function** {-}
+
+1.  **Adhesion:**
+    *   **Mechanism:**
+        *   Platelets adhere to the exposed subendothelial matrix at sites of vascular injury
+        *   Von Willebrand factor (vWF) acts as a bridge between the platelet glycoprotein Ib/IX/V receptor (GPIb/IX/V) and collagen in the subendothelium
+        *   Other adhesion molecules: Collagen receptors (e.g., GPVI), integrins (e.g., α2β1)
+    *   **Disorders of Adhesion:**
+        *   Bernard-Soulier Syndrome: Deficiency of GPIb/IX/V complex, leading to impaired vWF binding
+        *   von Willebrand Disease: Deficiency or dysfunction of vWF, leading to impaired platelet adhesion
+
+2.  **Activation:**
+    *   **Mechanism:**
+        *   Adhesion triggers platelet activation, leading to a cascade of intracellular signaling events
+        *   Release of ADP and thromboxane A2 (TXA2) amplifies the activation process
+        *   Activation leads to:
+            *   Shape change: Platelets transform from discoid shape to spherical shape with pseudopodia (filopodia)
+            *   Granule release (degranulation): Secretion of granular contents into the surrounding environment
+            *   Increased expression of GPIIb/IIIa receptors on the platelet surface
+    *   **Key Receptors and Signaling Molecules:**
+        *   ADP receptors (P2Y1 and P2Y12): Bind ADP, promoting platelet activation and aggregation
+        *   Thromboxane A2 (TXA2): A potent platelet activator and vasoconstrictor, synthesized from arachidonic acid by cyclooxygenase (COX) and thromboxane synthase
+        *   Thrombin: A potent activator of platelets via protease-activated receptors (PARs)
+        *   Collagen: Activates platelets via the GPVI receptor
+    *   **Disorders of Activation:**
+        *   Storage Pool Deficiencies: Deficiencies in platelet granules (e.g., dense granule deficiency, alpha granule deficiency)
+        *   Gray Platelet Syndrome: Deficiency of alpha granules, leading to impaired platelet function
+
+3.  **Aggregation:**
+    *   **Mechanism:**
+        *   Activated platelets bind to each other, forming a platelet plug (primary hemostatic plug)
+        *   The GPIIb/IIIa receptor (integrin αIIbβ3) on activated platelets binds to fibrinogen, which acts as a bridge between adjacent platelets
+        *   This cross-linking of fibrinogen molecules promotes platelet aggregation
+    *   **Disorders of Aggregation:**
+        *   Glanzmann Thrombasthenia: Deficiency of the GPIIb/IIIa receptor, leading to impaired platelet aggregation
+
+4.  **Secretion (Release Reaction):**
+    *   **Mechanism:**
+        *   Activated platelets release the contents of their granules (alpha granules and dense granules)
+        *   ADP and TXA2 amplify platelet activation and promote further aggregation
+        *   Serotonin contributes to vasoconstriction
+        *   Clotting factors (e.g., fibrinogen, vWF) contribute to secondary hemostasis
+    *   **Disorders of Secretion:**
+        *   Storage pool deficiencies (e.g., Wiskott-Aldrich syndrome)
+
+5.  **Stabilization of the Platelet Plug:**
+    *   **Mechanism:**
+        *   The coagulation cascade is activated, leading to the formation of fibrin
+        *   Fibrinogen binds to the activated GPIIb/IIIa receptors, forming a fibrin meshwork that stabilizes the platelet plug
+        *   Clot retraction: Platelets contract, pulling the edges of the damaged vessel together and strengthening the clot
+    *   **Role of Thrombin:** Thrombin is a key enzyme in the coagulation cascade and also a potent platelet activator, creating a positive feedback loop
+
+## **Regulation of Platelet Function** {-}
+
+*   **Prostacyclin (PGI2):**
+    *   Produced by endothelial cells
+    *   Inhibits platelet activation and aggregation
+    *   Causes vasodilation
+*   **Nitric Oxide (NO):**
+    *   Produced by endothelial cells
+    *   Inhibits platelet adhesion, activation, and aggregation
+    *   Causes vasodilation
+*   **ADPase (CD39):**
+    *   An enzyme on endothelial cells that degrades ADP, reducing platelet activation
+*   **Thrombomodulin-Thrombin Complex:**
+    *   Thrombomodulin binds to thrombin, changing its substrate specificity
+    *   The thrombomodulin-thrombin complex activates protein C, which inactivates factors Va and VIIIa, inhibiting coagulation
+*   **Inhibitory Receptors on Platelets:**
+    *   Platelets express receptors that can inhibit platelet activation (e.g., FcγRIIB, GPVI)
+
+## **Platelet Function Tests** {-}
+
+*   **Platelet Count:**
+    *   Measures the number of platelets in the blood
+    *   Used to detect thrombocytopenia and thrombocytosis
+*   **Bleeding Time:**
+    *   *Historical test* (now rarely used)
+    *   Measures the time it takes for bleeding to stop after a standardized skin incision
+    *   Prolonged bleeding time suggests a platelet disorder or von Willebrand disease
+*   **Platelet Function Analyzer (PFA-100):**
+    *   Measures platelet function under high shear stress
+    *   Blood is passed through a small aperture coated with collagen and either epinephrine or ADP
+    *   Measures the time it takes for a platelet plug to form and occlude the aperture (closure time)
+    *   Prolonged closure time suggests a platelet disorder or von Willebrand disease
+*   **Platelet Aggregation Studies:**
+    *   Measures the ability of platelets to aggregate in response to various agonists (e.g., ADP, collagen, epinephrine, thrombin, arachidonic acid, ristocetin)
+    *   Agonists are added to platelet-rich plasma, and the change in light transmission is measured as platelets aggregate
+    *   Abnormal aggregation patterns can help identify specific platelet disorders
+*   **Flow Cytometry:**
+    *   Measures platelet surface markers (e.g., GPIIb/IIIa, GPIb/IX/V)
+    *   Can assess platelet activation and binding of agonists
+*   **Thromboelastography (TEG) and Thromboelastometry (ROTEM):**
+    *   Viscoelastic tests that assess the overall hemostatic function of blood
+    *   Measure the strength and elasticity of the developing clot
+    *   Provide information about platelet function, coagulation factors, and fibrinolysis
+
+## **Disorders of Platelet Function** {-}
+
+*   **Quantitative Disorders:**
+    *   Thrombocytopenia: Decreased platelet count
+    *   Thrombocytosis: Increased platelet count
+*   **Qualitative Disorders:**
+    *   Inherited Platelet Function Disorders:
+        *   Bernard-Soulier Syndrome: Deficiency of GPIb/IX/V complex, impairing vWF binding
+        *   Glanzmann Thrombasthenia: Deficiency of GPIIb/IIIa receptor, impairing platelet aggregation
+        *   Storage Pool Deficiencies: Deficiencies in platelet granules (e.g., dense granule deficiency, alpha granule deficiency)
+    *   Acquired Platelet Function Disorders:
+        *   Uremia: Accumulation of uremic toxins in kidney failure impairs platelet function
+        *   Medications: Aspirin, clopidogrel, and other antiplatelet drugs inhibit platelet function
+        *   Myeloproliferative Neoplasms (MPNs): Abnormal platelet function is common in ET and PMF
+        *   Von Willebrand Disease (vWD): Deficiency or dysfunction of vWF, impairing platelet adhesion
+
+## **Key Terms** {-}
+
+*   **Platelet (Thrombocyte):** Small, anucleate cell fragment involved in hemostasis
+*   **Adhesion:** Platelet attachment to the subendothelial matrix
+*   **Activation:** Platelet stimulation leading to shape change, degranulation, and increased GPIIb/IIIa expression
+*   **Aggregation:** Platelet-to-platelet binding
+*   **Secretion:** Release of granular contents from platelets
+*   **vWF (von Willebrand Factor):** A protein that mediates platelet adhesion
+*   **GPIIb/IIIa:** A platelet surface receptor that binds fibrinogen and mediates platelet aggregation
+*   **Thromboxane A2 (TXA2):** A potent platelet activator and vasoconstrictor
+*   **Prostacyclin (PGI2):** An inhibitor of platelet activation and aggregation
+*   **PFA-100:** Platelet function analyzer
+*   **Thromboelastography (TEG):** A viscoelastic test of hemostasis

@@ -1,0 +1,60 @@
+# Qualitative {-}
+
+## **Overview of Qualitative Platelet Disorders** {-}
+
+*   **Definition:** A group of disorders characterized by abnormal platelet function, despite a normal (or near normal) platelet count. In these disorders, platelets are present in adequate numbers, but they do not function correctly, leading to a bleeding tendency
+*   **Types:**
+    *   Inherited (Congenital): Genetic defects in platelet membrane glycoproteins, receptors, or signaling pathways
+    *   Acquired: Due to medications, systemic diseases, or other factors that impair platelet function
+*   **Common Manifestations:**
+    *   Mucocutaneous bleeding: Bleeding from the skin and mucous membranes (e.g., nosebleeds, gum bleeding, easy bruising, menorrhagia)
+    *   Prolonged bleeding after trauma or surgery
+
+## **Inherited Qualitative Platelet Disorders** {-}
+
+*   **von Willebrand Disease (vWD):**
+    *   **Definition:** The most common inherited bleeding disorder, caused by a deficiency or dysfunction of von Willebrand factor (vWF)
+
+*   **Bernard-Soulier Syndrome (BSS):**
+    *   **Definition:** A rare inherited bleeding disorder caused by a deficiency or dysfunction of the platelet glycoprotein Ib/IX/V (GPIb/IX/V) complex
+
+*   **Glanzmann Thrombasthenia (GT):**
+    *   **Definition:** A rare inherited bleeding disorder caused by a deficiency or dysfunction of the platelet glycoprotein IIb/IIIa (GPIIb/IIIa) complex (also known as αIIbβ3 integrin)
+
+## **Acquired Qualitative Platelet Disorders** {-}
+
+*   **Drug-Induced Platelet Dysfunction:**
+    *   Aspirin: Irreversibly inhibits cyclooxygenase (COX-1), preventing the production of thromboxane A2 (TxA2), a potent platelet activator
+    *   NSAIDs: Reversibly inhibit COX-1 and COX-2
+    *   Clopidogrel and Prasugrel: Block the ADP receptor (P2Y12) on platelets, inhibiting platelet activation and aggregation
+    *   Abciximab, Eptifibatide, and Tirofiban: Block the GPIIb/IIIa receptor, preventing platelet aggregation
+*   **Uremia (Chronic Kidney Disease):**
+    *   Uremic toxins accumulate in the plasma and impair platelet function
+    *   Correcting the uremia with dialysis can improve platelet function
+*   **Myeloproliferative Neoplasms (MPNs):**
+    *   Platelets may have abnormal function despite being elevated in number
+
+## **General Laboratory Tests for Qualitative Platelet Disorders** {-}
+
+*   **Platelet Count:** To rule out thrombocytopenia
+*   **Peripheral Blood Smear:** To assess platelet morphology (e.g., size, granulation)
+*   **Bleeding Time:** Historically used to assess platelet function, but now largely replaced by more specific tests
+*   **Platelet Function Analyzer (PFA-100):** Measures platelet function under high shear stress
+*   **Platelet Aggregation Studies:** Measure platelet aggregation in response to various agonists (ADP, collagen, epinephrine, thrombin, ristocetin)
+*   **Flow Cytometry:** To assess the expression of platelet membrane glycoproteins and receptors
+*   **Specialized Assays:**
+    *   vWF Antigen (vWF:Ag)
+    *   vWF Activity (vWF:RCo)
+    *   Factor VIII Level (FVIII:C)
+    *   ADAMTS13 Activity Assay
+
+## **Key Terms** {-}
+
+*   **Qualitative Platelet Disorder:** A disorder in which platelets are present in adequate numbers but do not function correctly
+*   **Von Willebrand Factor (vWF):** A protein that mediates platelet adhesion and carries factor VIII
+*   **GPIb/IX/V:** Platelet glycoprotein receptor for vWF
+*   **GPIIb/IIIa:** Platelet glycoprotein receptor for fibrinogen
+*   **Platelet Aggregation:** The clumping together of platelets
+*   **Ristocetin:** An antibiotic that induces vWF-dependent platelet agglutination
+*   **PFA-100:** A test that measures platelet function under high shear stress
+*   **Thrombopoietin (TPO):** A hormone that stimulates megakaryocyte and platelet production
