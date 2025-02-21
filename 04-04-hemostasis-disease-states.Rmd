@@ -1,8 +1,8 @@
 # Disorders {-}
 
-## **Overview of Hemostasis Disease States**
+## **Overview of Hemostasis Disease States** {-}
 
-## **General Principles**
+## **General Principles** {-}
 
 *   **Hemostasis:** The process of stopping bleeding, involving a balance between procoagulant and anticoagulant forces
 *   **Disruption of Balance:** Disease states arise when this balance is disrupted, leading to either:
@@ -16,7 +16,7 @@
 *   **Coagulation Cascade:** A series of enzymatic reactions involving coagulation factors, leading to fibrin formation (secondary hemostasis)
 *   **Fibrinolytic System:** Breaks down fibrin clots to restore blood flow
 
-## **Disease States**
+## **Disease States** {-}
 
 *   **Coagulation Factor Deficiencies:** Bleeding Disorders
     
@@ -81,7 +81,7 @@
         *   Elevated D-dimer
         *   Schistocytes on peripheral blood smear
 
-## **Summary Table**
+## **Summary Table** {-}
 
 | Disease State                | Main Effect                     | Key Lab Findings                                  |
 | ----------------------------- | ------------------------------- | ------------------------------------------------- |
