@@ -13,8 +13,4 @@ pseudothrombocytopenia-spurious-thrombocytopenia
 general-laboratory-tests
 key-terms-37
 part-hemostasis
-overview-of-hemostasis-disease-states
-general-principles
 key-components-and-processes
-disease-states
-summary-table
