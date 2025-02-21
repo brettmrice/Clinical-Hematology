@@ -15,6 +15,12 @@ main {
   padding-bottom: 10px;
 }
 */
+
+li.book-part {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 .book-toc > li:nth-child(7),
 .book-toc > li:nth-child(13),
 .book-toc > li:nth-child(18),
