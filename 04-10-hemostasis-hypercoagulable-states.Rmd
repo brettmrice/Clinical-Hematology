@@ -1,0 +1,232 @@
+# Thrombophilia {-}
+
+## **Overview of Hypercoagulable States (Thrombophilia)** {-}
+
+*   **Definition:** A group of inherited or acquired conditions that increase the risk of developing thrombosis (blood clots)
+*   **Pathophysiology:**
+    *   Alterations in the balance between procoagulant and anticoagulant factors in the blood
+    *   Increased thrombin generation and decreased fibrinolysis
+*   **Classification:**
+    *   Inherited (Genetic) Thrombophilias: Caused by genetic mutations affecting coagulation factors or natural anticoagulants
+    *   Acquired Thrombophilias: Caused by external factors that alter the coagulation system
+*   **Clinical Significance:** Increased risk of venous and/or arterial thrombosis
+    *   Deep vein thrombosis (DVT)
+    *   Pulmonary embolism (PE)
+    *   Stroke
+    *   Myocardial infarction
+    *   Recurrent pregnancy loss
+
+## **Virchow's Triad** {-}
+
+Virchow's triad describes the three broad categories of factors that contribute to thrombosis:
+
+*   **Hypercoagulability:** Increased tendency to clot due to inherited or acquired abnormalities in the coagulation system
+*   **Hemodynamic Changes (Stasis or Turbulence):** Altered blood flow, such as occurs with prolonged immobility or atrial fibrillation
+*   **Endothelial Injury:** Damage to the blood vessel wall, exposing subendothelial collagen and tissue factor
+
+## **Inherited Thrombophilias (Genetic)** {-}
+
+*   **Factor V Leiden Mutation:**
+    *   **Definition:** The most common inherited thrombophilia; caused by a point mutation in the *F5* gene, which encodes Factor V
+    *   **Pathophysiology:**
+        *   Mutation: A single nucleotide change (G to A) at position 1691 in the *F5* gene, resulting in a glutamine (Q) to arginine (R) substitution at position 506 (FV R506Q)
+        *   Resistance to Activated Protein C (APC): The Factor V Leiden mutation makes Factor V resistant to inactivation by activated protein C (APC), a natural anticoagulant
+        *   Increased Thrombin Generation: Prolonged activity of Factor V leads to increased thrombin generation and a prothrombotic state
+    *   **Inheritance:** Autosomal dominant
+        *   Heterozygous: One copy of the mutated gene (increased risk of thrombosis)
+        *   Homozygous: Two copies of the mutated gene (higher risk of thrombosis)
+    *   **Clinical Features:**
+        *   Increased risk of venous thrombosis (DVT, PE)
+        *   Increased risk of recurrent pregnancy loss
+        *   The risk of thrombosis is higher in individuals with Factor V Leiden who also have other risk factors (e.g., oral contraceptives, pregnancy, surgery)
+    *   **Laboratory Findings:**
+        *   Activated Protein C (APC) Resistance Assay:
+            *   Prolonged aPTT with normal plasma
+            *   aPTT does not prolong with APC
+        *   Factor V Leiden Mutation Analysis:
+            *   Confirms the presence of the Factor V Leiden mutation (DNA testing)
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+            *   Direct oral anticoagulants (DOACs): Rivaroxaban, apixaban, edoxaban, dabigatran
+        *   Prophylactic Anticoagulation:
+            *   May be considered in high-risk situations (e.g., surgery, pregnancy)
+
+*   **Prothrombin G20210A Mutation:**
+    *   **Definition:** The second most common inherited thrombophilia; caused by a point mutation in the *F2* gene, which encodes prothrombin (Factor II)
+    *   **Pathophysiology:**
+        *   Mutation: A single nucleotide change (G to A) at position 20210 in the 3'-untranslated region of the *F2* gene
+        *   Increased Prothrombin Levels: Leads to increased prothrombin mRNA stability and increased prothrombin production
+        *   Increased Thrombin Generation: Elevated prothrombin levels result in increased thrombin generation and a prothrombotic state
+    *   **Inheritance:** Autosomal dominant
+        *   Heterozygous: One copy of the mutated gene
+        *   Homozygous: Two copies of the mutated gene
+    *   **Clinical Features:**
+        *   Increased risk of venous thrombosis (DVT, PE)
+        *   Increased risk of arterial thrombosis (stroke, myocardial infarction)
+        *   Increased risk of recurrent pregnancy loss
+    *   **Laboratory Findings:**
+        *   Prothrombin G20210A Mutation Analysis:
+            *   Confirms the presence of the prothrombin G20210A mutation (DNA testing)
+        *   Prothrombin Level: May be elevated
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+            *   Direct oral anticoagulants (DOACs): Rivaroxaban, apixaban, edoxaban, dabigatran
+        *   Prophylactic Anticoagulation:
+            *   May be considered in high-risk situations (e.g., surgery, pregnancy)
+
+*   **Protein C Deficiency:**
+    *   **Definition:** Inherited deficiency of protein C, a natural anticoagulant
+    *   **Pathophysiology:**
+        *   Protein C: A vitamin K-dependent serine protease that is activated by the thrombin-thrombomodulin complex
+        *   Activated Protein C (APC): Degrades Factors Va and VIIIa, inhibiting thrombin generation
+        *   Protein C Deficiency: Reduces the ability to inactivate Factors Va and VIIIa, leading to a prothrombotic state
+    *   **Inheritance:** Autosomal dominant or autosomal recessive (more severe)
+    *   **Clinical Features:**
+        *   Venous thrombosis (DVT, PE)
+        *   Warfarin-induced skin necrosis: A rare but serious complication that can occur when starting warfarin therapy in patients with severe protein C deficiency
+    *   **Laboratory Findings:**
+        *   Protein C Activity Assay: Decreased protein C activity level
+        *   Protein C Antigen Assay: May be decreased or normal, depending on the type of deficiency
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+                *   Start with caution due to the risk of warfarin-induced skin necrosis
+                *   Overlap with a parenteral anticoagulant (e.g., heparin or low-molecular-weight heparin) is recommended when starting warfarin
+            *   Direct oral anticoagulants (DOACs): Rivaroxaban, apixaban, edoxaban, dabigatran
+        *   Prophylactic Anticoagulation:
+            *   May be considered in high-risk situations (e.g., surgery, pregnancy)
+
+*   **Protein S Deficiency:**
+    *   **Definition:** Inherited deficiency of protein S, a cofactor for activated protein C (APC)
+    *   **Pathophysiology:**
+        *   Protein S: A vitamin K-dependent protein that acts as a cofactor for APC in the inactivation of Factors Va and VIIIa
+        *   Protein S Deficiency: Reduces the ability of APC to inhibit thrombin generation, leading to a prothrombotic state
+    *   **Inheritance:** Autosomal dominant
+    *   **Clinical Features:**
+        *   Venous thrombosis (DVT, PE)
+        *   Arterial thrombosis (less common)
+        *   Recurrent pregnancy loss
+    *   **Laboratory Findings:**
+        *   Protein S Activity Assay: Decreased protein S activity level
+        *   Protein S Antigen Assays:
+            *   Total Protein S: Measures the total amount of protein S
+            *   Free Protein S: Measures the amount of protein S that is not bound to C4b-binding protein
+        *   Interpreting Protein S Assays:
+            *   Protein S activity and free protein S antigen levels are most reliable for diagnosis
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+                *   Start with caution due to the risk of warfarin-induced skin necrosis
+                *   Overlap with a parenteral anticoagulant (e.g., heparin or low-molecular-weight heparin) is recommended when starting warfarin
+            *   Direct oral anticoagulants (DOACs): Rivaroxaban, apixaban, edoxaban, dabigatran
+        *   Prophylactic Anticoagulation:
+            *   May be considered in high-risk situations (e.g., surgery, pregnancy)
+
+*   **Antithrombin Deficiency:**
+    *   **Definition:** Inherited deficiency of antithrombin (AT), a natural anticoagulant
+    *   **Pathophysiology:**
+        *   Antithrombin: A serine protease inhibitor (serpin) that inhibits thrombin and other coagulation factors (Factors IXa, Xa, XIa, XIIa)
+        *   Antithrombin Deficiency: Reduces the ability to inhibit thrombin and other coagulation factors, leading to a prothrombotic state
+    *   **Inheritance:** Autosomal dominant
+    *   **Types:**
+        *   Type I: Quantitative deficiency (reduced production of antithrombin)
+        *   Type II: Qualitative deficiency (dysfunctional antithrombin molecule)
+    *   **Clinical Features:**
+        *   Venous thrombosis (DVT, PE)
+        *   Arterial thrombosis (less common)
+        *   Resistance to heparin therapy
+    *   **Laboratory Findings:**
+        *   Antithrombin Activity Assay: Decreased antithrombin activity level
+        *   Antithrombin Antigen Assay: May be decreased or normal, depending on the type of deficiency
+        *   Heparin-Induced Thrombocytopenia (HIT) Testing: May be necessary to rule out HIT, as heparin resistance is a common feature
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin): Higher doses of warfarin may be required to achieve therapeutic anticoagulation
+            *   Direct thrombin inhibitors (e.g., argatroban, bivalirudin): May be used in patients with heparin resistance or HIT
+        *   Prophylactic Anticoagulation:
+            *   May be considered in high-risk situations (e.g., surgery, pregnancy)
+        *   Antithrombin Concentrates:
+            *   Used for prophylaxis or treatment of acute thrombotic events, especially during surgery or pregnancy
+
+## **Acquired Thrombophilias** {-}
+
+*   **Antiphospholipid Syndrome (APS):**
+    *   **Definition:** An acquired autoimmune disorder characterized by thrombosis (arterial or venous) and/or pregnancy morbidity in the presence of antiphospholipid antibodies (aPL)
+    *   **Antibodies:**
+        *   Lupus Anticoagulant (LA)
+        *   Anticardiolipin Antibodies (aCL)
+        *   Anti-β2 Glycoprotein I Antibodies (anti-β2GPI)
+    *   **Pathophysiology:**
+        *   Antiphospholipid Antibodies: Bind to phospholipids and phospholipid-binding proteins, interfering with coagulation and platelet function
+        *   Thrombosis: In vivo, aPL can promote thrombosis through mechanisms involving:
+            *   Activation of endothelial cells and platelets
+            *   Inhibition of natural anticoagulant pathways (e.g., protein C pathway)
+            *   Complement activation
+        *   Pregnancy Morbidity: aPL can interfere with placental development and function, leading to pregnancy loss
+    *   **Clinical Features:**
+        *   Thrombosis:
+            *   Deep vein thrombosis (DVT)
+            *   Pulmonary embolism (PE)
+            *   Stroke
+            *   Myocardial infarction
+        *   Pregnancy Morbidity:
+            *   Recurrent pregnancy loss (especially in the second or third trimester)
+            *   Preeclampsia
+            *   Placental insufficiency
+        *   Other Manifestations:
+            *   Thrombocytopenia
+            *   Livedo reticularis (a mottled skin rash)
+            *   Cardiac valve abnormalities
+    *   **Laboratory Findings:**
+        *   Lupus Anticoagulant (LA):
+            *   Prolonged aPTT that does not correct on mixing with normal plasma
+            *   Phospholipid-dependent coagulation assays (e.g., dRVVT, SCT) are prolonged and do not correct with the addition of phospholipid
+        *   Anticardiolipin Antibodies (aCL):
+            *   Increased levels of IgG and/or IgM aCL antibodies
+        *   Anti-β2 Glycoprotein I Antibodies (anti-β2GPI):
+            *   Increased levels of IgG and/or IgM anti-β2GPI antibodies
+        *   Persistent Positivity: aPL must be present on two or more occasions, at least 12 weeks apart, to meet the laboratory criteria for APS
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin) is the traditional anticoagulant
+            *   Direct oral anticoagulants (DOACs): Rivaroxaban, apixaban, edoxaban, dabigatran - may be used in some patients, but caution should be used
+        *   Antiplatelet Therapy:
+            *   Low-dose aspirin may be used in some patients, especially those with arterial thrombosis
+        *   Management of Obstetric APS:
+            *   Low-dose aspirin and prophylactic heparin during pregnancy to prevent recurrent pregnancy loss
+
+*   **Acquired Antithrombin Deficiency**
+    *   Reduced levels can be seen in patients with:
+        *   Nephrotic syndrome (loss of antithrombin in urine)
+        *   Disseminated intravascular coagulation (DIC)
+
+## **General Laboratory Tests for Thrombophilia** {-}
+
+*   **Prothrombin Time (PT) and Activated Partial Thromboplastin Time (aPTT):** Used as screening tests to detect abnormalities in the coagulation pathways
+*   **Mixing Studies:** To differentiate factor deficiencies from factor inhibitors
+*   **D-Dimer Assay:** To assess for thrombotic activity
+*   **Specific Assays for Inherited Thrombophilias:**
+    *   Factor V Leiden Mutation Analysis
+    *   Prothrombin G20210A Mutation Analysis
+    *   Protein C Activity Assay
+    *   Protein S Activity and Antigen Assays
+    *   Antithrombin Activity and Antigen Assays
+*   **Antiphospholipid Antibody Testing:**
+    *   Lupus Anticoagulant (LA) testing
+    *   Anticardiolipin (aCL) antibody assay
+    *   Anti-β2 Glycoprotein I antibody assay
+
+## **Key Terms** {-}
+
+*   **Hypercoagulable State (Thrombophilia):** A condition with an increased risk of thrombosis
+*   **Factor V Leiden:** A common genetic mutation that causes resistance to activated protein C
+*   **Prothrombin G20210A Mutation:** A genetic mutation that leads to increased prothrombin levels
+*   **Protein C:** A vitamin K-dependent anticoagulant protein
+*   **Protein S:** A cofactor for activated protein C
+*   **Antithrombin:** A serine protease inhibitor that inhibits thrombin and other coagulation factors
+*   **Antiphospholipid Syndrome (APS):** An autoimmune disorder characterized by thrombosis, pregnancy morbidity, and antiphospholipid antibodies
+*   **Lupus Anticoagulant (LA):** An antibody that interferes with phospholipid-dependent coagulation assays
+*   **Thrombosis:** Formation of a blood clot inside a blood vessel
+*   **Embolism:** A blood clot that travels from one location to another

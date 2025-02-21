@@ -1,0 +1,192 @@
+# Hereditary {-}
+
+## **Overview of Hereditary Coagulation Factor Deficiencies** {-}
+
+*   **Definition:** A group of rare, inherited bleeding disorders caused by genetic mutations that result in a deficiency or dysfunction of one or more coagulation factors
+*   **Inheritance:** Typically inherited in an X-linked recessive or autosomal recessive pattern
+*   **Clinical Features:**
+    *   Bleeding Tendency: The primary symptom, with severity varying depending on the specific factor involved and the degree of deficiency
+    *   Common Manifestations:
+        *   Easy bruising
+        *   Prolonged bleeding after cuts, dental procedures, or surgery
+        *   Nosebleeds (epistaxis)
+        *   Gum bleeding
+        *   Menorrhagia (heavy menstrual bleeding) in women
+        *   Hemarthrosis (bleeding into joints)
+        *   Intracranial hemorrhage (rare but life-threatening)
+*   **Diagnosis:**
+    *   Based on clinical history, bleeding symptoms, family history, and laboratory testing (coagulation assays)
+    *   Specific diagnosis requires factor assays to measure the activity of individual coagulation factors
+
+## **Specific Hereditary Coagulation Factor Deficiencies** {-}
+
+*   **X-Linked Recessive Disorders**
+
+    *   **Hemophilia A (Factor VIII Deficiency):**
+        *   **Definition:** The most common inherited bleeding disorder; caused by mutations in the *F8* gene, which encodes Factor VIII (FVIII)
+        *   **Pathophysiology:** Deficiency of FVIII impairs the intrinsic pathway of coagulation, leading to decreased thrombin generation and impaired clot formation
+        *   **Severity:** Classified based on the level of FVIII activity:
+            *   Severe Hemophilia A: FVIII < 1% of normal
+            *   Moderate Hemophilia A: FVIII 1-5% of normal
+            *   Mild Hemophilia A: FVIII 5-40% of normal
+        *   **Clinical Features:**
+            *   Severity of bleeding is correlated with the level of FVIII activity
+            *   Severe Hemophilia:
+                *   Spontaneous bleeding into joints (hemarthrosis) and muscles
+                *   Prolonged bleeding after minor trauma or surgery
+                *   Intracranial hemorrhage
+            *   Moderate and Mild Hemophilia:
+                *   Bleeding typically occurs after trauma or surgery
+                *   Spontaneous bleeding is less common
+        *   **Laboratory Findings:**
+            *   CBC: Normal platelet count
+            *   Prothrombin Time (PT): Normal
+            *   Activated Partial Thromboplastin Time (aPTT): Prolonged
+            *   Mixing Study: aPTT corrects with mixing with normal plasma
+            *   Factor VIII Assay: Decreased FVIII activity level
+            *   Factor Inhibitor Assay: To rule out acquired FVIII inhibitors
+        *   **Treatment:**
+            *   Replacement Therapy: Infusion of FVIII concentrates
+                *   Recombinant FVIII products are preferred to minimize the risk of viral transmission
+                *   Prophylactic therapy: Regular infusions of FVIII to prevent bleeding
+                *   On-demand therapy: FVIII infusions to treat acute bleeding episodes
+            *   Desmopressin (DDAVP):
+                *   May be effective in mild hemophilia A to stimulate the release of FVIII from endothelial cells
+            *   Emicizumab:
+                *   A bispecific antibody that mimics the cofactor function of FVIII, bridging Factors IXa and X to restore coagulation
+                *   Used for prophylaxis in patients with hemophilia A with or without FVIII inhibitors
+            *   Gene Therapy:
+                *   Emerging therapeutic approach to correct the *F8* gene mutation and restore FVIII production
+    
+    *   **Hemophilia B (Factor IX Deficiency, Christmas Disease):**
+        *   **Definition:** A less common X-linked recessive bleeding disorder caused by mutations in the *F9* gene, which encodes Factor IX (FIX)
+        *   **Pathophysiology:** Deficiency of FIX impairs the intrinsic pathway of coagulation, leading to decreased thrombin generation and impaired clot formation
+        *   **Clinical Features and Laboratory Findings:** Similar to hemophilia A, but FVIII levels are normal and FIX levels are decreased.
+        *   **Treatment:**
+            *   Replacement Therapy: Infusion of FIX concentrates
+            *   Gene Therapy: Emerging therapeutic approach to correct the *F9* gene mutation and restore FIX production
+
+*   **Autosomal Recessive Disorders**
+
+    *   **Factor XI Deficiency (Hemophilia C):**
+        *   **Definition:** Autosomal recessive bleeding disorder caused by mutations in the *F11* gene, which encodes Factor XI (FXI)
+        *   **Prevalence:** More common in individuals of Ashkenazi Jewish descent
+        *   **Pathophysiology:** Deficiency of FXI impairs the intrinsic pathway of coagulation
+        *   **Clinical Features:**
+            *   Variable bleeding symptoms
+            *   Bleeding often occurs after surgery or trauma
+            *   Spontaneous bleeding is less common
+        *   **Laboratory Findings:**
+            *   CBC: Normal platelet count
+            *   PT: Normal
+            *   aPTT: Prolonged
+            *   Mixing Study: aPTT corrects with mixing with normal plasma
+            *   Factor XI Assay: Decreased FXI activity level
+        *   **Treatment:**
+            *   Plasma-Derived FXI Concentrates:
+            *   Fresh Frozen Plasma (FFP):
+            *   Antifibrinolytic Agents: Tranexamic acid or aminocaproic acid
+    *   **Factor XIII Deficiency:**
+        *   **Definition:** A rare autosomal recessive bleeding disorder caused by mutations in the *F13A1* or *F13B* genes, which encode the A and B subunits of Factor XIII (FXIII)
+        *   **Pathophysiology:** Deficiency of FXIII impairs the cross-linking of fibrin, leading to unstable clot formation
+        *   **Clinical Features:**
+            *   Severe bleeding tendency
+            *   Umbilical cord bleeding at birth
+            *   Delayed bleeding after trauma or surgery
+            *   Recurrent miscarriages in women
+            *   Intracranial hemorrhage
+        *   **Laboratory Findings:**
+            *   CBC: Normal
+            *   PT and aPTT: Normal (these tests do not detect FXIII deficiency)
+            *   Fibrinogen Level: Normal
+            *   Clot Solubility Test: Abnormal
+            *   Factor XIII Assay: Decreased FXIII activity level
+        *   **Treatment:**
+            *   Prophylactic FXIII Concentrate Infusions:
+            *   Cryoprecipitate: Historically used, but less safe due to the risk of viral transmission
+    *   **Factor V Deficiency (Parahemophilia):**
+        *   **Definition:** A rare autosomal recessive bleeding disorder caused by mutations in the *F5* gene, which encodes Factor V (FV)
+        *   **Pathophysiology:** Deficiency of FV impairs both the intrinsic and extrinsic pathways of coagulation
+        *   **Clinical Features:**
+            *   Variable bleeding symptoms
+            *   Easy bruising
+            *   Nosebleeds
+            *   Menorrhagia in women
+            *   Prolonged bleeding after surgery or trauma
+        *   **Laboratory Findings:**
+            *   CBC: Normal platelet count
+            *   PT: Prolonged
+            *   aPTT: Prolonged
+            *   Mixing Study: PT and aPTT correct with mixing with normal plasma
+            *   Factor V Assay: Decreased FV activity level
+        *   **Treatment:**
+            *   Fresh Frozen Plasma (FFP):
+            *   Prothrombin Complex Concentrates (PCCs):
+        *   *Note:* Factor V Leiden is a common genetic variant that causes *resistance* to activated protein C, leading to a hypercoagulable state (increased risk of thrombosis), not a bleeding disorder. The name similarity can cause confusion.
+    *   **Factor VII Deficiency:**
+        *   **Definition:** A rare autosomal recessive bleeding disorder caused by mutations in the *F7* gene, which encodes Factor VII (FVII)
+        *   **Pathophysiology:** Deficiency of FVII impairs the extrinsic pathway of coagulation
+        *   **Clinical Features:**
+            *   Variable bleeding symptoms
+            *   May range from asymptomatic to severe bleeding
+        *   **Laboratory Findings:**
+            *   CBC: Normal platelet count
+            *   PT: Prolonged
+            *   aPTT: Normal or slightly prolonged
+            *   Mixing Study: PT corrects with mixing with normal plasma
+            *   Factor VII Assay: Decreased FVII activity level
+        *   **Treatment:**
+            *   Prothrombin Complex Concentrates (PCCs):
+            *   Recombinant Factor VIIa (rFVIIa):
+            *   Fresh Frozen Plasma (FFP):
+    *   **Factor X Deficiency (Stuart-Prower Factor Deficiency):**
+        *   **Definition:** A rare autosomal recessive bleeding disorder caused by mutations in the *F10* gene, which encodes Factor X (FX)
+        *   **Pathophysiology:** Deficiency of FX impairs both the intrinsic and extrinsic pathways of coagulation
+        *   **Clinical Features:**
+            *   Variable bleeding symptoms
+            *   Easy bruising
+            *   Nosebleeds
+            *   Hemarthrosis (bleeding into joints)
+            *   Intracranial hemorrhage (rare)
+        *   **Laboratory Findings:**
+            *   CBC: Normal platelet count
+            *   PT: Prolonged
+            *   aPTT: Prolonged
+            *   Mixing Study: PT and aPTT correct with mixing with normal plasma
+            *   Factor X Assay: Decreased FX activity level
+        *   **Treatment:**
+            *   Prothrombin Complex Concentrates (PCCs):
+            *   Fresh Frozen Plasma (FFP):
+
+## **Treatment Strategies for Hereditary Coagulation Factor Deficiencies** {-}
+
+*   **Replacement Therapy:** Infusion of the deficient coagulation factor
+    *   Plasma-derived or recombinant products
+    *   Prophylactic (regular) or on-demand (treatment of bleeding episodes)
+*   **Bypassing Agents:** Used to promote thrombin generation independently of the deficient factor
+*   **Adjunctive Therapies:**
+    *   Antifibrinolytic Agents: Used to prevent or treat mucosal bleeding
+    *   Local Hemostatic Measures: Topical thrombin, fibrin sealants, pressure dressings
+*   **Gene Therapy**
+    *   For Hemophilia A and Hemophilia B, there are now options for gene therapy to be curative for the disease.
+    *   This treatment is an option if there are high factor levels
+    *   This test is used after to monitor production of factor.
+
+## **Key Laboratory Tests for Hereditary Coagulation Factor Deficiencies** {-}
+
+*   **Complete Blood Count (CBC):** Usually normal
+*   **Prothrombin Time (PT):** May be prolonged, depending on the specific factor deficiency
+*   **Activated Partial Thromboplastin Time (aPTT):** May be prolonged, depending on the specific factor deficiency
+*   **Mixing Studies:** To differentiate factor deficiencies from factor inhibitors
+*   **Individual Factor Assays:** To measure the activity of specific coagulation factors (definitive test)
+
+## **Key Terms** {-}
+
+*   **Coagulation Factor:** A protein involved in the coagulation cascade
+*   **Hemophilia A:** Factor VIII deficiency
+*   **Hemophilia B:** Factor IX deficiency
+*   **Autosomal Recessive:** Inheritance pattern where two copies of an abnormal gene must be present for the disease to develop
+*   **X-Linked Recessive:** Inheritance pattern where the gene is located on the X chromosome (males are more commonly affected)
+*   **Factor Assay:** A laboratory test to measure the activity of a specific coagulation factor
+*   **Inhibitor:** An antibody that interferes with the function of a coagulation factor
+*   **Replacement Therapy:** Infusion of a deficient coagulation factor

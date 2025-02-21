@@ -1,0 +1,117 @@
+# Fibrinolytic {-}
+
+## **Overview of the Fibrinolytic System** {-}
+
+*   **Definition:** The fibrinolytic system is responsible for the breakdown and removal of fibrin clots from blood vessels once tissue repair has occurred
+*   **Purpose:** To restore normal blood flow, prevent excessive clot formation, and maintain vascular patency
+*   **Key Components:**
+    *   Plasminogen
+    *   Plasmin
+    *   Plasminogen Activators
+    *   Plasmin Inhibitors
+    *   Fibrin Degradation Products (FDPs)
+*   **Disorders:** Can be caused by:
+    *   Deficiency or dysfunction of components of the fibrinolytic system
+    *   Excessive activation or inhibition of fibrinolysis
+
+## **Disorders of the Fibrinolytic System** {-}
+
+*   **Excessive Fibrinolysis (Hyperfibrinolysis)**
+
+    *   **General Features:** Leads to increased breakdown of fibrin clots and a bleeding tendency
+    *   **Common Causes:**
+        *   Disseminated Intravascular Coagulation (DIC):
+            *   A complex disorder characterized by widespread activation of coagulation and fibrinolysis
+            *   DIC can lead to excessive fibrinolysis due to the consumption of coagulation factors and the release of plasminogen activators
+        *   Liver Disease:
+            *   Impaired synthesis of α2-antiplasmin (the main inhibitor of plasmin) can lead to unopposed plasmin activity
+        *   Malignancy:
+            *   Certain cancers (e.g., acute promyelocytic leukemia) can release tissue plasminogen activator (tPA), leading to excessive fibrinolysis
+        *   Streptokinase or tPA Therapy:
+            *   Overuse or inappropriate use of thrombolytic agents can lead to excessive fibrinolysis
+    *   **Clinical Features:**
+        *   Bleeding: Oozing from IV sites, surgical wounds, and mucosal surfaces
+        *   Thrombosis: Can also occur due to the underlying cause (e.g., malignancy)
+    *   **Laboratory Findings:**
+        *   Prolonged PT and aPTT: Due to consumption of coagulation factors
+        *   Decreased Fibrinogen Level: Due to plasmin degradation
+        *   Elevated D-dimer: A specific marker for cross-linked fibrin degradation
+        *   Elevated FDPs: Other fibrin degradation products are also increased
+        *   Decreased α2-Antiplasmin Level: In some cases of severe fibrinolysis
+    *   **Treatment:**
+        *   Treat the Underlying Cause: Essential for resolving the hyperfibrinolytic state
+        *   Supportive Care: Transfusions (platelets, fresh frozen plasma, cryoprecipitate) to replace consumed coagulation factors and platelets
+        *   Antifibrinolytic Agents:
+            *   Aminocaproic acid or tranexamic acid: Inhibit plasminogen activation and reduce fibrinolysis
+            *   Used with caution, as they can promote thrombosis if the underlying cause is not addressed
+
+*   **Impaired Fibrinolysis (Hypofibrinolysis)**
+
+    *   **General Features:** Leads to decreased breakdown of fibrin clots and an increased risk of thrombosis
+    *   **Causes:**
+        *   Deficiency of Plasminogen: Rare inherited disorder
+        *   Deficiency of tPA or uPA: Rare inherited disorder
+        *   Elevated Levels of PAI-1: More common; can be acquired or inherited
+            *   Acquired: Associated with obesity, metabolic syndrome, and certain inflammatory conditions
+            *   Inherited: Rare mutations in the PAI-1 gene
+        *   Thrombophilia: Inherited or acquired conditions that increase the risk of thrombosis (e.g., factor V Leiden, prothrombin mutation)
+    *   **Clinical Features:**
+        *   Increased Risk of Thrombosis:
+            *   Deep vein thrombosis (DVT)
+            *   Pulmonary embolism (PE)
+            *   Arterial thrombosis (stroke, myocardial infarction)
+        *   May be asymptomatic until a thrombotic event occurs
+    *   **Laboratory Findings:**
+        *   Routine coagulation tests (PT and aPTT): Usually normal
+        *   D-dimer: May be normal or slightly elevated
+        *   Plasminogen Activity Assay: Decreased in plasminogen deficiency
+        *   tPA and PAI-1 Assays: May show decreased tPA or increased PAI-1 levels
+        *   Thrombophilia Testing: To evaluate for other inherited or acquired thrombotic risk factors
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+            *   Direct oral anticoagulants (DOACs): Dabigatran, rivaroxaban, apixaban, edoxaban
+        *   Thrombolytic Therapy:
+            *   Tissue plasminogen activator (tPA) to dissolve acute thrombi
+        *   Management of Underlying Risk Factors:
+            *   Lifestyle modifications (e.g., weight loss, exercise)
+            *   Control of underlying medical conditions (e.g., diabetes, hyperlipidemia)
+
+## **Laboratory Testing for Disorders of Fibrinolysis** {-}
+
+*   **D-dimer Assay:**
+
+    *   Measures the level of D-dimer in the blood
+    *   A negative D-dimer result can be used to rule out VTE in low-risk patients
+*   **Fibrinogen Level:**
+
+    *   Measures the amount of fibrinogen in the blood
+    *   Decreased in DIC and severe liver disease
+*   **tPA and PAI-1 Assays:**
+
+    *   Measure the levels of tPA and PAI-1 in the blood
+    *   Used to evaluate fibrinolytic capacity
+*   **Plasminogen Activity Assay:**
+
+    *   Measures the activity of plasminogen in the blood
+    *   Decreased in plasminogen deficiency
+*   **Euglobulin Lysis Time:**
+
+    *   Global assessment of fibrinolytic activity
+    *   Prolonged lysis time indicates impaired fibrinolysis
+
+## **Key Terms** {-}
+
+*   **Fibrinolysis:** The breakdown of fibrin clots
+*   **Plasminogen:** Inactive precursor to plasmin
+*   **Plasmin:** Active enzyme that degrades fibrin
+*   **tPA (Tissue Plasminogen Activator):** Plasminogen activator released by endothelial cells
+*   **uPA (Urokinase Plasminogen Activator):** Plasminogen activator found in various tissues and body fluids
+*   **α2-Antiplasmin (α2-AP):** Primary inhibitor of plasmin
+*   **PAI-1 (Plasminogen Activator Inhibitor-1):** Inhibitor of tPA and uPA
+*   **Fibrin Degradation Products (FDPs):** Fragments produced when plasmin degrades fibrin
+*   **D-dimer:** A specific marker for cross-linked fibrin degradation
+*   **Thrombosis:** Formation of a blood clot inside a blood vessel
+*   **Embolism:** A blood clot that travels from one location to another
+*   **Disseminated Intravascular Coagulation (DIC):** A consumptive coagulopathy with widespread clotting and bleeding
+*   **Thrombophilia:** A tendency to develop blood clots due to inherited or acquired factors

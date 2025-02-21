@@ -1,0 +1,93 @@
+# Disorders {-}
+
+## **Overview of Hemostasis Disease States**
+
+## **General Principles**
+
+*   **Hemostasis:** The process of stopping bleeding, involving a balance between procoagulant and anticoagulant forces
+*   **Disruption of Balance:** Disease states arise when this balance is disrupted, leading to either:
+    *   **Bleeding Disorders:** Impaired clot formation or excessive clot breakdown
+    *   **Thrombotic Disorders (Hypercoagulable States):** Excessive clot formation or impaired clot breakdown
+
+## **Key Components and Processes**
+
+*   **Vascular System:** Endothelial cells regulate blood flow, platelet activation, and coagulation
+*   **Platelets:** Form a primary plug at the site of injury (primary hemostasis)
+*   **Coagulation Cascade:** A series of enzymatic reactions involving coagulation factors, leading to fibrin formation (secondary hemostasis)
+*   **Fibrinolytic System:** Breaks down fibrin clots to restore blood flow
+
+## **Disease States**
+
+*   **Coagulation Factor Deficiencies:** Bleeding Disorders
+    
+    *   **General Cause:** Insufficient amount or impaired function of coagulation factors
+    *   **Classification:**
+        *   **Hereditary:** Genetic mutations affecting factor synthesis (e.g., Hemophilia A, Hemophilia B)
+        *   **Acquired:** External factors reducing factor levels (e.g., vitamin K deficiency, liver disease, DIC)
+    *   **General Effect on Lab Tests:** Prolonged PT and/or aPTT, depending on the factor affected
+    *   **Common Examples:**
+        *   **Hemophilia A (Factor VIII Deficiency):** X-linked recessive, affects intrinsic pathway. Prolonged aPTT, low Factor VIII activity
+        *   **Hemophilia B (Factor IX Deficiency):** X-linked recessive, affects intrinsic pathway. Prolonged aPTT, low Factor IX activity
+        *   **Vitamin K Deficiency:** Affects Factors II, VII, IX, and X. Prolonged PT and aPTT
+        *   **Liver Disease:** Impaired synthesis of multiple factors. Prolonged PT and aPTT
+
+*   **Inhibitors:** Bleeding or Thrombotic Disorders
+    
+    *   **General Cause:** Antibodies that interfere with the function of coagulation factors or phospholipid-binding proteins
+    *   **Classification:**
+        *   **Acquired:** Autoantibodies (e.g., Factor VIII inhibitors, Lupus Anticoagulant)
+    *   **General Effect on Lab Tests:** Prolonged PT and/or aPTT that *does not correct* on mixing with normal plasma
+    *   **Common Examples:**
+        *   **Factor VIII Inhibitors (Acquired Hemophilia A):** Autoantibodies against Factor VIII. Prolonged aPTT that doesn't correct, low Factor VIII activity
+        *   **Lupus Anticoagulant (LA):** Antibodies against phospholipids. Prolonged aPTT, increased risk of thrombosis
+
+*   **Fibrinolytic Disorders:** Bleeding or Thrombotic Disorders
+    
+    *   **General Cause:** Imbalance in the fibrinolytic system, leading to either excessive clot breakdown or impaired clot removal
+    *   **Classification:**
+        *   **Excessive Fibrinolysis (Hyperfibrinolysis):** Increased breakdown of fibrin clots
+        *   **Impaired Fibrinolysis (Hypofibrinolysis):** Decreased breakdown of fibrin clots
+    *   **Common Examples:**
+        *   **Excessive Fibrinolysis (e.g., DIC):** Widespread activation of fibrinolysis leads to bleeding. Elevated D-dimer, decreased fibrinogen
+        *   **Impaired Fibrinolysis:** Often associated with increased risk of thrombosis (e.g., elevated PAI-1)
+
+*   **Hypercoagulable States (Thrombophilia):** Thrombotic Disorders
+    
+    *   **General Cause:** Inherited or acquired conditions that increase the risk of thrombosis
+    *   **Key Feature:** Increased thrombin generation and/or impaired anticoagulant mechanisms
+    *   **Classification:**
+        *   **Inherited (Genetic):** Mutations in genes encoding coagulation factors or natural anticoagulants
+        *   **Acquired:** External factors affecting the coagulation system
+    *   **Common Examples:**
+        *   **Factor V Leiden Mutation:** Resistance to activated protein C (APC)
+        *   **Prothrombin G20210A Mutation:** Increased prothrombin production
+        *   **Protein C Deficiency, Protein S Deficiency, Antithrombin Deficiency:** Reduced levels of natural anticoagulants
+        *   **Antiphospholipid Syndrome (APS):** Autoantibodies against phospholipids, causing both thrombosis and pregnancy morbidity
+
+*   **Disseminated Intravascular Coagulation (DIC):** Bleeding and Thrombotic Disorder
+    
+    *   **Definition:** A complex, acquired disorder involving widespread activation of coagulation and fibrinolysis
+    *   **Key Features:**
+        *   Not a Primary Disease: Always secondary to an underlying condition (e.g., sepsis, trauma, malignancy, obstetric complications)
+        *   Simultaneous Clotting and Bleeding: Microthrombi formation leads to organ damage, while consumption of clotting factors and platelets causes bleeding
+    *   **Pathophysiology:** Triggering event leads to:
+        *   Uncontrolled activation of coagulation
+        *   Consumption of clotting factors and platelets
+        *   Secondary activation of fibrinolysis
+    *   **Laboratory Findings:**
+        *   Prolonged PT and aPTT
+        *   Low fibrinogen
+        *   Thrombocytopenia
+        *   Elevated D-dimer
+        *   Schistocytes on peripheral blood smear
+
+## **Summary Table**
+
+| Disease State                | Main Effect                     | Key Lab Findings                                  |
+| ----------------------------- | ------------------------------- | ------------------------------------------------- |
+| Hereditary Factor Deficiencies | Bleeding                        | Prolonged PT/aPTT, low factor activity           |
+| Acquired Factor Deficiencies   | Bleeding                        | Prolonged PT/aPTT, low factor activity            |
+| Inhibitors                     | Bleeding or Thrombosis          | Prolonged PT/aPTT, mixing study *does not correct* |
+| Fibrinolytic Disorders         | Bleeding or Thrombosis          | Elevated D-dimer, abnormal lysis times           |
+| Hypercoagulable States        | Thrombosis                      | (Often normal) May have specific genetic markers |
+| DIC                            | Bleeding and Thrombosis         | Prolonged PT/aPTT, low fibrinogen, elevated D-dimer, schistocytes |

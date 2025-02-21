@@ -1,0 +1,179 @@
+# DIC {-}
+
+## **Overview of Disseminated Intravascular Coagulation (DIC)** {-}
+
+*   **Definition:** A complex and life-threatening acquired syndrome characterized by widespread activation of coagulation and fibrinolysis, leading to consumption of coagulation factors and platelets, and ultimately resulting in both thrombosis and bleeding
+*   **Key Features:**
+    *   Systemic Activation of Coagulation: Uncontrolled activation of the coagulation cascade, leading to the formation of microthrombi throughout the vasculature
+    *   Consumption of Coagulation Factors and Platelets: Widespread clotting consumes coagulation factors and platelets, leading to deficiencies
+    *   Activation of Fibrinolysis: Activation of the fibrinolytic system to break down the microthrombi, resulting in the generation of fibrin degradation products (FDPs)
+    *   Bleeding and Thrombosis: The consumption of coagulation factors and platelets, combined with excessive fibrinolysis, leads to both bleeding and thrombotic complications
+*   **Always Secondary:** DIC is *never* a primary disease; it is always secondary to an underlying disorder
+*   **High Mortality Rate:** DIC is associated with significant morbidity and mortality
+
+## **Etiology and Triggering Events** {-}
+
+*   **Sepsis:**
+
+    *   Severe bacterial, fungal, or viral infections
+    *   Gram-negative bacteria are a common cause of DIC
+
+*   **Trauma:**
+
+    *   Severe tissue injury, burns, or crush injuries
+    *   Release of tissue factor into the circulation
+
+*   **Obstetric Complications:**
+
+    *   Abruptio placentae (premature separation of the placenta)
+    *   Amniotic fluid embolism
+    *   Preeclampsia and eclampsia
+    *   Septic abortion
+
+*   **Malignancy:**
+
+    *   Acute promyelocytic leukemia (APL): A specific subtype of AML associated with a high risk of DIC due to the release of procoagulant substances from leukemic cells
+    *   Solid tumors (e.g., lung, breast, ovarian, prostate): Can release tissue factor or other procoagulant substances
+
+*   **Other Causes:**
+
+    *   Severe allergic or toxic reactions
+    *   Transfusion reactions
+    *   Snake bites
+    *   Pancreatitis
+    *   Liver disease
+    *   Aortic aneurysm
+
+## **Pathophysiology** {-}
+
+The pathophysiology of DIC involves a complex interplay between the coagulation and fibrinolytic systems:
+
+*   **Triggering Event:** The underlying disorder releases procoagulant substances into the circulation (e.g., tissue factor, inflammatory cytokines)
+*   **Activation of Coagulation:** The extrinsic pathway of coagulation is activated by the release of tissue factor, leading to:
+
+    *   Formation of Thrombin: Activation of the coagulation cascade leads to increased thrombin generation
+    *   Fibrin Formation: Thrombin converts fibrinogen to fibrin, resulting in the formation of microthrombi throughout the vasculature
+*   **Consumption of Coagulation Factors and Platelets:**
+
+    *   Widespread clotting consumes coagulation factors (Factors V, VIII, fibrinogen) and platelets, leading to deficiencies
+*   **Activation of Fibrinolysis:**
+
+    *   Thrombin also activates the fibrinolytic system by releasing tissue plasminogen activator (tPA) from endothelial cells
+    *   Plasminogen is converted to plasmin, which degrades fibrin clots into fibrin degradation products (FDPs), including D-dimer
+*   **Bleeding and Thrombosis:** The consumption of coagulation factors and platelets, combined with excessive fibrinolysis, leads to:
+
+    *   Microthrombi: Can cause organ ischemia and damage, leading to kidney failure, respiratory distress, and neurological dysfunction
+    *   Bleeding: Due to the deficiency of coagulation factors and platelets
+
+## **Clinical Features** {-}
+
+*   **Bleeding:**
+    *   Oozing from IV sites, surgical wounds, and mucous membranes
+    *   Petechiae (small, pinpoint hemorrhages)
+    *   Purpura (larger areas of bleeding under the skin)
+    *   Gastrointestinal bleeding
+    *   Pulmonary hemorrhage
+    *   Intracranial hemorrhage
+*   **Thrombosis:**
+    *   Microthrombi can cause organ damage and dysfunction
+    *   Kidney failure (oliguria, anuria)
+    *   Acute respiratory distress syndrome (ARDS)
+    *   Neurological dysfunction (altered mental status, seizures, coma)
+    *   Skin necrosis
+    *   Limb ischemia
+*   **Other Symptoms:**
+    *   Hypotension (low blood pressure)
+    *   Tachycardia (increased heart rate)
+    *   Fever
+
+## **Laboratory Findings** {-}
+
+*   **Coagulation Studies:**
+
+    *   Prothrombin Time (PT): Prolonged
+    *   Activated Partial Thromboplastin Time (aPTT): Prolonged
+    *   Thrombin Time (TT): Prolonged
+    *   Reptilase Time: Prolonged (may be normal in some cases)
+    *   Mixing Studies: PT and aPTT typically do not correct on mixing with normal plasma
+
+*   **Fibrinogen Level:**
+
+    *   Decreased (often <100 mg/dL)
+    *   Reflects consumption of fibrinogen
+
+*   **Platelet Count:**
+
+    *   Decreased (thrombocytopenia) - often <100 x 10^9/L
+    *   Platelet count decreases as the patient's condition worsen
+
+*   **Fibrin Degradation Products (FDPs):**
+
+    *   Elevated
+    *   Latex agglutination assay is positive
+
+*   **D-dimer:**
+
+    *   Markedly Elevated
+    *   D-dimer is a cross-linked fibrin degradation product and is a more specific marker for DIC than FDPs
+
+*   **Peripheral Blood Smear:**
+
+    *   Schistocytes (fragmented RBCs): Indicate microangiopathic hemolytic anemia (MAHA)
+    *   Thrombocytopenia
+
+*   **Other Tests:**
+
+    *   Antithrombin Level: Decreased
+    *   Protein C and S Levels: Decreased
+    *   Factor Assays: Decreased levels of Factors V and VIII
+    *   Reptilase Time: Reptilase time measures fibrin formation independent of thrombin so is used to evaluate fibrinogen function
+        *   Prolonged in the setting of dysfibrinogenemia or hypofibrinogenemia
+
+## **Diagnostic Scoring Systems** {-}
+
+*   Several scoring systems have been developed to aid in the diagnosis of DIC
+*   The International Society on Thrombosis and Haemostasis (ISTH) scoring system is one of the most widely used
+*   Scoring systems consider:
+    *   Platelet count
+    *   Prothrombin time (PT)
+    *   Fibrinogen level
+    *   D-dimer level
+
+## **Treatment** {-}
+
+*   **Treat the Underlying Cause:** This is the *most important* step in managing DIC.
+    *   Antibiotics for sepsis
+    *   Surgical evacuation of retained products of conception in obstetric DIC
+    *   Chemotherapy for acute promyelocytic leukemia (APL)
+*   **Supportive Care:**
+
+    *   Transfusions:
+        *   Platelet transfusions to maintain platelet count > 20-30 x 10^9/L (or higher if there is active bleeding)
+        *   Packed red blood cells (PRBCs) to maintain adequate oxygen delivery
+        *   Fresh Frozen Plasma (FFP): To provide coagulation factors
+        *   Cryoprecipitate: To increase fibrinogen levels (target fibrinogen > 100 mg/dL)
+*   **Anticoagulation:**
+
+    *   Heparin: May be considered in *specific* situations (e.g., APL-associated DIC or thrombosis-dominant DIC) to inhibit thrombin generation
+        *   Use is controversial and requires careful monitoring due to the risk of worsening bleeding
+        *   Low-molecular-weight heparin (LMWH) may be preferred over unfractionated heparin
+*   **Antifibrinolytic Therapy:**
+
+    *   Controversial and generally *not recommended*
+    *   May be considered in *rare* situations with life-threatening bleeding and evidence of primary fibrinolysis (very low fibrinogen and elevated D-dimer)
+
+## **Prognosis** {-}
+
+*   **Poor Prognosis:** DIC is associated with a high mortality rate
+*   **Factors Influencing Prognosis:**
+    *   Severity of the underlying condition
+    *   Rapid and effective treatment of the underlying cause
+    *   Prompt recognition and management of DIC complications
+
+## **Key Laboratory Tests for DIC** {-}
+
+*   **PT, aPTT, TT:** Prolonged
+*   **Platelet Count:** Decreased
+*   **Fibrinogen Level:** Decreased
+*   **D-dimer:** Markedly Elevated
+*   **Peripheral Blood Smear:** Schistocytes

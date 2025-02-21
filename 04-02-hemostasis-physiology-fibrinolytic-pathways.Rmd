@@ -1,0 +1,122 @@
+# Fibrinolytic Pathways {-}
+
+## **Overview of Fibrinolysis** {-}
+
+*   **Definition:** The process by which fibrin clots are broken down and removed from blood vessels once tissue repair has occurred
+*   **Purpose:** To restore normal blood flow, prevent excessive clot formation, and maintain vascular patency
+*   **Key Components:**
+    *   Plasminogen
+    *   Plasmin
+    *   Plasminogen Activators
+    *   Plasmin Inhibitors
+    *   Fibrin Degradation Products (FDPs)
+
+## **Components of the Fibrinolytic System** {-}
+
+*   **Plasminogen:**
+
+    *   *Definition:* An inactive zymogen (precursor) synthesized in the liver and found in the plasma and other body fluids
+    *   Structure: A single-chain glycoprotein
+    *   Function: When activated, plasminogen is converted to plasmin, the primary enzyme responsible for breaking down fibrin
+    *   Binding to Fibrin: Plasminogen binds to fibrin, making it available for activation at the site of the clot
+
+*   **Plasmin:**
+
+    *   *Definition:* An active serine protease enzyme that degrades fibrin, leading to clot breakdown
+    *   Formation: Formed by the activation of plasminogen through plasminogen activators
+    *   Function:
+        *   Degradation of Fibrin: Breaks down fibrin into fibrin degradation products (FDPs)
+        *   Degradation of Other Proteins: Plasmin can also degrade other proteins, including fibrinogen, factors V and VIII, and other components of the coagulation system
+*   **Plasminogen Activators:**
+    *   *Definition:* Enzymes that convert plasminogen to plasmin
+    *   Key Plasminogen Activators:
+        *   Tissue Plasminogen Activator (tPA):
+            *   Synthesized and released by endothelial cells
+            *   Most active when bound to fibrin
+            *   Plays a key role in dissolving clots within blood vessels
+        *   Urokinase Plasminogen Activator (uPA):
+            *   Found in various tissues and body fluids
+            *   Activates plasminogen in the extravascular space
+        *   Streptokinase:
+            *   Exogenous plasminogen activator produced by streptococcal bacteria
+            *   Used therapeutically as a thrombolytic agent
+*   **Plasmin Inhibitors:**
+    *   *Definition:* Proteins that regulate the activity of plasmin and plasminogen activators
+    *   Key Inhibitors:
+        *   Alpha-2-Antiplasmin (α2-AP):
+            *   The primary inhibitor of plasmin
+            *   Rapidly inactivates plasmin that is free in the circulation, preventing it from degrading other proteins
+            *   Forms a stable complex with plasmin, which is then cleared from the circulation
+        *   Plasminogen Activator Inhibitor-1 (PAI-1):
+            *   The primary inhibitor of tPA and uPA
+            *   Produced by endothelial cells, platelets, and other tissues
+        *   Thrombin Activatable Fibrinolysis Inhibitor (TAFI):
+            *   TAFI, when activated by thrombin, modifies fibrin to make it less susceptible to plasminogen binding and subsequent degradation by plasmin.
+*   **Fibrin Degradation Products (FDPs):**
+    *   *Definition:* Fragments produced when plasmin degrades fibrin
+    *   Examples:
+        *   D-dimer: A specific marker for cross-linked fibrin degradation
+        *   Fibrin monomers
+        *   Fragment X, Fragment Y, Fragment D, and Fragment E
+    *   Cleared from the circulation by the liver and kidneys
+
+## **Process of Fibrinolysis** {-}
+
+1.  **Clot Formation:**
+    *   The coagulation cascade is activated, leading to the formation of a fibrin clot at the site of vascular injury
+2.  **Plasminogen Binding:**
+    *   Plasminogen binds to the fibrin clot
+3.  **tPA Release:**
+    *   Endothelial cells release tPA, which also binds to fibrin
+4.  **Plasmin Activation:**
+    *   tPA activates plasminogen to plasmin on the surface of the fibrin clot
+5.  **Fibrin Degradation:**
+    *   Plasmin degrades fibrin into fibrin degradation products (FDPs), including D-dimer
+6.  **Inhibition:**
+    *   α2-AP rapidly inactivates any plasmin that escapes from the clot into the circulation, preventing it from degrading other proteins
+    *   PAI-1 inhibits tPA and uPA
+    *   TAFI inhibits plasminogen binding
+7.  **Clearance:**
+    *   FDPs are cleared from the circulation by the liver and kidneys
+
+## **Regulation of Fibrinolysis** {-}
+
+*   **Localized Activation:** tPA is most active when bound to fibrin, which ensures that plasmin is primarily generated at the site of the clot
+*   **Inhibition:** PAI-1 and α2-AP inhibit the activity of plasminogen activators and plasmin, respectively
+*   **TAFI** Thrombin-activatable fibrinolysis inhibitor inhibits the activity of plasminogen activator.
+
+**Clinical Significance**
+
+*   **Thrombosis:** Impaired fibrinolysis can lead to excessive clot formation and thrombosis (e.g., deep vein thrombosis, pulmonary embolism)
+*   **Bleeding:** Excessive fibrinolysis can lead to bleeding disorders (e.g., disseminated intravascular coagulation, DIC)
+*   **Therapeutic Use:** Fibrinolytic agents (like tPA and streptokinase) are used to treat thromboembolic disorders (e.g., myocardial infarction, stroke)
+
+## **Laboratory Testing** {-}
+
+*   **D-dimer Assay:**
+
+    *   Measures the level of D-dimer in the blood
+    *   Elevated in conditions with increased fibrinolysis (e.g., DVT, PE, DIC)
+    *   Used as a screening test for venous thromboembolism (VTE)
+*   **Fibrinogen Level:**
+
+    *   Measures the amount of fibrinogen in the blood
+    *   Decreased in conditions with excessive fibrinolysis (e.g., DIC)
+*   **tPA and PAI-1 Assays:**
+
+    *   Measure the levels of tPA and PAI-1 in the blood
+*   **Euglobulin Lysis Time:**
+    *   Assesses global fibrinolytic activity.
+
+## **Key Terms** {-}
+
+*   **Fibrinolysis:** The breakdown of fibrin clots
+*   **Plasminogen:** Inactive precursor to plasmin
+*   **Plasmin:** Active enzyme that degrades fibrin
+*   **tPA (Tissue Plasminogen Activator):** Plasminogen activator released by endothelial cells
+*   **uPA (Urokinase Plasminogen Activator):** Plasminogen activator found in various tissues and body fluids
+*   **α2-Antiplasmin (α2-AP):** Primary inhibitor of plasmin
+*   **PAI-1 (Plasminogen Activator Inhibitor-1):** Inhibitor of tPA and uPA
+*   **TAFI** Thrombin-activatable fibrinolysis inhibitor: inhibits the activity of plasminogen activator.
+*   **Fibrin Degradation Products (FDPs):** Fragments produced when plasmin degrades fibrin
+*   **D-dimer:** A specific marker for cross-linked fibrin degradation

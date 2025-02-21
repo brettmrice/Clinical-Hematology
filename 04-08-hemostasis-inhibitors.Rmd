@@ -1,0 +1,143 @@
+# Inhibitors {-}
+
+## **Overview of Coagulation Inhibitors** {-}
+
+*   **Definition:** Substances that interfere with the normal function of coagulation factors, leading to impaired thrombin generation and an increased risk of bleeding or, in some cases, thrombosis
+*   **Classification:**
+    *   Acquired Inhibitors: Antibodies (usually IgG) that develop against specific coagulation factors or phospholipid-binding proteins
+    *   Congenital Inhibitors: Rare, inherited deficiencies of natural anticoagulant proteins (Protein C, Protein S, Antithrombin). These are typically categorized as hypercoagulable states rather than factor deficiencies
+*   **Key Features:**
+    *   Prolonged clotting time (PT and/or aPTT) that does not correct upon mixing with normal plasma (demonstrates the presence of an inhibitor)
+    *   May target specific coagulation factors or phospholipid-binding proteins
+    *   Clinical manifestations range from bleeding to thrombosis, depending on the specific inhibitor and underlying mechanism
+
+## **Acquired Coagulation Inhibitors** {-}
+
+These are antibodies that develop against coagulation factors or phospholipid-binding proteins, interfering with their function
+
+*   **Factor VIII Inhibitors (Acquired Hemophilia A):**
+
+    *   **Definition:** Autoantibodies (usually IgG) that develop against Factor VIII (FVIII), leading to FVIII deficiency and a bleeding disorder
+    *   **Etiology:**
+        *   Idiopathic (most common)
+        *   Associated with:
+            *   Autoimmune disorders (e.g., SLE, rheumatoid arthritis)
+            *   Pregnancy
+            *   Malignancies
+            *   Medications (e.g., penicillin, sulfonamides)
+    *   **Pathophysiology:**
+        *   Autoantibodies bind to FVIII and neutralize its activity or accelerate its clearance from the circulation
+        *   Leads to impaired thrombin generation and increased risk of bleeding
+    *   **Clinical Features:**
+        *   Bleeding manifestations similar to hemophilia A
+            *   Easy bruising
+            *   Prolonged bleeding after cuts or surgery
+            *   Nosebleeds
+            *   Hemarthrosis (bleeding into joints) - less common than in inherited hemophilia A
+            *   Intracranial hemorrhage (rare but life-threatening)
+    *   **Laboratory Findings:**
+        *   CBC: Normal platelet count
+        *   Prothrombin Time (PT): Normal
+        *   Activated Partial Thromboplastin Time (aPTT): Prolonged
+        *   Mixing Study: aPTT *does not* correct upon mixing with normal plasma (demonstrates the presence of an inhibitor)
+        *   Factor VIII Assay: Decreased FVIII activity level
+        *   Factor VIII Inhibitor Assay (Bethesda Assay or Nijmegen-Bethesda Assay): Measures the titer (concentration) of the FVIII inhibitor
+            *   The Bethesda titer is expressed in Bethesda Units (BU)
+            *   One BU is defined as the amount of inhibitor that neutralizes 50% of FVIII in normal plasma
+    *   **Treatment:**
+        *   Control of Bleeding Episodes:
+            *   Bypassing agents:
+                *   Activated prothrombin complex concentrates (aPCCs)
+                *   Recombinant Factor VIIa (rFVIIa)
+            *   These agents promote thrombin generation independently of FVIII
+        *   Eradication of the Inhibitor:
+            *   Immunosuppressive Therapy:
+                *   Corticosteroids (e.g., prednisone)
+                *   Cyclophosphamide
+                *   Rituximab (anti-CD20 antibody)
+            *   Immune Tolerance Induction (ITI): High-dose FVIII infusions combined with immunosuppressive therapy
+        *   Avoid FVIII Concentrates (unless necessary to control bleeding)
+            *   Repeated exposure to FVIII can boost the inhibitor titer
+
+*   **Lupus Anticoagulant (LA):**
+
+    *   **Definition:** Autoantibodies that bind to phospholipids and phospholipid-binding proteins, interfering with phospholipid-dependent coagulation assays in vitro
+    *   **Etiology:**
+        *   Primary (idiopathic)
+        *   Secondary: Associated with:
+            *   Autoimmune disorders (e.g., SLE)
+            *   Infections
+            *   Medications
+            *   Malignancies
+    *   **Pathophysiology:**
+        *   Antibodies bind to phospholipids and phospholipid-binding proteins (e.g., prothrombin, β2-glycoprotein I)
+        *   Interferes with the assembly of coagulation complexes on phospholipid surfaces *in vitro*, leading to prolonged clotting times
+        *   In vivo, the LA can promote thrombosis through complex mechanisms involving:
+            *   Activation of endothelial cells and platelets
+            *   Decreased production of prostacyclin
+            *   Inhibition of natural anticoagulant pathways
+    *   **Clinical Features:**
+        *   Paradoxical: Despite prolonging clotting times in vitro, LA is associated with an increased risk of thrombosis (both arterial and venous)
+        *   Thrombotic events:
+            *   Deep vein thrombosis (DVT)
+            *   Pulmonary embolism (PE)
+            *   Stroke
+            *   Recurrent pregnancy loss
+        *   May be asymptomatic
+    *   **Laboratory Findings:**
+        *   Screening Test:
+            *   Prolonged aPTT: Most common finding, but PT may also be prolonged in some cases
+        *   Mixing Study:
+            *   aPTT *does not* correct upon mixing with normal plasma (demonstrates the presence of an inhibitor)
+        *   Confirmatory Tests:
+            *   Phospholipid-Dependent Coagulation Assays:
+                *   Dilute Russell's viper venom time (dRVVT): Prolonged and does not correct with the addition of phospholipid
+                *   Silica Clotting Time (SCT): Prolonged and does not correct with the addition of phospholipid
+            *   Hexagonal Phase Phospholipid Neutralization Assay:
+                *   Demonstrates that the prolonged clotting time is due to a phospholipid-dependent inhibitor
+                *   Clotting time corrects when hexagonal phase phospholipids are added to the test system
+        *   Anticardiolipin Antibodies and Anti-β2 Glycoprotein I Antibodies:
+            *   Often present, but not required for the diagnosis of LA
+    *   **Treatment:**
+        *   Anticoagulation:
+            *   Warfarin (Coumadin)
+            *   Direct oral anticoagulants (DOACs) may be used in some cases, but there is less data on their effectiveness in patients with LA
+            *   The intensity and duration of anticoagulation depend on the severity of the thrombosis and the presence of other risk factors
+        *   Antiplatelet Therapy:
+            *   Aspirin may be used in some patients to reduce the risk of arterial thrombosis
+        *   Management of Obstetric Complications:
+            *   Low-dose aspirin and prophylactic heparin during pregnancy to prevent recurrent pregnancy loss
+
+*   **Factor V Inhibitors**
+    *   Very rare, but when it happens results in prolonged PT and PTT
+
+## **Congenital (Inherited) Coagulation Inhibitor Deficiencies** {-}
+
+These are better classified as hypercoagulable states
+
+*   Protein C Deficiency
+*   Protein S Deficiency
+*   Antithrombin Deficiency
+
+## **Key Laboratory Tests for Coagulation Inhibitors** {-}
+
+*   **Prothrombin Time (PT):** Measures the function of the extrinsic and common pathways
+*   **Activated Partial Thromboplastin Time (aPTT):** Measures the function of the intrinsic and common pathways
+*   **Mixing Studies:** To differentiate factor deficiencies from factor inhibitors
+*   **Factor Assays:** To measure the activity of specific coagulation factors
+*   **Factor Inhibitor Assays:** To detect and quantify factor inhibitors
+*   **Lupus Anticoagulant Testing:**
+    *   Dilute Russell's viper venom time (dRVVT)
+    *   Silica Clotting Time (SCT)
+    *   Hexagonal Phase Phospholipid Neutralization Assay
+*   **Anticardiolipin and Anti-β2 Glycoprotein I Antibody Assays**
+*   **Genetic Testing:** For inherited thrombophilia mutations
+
+## **Key Terms** {-}
+
+*   **Coagulation Inhibitor:** An antibody that interferes with the function of a coagulation factor
+*   **Lupus Anticoagulant (LA):** An antibody that binds to phospholipids and proteins associated with the cell membrane
+*   **Mixing Study:** A test to differentiate factor deficiencies from factor inhibitors
+*   **Bethesda Assay:** A method for quantifying factor VIII inhibitors
+*   **Thrombosis:** Formation of a blood clot inside a blood vessel
+*   **Antiphospholipid Syndrome (APS):** An autoimmune disorder characterized by thrombosis, pregnancy morbidity, and the presence of antiphospholipid antibodies (including lupus anticoagulant, anticardiolipin antibodies, and anti-β2 glycoprotein I antibodies)

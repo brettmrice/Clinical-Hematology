@@ -1,0 +1,62 @@
+# Factor Deficiencies {-}
+
+## **Overview of Coagulation Factor Deficiencies** {-}
+
+*   **Definition:** A group of bleeding disorders caused by a deficiency or dysfunction of one or more coagulation factors, which are essential for the normal blood clotting process
+*   **Classification:**
+    *   Hereditary (Inherited) Coagulation Factor Deficiencies: Genetic disorders caused by mutations in genes encoding coagulation factors
+    *   Acquired Coagulation Factor Deficiencies: Caused by external factors that impair coagulation factor synthesis or function
+*   **Clinical Features:**
+    *   Bleeding Tendency: The severity of bleeding depends on the specific factor involved and the degree of deficiency
+    *   Common Manifestations:
+        *   Easy bruising
+        *   Prolonged bleeding after cuts, dental procedures, or surgery
+        *   Nosebleeds (epistaxis)
+        *   Gum bleeding
+        *   Menorrhagia (heavy menstrual bleeding) in women
+        *   Hemarthrosis (bleeding into joints)
+        *   Intracranial hemorrhage (rare but life-threatening)
+
+## **Hereditary Coagulation Factor Deficiencies** {-}
+
+*   **General Characteristics:**
+    *   Inherited in an autosomal recessive or X-linked recessive pattern
+    *   Often present with bleeding symptoms early in life
+    *   Specific diagnosis requires factor assays
+
+*   **Hemophilia A (Factor VIII Deficiency):**
+    *   *Definition:* An X-linked recessive bleeding disorder caused by a deficiency of Factor VIII (FVIII)
+
+*   **Hemophilia B (Factor IX Deficiency, Christmas Disease):**
+    *   *Definition:* An X-linked recessive bleeding disorder caused by a deficiency of Factor IX (FIX)
+
+*   **Other Rare Hereditary Factor Deficiencies:**
+
+    *   Factor XI Deficiency (Hemophilia C):
+    *   Factor V Deficiency:
+    *   Combined Factor V and VIII Deficiency
+    *   Factor VII Deficiency:
+    *   Factor X Deficiency:
+    *   Factor XIII Deficiency:
+
+## **Acquired Coagulation Factor Deficiencies** {-}
+
+*   **Vitamin K Deficiency:**
+    *   *Pathophysiology:* Vitamin K is a cofactor for the carboxylation of glutamate residues on Factors II (prothrombin), VII, IX, and X, as well as proteins C and S
+
+*   **Liver Disease:**
+    *   *Pathophysiology:* The liver is the primary site of synthesis for most coagulation factors
+
+*   **Disseminated Intravascular Coagulation (DIC):**
+    *   *Definition:* A complex disorder characterized by widespread activation of coagulation and fibrinolysis, leading to both thrombosis and bleeding
+
+## **Key Terms** {-}
+
+*   **Coagulation Factors:** Proteins involved in the coagulation cascade
+*   **Hemophilia A:** Factor VIII deficiency
+*   **Hemophilia B:** Factor IX deficiency
+*   **Vitamin K:** A cofactor for the carboxylation of certain coagulation factors
+*   **Liver Disease:** Impairs the synthesis of coagulation factors
+*   **Disseminated Intravascular Coagulation (DIC):** A consumptive coagulopathy with widespread clotting and bleeding
+*   **Prothrombin Time (PT):** Test of the extrinsic and common pathways
+*   **Activated Partial Thromboplastin Time (aPTT):** Test of the intrinsic and common pathways

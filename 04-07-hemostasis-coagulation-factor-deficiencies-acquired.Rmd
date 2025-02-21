@@ -1,0 +1,144 @@
+# Acquired {-}
+
+## **Overview of Acquired Coagulation Factor Deficiencies** {-}
+
+*   **Definition:** Bleeding disorders that result from a decrease in the level or function of one or more coagulation factors due to external factors rather than genetic mutations. These disorders are *not* inherited
+*   **Key Characteristics:**
+    *   Develop later in life, often in association with underlying medical conditions or exposures
+    *   May involve single or multiple coagulation factors
+    *   Often associated with abnormal results on screening coagulation tests (PT and/or aPTT)
+    *   Treatment focuses on addressing the underlying cause and providing supportive care
+*   **Important Note:** It's crucial to distinguish acquired coagulation factor deficiencies from inherited deficiencies, as the causes and management strategies are different
+
+## **Specific Acquired Coagulation Factor Deficiencies** {-}
+
+*   **Vitamin K Deficiency**
+
+    *   **Pathophysiology:** Vitamin K is an essential cofactor for the gamma-carboxylation of certain glutamate residues on coagulation factors II (prothrombin), VII, IX, and X, as well as proteins C and S
+        *   Gamma-carboxylation is necessary for these proteins to bind calcium and become fully functional in the coagulation cascade
+        *   Vitamin K deficiency impairs the carboxylation process, leading to decreased levels of functional coagulation factors
+    *   **Causes:**
+        *   Inadequate Dietary Intake: Rare in healthy adults with a balanced diet
+        *   Malabsorption:
+            *   Biliary Obstruction: Prevents absorption of fat-soluble vitamins (including vitamin K)
+            *   Cystic Fibrosis: Impairs absorption of fat-soluble vitamins
+            *   Short Bowel Syndrome: Decreased absorptive surface
+        *   Antibiotic Use: Broad-spectrum antibiotics can disrupt the gut flora that produce vitamin K
+        *   Warfarin (Coumadin) Therapy: Warfarin inhibits vitamin K epoxide reductase, an enzyme required for recycling vitamin K
+    *   **Clinical Features:**
+        *   Easy bruising
+        *   Mucosal bleeding (e.g., nosebleeds, gum bleeding)
+        *   Prolonged bleeding after cuts, dental procedures, or surgery
+        *   Rarely, severe bleeding such as intracranial hemorrhage
+    *   **Laboratory Findings:**
+        *   Prothrombin Time (PT): Prolonged
+        *   Activated Partial Thromboplastin Time (aPTT): Prolonged (may be normal in early stages)
+        *   Thrombin Time (TT): Normal
+        *   Fibrinogen Level: Normal
+        *   Factor Assays: Decreased levels of Factors II, VII, IX, and X
+        *   Vitamin K Level: May be low, but not routinely measured
+    *   **Treatment:**
+        *   Vitamin K Supplementation:
+            *   Oral Vitamin K: For mild to moderate deficiency
+            *   Intravenous Vitamin K: For severe deficiency or in patients with malabsorption
+        *   Fresh Frozen Plasma (FFP): To rapidly restore coagulation factors in cases of severe bleeding
+        *   Prothrombin Complex Concentrates (PCCs): To rapidly restore coagulation factors in cases of severe bleeding
+        *   Treatment of Underlying Cause: Address the underlying condition causing vitamin K deficiency (e.g., treat biliary obstruction, discontinue offending medications)
+    *   **Monitoring:**
+        *   PT/INR: To assess response to vitamin K therapy
+
+*   **Liver Disease**
+
+    *   **Pathophysiology:** The liver is the primary site of synthesis for most coagulation factors, as well as natural anticoagulants (protein C, protein S, and antithrombin). Liver disease impairs the synthesis of these proteins, leading to both bleeding and thrombotic risks
+    *   **Causes:**
+        *   Cirrhosis: Chronic liver damage due to alcohol abuse, viral hepatitis, or other causes
+        *   Acute Liver Failure
+        *   Hepatitis
+        *   Liver Tumors
+    *   **Clinical Features:**
+        *   Variable bleeding tendency
+        *   Easy bruising
+        *   Nosebleeds
+        *   Gum bleeding
+        *   Variceal bleeding (bleeding from enlarged veins in the esophagus or stomach)
+        *   Ascites (fluid accumulation in the abdomen)
+        *   Jaundice (yellowing of the skin and eyes)
+    *   **Laboratory Findings:**
+        *   Prothrombin Time (PT): Prolonged
+        *   Activated Partial Thromboplastin Time (aPTT): Prolonged
+        *   Thrombin Time (TT): Prolonged (due to dysfibrinogenemia - abnormal fibrinogen)
+        *   Fibrinogen Level: May be decreased or normal, but often dysfunctional
+        *   Factor Assays: Decreased levels of multiple coagulation factors (Factors II, V, VII, IX, X)
+        *   Platelet Count: May be decreased (thrombocytopenia) due to hypersplenism or decreased thrombopoietin production
+        *   Liver Function Tests (LFTs): Elevated (AST, ALT, bilirubin)
+    *   **Treatment:**
+        *   Treatment of Underlying Liver Disease: Addressing the underlying liver condition (e.g., antiviral therapy for hepatitis, alcohol abstinence)
+        *   Vitamin K Supplementation: May improve coagulation factor synthesis if vitamin K deficiency is present
+        *   Fresh Frozen Plasma (FFP): To provide coagulation factors in cases of severe bleeding
+        *   Prothrombin Complex Concentrates (PCCs): To provide coagulation factors in cases of severe bleeding
+        *   Cryoprecipitate: To increase fibrinogen levels
+        *   Platelet Transfusions: To manage thrombocytopenia and severe bleeding
+
+*   **Disseminated Intravascular Coagulation (DIC)**
+
+    *   **Definition:** A complex, life-threatening disorder characterized by widespread activation of coagulation and fibrinolysis, leading to both thrombosis and bleeding
+    *   **Pathophysiology:**
+        *   Triggering Event: DIC is triggered by various conditions, including:
+            *   Sepsis: Systemic bacterial or fungal infection
+            *   Trauma: Severe tissue injury
+            *   Obstetric Complications: Abruptio placentae, amniotic fluid embolism
+            *   Malignancy: Acute promyelocytic leukemia (APL), solid tumors
+            *   Transfusion Reactions
+        *   Activation of Coagulation: Uncontrolled activation of the coagulation cascade, leading to the formation of microthrombi throughout the vasculature
+        *   Consumption of Coagulation Factors and Platelets: Widespread clotting consumes coagulation factors and platelets, leading to deficiencies
+        *   Activation of Fibrinolysis: Activation of the fibrinolytic system to break down the microthrombi, resulting in the generation of fibrin degradation products (FDPs)
+        *   Bleeding and Thrombosis: The consumption of coagulation factors and platelets, combined with excessive fibrinolysis, leads to both bleeding and thrombotic complications
+    *   **Clinical Features:**
+        *   Bleeding:
+            *   Oozing from IV sites and wounds
+            *   Petechiae and purpura
+            *   Gastrointestinal bleeding
+            *   Pulmonary hemorrhage
+        *   Thrombosis:
+            *   Microthrombi can cause organ damage and dysfunction (e.g., kidney failure, respiratory distress)
+    *   **Laboratory Findings:**
+        *   Prothrombin Time (PT): Prolonged
+        *   Activated Partial Thromboplastin Time (aPTT): Prolonged
+        *   Thrombin Time (TT): Prolonged
+        *   Fibrinogen Level: Decreased
+        *   Platelet Count: Decreased (thrombocytopenia)
+        *   D-dimer: Markedly Elevated
+        *   Peripheral Blood Smear: Schistocytes (fragmented RBCs) due to microangiopathic hemolytic anemia (MAHA)
+    *   **Treatment:**
+        *   Treat the Underlying Cause: Essential for resolving DIC
+        *   Supportive Care:
+            *   Transfusions (RBCs and platelets) to manage anemia and thrombocytopenia
+            *   Fresh Frozen Plasma (FFP): To replace coagulation factors
+            *   Cryoprecipitate: To increase fibrinogen levels
+        *   Anticoagulation:
+            *   Heparin: May be considered in specific situations (e.g., APL-associated DIC) to inhibit thrombin generation, but use is controversial
+        *   Antifibrinolytic Agents:
+            *   Use with caution, as they can worsen thrombosis; may be considered in specific situations with life-threatening bleeding
+
+## **Other Acquired Coagulation Factor Deficiencies** {-}
+
+*   **Acquired Hemophilia:**
+    *   Caused by the development of autoantibodies (inhibitors) against a coagulation factor, most commonly Factor VIII
+    *   Often occurs in older adults or in association with autoimmune disorders, pregnancy, or malignancies
+    *   Laboratory Findings:
+        *   Prolonged aPTT that does not correct on mixing with normal plasma
+        *   Decreased Factor VIII activity
+        *   Positive Factor VIII inhibitor assay
+*   **Lupus Anticoagulant (LA):**
+    *   An antibody that binds to phospholipids and proteins associated with the cell membrane
+    *   Prolonged aPTT that does not correct on mixing with normal plasma
+    *   Increased risk of blood clots in vivo (in the body)
+
+## **Key Terms** {-}
+
+*   **Acquired Coagulation Factor Deficiency:** A bleeding disorder due to a decrease in coagulation factors from outside conditions and not genetically linked
+*   **Vitamin K:** A factor that is essential for the creation of proteins
+*   **Liver Disease:** Any of the body's liver function can lead to the disease
+*   **Prothrombin Time (PT):** Test of the extrinsic and common pathways
+*   **Activated Partial Thromboplastin Time (aPTT):** Test of the intrinsic and common pathways
+*   **Disseminated Intravascular Coagulation (DIC):** A consumptive coagulopathy with widespread clotting and bleeding

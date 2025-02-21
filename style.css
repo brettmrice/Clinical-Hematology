@@ -32,7 +32,12 @@ main {
 .book-toc > li:nth-child(48),
 .book-toc > li:nth-child(50),
 .book-toc > li:nth-child(51),
-.book-toc > li:nth-child(52) {
+.book-toc > li:nth-child(52),
+.book-toc > li:nth-child(58),
+.book-toc > li:nth-child(61),
+.book-toc > li:nth-child(62),
+.book-toc > li:nth-child(63),
+.book-toc > li:nth-child(64) {
   padding-left: 10px;
 }
 /* .book-toc > li:nth-child(7) > a {
@@ -54,7 +59,9 @@ main {
 .book-toc > li:nth-child(20),
 .book-toc > li:nth-child(45),
 .book-toc > li:nth-child(46),
-.book-toc > li:nth-child(47) {
+.book-toc > li:nth-child(47),
+.book-toc > li:nth-child(59),
+.book-toc > li:nth-child(60) {
   padding-left: 20px;
 }
 
