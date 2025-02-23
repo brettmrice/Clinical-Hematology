@@ -1,0 +1,197 @@
+# Differentials {-}
+
+## **Overview of Differentials and Morphology Evaluation** {-}
+
+*   **Definition:** The process of identifying, classifying, and quantifying cells in a blood or body fluid sample, as well as evaluating their morphological characteristics (size, shape, color, nuclear and cytoplasmic features)
+*   **Purpose:**
+    *   Diagnose and monitor a wide range of hematologic and non-hematologic disorders
+    *   Assess the relative proportions of different cell types
+    *   Identify abnormal cells (e.g., blasts, atypical lymphocytes)
+    *   Detect morphological abnormalities in cells
+    *   Evaluate the response to therapy
+*   **Methods:**
+    *   Manual Differential: Microscopic examination of a stained peripheral blood smear or body fluid cytospin preparation
+    *   Automated Differential: Automated hematology analyzers use various technologies to identify and classify cells
+
+## **Peripheral Blood Smear Preparation and Staining** {-}
+
+*   **Blood Collection:**
+    *   Collect blood in EDTA (purple-top) tubes for CBC and peripheral blood smear preparation
+    *   Ensure proper collection technique and avoid clots
+*   **Smear Preparation:**
+    *   Wedge Smear Technique: The most common method for preparing blood smears
+        1.  Place a small drop of blood near one end of a clean glass slide
+        2.  Hold a second slide (spreader slide) at a 30-45 degree angle to the first slide
+        3.  Bring the spreader slide back to contact the blood drop, allowing the blood to spread along the edge of the spreader slide
+        4.  Push the spreader slide forward in a smooth, continuous motion, creating a thin film of blood
+        5.  Allow the smear to air dry completely
+    *   Factors Affecting Smear Quality:
+        *   Angle of the spreader slide
+        *   Speed of spreading
+        *   Size of the blood drop
+        *   Blood viscosity
+*   **Staining:**
+    *   Wright Stain or Wright-Giemsa Stain: The most commonly used stains for blood smears
+    *   Staining Procedure:
+        1.  Flood the air-dried smear with Wright or Wright-Giemsa stain for 3-5 minutes
+        2.  Add an equal volume of buffer (distilled water or a phosphate buffer) to the slide and mix gently for 5-10 minutes
+        3.  Wash the slide gently with buffer
+        4.  Allow the slide to air dry completely
+    *   Proper Staining Technique:
+        *   Use fresh stain and buffer
+        *   Use appropriate staining and washing times
+        *   Avoid overstaining or understaining
+        *   Check buffer pH
+
+## **Manual Differential Count** {-}
+
+*   **Principle:**
+    *   A trained medical laboratory scientist examines the stained peripheral blood smear under a microscope and identifies, classifies, and counts 100 or more leukocytes
+    *   The results are expressed as percentages of each cell type and can be converted to absolute counts
+*   **Procedure:**
+    1. **Preparation is Key**
+        *   Use a Well-Prepared and Stained Peripheral Blood Smear: As mentioned earlier, the wedge smear technique is common. You want a thin area of the blood, well stained, with minimal artifacts. This is important as poor technique can lead to poor test results
+        *   Good Lighting and Microscope Settings: A bright and properly aligned microscope is essential. Make sure you have a good oil immersion lens (100x objective) and that your microscope is routinely serviced
+    
+    2. **Finding the "Counting Area"**
+        *   Scan at Low Power (10x Objective): Before you get started, you'll want to get a big picture view. With the 10x, use the coarse and fine focus adjustments until you find the "counting area." This is the region of the smear:
+            *   RBCs are evenly distributed
+            *   RBCs are mostly monolayered (not piled on top of each other)
+            *   Cells are not distorted
+            *   It's usually found between the thickest part (near where you applied the blood) and the thinnest part (the feathered edge)
+    3. **Systematic Counting Technique**
+        *   Use a Consistent Pattern: The goal is to count every cell in a way that avoids bias or double-counting. Here are a few common approaches:
+            *   Meandering (Serpentine) Pattern: Start at one edge of the counting area and move across the smear in a zigzag or winding pattern. When you reach the edge, shift down slightly and continue counting in the opposite direction
+            *   Battlement (Greek Key) Pattern: Count cells along the edges of a defined area (like a square or rectangle) and then move inward, creating a "battlement" effect.
+        *   Count at 40x or 50x Objective: Once you've found a good spot to count, switch to a higher power (100x)
+    4. **Cell Identification**
+        *   Rely on Cellular Morphology at 100x: Accurately identifying cells is what it is all about!
+        *   Count at least 100 WBCs: This is the number needed to create a good count in the smear.
+    5. **Repeat as Needed**
+        *   If the Peripheral Blood Smear shows few WBC, you can count fewer locations. If it is very very little, you can try to make a better slide or ask for another blood sample.
+*   **Sources of Error:**
+    *   Uneven Cell Distribution: Scan the smear to ensure even cell distribution
+    *   Cell Clumping or Overlap: Choose an area with well-separated cells
+    *   Staining Artifacts: Use proper staining techniques and fresh reagents
+    *   Inaccurate Cell Identification: Proper training and experience are essential
+    *   High nRBC Count: When nucleated red blood cells (nRBCs) are present, a corrected WBC count must be calculated: Corrected WBC = (Uncorrected WBC x 100) / (100 + Number of nRBCs per 100 WBCs)
+
+## **Body Fluid Cytospin Preparation and Staining** {-}
+
+*   **Cytospin Preparation:**
+    *   Used to concentrate cells from a fluid sample onto a slide for microscopic examination
+    *   Procedure:
+        1.  Mix the Fluid Sample: Gently mix the body fluid sample to ensure even cell distribution
+        2.  Prepare the Cytospin:
+            *   Load a known volume of the fluid sample into a cytospin funnel
+            *   Attach the funnel to a microscope slide
+            *   Place the assembly into a cytocentrifuge
+        3.  Centrifugation:
+            *   Centrifuge the sample at a specific speed and time to concentrate the cells onto the slide
+        4.  Air Dry:
+            *   Carefully remove the slide from the cytocentrifuge and allow it to air dry completely
+
+*   **Staining:**
+
+    *   Wright or Wright-Giemsa Stain: The most commonly used stains
+    *   Follow the same staining procedure as for peripheral blood smears
+    *   Ensure that the staining is appropriate for the type of cells being examined
+
+## **Body Fluid Cell Differential** {-}
+
+*   **Cerebrospinal Fluid (CSF):**
+    *   Cell Types:
+        *   Lymphocytes (predominant cell type in normal CSF)
+        *   Monocytes
+        *   Neutrophils (rare in normal CSF)
+        *   Ependymal Cells (cells lining the ventricles of the brain)
+    *   Abnormal Cells:
+        *   Blast cells (suggestive of leukemia or lymphoma)
+        *   Malignant cells (metastatic cancer)
+    *   Interpreting the Cell Differential:
+        *   Increased neutrophils: Suggests bacterial meningitis
+        *   Increased lymphocytes: Suggests viral meningitis or other inflammatory conditions
+        *   Presence of blasts or malignant cells: Suggests leukemia, lymphoma, or metastatic cancer
+
+*   **Serous Fluids (Pleural, Peritoneal, Pericardial):**
+
+    *   Cell Types:
+        *   Mesothelial cells (cells lining the serous membranes)
+        *   Lymphocytes
+        *   Macrophages
+        *   Neutrophils (may be present in inflammation or infection)
+    *   Abnormal Cells:
+        *   Malignant cells (metastatic cancer)
+        *   Blast cells (rare)
+    *   Interpreting the Cell Differential:
+        *   Increased neutrophils: Suggests bacterial infection or inflammation
+        *   Increased lymphocytes: Suggests viral infection, tuberculosis, or autoimmune disease
+        *   Presence of malignant cells: Suggests metastatic cancer
+
+*   **Synovial Fluid:**
+
+    *   Cell Types:
+        *   Synovial lining cells (cells lining the joint space)
+        *   Monocytes/macrophages
+        *   Lymphocytes (few)
+        *   Neutrophils (should be minimal in a normal sample)
+    *   Abnormal Cells:
+        *   Crystals (urate crystals in gout, calcium pyrophosphate dihydrate (CPPD) crystals in pseudogout)
+        *   Cartilage debris
+        *   Bacteria
+    *   Interpreting the Cell Differential:
+        *   Increased neutrophils: Suggests bacterial arthritis
+        *   Presence of crystals: Suggests crystal-induced arthritis (e.g., gout, pseudogout)
+
+## **Cell Identification** {-}
+
+*   Develop expertise in identifying different cell types based on their:
+    *   Size
+    *   Nuclear Morphology (shape, chromatin pattern, nucleoli)
+    *   Cytoplasmic Characteristics (color, granules, vacuoles)
+    *   Use a reliable cell atlas or reference guide
+*   Accurate cell identification is essential for performing accurate differential counts
+
+## **Automated Cell Differentials** {-}
+
+*   Automated hematology analyzers can perform cell differentials using various technologies:
+    *   Electrical Impedance: Cells are classified based on their size
+    *   Optical Scatter: Cells are classified based on their light scattering properties
+    *   Flow Cytometry: Cells are stained with fluorescent dyes and classified based on their fluorescence and scatter properties
+*   Advantages of Automated Differentials:
+    *   Increased Speed and Efficiency
+    *   Improved Precision
+    *   Reduced Labor Costs
+*   Limitations of Automated Differentials:
+    *   Inability to Identify all Cell Types: Some abnormal or immature cells may not be accurately identified by the analyzer
+    *   Interference: Certain substances can interfere with the automated cell counts and differentials
+*   Manual Review Criteria: Peripheral blood smears should be reviewed manually when the automated differential flags abnormal cells or if the results do not correlate with the patient's clinical condition
+
+## **Reporting Results** {-}
+
+*   Report the cell counts and percentages of each cell type
+*   Include a description of any morphological abnormalities observed
+*   Note any flags or comments generated by the instrument
+*   For body fluid cell differentials, include a description of the fluid and the source of the fluid
+*   Correlate the laboratory findings with the patient's clinical information
+
+## **Key Terms** {-}
+
+*   **Peripheral Blood Smear:** A blood sample spread thinly on a slide for microscopic examination
+*   **Differential Count:** Enumeration and classification of different types of leukocytes
+*   **Morphology:** The study of cell structure and form
+*   **Anisocytosis:** Variation in red blood cell size
+*   **Poikilocytosis:** Variation in red blood cell shape
+*   **Hypochromia:** Decreased hemoglobin content in red blood cells (pale color)
+*   **Polychromasia:** Increased blueness of red blood cells due to residual RNA
+*   **Spherocytes:** Spherical-shaped red blood cells
+*   **Schistocytes:** Fragmented red blood cells
+*   **Target Cells:** Red blood cells with a bullseye appearance
+*   **Auer Rods:** Rod-shaped inclusions in myeloblasts
+*   **Blasts:** Immature blood cells seen in acute leukemia
+*   **Atypical Lymphocytes:** Activated lymphocytes with abnormal morphology
+*   **Megaloblasts:** Abnormal, large erythroid precursors
+*   **Hypersegmented Neutrophils:** Neutrophils with 5 or more lobes
+*   **Cytospin Preparation:** A method for concentrating cells from a fluid sample onto a slide
+*   **Supernatant:** The fluid component of a sample after centrifugation
+*   **Quality Control:** Procedures used to monitor the accuracy and precision of laboratory testing

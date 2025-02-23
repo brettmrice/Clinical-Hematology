@@ -1,0 +1,152 @@
+# Protein C {-}
+
+## **Overview of Protein C Assays** {-}
+
+*   **Definition:** Laboratory tests used to measure the activity and/or concentration of Protein C, a vitamin K-dependent anticoagulant protein, in plasma
+*   **Clinical Significance:**
+    *   Diagnosis of Inherited Protein C Deficiency: Helps identify individuals with a genetic predisposition to thrombosis
+    *   Evaluation of Thrombotic Events: Used to investigate patients with unexplained venous thromboembolism (VTE) or arterial thrombosis
+    *   Assessment of Warfarin-Induced Skin Necrosis: Helps identify patients at risk of developing this rare but serious complication when starting warfarin therapy
+    *   Differentiation of Thrombophilia Risk Factors: Used to determine if protein C deficiency is contributing to an increased risk of thrombosis
+*   **Types of Assays:**
+    *   Protein C Activity Assay (Functional Assay)
+    *   Protein C Antigen Assay (Immunological Assay)
+
+## **Protein C: Background and Function** {-}
+
+*   **Protein C:**
+    *   A vitamin K-dependent serine protease synthesized in the liver
+    *   Circulates in the blood in an inactive form
+*   **Activation of Protein C:**
+    *   Thrombin binds to thrombomodulin, an endothelial cell receptor
+    *   The thrombin-thrombomodulin complex activates protein C to Activated Protein C (APC)
+*   **Anticoagulant Function of APC:**
+    *   Activated Protein C (APC), along with its cofactor Protein S, inactivates Factors Va and VIIIa, inhibiting thrombin generation
+    *   APC also promotes fibrinolysis by inhibiting plasminogen activator inhibitor-1 (PAI-1)
+
+## **Types of Protein C Deficiency** {-}
+
+*   **Type I (Quantitative Deficiency):**
+    *   Reduced production of Protein C, resulting in decreased levels of both Protein C activity and antigen
+    *   Caused by mutations that affect protein synthesis or secretion
+*   **Type II (Qualitative Deficiency):**
+    *   Normal levels of Protein C protein, but the Protein C molecule is dysfunctional
+    *   Normal Protein C antigen level but decreased Protein C activity
+    *   Caused by mutations that affect the catalytic activity or cofactor binding of Protein C
+
+## **Protein C Activity Assay** {-}
+
+*   **Principle:**
+    *   Measures the functional activity of protein C in plasma
+    *   Based on the ability of activated protein C (APC) to prolong the clotting time in a modified aPTT assay
+    *   Patient plasma is mixed with a reagent containing thrombin and thrombomodulin to generate APC
+    *   The ability of the generated APC to prolong the clotting time is measured
+*   **Methods:**
+    *   Clotting-Based Assay:
+        *   APC Resistance Assay: Measures the ability of APC to prolong the aPTT in the presence of Factor V Leiden. *This is actually a test for Factor V Leiden, not Protein C. It's included because Protein C and Factor V interact, but the test itself detects Factor V Leiden.*
+        *   Protein C Clotting Assay: Measures the ability of generated protein C to prolong the clotting time in a modified aPTT assay.
+        *   These are now rarely used and have generally been replaced by chromogenic assays
+    *   Chromogenic Assay:
+        *   A synthetic chromogenic substrate that is cleaved by APC
+        *   The amount of colored product released is measured spectrophotometrically
+        *   The intensity of the color is proportional to the APC activity
+*   **Procedure:**
+    *   Follow the manufacturer's instructions for the specific assay being used
+    *   Typically involves:
+        1.  Preparing the patient plasma sample
+        2.  Adding the reagents to activate protein C
+        3.  Measuring the chromogenic activity to determine Protein C’s function
+*   **Reporting:**
+    *   Reported as a percentage of normal or in IU/dL
+    *   Reference Range: Varies depending on the laboratory and the assay used (e.g., 70-130%)
+*   **Interpretation:**
+    *   Decreased Protein C Activity:
+        *   Suggests Protein C deficiency
+        *   Levels below the reference range indicate there is not a normal amount of Protein C
+
+## **Protein C Antigen Assay** {-}
+
+*   **Principle:**
+    *   Measures the amount of Protein C protein in the plasma, regardless of its function
+    *   Based on immunochemical methods that use antibodies specific for Protein C
+*   **Methods:**
+    *   Enzyme-Linked Immunosorbent Assay (ELISA):
+        *   Microplate wells are coated with antibodies against protein C
+        *   The sample is added to the wells, and any protein C present binds to the antibodies
+        *   A secondary antibody conjugated to an enzyme is added, which binds to the protein C-antibody complex
+        *   A substrate for the enzyme is added, and the resulting color change is measured spectrophotometrically
+    *   Immunoturbidimetric Assay:
+        *   Antibodies against protein C are added to the sample
+        *   As the antibodies bind to protein C, immune complexes form
+        *   The turbidity of the solution is measured, which is proportional to the protein C concentration
+*   **Procedure:**
+    *   Follow the manufacturer's instructions for the specific assay being used
+    *   Typically involves:
+        1.  Preparing the patient plasma sample
+        2.  Incubating the sample with the antibody reagent
+        3.  Measuring the absorbance or turbidity to determine Protein C levels
+*   **Reporting:**
+    *   Reported as a concentration (e.g., mg/dL or IU/mL)
+    *   Reference Range: Varies depending on the laboratory and the assay used (e.g., 70-130%)
+*   **Interpretation:**
+    *   Decreased Protein C Antigen: Suggests protein C deficiency
+        *   Helps distinguish between type I (quantitative) and type II (qualitative) protein C deficiency
+            *   Type I: Decreased antigen and activity
+            *   Type II: Normal antigen, decreased activity
+
+## **Interpreting Protein C Results** {-}
+
+*   **Decreased Protein C Activity and Antigen:** Suggests a quantitative deficiency (Type I)
+*   **Decreased Protein C Activity with Normal Protein C Antigen:** Suggests a qualitative deficiency (Type II)
+*   **Important Considerations:**
+    *   Vitamin K Antagonists (e.g., Warfarin): Warfarin inhibits the production of vitamin K-dependent coagulation factors, including protein C, leading to decreased activity and antigen levels
+        *   Patients should be off warfarin for at least 2 weeks before testing for protein C deficiency
+    *   Acute Thrombosis: Protein C levels may be decreased during an acute thrombotic event due to consumption
+        *   Testing should be performed after the acute event has resolved
+    *   Liver Disease: Liver disease impairs the synthesis of protein C, leading to decreased activity and antigen levels
+    *   Pregnancy and Oral Contraceptives: Can affect protein C levels
+
+## **Factors Affecting Protein C Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Protein C can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Interfering Substances: Heparin can interfere with some protein C assays
+
+*   **Patient-Related Variables:**
+
+    *   Warfarin Therapy: Warfarin inhibits the production of vitamin K-dependent coagulation factors, including Protein C
+    *   Acute Thrombosis: Protein C levels may be decreased due to consumption during a thrombotic event
+    *   Liver Disease: Impairs the synthesis of Protein C
+    *   Pregnancy and Oral Contraceptives: Can affect Protein C levels
+    *   L-asparaginase therapy
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the protein C results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances
+    *   Review the patient's medication list and medical history
+    *   Wait for a few weeks without anticoagulation therapy (if appropriate) to repeat testing
+
+## **Key Terms** {-}
+
+*   **Protein C:** A vitamin K-dependent anticoagulant protein that inactivates Factors Va and VIIIa
+*   **Activated Protein C (APC):** The active form of protein C
+*   **Protein S:** A cofactor for activated protein C
+*   **Thrombomodulin:** An endothelial cell receptor that binds to thrombin and activates protein C
+*   **Thrombophilia (Hypercoagulable State):** An increased tendency to develop blood clots
+*   **Vitamin K-Dependent Factors:** Coagulation factors that require vitamin K for their synthesis (Factors II, VII, IX, X, and Proteins C and S)

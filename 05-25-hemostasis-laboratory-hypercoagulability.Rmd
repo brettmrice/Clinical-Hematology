@@ -1,0 +1,94 @@
+# Hypercoagulability {-}
+
+## **Overview of Hypercoagulability Assessment** {-}
+
+*   **Definition:** Laboratory testing performed to identify inherited and acquired factors that increase the risk of thrombosis (blood clots)
+*   **Purpose:**
+    *   Evaluate patients with:
+        *   Unexplained venous thromboembolism (VTE): Deep vein thrombosis (DVT) and pulmonary embolism (PE)
+        *   Arterial thrombosis in young individuals or at unusual sites
+        *   Recurrent thrombosis
+        *   Family history of thrombosis
+        *   Recurrent pregnancy loss
+    *   Guide management decisions regarding anticoagulation therapy
+*   **Key Considerations:**
+    *   Testing is not indicated for all patients with thrombosis
+    *   The decision to perform thrombophilia testing should be based on clinical judgment and consideration of the patient's risk factors
+    *   Testing should generally be performed *after* an acute thrombotic event has resolved and the patient is *not* on anticoagulant therapy (or after anticoagulation has been discontinued for several weeks), as anticoagulants can interfere with the results
+
+## **Assays for Assessing Hypercoagulability** {-}
+
+These tests evaluate the function or levels of various components of the coagulation system
+
+*   **Lupus Anticoagulant (LA) Testing:**
+
+    *   *Principle:* A series of phospholipid-dependent coagulation assays that detect the presence of lupus anticoagulants (LA), which are autoantibodies that interfere with phospholipid-dependent coagulation reactions in vitro
+
+*   **Protein C Activity Assay:**
+
+    *   *Principle:* Measures the activity of protein C, a vitamin K-dependent anticoagulant protein
+        *   Protein C is activated by the thrombin-thrombomodulin complex on endothelial cells
+        *   Activated protein C (APC), along with its cofactor protein S, inactivates Factors Va and VIIIa, inhibiting thrombin generation
+
+*   **Protein S Activity and Antigen Assays:**
+
+    *   *Principle:* Measures the activity and amount of protein S, a cofactor for activated protein C
+        *   Protein S exists in two forms in plasma:
+            *   Free Protein S: The active form that acts as a cofactor for APC
+            *   Bound Protein S: Bound to C4b-binding protein
+
+*   **Antithrombin Activity and Antigen Assays:**
+
+    *   *Principle:* Measures the activity and amount of antithrombin (AT), a natural anticoagulant that inhibits thrombin and other coagulation factors
+
+## **Molecular Testing for Inherited Thrombophilias** {-}
+
+*   **Factor V Leiden Mutation Analysis:**
+
+    *   *Principle:* Detects the presence of the Factor V Leiden mutation (R506Q) in the *F5* gene
+
+*   **Prothrombin G20210A Mutation Analysis:**
+
+    *   *Principle:* Detects the presence of the prothrombin G20210A mutation in the *F2* gene
+
+## **Considerations for Testing and Interpretation** {-}
+
+*   **Clinical Context:** Interpret test results in the context of the patient's clinical history, medication use, and other laboratory findings
+*   **Testing Timing:** Perform thrombophilia testing when the patient is not acutely thrombotic and is not on anticoagulant therapy (or after anticoagulation has been discontinued for several weeks)
+*   **Sequential Testing:** Follow a logical testing algorithm to evaluate for thrombophilia
+*   **Repeat Testing:** Repeat positive results for antiphospholipid antibodies (LA, aCL, anti-β2GPI) at least 12 weeks apart to confirm persistence
+*   **Heterozygous vs. Homozygous:** A test that can help distinguish between heterozygous and homozygous mutations, but it is not required.
+*   **Reference Ranges:** Use appropriate reference ranges for the patient's age and sex
+*   **Quality Control:** Follow established laboratory procedures and quality control guidelines
+
+## **Algorithm for Thrombophilia Testing** {-}
+
+(This is a general guideline. Always follow your laboratory's specific protocol)
+
+1.  Clinical Suspicion of Thrombophilia
+2.  Initial Testing:
+    *   PT and aPTT (to screen for coagulation abnormalities)
+    *   Platelet Count
+3.  If aPTT is Prolonged, Consider Lupus Anticoagulant Testing
+4.  If Thrombophilia Testing is Warranted (and Patient is Not Acutely Thrombotic or Anticoagulated):
+    *   Factor V Leiden Mutation Analysis
+    *   Prothrombin G20210A Mutation Analysis
+    *   Protein C Activity and Antigen Assays
+    *   Free Protein S Antigen and Total Protein S Antigen Assays
+    *   Antithrombin Activity and Antigen Assays
+    *   Antiphospholipid Antibody Testing (LA, aCL, anti-β2GPI)
+5. Interpret Results:
+    *   Interpret the results in the context of the patient's clinical presentation and other laboratory findings
+    *   Refer to a hematologist or thrombosis specialist for further evaluation and management
+
+## **Key Terms** {-}
+
+*   **Hypercoagulable State (Thrombophilia):** A condition with an increased risk of thrombosis
+*   **Factor V Leiden:** A common genetic mutation that causes resistance to activated protein C
+*   **Prothrombin G20210A Mutation:** A genetic mutation that leads to increased prothrombin levels
+*   **Protein C:** A vitamin K-dependent anticoagulant protein
+*   **Protein S:** A cofactor for activated protein C
+*   **Antithrombin:** A serine protease inhibitor that inhibits thrombin and other coagulation factors
+*   **Antiphospholipid Syndrome (APS):** An autoimmune disorder characterized by thrombosis, pregnancy morbidity, and antiphospholipid antibodies
+*   **Lupus Anticoagulant (LA):** An antibody that interferes with phospholipid-dependent coagulation assays
+*   **Thrombosis:** Formation of a blood clot inside a blood vessel

@@ -1,0 +1,138 @@
+# ESR {-}
+
+## **Overview of Erythrocyte Sedimentation Rate (ESR)** {-}
+
+*   **Definition:** The erythrocyte sedimentation rate (ESR) is a non-specific blood test that measures the rate at which red blood cells (RBCs) settle in a vertical tube over a period of one hour
+*   **Alternative Name:** Sedimentation Rate, Sed Rate
+*   **Principle:**
+    *   Erythrocytes settle more rapidly in the presence of increased levels of acute-phase proteins in the plasma (e.g., fibrinogen, globulins)
+    *   These proteins neutralize the negative charge on the RBC surface, reducing repulsion and promoting rouleaux formation (stacking of RBCs), which increases the sedimentation rate.
+*   **Clinical Significance:**
+    *   Screening Test: A general indicator of inflammation and infection in the body, but it is not diagnostic for any specific condition
+    *   Monitoring Disease Activity: Used to monitor the course of inflammatory diseases (e.g., rheumatoid arthritis, polymyalgia rheumatica) and response to treatment
+    *   Detecting Occult Disease: Can be helpful in detecting hidden or occult inflammatory conditions
+*   **Limitations:**
+    *   Non-Specific: The ESR is affected by many factors and can be elevated in a wide range of conditions
+    *   Lacks Sensitivity: The ESR may be normal in some patients with active inflammation
+    *   Affected by Physiological Factors: Age, sex, pregnancy, and certain medications can affect the ESR
+    *   Cannot localize the affected region
+
+## **Methods for Measuring ESR** {-}
+
+*   **Westergren Method:**
+
+    *   The most commonly used method
+    *   Uses a Westergren tube (a long, glass or plastic tube with a calibrated scale)
+    *   Procedure:
+        1.  Collect blood in an EDTA (purple-top) tube
+        2.  Mix the blood thoroughly
+        3.  Dilute the blood with sodium citrate or saline (4:1 ratio of blood to diluent)
+        4.  Fill the Westergren tube to the 0 mm mark
+        5.  Place the tube in a vertical rack and allow it to stand undisturbed at room temperature for 1 hour
+        6.  Read the distance (in millimeters) that the RBCs have fallen from the top of the column to the top of the packed red cells after 1 hour
+        7.  Report the result in mm/hr
+*   **Wintrobe Method:**
+
+    *   Less commonly used
+    *   Uses a Wintrobe tube (a shorter, thicker glass tube with a calibrated scale)
+    *   Procedure:
+        1.  Collect blood in an EDTA (purple-top) tube
+        2.  Mix the blood thoroughly
+        3.  Fill the Wintrobe tube to the 0 mm mark
+        4.  Place the tube in a vertical rack and allow it to stand undisturbed at room temperature for 1 hour
+        5.  Read the distance (in millimeters) that the RBCs have fallen from the top of the column to the top of the packed red cells after 1 hour
+        6.  Report the result in mm/hr
+*   **Automated ESR Analyzers:**
+
+    *   Some automated hematology analyzers can perform ESR measurements
+    *   These methods are based on different principles than the manual methods, such as:
+        *   Capillary photometry: Measures the rate of RBC aggregation in a capillary tube using optical sensors
+        *   Microfluidic technology: Measures the sedimentation rate in a microfluidic channel
+
+## **Factors Affecting the ESR** {-}
+
+The ESR can be affected by several factors, both physiological and pathological. It's important to consider these factors when interpreting ESR results.
+
+*   **Factors that Increase ESR:**
+
+    *   Increased Acute Phase Reactants: Fibrinogen, α-globulins, and other acute-phase proteins increase RBC aggregation
+    *   Rouleaux Formation: Increased rouleaux formation accelerates RBC sedimentation
+    *   Anemia: Decreased RBC concentration reduces the competition for sedimentation
+    *   Macrocytosis: Larger RBCs settle faster
+    *   Female Sex: Females tend to have higher ESR values than males due to hormonal influences
+    *   Age: ESR tends to increase with age
+    *   Pregnancy: ESR is elevated during pregnancy
+    *   Technical Factors: Tilting of the ESR tube, improper temperature
+
+*   **Factors that Decrease ESR:**
+
+    *   Abnormal Red Blood Cell Shape: Sickle cells or spherocytes hinder rouleaux formation and sedimentation
+    *   Polycythemia: Increased RBC concentration slows down sedimentation
+    *   Hypofibrinogenemia: Decreased fibrinogen levels reduce rouleaux formation
+    *   Very High Leukocytosis: Increased cell numbers can affect the test
+    *   Technical Factors: Clotted sample, air bubbles in the tube
+
+## **Clinical Significance of ESR** {-}
+
+*   **Elevated ESR:**
+    *   Inflammatory Conditions:
+        *   Rheumatoid arthritis
+        *   Systemic lupus erythematosus (SLE)
+        *   Polymyalgia rheumatica
+        *   Giant cell arteritis
+    *   Infections:
+        *   Bacterial infections (e.g., pneumonia, osteomyelitis)
+        *   Tuberculosis
+        *   Fungal infections
+    *   Malignancies:
+        *   Multiple myeloma
+        *   Lymphoma
+        *   Metastatic cancer
+    *   Tissue Damage:
+        *   Trauma
+        *   Surgery
+    *   Other Conditions:
+        *   Pregnancy
+        *   Chronic kidney disease
+        *   Thyroid disorders
+*   **Normal or Decreased ESR:**
+    *   Does not rule out significant disease
+    *   May be seen in:
+        *   Early stages of inflammatory conditions
+        *   Non-inflammatory conditions
+        *   Technical errors
+
+## **Quality Control** {-}
+
+*   **Use Proper Technique:**
+    *   Follow standardized procedures for sample collection, dilution, and reading
+    *   Avoid introducing air bubbles into the tube
+    *   Ensure that the tube is placed in a vertical rack
+*   **Check Reagents and Equipment:**
+    *   Use fresh reagents and ensure that they are stored properly
+    *   Verify the accuracy of the pipettes and measuring devices
+    *   Maintain the centrifuge and other equipment according to the manufacturer's instructions
+*   **Run Controls:**
+    *   Use control materials with known ESR values
+    *   Monitor control results to ensure accuracy and precision
+*   **External Quality Assurance:**
+    *   Participate in proficiency testing programs to assess the performance of the laboratory's ESR testing
+
+## **Reporting Results** {-}
+
+*   Report the ESR value in the appropriate units (mm/hr)
+*   Include the reference range for the patient's age and sex
+*   Note the method used (e.g., Westergren, Wintrobe)
+*   Qualify the results with any relevant comments (e.g., "Elevated ESR, clinical correlation advised")
+*   Always interpret results in conjunction with clinical information!
+
+## **Key Terms** {-}
+
+*   **Erythrocyte Sedimentation Rate (ESR):** A test that measures the rate at which red blood cells settle in a tube
+*   **Westergren Method:** A common method for measuring ESR
+*   **Wintrobe Method:** Another method for measuring ESR
+*   **Rouleaux Formation:** Stacking of red blood cells
+*   **Acute-Phase Proteins:** Proteins whose serum concentrations increase or decrease in response to inflammation
+*   **Inflammation:** A complex biological response to harmful stimuli
+*   **ESR is not specific:** a lot of things can cause it to elevate
+*   **ESR to monitor therapy**: if a disease is already known, ESR can be used to see if treatments are working to alleviate the elevated ESR

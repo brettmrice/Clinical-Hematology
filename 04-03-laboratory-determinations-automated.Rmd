@@ -1,0 +1,137 @@
+# Automated {-}
+
+## **Overview of Automated Cell Counts** {-}
+
+*   **Definition:** Automated cell counts are performed using sophisticated instruments called hematology analyzers, which rapidly and accurately count and characterize blood cells in whole blood and body fluids
+*   **Advantages over Manual Methods:**
+    *   Increased Speed and Efficiency: Automated analyzers can process a large number of samples quickly and efficiently
+    *   Improved Accuracy and Precision: Automated methods generally provide more accurate and precise results than manual methods
+    *   Reduced Labor Costs: Automated analyzers reduce the need for manual cell counts, freeing up laboratory personnel for other tasks
+    *   Standardization: Automated methods provide more standardized and reproducible results
+    *   Ability to Measure Additional Parameters: Automated analyzers can measure a wide range of parameters beyond just cell counts (e.g., cell size, hemoglobin concentration, cell differentials)
+*   **Limitations:**
+    *   Cost: Automated analyzers are expensive to purchase and maintain
+    *   Complexity: Requires trained personnel to operate and maintain the instruments
+    *   Interference: Certain substances or conditions can interfere with automated cell counts, leading to inaccurate results
+    *   Need for Validation: Automated methods for body fluid cell counts must be validated before clinical use
+
+## **Principles of Automated Cell Counting Technologies** {-}
+
+*   **Electrical Impedance (Coulter Principle):**
+    *   Principle: Cells are suspended in an electrolyte solution and pass through a small aperture. As each cell passes through the aperture, it displaces a volume of electrolyte, causing a change in electrical impedance
+    *   Cell Counting: The number of impedance changes is proportional to the number of cells
+    *   Cell Sizing: The magnitude of the impedance change is proportional to the cell volume
+    *   Advantages: Simple and reliable method for cell counting and sizing
+    *   Limitations: Cannot differentiate between different cell types based on size alone; susceptible to interference from non-cellular particles
+*   **Optical Scatter:**
+    *   Principle: Cells pass through a focused light beam (laser or tungsten-halogen lamp), and the amount and angle of light scattered by each cell are measured
+    *   Forward Scatter (FS): Measures the amount of light scattered in the forward direction; related to cell size
+    *   Side Scatter (SS): Measures the amount of light scattered at a 90-degree angle; related to cell granularity and internal complexity
+    *   Cell Differentiation: Different cell types scatter light in different ways, allowing the analyzer to differentiate between RBCs, WBCs, and platelets
+    *   Advantages: Can differentiate between different cell types and provide information about cell structure
+    *   Limitations: Can be affected by interfering substances (e.g., lipemia, protein)
+*   **Flow Cytometry:**
+    *   Principle: Cells are stained with fluorescent dyes that bind to specific cell surface markers or intracellular components and are then passed through a laser beam. The fluorescence intensity and scatter patterns are measured
+    *   Cell Identification: Cells are identified and quantified based on their fluorescence and scatter properties
+    *   Immunophenotyping: Can identify specific cell populations based on their expression of cell surface markers (e.g., CD4+ T cells, CD8+ T cells, B cells)
+    *   Advantages: High sensitivity and specificity for cell identification; can measure multiple parameters simultaneously
+    *   Limitations: More complex and expensive than other methods
+*   **Cytochemical Staining:**
+    *   Principle: The analyzer uses cytochemical stains to differentiate cell types based on their enzymatic activity or other chemical properties
+    *   Example:
+        *   Myeloperoxidase (MPO) stain: Used to differentiate myeloblasts (positive for MPO) from lymphoblasts (negative for MPO) in acute leukemia
+    *   Advantages: Can provide additional information for cell classification
+    *   Limitations: Requires specific reagents and controls
+
+## **Automated Hematology Analyzer Parameters** {-}
+
+*   **Red Blood Cell (RBC) Parameters:**
+    *   RBC Count: Number of red blood cells per unit volume of blood (e.g., x 10^12/L)
+    *   Hemoglobin (HGB): Concentration of hemoglobin in whole blood (g/dL)
+    *   Hematocrit (HCT): Percentage of blood volume occupied by red blood cells (%)
+    *   Mean Corpuscular Volume (MCV): Average volume of individual red blood cells (fL)
+        *   MCV = (HCT / RBC) x 10
+    *   Mean Corpuscular Hemoglobin (MCH): Average amount of hemoglobin per red blood cell (pg)
+        *   MCH = HGB / RBC x 10
+    *   Mean Corpuscular Hemoglobin Concentration (MCHC): Average concentration of hemoglobin in a given volume of red blood cells (g/dL)
+        *   MCHC = HGB / HCT x 100
+    *   Red Cell Distribution Width (RDW): A measure of the variation in red blood cell size (anisocytosis) (%)
+*   **White Blood Cell (WBC) Parameters:**
+    *   WBC Count: Total number of white blood cells per unit volume of blood (e.g., x 10^9/L)
+    *   Differential Count: Percentages and absolute numbers of each type of leukocyte:
+        *   Neutrophils
+        *   Lymphocytes
+        *   Monocytes
+        *   Eosinophils
+        *   Basophils
+    *   Immature Granulocytes (IG): Percentage and absolute number of immature granulocytes (e.g., metamyelocytes, myelocytes, promyelocytes) - used to assess for "left shift"
+*   **Platelet Parameters:**
+    *   Platelet Count: Number of platelets per unit volume of blood (e.g., x 10^9/L)
+    *   Mean Platelet Volume (MPV): Average volume of individual platelets (fL)
+    *   Platelet Distribution Width (PDW): Measure of the variation in platelet size
+*   **Reticulocyte Parameters:**
+    *   Reticulocyte Percentage (%): Percentage of RBCs that are reticulocytes
+    *   Absolute Reticulocyte Count: Number of reticulocytes per unit volume of blood (e.g., x 10^9/L)
+    *   Immature Reticulocyte Fraction (IRF): Percentage of reticulocytes that are the least mature
+    *   Reticulocyte Hemoglobin Content (CHr or Ret-He): Hemoglobin content of reticulocytes
+
+## **Body Fluid Cell Counts** {-}
+
+*   **Fluids Analyzed:**
+    *   Cerebrospinal fluid (CSF)
+    *   Synovial fluid
+    *   Serous fluids (pleural, peritoneal, pericardial)
+    *   Other body fluids (e.g., ascites, bronchoalveolar lavage)
+*   **Parameters Measured:**
+    *   Red Blood Cell (RBC) Count
+    *   Total Nucleated Cell (TNC) Count: Includes all nucleated cells (e.g., WBCs, malignant cells)
+    *   Cell Differential: May be performed manually or by automated methods to identify the types of nucleated cells present
+*   **Automated Methods for Body Fluid Cell Counts:**
+    *   Some hematology analyzers are validated for use with certain body fluids
+    *   These analyzers typically use:
+        *   Electrical impedance
+        *   Optical scatter
+        *   Flow cytometry
+    *   Cell Differentials: Some analyzers can perform automated cell differentials on body fluids using flow cytometry or other techniques
+*   **Manual Methods:**
+    *   Manual Cell Counts: May be necessary if the automated method is not validated for a particular fluid or if the automated results are questionable
+    *   Cytospin Preparation: Cells are concentrated onto a slide using a cytocentrifuge, allowing for better visualization and differentiation
+
+## **Quality Control (QC) and Troubleshooting** {-}
+
+*   **Instrument Calibration:**
+    *   Perform regular calibration according to the manufacturer's instructions
+*   **Control Materials:**
+    *   Run control materials at regular intervals (e.g., daily, with each batch of samples)
+    *   Use controls that are appropriate for the types of samples being analyzed (e.g., whole blood controls, body fluid controls)
+    *   Record control results and evaluate them using statistical methods (e.g., Levey-Jennings charts, Westgard rules)
+*   **Maintenance:**
+    *   Perform routine maintenance on the analyzer according to the manufacturer's recommendations
+    *   This includes cleaning, replacing reagents, and performing preventative maintenance procedures
+*   **Troubleshooting:**
+    *   Investigate flags and alarms generated by the instrument
+    *   Check the sample for clots, hemolysis, or lipemia
+    *   Repeat the test on a fresh sample
+    *   Perform manual cell counts to confirm automated results
+    *   Consult with a supervisor or pathologist if the cause of the discrepancy cannot be determined
+
+## **Reporting Results** {-}
+
+*   Report the cell counts in the appropriate units (e.g., cells/μL, x 10^9/L)
+*   Include the reference range for each parameter
+*   Note any abnormal results or flags
+*   Document all quality control procedures and corrective actions taken
+*   For body fluid cell counts, include a description of the fluid (e.g., CSF, synovial fluid) and the source of the fluid
+
+## **Key Terms** {-}
+
+*   **Automated Cell Count:** Enumeration of cells using automated hematology analyzers
+*   **Electrical Impedance (Coulter Principle):** A method for counting and sizing cells
+*   **Optical Scatter:** A method for characterizing cells based on light scattering properties
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers and other characteristics
+*   **Calibration:** The process of adjusting an instrument to ensure accurate and reliable results
+*   **Control Materials:** Samples with known values that are used to assess the accuracy and precision of an instrument
+*   **Quality Control:** Procedures used to monitor the accuracy and reliability of laboratory testing
+*   **Body Fluid:** A fluid other than blood (e.g., cerebrospinal fluid, synovial fluid, serous fluid)
+*   **Reticulocyte:** Immature red blood cell
+*   **Flags and Alarms:** Indications that instrument is reporting abnormal results

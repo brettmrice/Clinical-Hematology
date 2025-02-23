@@ -1,0 +1,539 @@
+# Morphologies {-}
+
+## **Blood and Bone Marrow** {-}
+
+*   **Neutrophils (Granulocyte Family)**
+    
+    *   **Neutrophil (PMN, Polymorphonuclear Neutrophil):**
+        *   Size: 10-15 μm
+        *   Nucleus: Segmented (3-5 lobes), condensed chromatin, generally no nucleoli
+        *   Cytoplasm: Pale pink or lilac color, fine, faint granules
+        *   Function: Phagocytosis and killing of bacteria and fungi (primary defense against infection)
+        *   Key Features: Segmented nucleus, small pinkish granules
+    *   **Band Neutrophil:**
+        *   Also known as "stab cell"
+        *   Size: 10-15 μm
+        *   Nucleus: Horseshoe-shaped (banded, not segmented)
+        *   Cytoplasm: Same as neutrophil
+        *   Significance: Immature neutrophil; increased numbers indicate a "left shift," often seen in infection
+        *   Key Features: Banded nucleus, similar to a neutrophil
+    *   **Metamyelocyte:**
+        *   Size: 10-18 μm
+        *   Nucleus: Kidney bean-shaped (indented), coarser chromatin than band
+        *   Cytoplasm: Pale blue to pink, many granules
+        *   Significance: Less mature neutrophil precursor than a band
+        *   Key Features: Indented nucleus, not segmented like a neutrophil
+    *   **Myelocyte:**
+        *   Size: 12-20 μm
+        *   Nucleus: Round to oval, eccentric (off-center), coarser chromatin, may have visible nucleoli
+        *   Cytoplasm: More abundant than in promyelocyte, distinct granules
+        *   Significance: Immature neutrophil precursor
+        *   Key Features: More cytoplasm and distinct granules compared to more immature precursors
+    *   **Promyelocyte:**
+        *   Size: 14-24 μm
+        *   Nucleus: Round to oval, prominent nucleoli
+        *   Cytoplasm: Basophilic, many large, azurophilic (purple) primary granules
+        *   Significance: Immature neutrophil precursor
+        *   Key Features: Large size, prominent nucleoli, many large granules
+    *   **Myeloblast:**
+        *   Size: 14-20 μm
+        *   Nucleus: Round to oval, fine chromatin, prominent nucleoli
+        *   Cytoplasm: Scant, basophilic, few or no granules
+        *   Significance: The most immature granulocyte precursor; increased numbers suggest acute myeloid leukemia (AML)
+        *   Key Features: Immature chromatin, prominent nucleoli, lack of abundant granules
+    
+*   **Eosinophils (Granulocyte Family)**
+    
+    *   **Eosinophil:**
+        *   Size: 12-17 μm
+        *   Nucleus: Usually bilobed (2 lobes)
+        *   Cytoplasm: Packed with large, uniform, refractile granules that stain bright orange-red with eosin dye
+        *   Function: Defense against parasites, allergic reactions
+        *   Key Features: Bilobed nucleus, large orange-red granules
+    
+*   **Basophils (Granulocyte Family)**
+    
+    *   **Basophil:**
+        *   Size: 10-14 μm
+        *   Nucleus: Lobulated, but often obscured by granules
+        *   Cytoplasm: Packed with large, irregular granules that stain dark blue or purple with basic dyes
+        *   Function: Release of histamine and other mediators involved in allergic and inflammatory responses
+        *   Key Features: Dark blue/purple granules obscuring the nucleus
+    
+*   **Monocytes**
+    
+    *   **Monocyte:**
+        *   Size: 12-20 μm (largest of the normal WBCs)
+        *   Nucleus: Kidney-shaped, horseshoe-shaped, or convoluted; lacy, less condensed chromatin; may have nucleoli
+        *   Cytoplasm: Gray-blue, abundant, fine granules and vacuoles ("ground glass" appearance)
+        *   Function: Phagocytosis, antigen presentation, cytokine production
+        *   Key Features: Large size, kidney-shaped nucleus, "ground glass" cytoplasm
+    
+*   **Lymphocytes**
+    
+    *   **Small Lymphocyte:**
+        *   Size: 7-10 μm (similar to RBC size)
+        *   Nucleus: Round or slightly indented, dense and darkly stained chromatin, usually no nucleoli
+        *   Cytoplasm: Scant, light blue
+        *   Function: Involved in adaptive immunity (T cells and B cells)
+        *   Key Features: High N:C ratio, round nucleus, scant cytoplasm
+    *   **Large Lymphocyte:**
+        *   Size: 12-16 μm (larger than RBCs)
+        *   Nucleus: Round or slightly indented, may have more open chromatin
+        *   Cytoplasm: More abundant than in small lymphocytes, may contain a few granules
+        *   Function: Can include activated T cells, B cells, or NK cells
+        *   Key Features: More cytoplasm than small lymphocytes, but still a high N:C ratio
+    *   **Reactive (Atypical) Lymphocyte:**
+        *   Size: Variable, often larger than normal lymphocytes
+        *   Nucleus: Variable shape (may be indented, folded, or irregular), less condensed chromatin, may have prominent nucleoli
+        *   Cytoplasm: Abundant, may be basophilic (dark blue) or vacuolated, may indent around RBCs
+        *   Function: Lymphocytes responding to an antigen (e.g., viral infection)
+        *   Key Features: Abundant, often dark-staining cytoplasm, irregular nucleus
+    *   **Plasma Cell:**
+        *   Size: 10-20 μm
+        *   Nucleus: Eccentric (off-center), round, "clock-face" or "cartwheel" chromatin pattern
+        *   Cytoplasm: Deeply basophilic, often with a perinuclear halo (area near the nucleus that is less stained)
+        *   Function: Antibody production
+        *   Key Features: Eccentric nucleus, "clock-face" chromatin, deeply basophilic cytoplasm
+    
+*   **Additional Cells (Less Common)**
+    
+    *   **Blasts:**
+        *   General Features:
+            *   Large size
+            *   High N:C ratio
+            *   Fine, dispersed chromatin
+            *   Prominent nucleoli
+            *   May have scant cytoplasm
+        *   Myeloblast:
+            *   Granules may be present
+            *   May have Auer rods (rod-shaped inclusions) - *Pathognomonic for AML (but not always present)*
+            *   Positive for myeloperoxidase (MPO) stain
+        *   Lymphoblast:
+            *   Usually lack granules and Auer rods
+            *   Negative for MPO stain
+    *   **Nucleated Red Blood Cells (nRBCs):**
+        *   Also known as erythroblasts
+        *   Immature RBCs with a nucleus
+        *   Normally found in the bone marrow, but can appear in the peripheral blood in certain conditions
+        *   Stages of nRBCs:
+            *   Pronormoblast (Proerythroblast)
+            *   Basophilic Normoblast
+            *   Polychromatic Normoblast
+            *   Orthochromic Normoblast
+
+## **Blood** {-}
+
+*   **Normal Red Blood Cells**
+
+    *   **Normocytes:**
+        *   Description: Normal-sized RBCs
+        *   Size: Approximately 6-8 μm in diameter (roughly the size of a lymphocyte nucleus)
+        *   Shape: Biconcave disc (round with central pallor)
+        *   Color: Pink to orange-red with a central pallor that occupies about 1/3 of the cell diameter
+        *   Clinical Significance: The predominant cell type in healthy individuals
+
+*   **Abnormal Red Blood Cells (Poikilocytes)**
+
+    *   **Anisocytosis** = General term for variation in RBC size
+        *   **Microcytes:**
+            *   Description: Small RBCs
+            *   Size: <6 μm in diameter (MCV <80 fL)
+            *   Associated Conditions: Iron deficiency anemia, thalassemia, sideroblastic anemia, anemia of chronic disease
+        *   **Macrocytes:**
+            *   Description: Large RBCs
+            *   Size: >9 μm in diameter (MCV >100 fL)
+            *   Shape: Round (not oval, unless megaloblastic)
+            *   Associated Conditions: Vitamin B12 deficiency, folate deficiency, alcoholism, liver disease, hypothyroidism, myelodysplastic syndromes (MDS), reticulocytosis
+    
+    *   **Hypochromia:**
+        *   Description: RBCs with decreased hemoglobin content
+        *   Appearance: Pale with an increased central pallor (>1/3 of the cell diameter)
+        *   Associated Conditions: Iron deficiency anemia, thalassemia, sideroblastic anemia
+    
+    *   **Polychromasia:**
+        *   Description: RBCs with a bluish tint due to residual RNA
+        *   Appearance: Larger than mature RBCs, lack central pallor, stain blue-gray with Wright stain
+        *   Significance: Indicates increased erythropoiesis (reticulocytes)
+        *   Associated Conditions: Hemolytic anemia, acute blood loss, response to therapy
+    
+    *   **Spherocytes:**
+        *   Description: Small, spherical RBCs with no central pallor
+        *   Appearance: Small, round, intensely stained (lack central pallor)
+        *   Associated Conditions: Hereditary spherocytosis, autoimmune hemolytic anemia
+    
+    *   **Elliptocytes (Ovalocytes):**
+        *   Description: Elongated or oval-shaped RBCs
+        *   Appearance: Elliptical or oval shape
+        *   Associated Conditions: Hereditary elliptocytosis, iron deficiency anemia, thalassemia
+    
+    *   **Target Cells (Codocytes):**
+        *   Description: RBCs with a bullseye appearance
+        *   Appearance: Central area of hemoglobin surrounded by a clear ring and then an outer ring of hemoglobin
+        *   Associated Conditions: Liver disease, thalassemia, hemoglobinopathies (e.g., HbC disease), iron deficiency anemia, post-splenectomy
+    
+    *   **Sickle Cells (Drepanocytes):**
+        *   Description: Crescent-shaped or sickle-shaped RBCs
+        *   Appearance: Elongated, crescent or sickle shape
+        *   Associated Conditions: Sickle cell anemia (HbSS), sickle cell trait (HbAS)
+    
+    *   **Schistocytes (Fragmented Cells):**
+        *   Description: Fragments of RBCs with irregular shapes and pointed ends
+        *   Appearance: Small, irregularly shaped fragments
+        *   Associated Conditions: Microangiopathic hemolytic anemia (MAHA) - thrombotic thrombocytopenic purpura (TTP), hemolytic uremic syndrome (HUS), disseminated intravascular coagulation (DIC), mechanical heart valves
+    
+    *   **Acanthocytes (Spur Cells):**
+        *   Description: RBCs with irregularly spaced, thorny projections
+        *   Appearance: Irregular, spiky projections of varying length
+        *   Associated Conditions: Liver disease, abetalipoproteinemia
+    
+    *   **Echinocytes (Burr Cells):**
+        *   Description: RBCs with evenly spaced, blunt projections
+        *   Appearance: Small, uniform, spiky projections
+        *   Associated Conditions: Uremia (kidney failure), pyruvate kinase deficiency, artifact (crenation)
+    
+    *   **Teardrop Cells (Dacrocytes):**
+        *   Description: RBCs shaped like teardrops or pears
+        *   Appearance: One end is rounded, and the other end is elongated or pointed
+        *   Associated Conditions: Primary myelofibrosis, thalassemia, myelodysplastic syndromes, extramedullary hematopoiesis
+    
+    *   **Stomatocytes:**
+        *   Description: RBCs with a slit-like area of central pallor (mouth-like appearance)
+        *   Appearance: Slit-like central pallor
+        *   Associated Conditions: Hereditary stomatocytosis, alcoholism, liver disease
+    *   **Agglutination**
+
+        *   Definition: The clumping or aggregation of red blood cells due to antibody- or complement-mediated interactions
+        *   Appearance:
+            *   Irregular Clumps: RBCs form irregular, three-dimensional clumps or clusters
+            *   Grape-like Clusters: Agglutinates often appear as grape-like clusters of RBCs
+            *   Random Distribution: The clumps are randomly distributed throughout the smear
+            *   Macroscopic Agglutination: In some cases, the agglutination may be visible to the naked eye as clumping in the EDTA tube
+        *   Associated Conditions:
+            *   Cold Agglutinin Disease (Cold AIHA): IgM autoantibodies bind to RBCs at low temperatures
+            *   Autoimmune Hemolytic Anemia (AIHA): IgG or IgM autoantibodies against RBCs
+            *   Transfusion Reactions: Antibodies against donor RBC antigens
+            *   Paroxysmal Cold Hemoglobinuria (PCH): Donath-Landsteiner antibody (IgG) binds to RBCs at low temperatures
+        
+    *   **Rouleaux Formation**
+        
+        *   Definition: The stacking of red blood cells in a linear arrangement, resembling stacks of coins or poker chips
+        *   Appearance:*
+            *   Stacks of Coins: RBCs are arranged in linear stacks, resembling stacks of coins or poker chips
+            *   Even Distribution: The stacks are relatively uniform and evenly distributed
+            *   Reversible: Rouleaux formation is reversible; the RBCs can be easily dispersed by adding saline
+        *   Associated Conditions:
+            *   Multiple Myeloma: Increased levels of monoclonal immunoglobulins (paraproteins)
+            *   Waldenström Macroglobulinemia: Increased levels of IgM
+            *   Chronic Inflammatory Conditions: Increased fibrinogen and acute phase reactants
+            *   Hypergammaglobulinemia: Increased levels of immunoglobulins
+            *   Artifact: Can be an artifact if the counting area of the smear is too thick
+    
+    *   **Basophilic Stippling:**
+        *   Description: Presence of small, dark-blue granules scattered throughout the RBC cytoplasm
+        *   Composition: Ribosomal RNA precipitates
+        *   Associated Conditions: Thalassemia, lead poisoning, myelodysplastic syndromes (MDS)
+    
+    *   **Howell-Jolly Bodies:**
+        *   Description: Round, dark-purple nuclear remnants in RBCs
+        *   Composition: DNA fragments
+        *   Associated Conditions: Splenectomy or splenic dysfunction, hemolytic anemia, megaloblastic anemia
+    
+    *   **Pappenheimer Bodies:**
+        *   Description: Small, irregular, iron-containing granules in RBCs
+        *   Composition: Iron (non-heme iron)
+        *   Require Prussian blue stain to visualize
+        *   Associated Conditions: Sideroblastic anemia, post-splenectomy, myelodysplastic syndromes
+    
+    *   **Heinz Bodies:**
+        *   Description: Inclusions composed of denatured hemoglobin
+        *   Require supravital stain (e.g., crystal violet or brilliant cresyl blue) to visualize
+        *   Associated Conditions: G6PD deficiency, unstable hemoglobin variants
+
+## **Bone Marrow** {-}
+
+*   **Hematopoietic Stem Cells and Progenitor Cells (Blasts)**
+
+    *   **Hematopoietic Stem Cells (HSCs):**
+        *   Description: Rare, self-renewing cells that give rise to all blood cell lineages
+        *   Morphology: Difficult to identify morphologically
+        *   Identification: Best identified by immunophenotyping using flow cytometry (e.g., CD34+, CD38-)
+        *   Significance: The source of all blood cells; mutations in HSCs can lead to hematologic malignancies
+    *   **Multipotent Progenitors (MPPs):**
+        *   Description: Cells derived from HSCs that have lost some self-renewal capacity but can still differentiate into multiple lineages
+        *   Morphology: Difficult to distinguish morphologically from HSCs
+        *   Identification: Identified by immunophenotyping
+    *   **Common Myeloid Progenitor (CMP):**
+        *   Description: A progenitor cell that gives rise to granulocytes, monocytes, macrophages, and megakaryocytes
+        *   Morphology: Difficult to distinguish morphologically from other progenitor cells
+        *   Identification: Identified by immunophenotyping
+    *   **Common Lymphoid Progenitor (CLP):**
+        *   Description: A progenitor cell that gives rise to lymphocytes (T cells, B cells, and NK cells)
+        *   Morphology: Difficult to distinguish morphologically from other progenitor cells
+        *   Identification: Identified by immunophenotyping
+
+*   **Myeloid Lineage**
+
+These cells are part of the granulocytic and monocytic series
+    *   **Myeloblast:**
+        *   Description: Immature granulocyte precursor
+        *   Size: 14-20 μm
+        *   Nucleus: Large, round to oval, fine chromatin, 1-5 distinct nucleoli
+        *   Cytoplasm: Scant to moderate amount, deeply basophilic, lacks granules
+        *   Distinguishing Features:
+            *   High nucleus-to-cytoplasm (N:C) ratio
+            *   Prominent nucleoli
+            *   Lack of granules
+        *   Clinical Significance: Increased in acute myeloid leukemia (AML)
+    
+    *   **Promyelocyte:**
+        *   Description: More mature than myeloblast
+        *   Size: 15-25 μm
+        *   Nucleus: Round to oval, slightly coarser chromatin than myeloblast, 1-3 nucleoli
+        *   Cytoplasm: More abundant than myeloblast, basophilic, contains primary (azurophilic) granules
+        *   Distinguishing Features:
+            *   Presence of primary (azurophilic) granules
+            *   Nucleoli may still be visible
+        *   Clinical Significance: Increased in AML, especially acute promyelocytic leukemia (APL)
+    
+    *   **Myelocyte:**
+        *   Description: Intermediate stage in granulocyte maturation
+        *   Size: 12-18 μm
+        *   Nucleus: Round and eccentric (off-center), condensed chromatin, nucleoli usually absent
+        *   Cytoplasm: Less basophilic than promyelocyte, contains both primary and secondary (specific) granules
+        *   Distinguishing Features:
+            *   Smaller size than promyelocyte
+            *   Eccentric nucleus
+            *   "Dawn of neutrophilia": The cytoplasm appears pinkish due to the development of secondary granules (in neutrophilic myelocytes)
+        *   Types:
+            *   Neutrophilic myelocyte: Produces neutrophilic granules (stain pink or lavender)
+            *   Eosinophilic myelocyte: Produces eosinophilic granules (stain orange-red)
+            *   Basophilic myelocyte: Produces basophilic granules (stain dark blue or purple)
+    
+    *   **Metamyelocyte:**
+        *   Description: A stage in granulocyte maturation intermediate between myelocyte and band neutrophil
+        *   Size: 10-15 μm
+        *   Nucleus: Indented (kidney bean-shaped), condensed chromatin, no nucleoli
+        *   Cytoplasm: Abundant, contains secondary granules
+        *   Distinguishing Features:
+            *   Indented nucleus
+            *   No nucleoli
+        *   Types:
+            *   Neutrophilic metamyelocyte
+            *   Eosinophilic metamyelocyte
+            *   Basophilic metamyelocyte
+    
+    *   **Band Neutrophil:**
+        *   Description: An immature neutrophil with a horseshoe-shaped (band-shaped) nucleus
+        *   Size: 10-12 μm
+        *   Nucleus: Band-shaped, condensed chromatin, no nucleoli
+        *   Cytoplasm: Pinkish-lilac, fine granules
+        *   Distinguishing Features:
+            *   Band-shaped nucleus with parallel sides and no segmentation
+            *   Absence of a thin filament connecting the nuclear lobes
+    
+    *   **Monoblast:**
+        *   Description: Earliest recognizable monocyte precursor
+        *   Size: 12-20 μm
+        *   Nucleus: Large, round to oval, fine chromatin, prominent nucleoli
+        *   Cytoplasm: Abundant, basophilic, lacks granules
+        *   Distinguishing Features:
+            *   High N:C ratio
+            *   Prominent nucleoli
+            *   Lack of granules
+    
+    *   **Promonocyte:**
+        *   Description: More mature than monoblast
+        *   Size: 14-18 μm
+        *   Nucleus: Large, indented or folded, lacy chromatin, may have nucleoli
+        *   Cytoplasm: Gray-blue, abundant, fine granules
+        *   Distinguishing Features:
+            *   Indented or folded nucleus
+            *   Cytoplasmic granules
+    
+    *   **Megakaryoblast:**
+        *   Description: Immature megakaryocyte precursor
+        *   Size: 20-50 μm
+        *   Nucleus: Large, single nucleus with multiple lobes, prominent nucleoli
+        *   Cytoplasm: Deeply basophilic, lacks granules
+        *   Distinguishing Features:
+            *   Large size
+            *   Multi-lobated nucleus
+            *   Lacks granules
+    
+    *   **Promegakaryocyte:**
+        *   Description: More mature than megakaryoblast
+        *   Size: 25-80 μm
+        *   Nucleus: Large, multi-lobated, less distinct nucleoli
+        *   Cytoplasm: More abundant than megakaryoblast, less basophilic, contains some granules
+        *   Distinguishing Features:
+            *   Large size
+            *   Granular cytoplasm
+    
+    *   **Megakaryocyte:**
+        *   Description: Mature platelet-producing cell
+        *   Size: 30-100 μm (largest cell in the bone marrow)
+        *   Nucleus: Large, multi-lobated, condensed chromatin
+        *   Cytoplasm: Abundant, pinkish-blue, contains numerous granules
+        *   Distinguishing Features:
+            *   Extremely large size
+            *   Multi-lobated nucleus
+            *   Abundant granular cytoplasm
+        *   Function: Produces platelets by shedding portions of its cytoplasm
+
+*   **Erythroid Lineage**
+
+    *   **Pronormoblast (Proerythroblast):**
+        *   Description: The earliest recognizable erythroid precursor
+        *   Size: 14-20 μm
+        *   Nucleus: Large, round, fine chromatin, 1-2 distinct nucleoli
+        *   Cytoplasm: Deeply basophilic (due to high RNA content)
+        *   Distinguishing Features:
+            *   High N:C ratio
+            *   Intense basophilia of the cytoplasm
+    *   **Basophilic Normoblast:**
+        *   Description: More mature than pronormoblast
+        *   Size: 12-17 μm
+        *   Nucleus: Round, slightly condensed chromatin, no nucleoli
+        *   Cytoplasm: Intensely basophilic
+        *   Distinguishing Features:
+            *   Smaller size than pronormoblast
+            *   More condensed chromatin
+    *   **Polychromatic Normoblast:**
+        *   Description: As hemoglobin synthesis increases, the cytoplasm becomes less basophilic
+        *   Size: 10-15 μm
+        *   Nucleus: Round, more condensed chromatin
+        *   Cytoplasm: Gray-blue (polychromatic) due to the presence of both hemoglobin and ribosomes
+        *   Distinguishing Features:
+            *   Gray-blue cytoplasm
+            *   More condensed chromatin
+    *   **Orthochromic Normoblast:**
+        *   Description: The final nucleated stage of erythroid maturation
+        *   Size: 8-10 μm
+        *   Nucleus: Small, dense, pyknotic (about to be extruded)
+        *   Cytoplasm: Pink (due to predominant hemoglobin)
+        *   Distinguishing Features:
+            *   Small, dense nucleus
+            *   Mostly pink cytoplasm
+    *   **Reticulocyte:**
+        *   Anucleated red blood cell with residual RNA, not found in the bone marrow
+
+*   **Key Considerations**
+
+    *   **Mast Cells:** Although present in the bone marrow, mast cells are technically tissue cells and not part of the hematopoietic lineages. They are granulated cells important in allergic responses.
+    *   **Plasma Cells:** Although derived from lymphocytes, plasma cells can also reside in the bone marrow. They have distinct eccentric nuclei and deeply basophilic cytoplasm.
+
+## **Body Fluids** {-}
+
+*   **Neutrophils:**
+
+    *   Morphology: Similar to neutrophils in peripheral blood (segmented nucleus, pink-lilac granules)
+    *   Significance: Increased numbers often indicate bacterial infection or inflammation
+        *   Degenerated Neutrophils: In older fluids, neutrophils may appear pyknotic (shrunken, dark nucleus) or may be lysed
+
+*   **Lymphocytes:**
+
+    *   Morphology: Similar to lymphocytes in peripheral blood (round nucleus, scant cytoplasm)
+    *   Significance: Increased numbers may suggest viral infection, tuberculosis, fungal infection, or chronic inflammation
+    *   Reactive Lymphocytes: (Atypical lymphocytes)
+        *   More abundant cytoplasm
+        *   Basophilic cytoplasm
+        *   May have nucleoli
+
+*   **Monocytes/Macrophages:**
+
+    *   Morphology: Large cells with a kidney bean-shaped or horseshoe-shaped nucleus, abundant gray-blue cytoplasm, and vacuoles
+    *   Significance: Found in various inflammatory conditions and infections; can also indicate hemorrhage (erythrophagocytosis)
+    *   Distinguishing Features: Cytoplasmic vacuoles and/or phagocytized material can be diagnostic of specific processes
+
+*   **Eosinophils:**
+
+    *   Morphology: Similar to eosinophils in peripheral blood (bilobed nucleus, large, orange-red granules)
+    *   Significance: Often associated with parasitic infections, allergic reactions, or hypersensitivity reactions
+
+*   **Basophils:**
+
+    *   Morphology: Similar to basophils in peripheral blood (irregular, lobulated nucleus obscured by dark blue/purple granules)
+    *   Significance: Less common than other cell types; may be seen in allergic reactions or certain malignancies
+
+*   **Mesothelial Cells (Serous Fluids - Pleural, Peritoneal, Pericardial):**
+
+    *   Morphology:
+        *   Round to oval cells
+        *   Eccentric nucleus (off-center)
+        *   Abundant cytoplasm (often blue-gray or pink)
+        *   May have a "skirt" or "ruffled border"
+        *   May be multinucleated
+    *   Significance: Normal lining cells of the serous membranes
+        *   Increased numbers can indicate inflammation or irritation of the serous membranes
+    *   Reactive Mesothelial Cells: May have more prominent nucleoli, increased cytoplasm, and mitotic figures
+
+*   **Synovial Lining Cells (Synovial Fluid):**
+
+    *   Morphology:
+        *   Round to oval cells
+        *   Eccentric nucleus
+        *   Moderate amount of cytoplasm
+    *   Significance: Normal cells found in synovial fluid
+        *   Increased numbers may indicate inflammation or joint damage
+
+*   **Additional Cells (Less Common)**
+
+*   **Blast Cells:**
+
+    *   Morphology:
+        *   Large cells with a high nuclear-to-cytoplasmic (N:C) ratio
+        *   Fine chromatin
+        *   Prominent nucleoli
+        *   May have scant cytoplasm
+    *   Significance: Suggestive of leukemia or lymphoma with involvement of the body fluid
+    *   Classification: Requires flow cytometry and other specialized tests to determine lineage (myeloid vs. lymphoid)
+
+*   **Malignant Cells (Non-Hematologic):**
+
+    *   Morphology:
+        *   Highly variable, depending on the type of cancer
+        *   May have abnormal nuclear features (e.g., irregular shape, coarse chromatin, prominent nucleoli)
+        *   May have abundant cytoplasm with vacuoles or other inclusions
+    *   Significance: Indicates metastatic cancer in the body fluid
+    *   Origin: Usually represent metastatic carcinoma from a solid tumor
+    *   Identification: Requires careful cytological evaluation and correlation with clinical history and imaging studies
+
+*   **Ependymal Cells (Cerebrospinal Fluid - CSF):**
+
+    *   Morphology:
+        *   Columnar or cuboidal cells
+        *   Round to oval nucleus
+        *   Finely granular cytoplasm
+    *   Significance: Normal cells lining the ventricles of the brain and the central canal of the spinal cord
+        *   Increased numbers may indicate disruption of the ventricular system
+        
+*   **Hemosiderin-Laden Macrophages (All Fluid Types):**
+
+    *   Morphology:
+        *   Phagocytes that contain pigment granules of broken-down red blood cells with hemosiderin (iron storage complex).
+    *   Significance: Indicate prior hemorrhage (bleeding) into the body fluid
+
+*   **Lipophages (Fat-Laden Macrophages, Gitter Cells):**
+
+    *   Morphology:
+        *   Macrophages with numerous vacuoles containing lipids
+    *   Significance: Indicate tissue destruction and fat necrosis
+        *   Commonly seen in CSF after stroke or traumatic brain injury
+
+*   **Crystals (Synovial Fluid):**
+
+    *   Urate Crystals: Needle-shaped, negatively birefringent crystals seen in gout
+    *   Calcium Pyrophosphate Dihydrate (CPPD) Crystals: Rhomboid or rod-shaped, weakly positively birefringent crystals seen in pseudogout
+    *   Cholesterol Crystals: Flat, notched, rhomboid-shaped crystals seen in chronic effusions
+
+*   **Organisms:**
+
+    *   Bacteria: Small, round, or rod-shaped organisms that may be seen within or outside of cells
+    *   Fungi: May appear as yeast or hyphae
+    *   Parasites: Rare, but may be seen in certain infections
+
+*   **Other Artifacts and Contaminants:**
+    *   Air Bubbles
+    *   Starch Granules (from gloves)
+    *   Contaminating Cells from Adjacent Tissues

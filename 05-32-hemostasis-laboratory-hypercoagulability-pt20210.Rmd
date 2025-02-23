@@ -1,0 +1,111 @@
+# PT 20210 {-}
+
+## **Overview of Prothrombin G20210A Mutation Testing** {-}
+
+*   **Definition:** Molecular testing for the prothrombin G20210A mutation involves detecting a specific genetic variation in the prothrombin (*F2*) gene
+*   **Clinical Significance:**
+    *   Assesses the Prothrombin Mutation in the Body
+    *   Evaluation of Thrombotic Risk
+*   **Key Points:**
+    *   Molecular Test: The most common way to detect and analyze
+    *   No Cure: Not everyone gets all of the issues with the disorder, it just implies that it is more easy for patients with the mutation to develop
+
+## **The *F2* Gene and Prothrombin G20210A Mutation** {-}
+
+*   **The *F2* Gene:**
+    *   Location: Chromosome 11 (11p11.2)
+    *   Encodes: Prothrombin (Factor II), a vitamin K-dependent coagulation factor that is converted to thrombin by the prothrombinase complex
+*   **The Prothrombin G20210A Mutation:**
+    *   Description: A point mutation in the 3'-untranslated region (3'UTR) of the *F2* gene
+    *   Nucleotide Change: A guanine (G) to adenine (A) substitution at position 20210 (G20210A)
+    *   Effect on Prothrombin Levels: The mutation leads to increased prothrombin mRNA stability, resulting in elevated plasma prothrombin levels
+
+## **Molecular Testing Procedures** {-}
+
+The general procedure for detecting the prothrombin G20210A mutation involves the following steps:
+
+1.  **DNA Extraction:**
+    *   Extract DNA from a blood sample (typically EDTA whole blood) using a commercially available DNA extraction kit
+    *   Ensure that the DNA is of high quality and free from inhibitors
+    
+2.  **PCR Amplification:**
+    *   Use the polymerase chain reaction (PCR) to amplify a specific region of the *F2* gene that contains the G20210A mutation
+    *   Use primers that flank the region of interest and are specific for the *F2* gene
+    
+3.  **Mutation Detection:**
+    *   Allele-Specific PCR (AS-PCR):
+        *   Uses primers that are specific for either the normal sequence or the mutated sequence
+        *   The presence of a PCR product indicates the presence of that specific allele
+    *   Restriction Fragment Length Polymorphism (RFLP) Analysis:
+        *   Uses a restriction enzyme that recognizes and cuts the normal DNA sequence but does not cut the mutated sequence
+        *   The PCR product is digested with the restriction enzyme, and the resulting fragments are analyzed by gel electrophoresis
+        *   The presence of different fragment sizes indicates the presence of the prothrombin G20210A mutation
+    *   Real-Time PCR (qPCR):
+        *   Uses fluorescent probes to detect the amplified DNA product in real time
+        *   Can be used to quantify the amount of the normal and mutated alleles
+    *   Next-Generation Sequencing (NGS):
+        *   Can be used to sequence the entire *F2* gene and identify both known and novel mutations
+        *   Less commonly used for routine prothrombin G20210A testing, but may be useful in cases with atypical presentations
+
+## **Interpreting Results** {-}
+
+*   **Normal (Homozygous Wild-Type):** The patient has two copies of the normal *F2* gene and does not carry the prothrombin G20210A mutation
+*   **Heterozygous:** The patient has one copy of the normal *F2* gene and one copy of the prothrombin G20210A mutated gene
+    *   Increased risk of venous thrombosis
+*   **Homozygous:** The patient has two copies of the prothrombin G20210A mutated gene
+    *   Higher risk of venous thrombosis compared to heterozygotes
+*   *Important Notes:*
+    *   The interpretation of results should always be made in the context of the patient's clinical history, family history, and other laboratory findings
+    *   Patients with prothrombin G20210A mutation are at risk for high prothrombin levels
+    *   Increased risk of venous thromboembolism
+    *   Pregnancy loss
+    *   Arterial thrombotic events (less common)
+
+## **Factors Affecting Test Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Sample Collection:
+        *   Collect blood in an EDTA (purple-top) tube
+        *   Avoid clots or hemolysis
+    *   Sample Storage:
+        *   Store samples properly to prevent DNA degradation
+
+*   **Analytical Variables:**
+
+    *   Reagent Quality:
+        *   Use high-quality reagents and ensure that they are not expired
+    *   Proper Controls:
+        *   Include positive and negative controls in each PCR run to monitor the performance of the assay
+
+*   **Patient-Related Variables:**
+
+    *   Recent Blood Transfusion:
+        *   May affect results if the transfused blood contains a different *F2* genotype than the patient's own cells
+        *   Wait several weeks after transfusion before performing the test
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the molecular test results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Verify the sample identity and chain of custody
+    *   Repeat the test on a fresh sample
+    *   Check the quality control data for the assay
+    *   Investigate potential interfering substances or technical errors
+    *   Consider the possibility of a rare or novel *F2* mutation
+
+## **Reflex Testing** {-}
+
+There generally isn't a reflex test, as the F2/Prothrombin mutation is generally either present or not. However, after finding the mutation, you might:
+*   Run protein levels to evaluate how much Prothrombin the patient is making
+*   Other tests may be used for other thrombophilias
+
+## **Key Terms** {-}
+
+*   ***F2* Gene:** The gene that encodes prothrombin (Factor II)
+*   **Prothrombin G20210A Mutation:** A genetic mutation in the 3'-untranslated region of the *F2* gene
+*   **Thrombophilia (Hypercoagulable State):** An increased tendency to develop blood clots
+*   **Venous Thromboembolism (VTE):** A condition that includes deep vein thrombosis (DVT) and pulmonary embolism (PE)
+*   **Allele-Specific PCR (AS-PCR):** A PCR technique that uses primers specific for either the normal or mutated sequence
+*   **Restriction Fragment Length Polymorphism (RFLP):** A technique that uses restriction enzymes to cut DNA at specific sites
+*   **Real-Time PCR (qPCR):** A PCR technique that allows for the quantification of the amplified DNA product

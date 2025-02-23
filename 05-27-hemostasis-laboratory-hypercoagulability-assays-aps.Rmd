@@ -1,0 +1,144 @@
+# Antiphospholipids {-}
+
+## **Overview of Antiphospholipid Antibody (aPL) Assays** {-}
+
+*   **Definition:** A group of laboratory tests used to detect and measure the levels of antiphospholipid antibodies (aPL) in serum or plasma. aPLs are autoantibodies directed against phospholipids and phospholipid-binding proteins, and their presence is associated with an increased risk of thrombosis and pregnancy morbidity
+*   **Clinical Significance:**
+    *   Diagnosis of Antiphospholipid Syndrome (APS): The presence of aPLs, along with specific clinical criteria (thrombosis or pregnancy morbidity), is used to diagnose APS
+    *   Risk Stratification: aPL titers and profiles can help assess the risk of thrombosis or pregnancy complications in individuals with APS
+    *   Evaluation of Unexplained Thrombosis or Pregnancy Loss: aPL testing is recommended in patients with unexplained venous or arterial thrombosis, recurrent pregnancy loss, or other clinical features suggestive of APS
+*   **Key Assays:** The main aPL assays include:
+    *   Lupus Anticoagulant (LA) Testing
+    *   Anticardiolipin (aCL) Antibody Assay
+    *   Anti-β2 Glycoprotein I (anti-β2GPI) Antibody Assay
+
+## **Key Concepts: Target Antigens and Antibody Isotypes** {-}
+
+aPLs can target various phospholipid-binding proteins, with the most clinically relevant being:
+
+*   Cardiolipin (aCL): A negatively charged phospholipid found in cell membranes
+*   β2-Glycoprotein I (β2GPI): A plasma protein that binds to negatively charged phospholipids
+*   Antibody Isotypes: IgG, IgM, and IgA isotypes of aCL and anti-β2GPI antibodies are measured, with IgG isotypes generally having the strongest association with thrombosis and pregnancy morbidity
+
+## **Lupus Anticoagulant (LA) Testing** {-}
+
+*   **Principle:**
+    *   LA prolongs phospholipid-dependent clotting tests *in vitro* by interfering with the assembly of coagulation complexes on phospholipid surfaces
+    *   LA is not a true anticoagulant in vivo; it is associated with an increased risk of thrombosis
+*   **Testing Algorithm:**
+    *   LA testing involves a series of tests to demonstrate:
+        *   Prolongation of phospholipid-dependent clotting tests (screening tests)
+        *   Failure to correct with mixing studies (presence of an inhibitor)
+        *   Correction with the addition of excess phospholipid (phospholipid dependence)
+    *   Test Selection and Interpretation
+        *   Screening Test: Sensitive to the presence of LA
+        *   Mixing Study: In this process the addition of other test subjects will not correct issues from being outside. If it doesn't correct, an inhibitor is present
+        *   Confirmatory Test: To confirm if phospholipid is present when performing a hexagonal phase
+        
+*   **Confirmatory Tests:**
+
+    *   Dilute Russell's Viper Venom Time (dRVVT)
+    *   Silica Clotting Time (SCT)
+    *   Hexagonal Phase Phospholipid Neutralization Assay
+*   **Interpretation:**
+
+    *   Prolonged Screening Test: Suggests the presence of an inhibitor
+    *   Failure to Correct on Mixing: Confirms the presence of an inhibitor
+    *   Phospholipid Dependence: Correction with excess phospholipid confirms that the inhibitor is a lupus anticoagulant
+    *   Requires Persistent Positivity: To meet the laboratory criteria for APS, the LA must be present on two or more occasions, at least 12 weeks apart
+
+## **Anticardiolipin (aCL) Antibody Assay** {-}
+
+*   **Principle:**
+    *   An ELISA-based assay that measures the levels of IgG and/or IgM antibodies that bind to cardiolipin, a negatively charged phospholipid
+    
+*   **Procedure:**
+    1.  Microplate Wells Coated with Cardiolipin
+    2.  Patient Sample is added to determine what happens with lipid testing.
+    3.  An enzyme-labeled secondary antibody (e.g., anti-human IgG or anti-human IgM) is added to determine anti-cardiolipin antibodies.
+    4.  A substrate is used to detect the anti-cardiolipin, and light passes through to help determine.
+
+*   **Reporting:**
+    *   Results are reported in GPL units (for IgG aCL) or MPL units (for IgM aCL)
+    *   Reported as negative, low positive, medium positive, or high positive based on established cut-off values:
+        *   Negative: <20 GPL or MPL units
+        *   Low Positive: 20-39 GPL or MPL units
+        *   Medium Positive: 40-79 GPL or MPL units
+        *   High Positive: ≥80 GPL or MPL units
+*   **Interpretation:**
+
+    *   Elevated aCL Levels: Suggests the presence of aCL antibodies
+    *   Requires Persistent Positivity: To meet the laboratory criteria for APS, the aCL antibodies must be present on two or more occasions, at least 12 weeks apart
+    *   Clinical Significance:
+        *   High titers of IgG aCL antibodies are more strongly associated with thrombosis and pregnancy morbidity
+
+## **Anti-β2 Glycoprotein I (anti-β2GPI) Antibody Assay** {-}
+
+*   **Principle:**
+
+    *   An ELISA-based assay that measures the levels of IgG and/or IgM antibodies that bind to β2-glycoprotein I, a plasma protein that binds to negatively charged phospholipids
+
+*   **Procedure:**
+
+    1.  Microplate wells coated with Beta-2-Glycoprotein is mixed with the plasma.
+    2.  An enzyme-labeled secondary antibody (e.g., anti-human IgG or anti-human IgM) is added to each well to determine.
+    3.  If positive, this will result in the enzyme causing an increased signal.
+
+*   **Reporting:**
+    *   Results are reported in units/mL or arbitrary units (AU/mL)
+    *   Reported as negative, low positive, medium positive, or high positive based on established cut-off values:
+        *   Negative: <20 units/mL
+        *   Low Positive: 20-39 units/mL
+        *   Medium Positive: 40-79 units/mL
+        *   High Positive: ≥80 units/mL
+*   **Interpretation:**
+
+    *   Elevated anti-β2GPI Levels: Suggests the presence of anti-β2GPI antibodies
+    *   Requires Persistent Positivity: To meet the laboratory criteria for APS, the anti-β2GPI antibodies must be present on two or more occasions, at least 12 weeks apart
+    *   Clinical Significance:
+        *   High titers of IgG anti-β2GPI antibodies are more strongly associated with thrombosis and pregnancy morbidity
+
+## **General Factors Affecting aPL Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: May activate coagulation factors and affect results
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: aPLs can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+
+*   **Analytical Variables:**
+
+    *   Reagent Quality: Use fresh, properly stored reagents, and follow the manufacturer's instructions
+    *   Instrument Calibration: Ensure proper calibration and maintenance of the instruments
+    *   Interfering Substances: High levels of lipids, bilirubin, or paraproteins can interfere with ELISA-based assays
+
+*   **Patient-Related Variables:**
+
+    *   Medications: Warfarin, heparin, direct oral anticoagulants, and other medications can affect coagulation test results
+    *   Acute Thrombotic Events: May consume coagulation factors and aPLs, leading to falsely negative results
+    *   Infections: Transiently elevated aPL levels can be seen in some infections
+    *   Autoimmune Disorders: The presence of other autoimmune antibodies (e.g., antinuclear antibodies) can affect aPL results
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the aPL assay results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances
+    *   Review the patient's medication list and medical history
+    *   Ensure that the aPLs have been positive on two or more occasions, at least 12 weeks apart
+
+## **Key Terms** {-}
+
+*   **Antiphospholipid Antibodies (aPL):** Autoantibodies directed against phospholipids and phospholipid-binding proteins
+*   **Lupus Anticoagulant (LA):** An antibody that interferes with phospholipid-dependent coagulation assays in vitro and is associated with thrombosis in vivo
+*   **Anticardiolipin (aCL) Antibodies:** Antibodies that bind to cardiolipin, a negatively charged phospholipid
+*   **Anti-β2 Glycoprotein I (anti-β2GPI) Antibodies:** Antibodies that bind to β2-glycoprotein I, a plasma protein that binds to phospholipids
+*   **Antiphospholipid Syndrome (APS):** An autoimmune disorder characterized by thrombosis, pregnancy morbidity, and the presence of antiphospholipid antibodies
+*   **ELISA:** Enzyme-Linked Immunosorbent Assay, a common type of immunoassay
+*   **Thrombosis:** Formation of a blood clot inside a blood vessel

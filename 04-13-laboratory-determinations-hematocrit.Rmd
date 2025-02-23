@@ -1,0 +1,148 @@
+# Hematocrit {-}
+
+## **Overview of Hematocrit (HCT)** {-}
+
+*   **Definition:** The hematocrit is the percentage of blood volume occupied by red blood cells (RBCs). It's a simple but valuable measurement in assessing a patient's red blood cell status
+*   **Alternate Names:** Packed Cell Volume (PCV)
+*   **Clinical Significance:**
+    *   Detection and Monitoring of Anemia: Low HCT indicates anemia (decreased red blood cell mass)
+    *   Detection of Polycythemia/Erythrocytosis: High HCT indicates increased red blood cell mass
+    *   Assessment of Dehydration: Can be elevated in dehydration due to decreased plasma volume
+    *   Monitoring Fluid Balance: Helps assess changes in blood volume
+*   **Methods:**
+    *   Manual Methods: Centrifugation of blood in a capillary tube (microhematocrit method)
+    *   Automated Methods: Calculated by automated hematology analyzers based on RBC count and MCV
+
+## **Manual Microhematocrit Method** {-}
+
+*   **Principle:**
+
+    *   Whole blood is collected in a capillary tube coated with an anticoagulant (usually heparin)
+    *   The tube is centrifuged to pack the red blood cells at the bottom of the tube
+    *   The height of the packed red blood cell column is measured and compared to the total height of the blood column to determine the hematocrit percentage
+*   **Materials:**
+
+    *   Capillary Tubes:
+        *   Glass or plastic capillary tubes (typically 75 mm long with an internal diameter of 1-2 mm)
+        *   Coated with an anticoagulant (heparin)
+    *   Centrifuge:
+        *   A specialized centrifuge designed to hold and spin capillary tubes at high speeds
+        *   Should be capable of generating a relative centrifugal force (RCF) of at least 10,000 g
+    *   Reader:
+        *   A device for accurately measuring the height of the packed red blood cell column and the total blood column in the capillary tube
+        *   Can be a microhematocrit reader card or a digital reader
+    *   Sealing Clay:
+        *   Used to seal one end of the capillary tube after filling
+
+*   **Procedure:**
+
+    1.  Sample Collection:
+        *   Collect whole blood in an EDTA (purple-top) tube
+        *   Capillary blood (fingerstick or heelstick) can also be used, but is less accurate
+    2.  Filling the Capillary Tube:
+        *   Mix the blood sample thoroughly
+        *   Hold the capillary tube horizontally and touch one end to the blood sample
+        *   Allow the tube to fill by capillary action to at least 2/3 of its length
+        *   Avoid introducing air bubbles into the tube
+    3.  Sealing the Tube:
+        *   Wipe the outside of the capillary tube clean
+        *   Seal one end of the tube with sealing clay to prevent leakage during centrifugation
+    4.  Centrifugation:
+        *   Place the filled and sealed capillary tubes into the microhematocrit centrifuge
+        *   Centrifuge for the recommended time (typically 5 minutes) at the specified RCF (10,000-12,000 g)
+    5.  Reading the Hematocrit:
+        *   Remove the capillary tubes from the centrifuge
+        *   Carefully place the tube on the microhematocrit reader
+        *   Align the bottom of the packed red blood cell column with the 0% line on the reader
+        *   Align the top of the plasma layer with the 100% line on the reader
+        *   Read the hematocrit value at the interface between the packed red blood cells and the plasma
+    6.  Record and Report Results:
+        *   Record the hematocrit value as a percentage (%)
+        *   Report the result along with the reference range
+        *   Perform duplicate measurements and average the results (if duplicate results are within acceptable limits)
+
+*   **Sources of Error in Manual Hematocrit Measurement:**
+
+    *   Improper Sealing of the Capillary Tube: Can lead to leakage and falsely low results
+    *   Inadequate Centrifugation: Insufficient packing of red blood cells can lead to falsely low results
+    *   Delay in Reading: Prolonged delay after centrifugation can lead to cell settling and inaccurate readings
+    *   Air Bubbles: Air bubbles in the capillary tube can interfere with the reading
+    *   Incorrect Use of the Reader: Not aligning the tube properly on the reader can lead to inaccurate results
+    *   Excess Anticoagulant: Overfilling a capillary tube with a blood sample in an anticoagulant collection tube is not recommended
+
+## **Automated Hematocrit Measurement** {-}
+
+*   **Principle:**
+
+    *   Automated hematology analyzers typically calculate the hematocrit based on the red blood cell count and the mean corpuscular volume (MCV)
+    *   Formula: HCT = (RBC Count x MCV) / 10
+*   **Procedure:**
+
+    *   The automated analyzer aspirates a small amount of the whole blood sample
+    *   The RBC count and MCV are measured using electrical impedance, optical scatter, or other methods
+    *   The hematocrit is calculated using the formula above
+*   **Advantages:**
+
+    *   Increased Speed and Efficiency
+    *   Improved Accuracy and Precision
+    *   Reduced Labor Costs
+*   **Limitations:**
+
+    *   Can be affected by certain interfering substances or conditions (see below)
+    *   Does not directly measure the packed cell volume; it is a calculated value
+
+## **Interfering Substances and Conditions** {-}
+
+Several factors can interfere with both manual and automated hematocrit measurements, leading to inaccurate results. It's crucial to be aware of these interferences and take appropriate corrective actions:
+
+*   **Lipemia:**
+    *   Turbidity from high lipid content can falsely elevate the hemoglobin reading, which can affect the calculated hematocrit
+    *   Corrective Action: Perform a saline replacement procedure or use a lipemia clearing agent
+*   **High White Blood Cell Count (Leukocytosis):**
+    *   Extreme leukocytosis can cause falsely elevated hemoglobin and hematocrit readings
+    *   Corrective Action: Dilute the sample and multiply the results by the dilution factor
+*   **Cold Agglutinins:**
+    *   These antibodies can cause RBCs to clump together, leading to inaccurate cell counts and hematocrit measurement
+    *   Corrective Action: Warm the sample to 37°C to dissociate the agglutinins
+*   **Abnormal Red Blood Cell Size or Shape:**
+    *   Spherocytes, schistocytes, and other abnormally shaped RBCs can affect the accuracy of both manual and automated hematocrit measurements
+*   **High Hemoglobin (Results beyond the linearity of the instrument)**
+    *   Dilute the blood so that the Hgb result is within the linear range of the instrument
+
+## **Quality Control (QC)** {-}
+
+*   **Calibrate the Instruments:**
+
+    *   Perform regular calibration of the microhematocrit centrifuge and automated hematology analyzer according to the manufacturer's instructions
+*   **Run Control Materials:**
+
+    *   Run control materials at regular intervals (e.g., daily, with each batch of samples)
+    *   Use controls that are appropriate for the types of samples being analyzed (e.g., whole blood controls)
+*   **Review Control Results:**
+
+    *   Review control results and evaluate them using statistical methods (e.g., Levey-Jennings charts, Westgard rules)
+    *   Take corrective action if control results are outside the acceptable range
+*   **Check the Rule of Three:**
+
+    *   Verify that the hemoglobin, hematocrit, and RBC count are consistent with each other, using the "Rule of Three":
+        *   HGB x 3 = HCT (± 3)
+    *   If the Rule of Three is not met, investigate potential errors
+
+## **Reporting Results** {-}
+
+*   Report the hematocrit value as a percentage (%)
+*   Include the reference range for the patient's age and sex
+*   Note any abnormal results or flags
+*   Document all quality control procedures and corrective actions taken
+
+## **Key Terms** {-}
+
+*   **Hematocrit (HCT):** The percentage of blood volume occupied by red blood cells
+*   **Packed Cell Volume (PCV):** Another name for hematocrit
+*   **Microhematocrit:** A manual method for measuring hematocrit using a capillary tube
+*   **EDTA:** Ethylenediaminetetraacetic acid, an anticoagulant used in blood collection tubes
+*   **RCF:** Relative centrifugal force, a measure of the force applied during centrifugation
+*   **Lipemia:** The presence of excessive lipids in the blood
+*   **Saline Replacement:** A procedure to remove lipemic plasma and replace it with saline
+*   **Quality Control:** Procedures used to monitor the accuracy and precision of laboratory testing
+*   **Calibration:** The process of adjusting an instrument to ensure accurate and reliable results

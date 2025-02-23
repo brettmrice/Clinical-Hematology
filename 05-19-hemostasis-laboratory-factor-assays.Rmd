@@ -1,0 +1,140 @@
+# Factor Assays {-}
+
+## **Overview of Factor Assays** {-}
+
+*   **Definition:** Factor assays are quantitative laboratory tests used to measure the activity level of individual coagulation factors in plasma. The activity level reflects both the concentration and functional capacity of the factor
+*   **Clinical Significance:**
+    *   Diagnosis of Hereditary Factor Deficiencies: Confirms the diagnosis of hemophilia A (Factor VIII deficiency), hemophilia B (Factor IX deficiency), and other inherited factor deficiencies
+    *   Diagnosis of Acquired Factor Deficiencies: Helps identify factor deficiencies caused by liver disease, vitamin K deficiency, or DIC
+    *   Monitoring Treatment: Used to monitor the effectiveness of factor replacement therapy or other treatments
+    *   Evaluation of Unexplained Bleeding: Helps identify subtle factor deficiencies that may contribute to a bleeding tendency
+*   **Principle:** Factor assays are typically performed using a coagulation analyzer and are based on the principle of:
+    *   Mixing the patient's plasma with factor-deficient plasma
+    *   Measuring the clotting time after the addition of a reagent that activates the coagulation cascade
+    *   The extent to which the patient's plasma corrects the clotting time of the factor-deficient plasma is proportional to the activity of the factor being measured
+
+## **Types of Factor Assays** {-}
+
+*   **One-Stage Clotting Assay:**
+
+    *   The most common type of factor assay
+    *   Procedure:
+        1.  Prepare a Dilution Series: The patient's plasma is diluted to various concentrations
+        2.  Mix with Factor-Deficient Plasma: The diluted patient plasma is mixed with commercially available plasma that is known to be deficient in the specific factor being measured
+        3.  Initiate Coagulation: A reagent (e.g., aPTT reagent or PT reagent) is added to activate the coagulation cascade
+        4.  Measure Clotting Time: The time to clot formation is measured
+        5.  Compare to Standard Curve: The clotting times are compared to a standard curve generated using plasma with known factor concentrations
+        6.  Calculate Factor Activity: The factor activity level in the patient's plasma is determined based on the standard curve
+    *   Advantages:
+        *   Relatively simple to perform
+        *   Widely available
+    *   Limitations:
+        *   Can be affected by inhibitors
+        *   Less accurate at very low factor levels
+
+*   **Chromogenic Assay:**
+
+    *   Based on the principle of measuring the activity of a chromogenic substrate that is cleaved by a coagulation factor
+    *   Procedure:
+        1.  Mix the patient's plasma with a reagent containing the specific coagulation factor and a chromogenic substrate
+        2.  The coagulation factor cleaves the substrate, releasing a colored product
+        3.  The amount of colored product is measured spectrophotometrically
+        4.  The factor activity level is determined based on the amount of colored product produced
+    *   Advantages:
+        *   More sensitive than clotting assays
+        *   Less affected by inhibitors
+        *   Can be automated
+
+## **Components of a Factor Assay** {-}
+
+*   **Specimen Collection:**
+
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate coagulation testing:
+        *   9:1 ratio of blood to anticoagulant
+    *   Processing:
+        *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+        *   PPP should have a platelet count < 10 x 10^9/L
+        *   Test should be performed within 4 hours of collection or the plasma should be frozen if testing will be performed later
+
+*   **Reagents:**
+
+    *   Factor-Deficient Plasma: Plasma that is specifically deficient in the factor being measured
+    *   PT or aPTT Reagent: Depending on the specific assay, either a PT or aPTT reagent may be used to initiate coagulation
+    *   Calcium Chloride: Provides calcium ions, which are essential for the activity of coagulation factors
+    *   Thrombin Substrate: Solution used to measure the thrombin end point in quantitative analysis of fibrin formation.
+    *   Buffers and Diluents: Use to dilute and perform tests.
+
+*   **Instrumentation:**
+
+    *   Automated Coagulation Analyzer: Detects clot formation using optical or mechanical methods
+    *   Spectrophotometer or Chromatic Analyzer: Machines that read color changes of test
+
+## **Procedure for Performing a Factor Assay** {-}
+
+1.  Prepare the Reagents: Follow the manufacturer's instructions
+2.  Prepare Plasma Dilutions: Prepare a dilution series of the patient's plasma and normal control plasma
+3.  Mix Patient Plasma and Factor-Deficient Plasma: Mix the diluted patient plasma with the factor-deficient plasma
+4.  Initiate Coagulation: Add the appropriate reagent to initiate coagulation
+5.  Measure Clotting Time: Measure the time to clot formation
+6.  Create a Standard Curve: Create a standard curve by plotting the clotting times of the normal control plasma dilutions against their known factor concentrations
+7.  Determine Factor Activity: Use the standard curve to determine the factor activity level in the patient's plasma
+8.  Report the Factor Activity Level: Report the factor activity as a percentage of normal (e.g., 50% of normal)
+
+## **Interpreting Results** {-}
+
+*   **Reference Range:** Varies depending on the factor being measured and the laboratory; typically 50-150%
+*   **Decreased Factor Activity:**
+    *   Factor Activity < 50%: Suggests a significant factor deficiency that may be associated with bleeding symptoms
+    *   Severe Deficiency (Factor Activity < 1%): Often associated with severe bleeding (e.g., hemophilia)
+*   **Increased Factor Activity:**
+    *   May be seen in acute phase reactions or in patients taking certain medications
+    *   Generally not clinically significant
+*   Reported with abnormal aPTT or PT and is used to confirm the results
+
+## **Factors Affecting Factor Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Interfering Substances: High levels of bilirubin, lipids, or paraproteins can interfere with optical clot detection
+    *   Inhibitors: Presence of factor-specific inhibitors can affect the results (see below)
+*   **Patient-Related Variables:**
+        *   Medications: Warfarin, heparin, direct oral anticoagulants, and other medications can affect coagulation test results
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the factor assay result is inconsistent with the patient's clinical presentation or other laboratory findings:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances
+    *   Review the patient's medication list and medical history
+    *   Perform inhibitor studies to rule out factor inhibitors
+
+## **Reflex Testing** {-}
+
+*   If the factor assay results are abnormal, additional testing may be performed to:
+    *   Confirm the diagnosis
+    *   Characterize the nature of the factor deficiency (e.g., quantitative vs. qualitative)
+    *   Evaluate for the presence of factor inhibitors
+
+## **Key Terms** {-}
+
+*   **Factor Assay:** A laboratory test to measure the activity of a specific coagulation factor
+*   **Factor-Deficient Plasma:** Plasma that is specifically deficient in the factor being measured
+*   **Standard Curve:** A graph used to determine the concentration of an analyte based on its absorbance or other measurement
+*   **Chromogenic Assay:** A type of assay that measures the activity of an enzyme by measuring the production of a colored product
+*   **Inhibitor:** An antibody or other substance that interferes with the function of a coagulation factor
+*   **International Units (IU):** A standard unit of measurement for enzyme activity

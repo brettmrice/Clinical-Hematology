@@ -1,0 +1,123 @@
+# Inhibitor Assays {-}
+
+## **Overview of Inhibitor Assays** {-}
+
+*   **Definition:** Inhibitor assays are laboratory tests used to detect and quantify the presence of inhibitors in plasma. Inhibitors are substances, typically antibodies, that interfere with the normal function of coagulation factors, leading to prolonged clotting times and a potential risk of bleeding or thrombosis
+*   **Clinical Significance:**
+    *   Diagnosis of Acquired Hemophilia: Factor VIII inhibitors are the most common cause of acquired hemophilia, a rare but serious bleeding disorder
+    *   Evaluation of Prolonged Clotting Times: Used to investigate unexplained prolonged PT or aPTT results that do not correct upon mixing with normal plasma
+    *   Assessment of Thrombotic Risk: Some inhibitors, such as lupus anticoagulants, are associated with an increased risk of thrombosis
+    *   Monitoring Immunosuppressive Therapy: Used to monitor the effectiveness of immunosuppressive therapy in patients with acquired factor inhibitors
+*   **Types of Inhibitors:**
+    *   Factor-Specific Inhibitors: Antibodies that specifically target and neutralize the activity of a particular coagulation factor (e.g., Factor VIII inhibitor, Factor V inhibitor)
+    *   Lupus Anticoagulants (LA): Autoantibodies that bind to phospholipids and phospholipid-binding proteins, interfering with phospholipid-dependent coagulation reactions
+
+## **Factor VIII Inhibitor Assay (Bethesda Assay)** {-}
+
+*   **Principle:**
+    *   The Bethesda assay is a semi-quantitative assay that measures the ability of patient plasma to inhibit the activity of Factor VIII in normal plasma
+    *   The patient's plasma is incubated with normal plasma containing a known amount of FVIII
+    *   The residual FVIII activity is measured after incubation, and the inhibitor titer is calculated
+*   **Procedure:**
+    1.  Prepare Serial Dilutions of Patient Plasma: The patient's plasma is diluted with a buffer (e.g., imidazole buffer) to create a series of dilutions
+    2.  Prepare Normal Plasma: Normal pooled plasma (NPP) is used as a source of Factor VIII
+        *   The NPP should have a known FVIII activity level (typically 1.0 IU/mL)
+    3.  Mix Patient Plasma and Normal Plasma: Mix equal volumes of the diluted patient plasma and the normal pooled plasma
+        *   Prepare a control mixture of normal plasma and buffer (no patient plasma)
+    4.  Incubate the Mixtures: Incubate the mixtures at 37°C for 2 hours
+        *   This allows time for the inhibitor in the patient plasma to react with the FVIII in the normal plasma
+    5.  Measure Residual FVIII Activity: After incubation, measure the FVIII activity level in each mixture using a factor assay
+        *   The FVIII activity is typically measured using a chromogenic or clotting-based assay
+    6.  Calculate Bethesda Units (BU):
+        *   Calculate the percentage of FVIII neutralized by the patient plasma at each dilution
+        *   One Bethesda Unit (BU) is defined as the amount of inhibitor that neutralizes 50% of FVIII in normal plasma
+        *   The Bethesda titer is determined by plotting the percentage of FVIII neutralized against the dilution of patient plasma
+*   **Reporting:**
+    *   Report the FVIII inhibitor titer in Bethesda Units (BU/mL)
+    *   Report the presence or absence of a FVIII inhibitor
+    *   Interpretation:
+        *   Inhibitor Present: Bethesda titer ≥ 0.6 BU/mL
+        *   Inhibitor Absent: Bethesda titer < 0.6 BU/mL
+
+## **Lupus Anticoagulant (LA) Testing** {-}
+
+Lupus anticoagulants are a heterogenous group of autoantibodies that bind to phospholipids and phospholipid-binding proteins. The presence of these antibodies can be associated with increased risk of thrombosis (arterial or venous) and recurrent pregnancy loss
+
+*   **Principle:** Testing for LA involves a series of phospholipid-dependent coagulation assays:
+    *   Prolonged Clotting Times: LA prolongs phospholipid-dependent clotting tests (e.g., aPTT, dRVVT)
+    *   Mixing Studies: The prolonged clotting times *do not correct* upon mixing with normal plasma (due to the presence of an inhibitor)
+    *   Phospholipid Dependence: The prolonged clotting times are more pronounced in assays with lower phospholipid concentrations
+    *   Phospholipid Neutralization: The prolonged clotting times are corrected by the addition of excess phospholipid
+
+*   **Recommended Testing Sequence:**
+    1.  Screening Test:
+        *   aPTT-LA (aPTT with a low phospholipid concentration): A modified aPTT reagent with a low phospholipid concentration is used to enhance the sensitivity to LA
+        *   Dilute Russell's Viper Venom Time (dRVVT): A test that is sensitive to the presence of LA
+    2.  Mixing Study:
+        *   If the screening test is prolonged, perform a mixing study to determine if the prolongation is due to a factor deficiency or an inhibitor
+        *   Mix equal volumes of the patient's plasma with normal pooled plasma and measure the clotting time immediately and after incubation at 37°C for 1-2 hours
+        *   If the clotting time does not correct, it suggests the presence of an inhibitor
+    3.  Confirmatory Testing:
+        *   Phospholipid Neutralization Procedure:
+            *   This test confirms the presence of a phospholipid-dependent inhibitor
+            *   The prolonged clotting time is corrected by the addition of excess phospholipid
+            *   Hexagonal Phase Phospholipid Neutralization Assay (Staclot LA):
+                *   A more sensitive and specific test for LA
+                *   Uses hexagonal phase phospholipids to neutralize the inhibitor
+        *   dRVVT Mixing Study with Correction:
+            *   dRVVT is repeated with and without the addition of excess phospholipid
+            *   The ratio of the dRVVT with phospholipid to the dRVVT without phospholipid is calculated
+            *   A ratio > 1.2 indicates the presence of LA
+*   **Reporting:**
+    *   Report the results of each test performed (screening test, mixing study, confirmatory test)
+    *   Indicate whether the patient is positive or negative for lupus anticoagulant
+    *   Note any limitations of the testing (e.g., presence of heparin or direct oral anticoagulants)
+
+## **General Procedure Considerations** {-}
+
+*   **Sample Quality:** Samples must be free of clots or hemolysis and must be collected and stored properly
+
+*   **Instrumentation and Reagents:** Follow the manufacturer's instructions for instrument calibration, reagent preparation, and test performance
+
+*   **Controls:** Run control materials (normal and abnormal) to ensure the test is performing correctly
+
+## **Factors Affecting Inhibitor Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors and inhibitors can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Interfering Substances: High levels of bilirubin, lipids, or paraproteins can interfere with optical clot detection
+*   **Patient-Related Variables:**
+
+    *   Medications: Warfarin, heparin, direct oral anticoagulants, and other medications can affect coagulation test results
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the inhibitor assay results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances
+    *   Review the patient's medication list and medical history
+    *   Perform additional testing to confirm the presence or absence of the inhibitor
+
+## **Key Terms** {-}
+
+*   **Inhibitor:** An antibody that interferes with the function of a coagulation factor
+*   **Factor VIII Inhibitor:** An antibody that specifically targets and neutralizes Factor VIII
+*   **Lupus Anticoagulant (LA):** An antibody that binds to phospholipids and phospholipid-binding proteins and prolongs clotting times in vitro
+*   **Mixing Study:** A test used to differentiate factor deficiencies from factor inhibitors
+*   **Bethesda Assay:** A method for quantifying Factor VIII inhibitors
+*   **Phospholipid Dependence:** A characteristic of lupus anticoagulants, where the prolonged clotting time is more pronounced in assays with lower phospholipid concentrations
+*   **Correction:** The aPTT or PT of the mixture returns to within the normal range, suggesting a factor deficiency
+*   **No Correction:** The aPTT or PT of the mixture remains prolonged, suggesting the presence of an inhibitor

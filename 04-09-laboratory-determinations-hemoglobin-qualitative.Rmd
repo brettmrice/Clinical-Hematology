@@ -1,0 +1,64 @@
+# Qualitative {-}
+
+## **Overview of Qualitative Hemoglobin Analysis** {-}
+
+*   **Definition:** Laboratory tests used to identify and characterize different types of hemoglobin in a blood sample. These tests are crucial for diagnosing hemoglobinopathies, such as sickle cell anemia and thalassemia
+*   **Purpose:**
+    *   Detect and quantify normal and abnormal hemoglobin variants (e.g., HbA, HbA2, HbF, HbS, HbC, HbD, HbE)
+    *   Identify hemoglobinopathies in patients with anemia, jaundice, or a family history of hemoglobin disorders
+    *   Screen newborns for sickle cell disease and other hemoglobinopathies
+    *   Monitor treatment response in patients with hemoglobinopathies
+*   **Methods:**
+    *   Hemoglobin Electrophoresis
+    *   High-Performance Liquid Chromatography (HPLC)
+    *   Sickle Solubility Testing
+
+## **Hemoglobin Electrophoresis** {-}
+
+*   **Principle:**
+    *   Separates hemoglobin variants based on their electrical charge and migration patterns in an electric field
+    *   Hemoglobin molecules are placed on a supporting medium (e.g., cellulose acetate or agarose gel) and an electric current is applied
+    *   Different hemoglobin types migrate at different rates depending on their charge
+    *   After electrophoresis, the separated hemoglobin bands are visualized using a stain
+
+## **High-Performance Liquid Chromatography (HPLC)** {-}
+
+*   **Principle:**
+        *   Separates hemoglobin variants based on their interaction with a stationary phase in a column, followed by detection using spectrophotometry
+    *   Steps:
+        *   The hemolysate is injected into a column packed with a solid material (stationary phase)
+        *   A liquid solvent (mobile phase) is pumped through the column
+        *   Hemoglobin variants interact differently with the stationary phase based on their size, charge, and hydrophobicity
+        *   As each hemoglobin variant elutes from the column, it passes through a detector (spectrophotometer) that measures its absorbance at a specific wavelength
+        *   The detector generates a chromatogram, which shows a series of peaks corresponding to the different hemoglobin types
+
+## **Sickle Solubility Testing** {-}
+
+*   **Principle:**
+    *   Hemoglobin S (HbS) is insoluble in a concentrated phosphate buffer when deoxygenated, causing the solution to become turbid (cloudy)
+    *   Other hemoglobins remain soluble in the buffer
+
+## **Quality Control** {-}
+
+*   **Run Controls with Known Hemoglobin Patterns:**
+    *   Include normal and abnormal controls with each electrophoresis or HPLC run
+    *   The control results should fall within established reference ranges
+*   **Document All Quality Control Procedures:**
+    *   Record the dates, lot numbers, and results of all quality control procedures
+*   **Follow Established Laboratory Procedures:**
+    *   Adhere to standardized operating procedures for performing and interpreting hemoglobin analysis
+*   **Participate in Proficiency Testing Programs:**
+    *   To assess the accuracy and reliability of the laboratory's testing
+
+## **Key Terms** {-}
+
+*   **Hemoglobin Electrophoresis:** A technique to separate and identify hemoglobin types
+*   **High Performance Liquid Chromatography (HPLC):** A chromatographic method for hemoglobin separation
+*   **Sickle Solubility Test:** A screening test for sickle cell disease
+*   **Hemoglobinopathy:** A genetic disorder affecting the structure or synthesis of hemoglobin
+*   **Hemoglobin Variant:** An abnormal hemoglobin molecule
+*   **Cellulose Acetate:** A supporting medium used for hemoglobin electrophoresis
+*   **Agarose Gel:** Another supporting medium used for hemoglobin electrophoresis
+*   **Hemolysate:** Lysed red blood cells used for hemoglobin analysis
+*   **Densitometry:** A technique for quantifying the amount of each hemoglobin type on an electrophoretic gel
+*   **Point Mutation:** Single nucleotide polymorphism (SNP)

@@ -1,0 +1,120 @@
+# APTT {-}
+
+## **Overview of Activated Partial Thromboplastin Time (aPTT)** {-}
+
+*   **Definition:** A coagulation test that measures the time (in seconds) it takes for plasma to clot after the activation of the contact factors (intrinsic pathway) and the addition of calcium and phospholipid
+*   **Purpose:**
+    *   Evaluate the intrinsic and common pathways of coagulation
+    *   Monitor heparin therapy
+    *   Detect coagulation factor deficiencies
+    *   Investigate unexplained bleeding or thrombotic events
+    *   Screen for lupus anticoagulants
+*   **Principle:**
+    *   Activation of Contact Factors: A contact activator (e.g., kaolin, silica, celite) is added to plasma to activate Factor XII, initiating the intrinsic pathway
+    *   Addition of Phospholipids: Phospholipids provide a surface for the assembly of coagulation complexes
+    *   Addition of Calcium: Calcium ions are added to initiate the coagulation cascade
+    *   Clot Detection: The time to clot formation is measured, either manually or using an automated coagulation analyzer
+
+## **Components of the aPTT Test** {-}
+
+*   **Specimen Collection:**
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate coagulation testing:
+        *   9:1 ratio of blood to anticoagulant
+        *   Underfilling the tube can lead to falsely prolonged clotting times due to excess anticoagulant
+        *   Overfilling the tube can lead to falsely shortened clotting times due to insufficient anticoagulant
+*   **Reagents:**
+    *   Contact Activator: A substance that activates Factor XII (e.g., kaolin, silica, celite)
+    *   Partial Thromboplastin: A phospholipid reagent that provides a surface for the assembly of coagulation complexes
+    *   Calcium Chloride: Provides calcium ions, which are essential for the activity of coagulation factors
+*   **Instrumentation:**
+    *   Automated Coagulation Analyzer: Detects clot formation using optical or mechanical methods:
+        *   Optical Method: Measures changes in light transmission as the clot forms
+        *   Mechanical Method: Detects the movement of a probe or wire as the clot forms
+
+## **Procedure for Performing the aPTT Test** {-}
+
+1.  Sample Preparation:
+    *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+    *   PPP should have a platelet count < 10 x 10^9/L
+2.  Automated Method:
+    *   Follow the instrument manufacturer's instructions
+    *   Add the contact activator and phospholipid reagent to the plasma
+    *   Incubate the mixture at 37°C for a specific period (e.g., 3-5 minutes)
+    *   Add calcium chloride to initiate coagulation
+    *   Measure the time to clot formation (aPTT in seconds)
+3.  Quality Control:
+    *   Run control materials at regular intervals to assess the accuracy and precision of the test
+    *   Review control results and take corrective action if necessary
+
+## **Interpreting Results** {-}
+
+*   **Activated Partial Thromboplastin Time (aPTT):**
+    *   Reference Range: Varies depending on the reagent and instrument used (e.g., 25-35 seconds)
+    *   Prolonged aPTT: Indicates a deficiency or dysfunction of one or more factors in the intrinsic or common pathways (Factors XII, XI, IX, VIII, X, V, prothrombin, fibrinogen)
+        *   Heparin Therapy: aPTT is used to monitor unfractionated heparin therapy
+            *   The target aPTT range is typically 1.5-2.5 times the control value
+        *   Coagulation Factor Deficiencies:
+            *   Hemophilia A (Factor VIII deficiency)
+            *   Hemophilia B (Factor IX deficiency)
+            *   Factor XI deficiency
+        *   Lupus Anticoagulant (LA): May prolong the aPTT
+        *   Vitamin K Deficiency: May prolong the aPTT if severe
+        *   Disseminated Intravascular Coagulation (DIC): Consumption of coagulation factors
+
+## **Factors Affecting aPTT Results** {-}
+
+*   **Pre-Analytical Variables:**
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Lipemia or Icterus: Can interfere with optical clot detection
+*   **Patient-Related Variables:**
+    *   Medications: Heparin, direct oral anticoagulants, and other medications can affect coagulation test results
+    *   Liver Disease: Impairs the synthesis of coagulation factors
+    *   Genetic Factors: Rare genetic variations can affect coagulation factor levels
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the aPTT result is inconsistent with the patient's clinical presentation or previous results:
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances (e.g., lipemia)
+    *   Review the patient's medication list and medical history
+    *   Perform a mixing study to rule out factor inhibitors
+
+## **Mixing Studies** {-}
+
+*   Used to differentiate factor deficiencies from factor inhibitors
+*   Procedure:
+    *   Mix equal parts of the patient's plasma with normal plasma
+    *   Measure the aPTT on the mixture immediately and after incubation at 37°C for 1-2 hours
+    *   Interpretation:
+        *   Correction: If the aPTT corrects to within the normal range after mixing, it suggests a factor deficiency
+        *   No Correction: If the aPTT does not correct (remains prolonged) after mixing, it suggests the presence of a factor inhibitor
+
+## **Reflex Testing** {-}
+
+*   If the aPTT is prolonged and the mixing study suggests a factor deficiency, the next step is to perform individual factor assays to identify the specific factor that is deficient
+*   If the aPTT is prolonged and the mixing study suggests a factor inhibitor, further testing is needed to characterize the inhibitor:
+    *   Factor VIII Inhibitor Assay: To detect and quantify Factor VIII inhibitors
+    *   Lupus Anticoagulant Testing:
+        *   Dilute Russell's Viper Venom Time (dRVVT)
+        *   Silica Clotting Time (SCT)
+        *   Hexagonal Phase Phospholipid Neutralization Assay
+
+## **Key Terms** {-}
+
+*   **aPTT (Activated Partial Thromboplastin Time):** Test of the intrinsic and common pathways
+*   **Contact Activator:** Reagent used to initiate the intrinsic pathway
+*   **Phospholipid:** A substance needed for the assembly of coagulation complexes
+*   **Factor Assay:** A laboratory test to measure the activity of a specific coagulation factor
+*   **Mixing Study:** A test to differentiate factor deficiencies from factor inhibitors
+*   **Lupus Anticoagulant (LA):** An antibody that interferes with phospholipid-dependent coagulation assays

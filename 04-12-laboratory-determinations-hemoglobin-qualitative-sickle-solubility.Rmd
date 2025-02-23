@@ -1,0 +1,132 @@
+# Sickle Solubility {-}
+
+## **Overview of Sickle Solubility Testing** {-}
+
+*   **Definition:** A rapid, qualitative screening test used to detect the presence of Hemoglobin S (HbS) in a blood sample
+*   **Clinical Significance:**
+    *   Screening for Sickle Cell Disease: Used as a preliminary test to identify individuals who may have sickle cell trait (HbAS) or sickle cell anemia (HbSS)
+    *   Simple and Inexpensive: Can be performed in resource-limited settings where more sophisticated tests (e.g., hemoglobin electrophoresis, HPLC) are not readily available
+*   **Limitations:**
+    *   Qualitative Test: Only detects the presence of HbS, does not quantify the amount
+    *   Cannot Differentiate between HbAS (sickle cell trait) and HbSS (sickle cell anemia)
+    *   False-Negative Results: Can occur in infants < 6 months old (due to high levels of HbF), in patients with very low hemoglobin levels, or in patients who have received recent blood transfusions
+    *   False-Positive Results: Can occur in patients with other hemoglobinopathies (e.g., HbC-Harlem) or with hyperglobulinemia
+    *   Confirmatory Testing Required: Positive results must be confirmed by hemoglobin electrophoresis or HPLC
+
+## **Principle of the Sickle Solubility Test** {-}
+
+*   **Solubility of Hemoglobin S:**
+    *   HbS is insoluble in a concentrated phosphate buffer when deoxygenated (oxygen removed)
+    *   When deoxygenated, HbS molecules polymerize, forming long fibers that cause the red blood cells to sickle
+    *   The polymerization and sickling process leads to turbidity (cloudiness) of the solution
+*   **Other Hemoglobins:**
+    *   Normal hemoglobin (HbA) and most other hemoglobin variants remain soluble in the buffer, so the solution remains clear
+*   **Procedure:**
+    1.  Blood is mixed with a lysing agent to release hemoglobin
+    2.  A reducing agent is added to deoxygenate the hemoglobin
+    3.  The hemolysate is added to a concentrated phosphate buffer
+    4.  The mixture is observed for turbidity
+    5.  If HbS is present, the solution will become turbid
+    6.  If HbS is absent, the solution will remain clear
+
+## **Reagents and Materials** {-}
+
+*   **Lysing Reagent:** Saponin or other reagent to lyse red blood cells and release hemoglobin
+*   **Reducing Agent:** Sodium hydrosulfite (sodium dithionite) to deoxygenate the hemoglobin
+*   **Phosphate Buffer:** Concentrated phosphate buffer (e.g., sodium phosphate) to reduce the solubility of HbS
+*   **Distilled Water:** To prepare reagents and dilute samples
+*   **Test Tubes or Microcentrifuge Tubes:** To mix the reagents and sample
+*   **Pipettes:** To accurately measure reagents and samples
+*   **Light Source:** A light source (e.g., a flashlight or a viewbox) to observe the turbidity of the solution
+*   **Control Samples:** Positive and negative controls with known HbS status
+
+## **Procedure** {-}
+
+1.  Prepare the Reagents: Follow the manufacturer's instructions to prepare the lysing reagent, reducing agent, and phosphate buffer
+2.  Prepare the Sample:
+    *   Collect blood in an EDTA (purple-top) tube
+    *   Mix the blood thoroughly
+    *   Add a specified amount of blood to a test tube or microcentrifuge tube
+3.  Lyse the Red Blood Cells:
+    *   Add the lysing reagent to the blood sample
+    *   Mix gently and allow the mixture to stand for a few minutes to ensure complete lysis
+4.  Deoxygenate the Hemoglobin:
+    *   Add the reducing agent (sodium hydrosulfite) to the hemolysate
+    *   Mix gently
+5.  Add Phosphate Buffer:
+    *   Add the concentrated phosphate buffer to the mixture
+    *   Mix gently
+6.  Incubate (Optional):
+    *   Some protocols recommend incubating the mixture at room temperature for a specific time (e.g., 5-10 minutes)
+7.  Observe for Turbidity:
+    *   Hold the tube in front of a light source and observe the turbidity of the solution
+    *   Compare the test sample to positive and negative controls
+8.  Interpret the Results:
+    *   Positive Result: The solution is turbid, indicating the presence of HbS
+    *   Negative Result: The solution remains clear, indicating the absence of HbS
+
+## **Interpreting Results** {-}
+
+*   **Positive Result (Turbid Solution):** Indicates the presence of HbS
+    *   Does not differentiate between sickle cell trait (HbAS) and sickle cell anemia (HbSS)
+    *   Requires confirmation by hemoglobin electrophoresis or HPLC
+*   **Negative Result (Clear Solution):** Indicates the absence of HbS
+    *   Does not rule out other hemoglobinopathies
+    *   False-negative results can occur, especially in infants < 6 months old due to high levels of HbF
+
+## **Factors Affecting Accuracy** {-}
+
+*   **High Hematocrit:**
+
+    *   High concentrations of hemoglobin can lead to false-positive results
+    *   Dilute the sample before performing the test
+
+*   **Lipemia:**
+
+    *   Turbidity from lipemia can interfere with the visual interpretation of the test
+    *   Centrifuge the sample and use the clear bottom layer for testing
+
+*   **High White Blood Cell Count:**
+
+    *   Can interfere with visual interpretation
+    *   Lyse the white blood cells before performing the test
+
+*   **Recent Transfusion:**
+
+    *   Can lead to false-negative results if the patient has been recently transfused with blood that does not contain HbS
+    *   Wait at least 3 months after transfusion before performing the test
+
+*   **Hemoglobin Variants Other Than HbS:**
+
+    *   Some rare hemoglobin variants (e.g., HbC-Harlem) can also cause a positive result
+    *   Confirm positive results with hemoglobin electrophoresis or HPLC
+
+## **Quality Control** {-}
+
+*   **Run Positive and Negative Controls with Each Test Batch:**
+    *   Positive Control: A sample with known HbS
+    *   Negative Control: A sample with normal hemoglobin (HbA)
+*   **Use Fresh Reagents:**
+    *   Ensure that the reagents are not expired and have been stored properly
+*   **Follow the Manufacturer's Instructions Carefully:**
+    *   Adhere to the recommended sample volumes, reagent concentrations, and incubation times
+*   **Inspect the Reagents and Equipment:**
+    *   Check for any signs of contamination or deterioration
+    *   Ensure that the light source is adequate for visualizing the turbidity of the solution
+
+## **Reporting Results** {-}
+
+*   Report the result as "Positive" or "Negative" for HbS
+*   Indicate that the test is a screening test and requires confirmation by hemoglobin electrophoresis or HPLC for a definitive diagnosis
+*   Include any comments or qualifications, such as "False negative possible in infants < 6 months old" or "Heterozygous result"
+
+## **Key Terms** {-}
+
+*   **Sickle Solubility Test:** A screening test for sickle cell disease that detects the presence of HbS
+*   **Hemoglobin S (HbS):** The abnormal hemoglobin found in sickle cell disease
+*   **Deoxygenation:** Removal of oxygen
+*   **Turbidity:** Cloudiness or haziness of a solution
+*   **Sickle Cell Anemia:** A severe inherited blood disorder caused by the HbSS genotype
+*   **Sickle Cell Trait:** A heterozygous carrier state for HbS (HbAS)
+*   **Lysing Agent:** A chemical used to rupture red blood cell membranes and release hemoglobin
+*   **Reducing Agent:** A chemical that donates electrons and reduces other substances

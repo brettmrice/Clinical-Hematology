@@ -1,0 +1,97 @@
+# Lymphoma {-}
+
+##  **Overview of Flow Cytometry Immunophenotyping in Lymphoma** {-}
+
+*   **Definition:** The use of flow cytometry to identify and characterize lymphoma cells based on their expression of cell surface and intracellular proteins (antigens). It's a powerful tool, but needs to be used in the context of morphology from cytology and histology samples.
+*   **Purpose:**
+    *   Diagnosis of Lymphoma: Helps distinguish lymphoma from reactive lymphoid proliferations and other types of cancer
+    *   Classification of Lymphoma: Identifies specific subtypes of lymphoma based on the immunophenotype of the malignant cells
+    *   Prognosis: Can provide information about the prognosis (likely outcome) of the disease
+    *   Monitoring Treatment Response: Used to assess the effectiveness of treatment and detect minimal residual disease (MRD)
+*   **Sample Types:**
+    *   Lymph Node Biopsy: The most common sample type; a single cell suspension is prepared from the lymph node tissue
+    *   Bone Marrow Aspirate: Used to assess bone marrow involvement in lymphoma
+    *   Peripheral Blood: Can be used to evaluate for circulating lymphoma cells (e.g., in Sézary syndrome)
+    *   Other Tissue Biopsies: Can be used to evaluate for lymphoma in extranodal sites (e.g., spleen, liver, skin)
+
+##  **Common Markers Used in Lymphoma Immunophenotyping** {-}
+
+| Marker          | Cell Lineage/Function                      | Expected Expression                                                         | Potential Significance in Lymphoma                                                 |
+| --------------- | -------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| CD45            | All leukocytes                             | Present on most leukocytes, but with varying intensity                       | Used to identify and gate on leukocyte populations                               |
+| CD19            | B cells                                      | Expressed on most B cells                                                     | Used to identify B-cell lymphomas                                                  |
+| CD20            | B cells                                      | Expressed on most B cells, but expression can be lost after rituximab therapy | Used to identify B-cell lymphomas; target for rituximab therapy                 |
+| CD5             | T cells, subset of B cells                 | Expressed on most T cells; also expressed on CLL cells                      | Helps differentiate CLL from other B-cell lymphomas                             |
+| CD10            | Germinal center B cells, some T cells       | Expressed on germinal center B cells; also expressed in some T-cell lymphomas  | Helps identify follicular lymphoma and Burkitt lymphoma                          |
+| CD3             | T cells                                      | Expressed on all T cells                                                     | Used to identify T-cell lymphomas                                                  |
+| CD4           | T Helper Cells                                      | Expressed on T Helper Cells                                                     | Helps identify subtypes of T-cell Lymphomas such as ATLL                                                  |
+| Kappa/Lambda      | Immunoglobulin light chains (B cells)        | Restricted expression (only kappa or lambda) in clonal B-cell populations        | Used to assess B-cell clonality (kappa or lambda light chain restriction)           |
+| CD30            | Activated lymphocytes                        | Expressed on activated lymphocytes; strongly expressed in Hodgkin lymphoma      | Helps identify Hodgkin lymphoma and ALCL                                           |
+| CD15            | Granulocytes, Reed-Sternberg cells (HL)       | Expressed on granulocytes; also expressed on Reed-Sternberg cells in HL         | Helps identify Hodgkin lymphoma                                                  |
+| PAX5  | B-cells (transcription factor)       | Expressed on B-cells; but usually lost in classical Hodgkin lymphoma   | Used to help identify B-cell origin                                                   |
+| Ki-67           | Proliferating cells                          | Measures the proliferation rate of cells                                       | Helps differentiate aggressive from indolent lymphomas                              |
+| TdT             | Lymphoblasts                               | Terminal deoxynucleotidyl transferase; expressed in immature lymphocytes       | Helps differentiate AML from ALL                                                 |
+
+*   **MHC (Major Histocompatibility Complex) Class II markers:**
+    *HLA-DR, DP, DQ - helps to identify antigen presenting cells such as B-cells
+
+##  **Key Lymphoma Subtypes and Immunophenotypic Features** {-}
+
+*   **B-Cell Lymphomas:**
+    *   Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL):
+        *   CD5+, CD19+, CD20dim, CD23+, FMC7-, Cyclin D1-, kappa or lambda restricted
+    *   Follicular Lymphoma (FL):
+        *   CD19+, CD20+, CD10+, BCL2+, CD5-, kappa or lambda restricted
+    *   Mantle Cell Lymphoma (MCL):
+        *   CD19+, CD20+, CD5+, Cyclin D1+, CD10-, kappa or lambda restricted
+    *   Marginal Zone Lymphoma (MZL):
+        *   CD19+, CD20+, CD5-, CD10-, BCL6-, kappa or lambda restricted
+    *   Diffuse Large B-Cell Lymphoma (DLBCL):
+        *   CD19+, CD20+, and variable expression of other markers (CD10, BCL6, MUM1)
+        *   Requires correlation with morphology and genetic studies
+    *   Burkitt Lymphoma:
+        *   CD19+, CD20+, CD10+, BCL6+, Ki-67 > 95%, kappa or lambda restricted
+
+*   **T-Cell Lymphomas:**
+    *   Peripheral T-Cell Lymphoma, Not Otherwise Specified (PTCL, NOS):
+        *   A diagnosis of exclusion - must rule out other T-cell lymphomas
+        *   Most are CD4+, with loss of some normal T-cell antigens
+        *   Clonality can be confirmed by T-cell receptor (TCR) gene rearrangement studies
+    *   Anaplastic Large Cell Lymphoma (ALCL):
+        *   CD30+, ALK-1+ (in most cases), CD4+, CD8-
+    *   Adult T-Cell Leukemia/Lymphoma (ATLL):
+        *   CD3+, CD4+, CD25+, FoxP3+
+
+##  **Interpreting Flow Cytometry Results** {-}
+
+*   Establish Gating Strategy:
+    *   Use forward scatter (FSC) and side scatter (SSC) to gate on the lymphocyte population
+    *   Exclude debris, doublets, and non-lymphoid cells
+*   Identify Cell Populations:
+    *   Use lineage-specific markers (e.g., CD19 for B cells, CD3 for T cells) to identify different lymphocyte populations
+*   Assess Antigen Expression Patterns:
+    *   Determine whether the cells express the expected antigens
+    *   Identify any aberrant antigen expression patterns (e.g., co-expression of myeloid markers on lymphoid cells)
+*   Evaluate Clonality:
+    *   Assess for light chain restriction in B-cell populations (kappa or lambda)
+    *   Perform T-cell receptor (TCR) gene rearrangement studies to assess for T-cell clonality
+
+##  **Reporting Results** {-}
+
+*   Report the percentage of cells expressing each marker
+*   Provide an interpretation of the results, noting any abnormal findings
+*   Correlate the flow cytometry results with the patient's clinical information, morphology, and other laboratory data
+
+##  **Key Terms** {-}
+
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers
+*   **Immunophenotyping:** Using flow cytometry to identify cell surface markers
+*   **Gating:** Selecting a population of cells for analysis based on their forward and side scatter characteristics
+*   **Fluorochrome:** A fluorescent dye used to label antibodies or other molecules
+*   **Antibody:** A protein that binds to a specific antigen
+*   **Antigen:** A molecule that is recognized by an antibody
+*   **Lymphoma:** A malignant disorder of lymphocytes that typically arises in lymph nodes
+*   **Leukemia:** A malignant disorder of blood-forming cells in the bone marrow
+*   **Cell surface marker:** Proteins on the surface of a cell that assist with identification.
+*   **TdT:** Terminal deoxynucleotidyl transferase; expressed in immature lymphocytes
+*   **Clonality:** The presence of a single, genetically identical population of cells

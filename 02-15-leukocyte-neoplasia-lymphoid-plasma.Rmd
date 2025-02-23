@@ -1,6 +1,6 @@
 # Plasma Cell {-}
 
-## **Overview of Plasma Cell Dyscrasias**
+## **Overview of Plasma Cell Dyscrasias** {-}
 
 *   **Definition:** A group of disorders characterized by the abnormal proliferation of a single clone of plasma cells, leading to the overproduction of a monoclonal immunoglobulin (M protein)
 *   **Synonyms:** Monoclonal Gammopathies, Plasma Cell Disorders

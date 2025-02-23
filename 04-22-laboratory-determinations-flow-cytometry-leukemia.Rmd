@@ -1,0 +1,109 @@
+# Leukemia {-}
+
+##  **Overview of Flow Cytometry Immunophenotyping in Leukemia** {-}
+
+*   **Definition:** Flow cytometry immunophenotyping is a critical tool for identifying and classifying leukemias. It allows for the rapid and accurate characterization of leukemic cells based on their expression of cell surface and intracellular antigens (markers).
+*   **Importance:** Distinguishing between different types of leukemia (acute vs. chronic, myeloid vs. lymphoid) and identifying specific subtypes within each category.
+    *   Lineage Assignment (Myeloid, B-lymphoid, T-lymphoid)
+    *   Defining the Stage of Maturation Arrest
+    *   Identifying Aberrant Antigen Expression
+    *   Prognostic Stratification
+    *   Monitoring Minimal Residual Disease (MRD)
+
+## **Key Markers Used in Leukemia Immunophenotyping** {-}
+
+Here's a breakdown of commonly used markers, with the caveat that specific panels will vary between labs:
+
+| Marker         | Lineage/Cell Type          | Notes                                                                                                    |
+| --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **CD45**        | All Leukocytes            | Used to identify and gate leukocyte populations; expression levels vary with cell type and maturation     |
+| **Myeloid Markers** |                           |                                                                                                           |
+| CD13            | Myeloid                    | Expressed on most myeloid cells                                                                           |
+| CD33            | Myeloid                    | Expressed on most myeloid cells                                                                           |
+| CD117           | Myeloid, some lymphoid     | Expressed on myeloid cells and some B and T cell precursors                                               |
+| Myeloperoxidase (MPO) | Myeloid, Granulocytic           | Expressed in myeloblasts, promyelocytes, and neutrophils; not expressed in lymphoblasts                  |
+| CD14            | Monocytes/Macrophages       | Helps identify monocytic differentiation                                                                  |
+| CD64            | Monocytes/Macrophages       | Helps identify monocytic differentiation                                                                  |
+| CD11b           | Monocytes/Granulocytes        | Helps identify monocytic and granulocytic differentiation                                                                  |
+| **B-Lymphoid Markers**  |                            |                                                                                                           |
+| CD19            | B cells                    | Expressed on most B cells                                                                                 |
+| CD20            | B cells                    | Expressed on mature B cells; expression can be lost after rituximab therapy                               |
+| CD10            | Germinal center B cells      | Also expressed on some T cells and in certain lymphomas; used in ALL to assess maturation              |
+| CD34  | B/T precursor cells |   |  |
+| TdT             | Lymphoblasts               | Terminal deoxynucleotidyl transferase; expressed in immature lymphocytes                                 |
+| Kappa/Lambda Light Chain | Mature B cells          | Used to assess B-cell clonality (kappa or lambda light chain restriction)                               |
+| **T-Lymphoid Markers**  |                            |                                                                                                           |
+| CD3             | T cells                    | Expressed on all T cells                                                                                 |
+| CD4             | Helper T cells             | Expressed on helper T cells                                                                             |
+| CD8             | Cytotoxic T cells          | Expressed on cytotoxic T cells                                                                          |
+| CD5             | T cells, subset of B cells | Expressed on most T cells; also expressed on CLL cells                                                     |
+| CD7  | T cells   |   |    |
+| **Other Markers**       |                            |                                                                                                           |
+| HLA-DR          | Antigen-presenting cells    | Expressed on B cells, monocytes, and dendritic cells                                                      |
+| CD38            | Activated lymphocytes       | Increased expression on activated cells and in some leukemias                                               |
+| CD15 | Reed-Sternberg cells       | Also can be found in some AML. |
+| CD30            | Hodgkin and some T-cell Lymphoma cells      |   |
+
+
+##  **Key Leukemia Subtypes and Immunophenotypic Features** {-}
+
+*   **Acute Myeloid Leukemia (AML)**
+    *   **Key Immunophenotypic Features:**
+        *   Myeloid Blast Population: Cells are positive for one or more myeloid markers (CD13, CD33, CD117, MPO)
+        *   Absence of Lymphoid Markers: Blasts are typically negative for T-cell markers (CD3, CD5, CD7) and B-cell markers (CD19, CD20)
+        *   Variable Expression of CD34 and HLA-DR: May be positive or negative, depending on the AML subtype
+    *   **Lineage Assignment:** MPO is the best and most reliable marker to separate out ALL (Acute Lymphoblastic Leukemia) from AML. CD34 can be used to measure the cell population if MPO is not present.
+    *   **Specific AML Subtypes:**
+        *   AML with t(8;21)(q22;q22); RUNX1-RUNX1T1:
+            *   Often expresses CD34, CD117, CD13, and MPO
+            *   May also express CD19
+        *   AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11:
+            *   Often expresses CD117, CD13, CD33, MPO, and CD11b
+            *   May also express CD2
+        *   Acute Promyelocytic Leukemia (APL) with t(15;17)(q24.1;q21.1); PML-RARA:
+            *   Typically expresses CD33 and MPO
+            *   Lacks HLA-DR and CD34 expression
+        *   AML with mutated NPM1:
+            *   Usually expresses CD34 and HLA-DR
+            *   Lacks CD14 and CD11b expression
+        *   AML with mutated CEBPA:
+            *   Displays variable and often aberrant marker expression
+
+*   **Acute Lymphoblastic Leukemia/Lymphoma (ALL/LBL)**
+    *   **General Features:**
+        *   Lymphoblasts express markers associated with B- or T-cell lineage, but *not* myeloid markers
+        *   TdT (terminal deoxynucleotidyl transferase): a marker of immature lymphocytes, is *usually* positive
+    *   **B-Lymphoblastic Leukemia/Lymphoma (B-ALL/LBL):**
+            *   Common Markers: CD19+, CD10+, CD34+, TdT+, HLA-DR+
+            *   Cytoplasmic CD79a and/or CD22
+            *   Surface Ig is usually negative (except for pre-B ALL)
+            *   WHO Classification Further Divides B-ALL based on Genetics
+            *   Common Genetic Abnormalities Include: t(9;22), t(12;21), t(4;11)
+    *   **T-Lymphoblastic Leukemia/Lymphoma (T-ALL/LBL):**
+            *   Common Markers: CD3+, CD7+, TdT+, CD1a+ (often), CD34+
+            *   May Express CD4, CD8, or both
+            *   Often involves the thymus
+            *   WHO Classification divides further based on genetics, with NOTCH1 mutations being the most common
+
+## **Important Considerations** {-}
+
+*   **Aberrant Antigen Expression:** Leukemic cells may express antigens that are not normally found on cells of that lineage. This is very helpful in diagnosis.
+    *   Example: Myeloid markers (e.g., CD13, CD33) on lymphoblasts in B-ALL
+*   **Antigen Co-expression:** Cells can express antigens from multiple lineages, particularly in acute leukemias.
+*   **Antigenic Modulation:** Expression of certain antigens can be altered by treatment, so assessing pre-treatment samples is ideal
+*   **Isotype Controls:** These are used to differentiate specific from non-specific antibody staining. This is especially useful for confirming the presence of low-level antigen expression
+*   **"Antigenic Fidelity":** Term used to describe the correlation of expected staining and protein production by a specific cell.
+
+## **Key Terms** {-}
+
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers
+*   **Immunophenotyping:** Using flow cytometry to identify cell surface markers
+*   **Gating:** Selecting a population of cells for analysis based on their light scatter properties and/or expression of specific markers
+*   **Fluorochrome:** A fluorescent dye used to label antibodies or other molecules
+*   **Antibody:** A protein that binds to a specific antigen
+*   **Antigen:** A molecule that is recognized by an antibody
+*   **Leukemia:** A malignant disorder of blood-forming cells in the bone marrow
+*   **Lymphoma:** A malignant disorder of lymphocytes that typically arises in lymph nodes
+*   **Blast Cells:** Immature, abnormal cells seen in acute leukemia
+*   **Lineage Assignment:** Determining the cell type that a leukemia or lymphoma is derived from (e.g., myeloid, B-lymphoid, T-lymphoid)
+*   **Aberrant Antigen Expression:** Expression of antigens that are not normally found on cells of that lineage

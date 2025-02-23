@@ -1,0 +1,136 @@
+# Platelet Function {-}
+
+## **Overview of Platelet Function Testing** {-}
+
+*   **Definition:** Platelet function tests are a group of laboratory assays used to evaluate the ability of platelets to perform their role in primary hemostasis (forming the initial platelet plug)
+*   **Purpose:**
+    *   Diagnosis of Platelet Disorders: Helps identify inherited or acquired disorders of platelet function
+    *   Evaluation of Unexplained Bleeding: Used to investigate patients with a personal or family history of mucocutaneous bleeding (e.g., nosebleeds, easy bruising, prolonged bleeding after minor cuts)
+    *   Assessment of Antiplatelet Therapy: Used to monitor the effects of antiplatelet medications (e.g., aspirin, clopidogrel)
+    *   Preoperative Assessment: Helps assess the risk of bleeding before surgery
+*   **Types of Platelet Function Tests:**
+    *   Screening Tests:
+        *   Platelet Function Analyzer (PFA)
+    *   Confirmatory Tests:
+        *   Platelet Aggregation Studies
+        *   Flow Cytometry Assays
+        *   Platelet Secretion Assays
+        *   Genetic Testing
+
+## **Platelet Function Analyzer (PFA)** {-}
+
+*   **Principle:**
+    *   The PFA-100 or PFA-200 systems are *in vitro* assays that simulate high-shear conditions found in small blood vessels
+    *   Whole blood is aspirated through a small aperture (hole) in a cartridge coated with a platelet agonist (collagen/epinephrine or collagen/ADP)
+    *   As the blood passes through the aperture, platelets adhere to the collagen and are activated by the agonist
+    *   The platelets aggregate and eventually occlude the aperture, stopping the flow of blood
+    *   The time it takes for the aperture to become occluded is measured and reported as the Closure Time (CT)
+
+*   **Key Components of the PFA System:**
+
+    *   Instrumentation:
+        *   PFA-100 or PFA-200 analyzer
+    *   Cartridges:
+        *   Collagen/Epinephrine (CEPI) Cartridge: Coated with collagen and epinephrine; primarily detects aspirin-related platelet dysfunction
+        *   Collagen/ADP (CADP) Cartridge: Coated with collagen and ADP; detects a broader range of platelet function defects
+    *   Quality Control Materials:
+        *   Normal controls to verify instrument performance
+
+*   **Procedure:**
+
+    1.  Sample Collection:
+        *   Collect whole blood in a sodium citrate (light blue top) tube
+        *   Ensure that the tube is filled to the correct volume to maintain the proper blood-to-anticoagulant ratio
+    2.  Sample Preparation:
+        *   Mix the blood sample gently but thoroughly
+        *   Test the sample within the specified timeframe (usually within 2-4 hours of collection)
+        *   Ensure that the hematocrit and platelet count are within the acceptable range for the instrument
+    3.  Cartridge Insertion:
+        *   Insert the appropriate PFA cartridge (CEPI or CADP) into the analyzer
+    4.  Sample Aspiration:
+        *   Aspirate a small amount of the whole blood sample into the analyzer
+    5.  Test Initiation:
+        *   Start the test and allow the instrument to perform the analysis
+        *   The analyzer will measure the time it takes for the aperture to become occluded (Closure Time)
+    6.  Quality Control:
+        *   Run control materials at regular intervals to verify instrument performance
+        *   Document all QC results
+    7.  Results:
+        *   The instrument reports the Closure Time (CT) in seconds for both the CEPI and CADP cartridges
+
+*   **Reporting and Interpretation:**
+
+    *   Closure Time (CT):
+        *   Epinephrine Closure Time (Epi-CT):
+        *   Reference Range: Varies depending on the laboratory and the PFA instrument (e.g., 84-169 seconds)
+        *   Prolonged Epi-CT: Suggests aspirin-related platelet dysfunction or a severe platelet defect
+        *   ADP Closure Time (ADP-CT):
+        *   Reference Range: Varies depending on the laboratory and the PFA instrument (e.g., 71-118 seconds)
+        *   Prolonged ADP-CT: Suggests a platelet function defect not related to aspirin (e.g., P2Y12 inhibitors, von Willebrand disease, Glanzmann thrombasthenia)
+
+## **Interpreting PFA Results:** {-}
+*   What are the normal results?
+    *   For the CEPI test - ~84-169 Seconds
+    *   For the CADP test - ~71-118 Seconds
+        *   **These ranges can vary depending on institution, so please note your institution's specific ranges!**
+*   What if they are higher than the normal range?
+    *   This could indicate that a patient has been taking platelet inhibitors such as asprin
+    *   They could have Von Willebrand Disease
+    *   They may have Glanzmann Thrombasthenia
+
+## **Factors Affecting PFA Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Sample Collection: Traumatic venipuncture or use of a small-gauge needle can activate platelets and affect results
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube can alter the test results
+    *   Delayed Testing: Platelet function can change over time, so the test should be performed within the specified timeframe (usually 2-4 hours of collection)
+    *   Storage Temperature: Improper storage temperatures can affect platelet function
+    
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the PFA instrument
+    *   Reagent Problems: Use fresh, properly stored cartridges
+    *   Hematocrit: Hematocrit values outside the specified range can affect the closure time
+        *   Low Hematocrit: Can prolong the closure time
+        *   High Hematocrit: Can shorten the closure time
+    *   Platelet Count: Platelet counts outside the specified range can affect the closure time
+    
+*   **Patient-Related Variables:**
+
+    *   Medications:
+        *   Aspirin and NSAIDs: Inhibit cyclooxygenase (COX) and impair thromboxane A2 production, leading to prolonged Epi-CT
+        *   P2Y12 Inhibitors: Clopidogrel, prasugrel, and ticagrelor block the ADP receptor on platelets, leading to prolonged ADP-CT and Epi-CT
+    *   Underlying Medical Conditions:
+        *   von Willebrand Disease (vWD): Deficiency or dysfunction of vWF can impair platelet adhesion and prolong closure times
+        *   Thrombocytopenia: Low platelet count can affect closure times
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the PFA results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Verify that the hematocrit and platelet count are within the acceptable range for the instrument
+    *   Repeat the test on a fresh sample
+    *   Review the patient's medication list and medical history
+    *   Consider performing platelet aggregation studies or other specialized tests
+
+## **Reflex Testing** {-}
+
+*   If the PFA results are abnormal, additional testing may be performed to:
+
+    *   Investigate potential underlying causes of platelet dysfunction
+        *   Platelet Aggregation Studies: To assess platelet aggregation in response to various agonists (ADP, collagen, epinephrine, thrombin, arachidonic acid, ristocetin)
+        *   Flow Cytometry: To measure platelet surface markers and assess platelet activation
+        *   Bleeding Time: Seldom performed now a days
+
+## **Key Terms** {-}
+
+*   **Platelet Function Analyzer (PFA):** An in vitro assay that measures platelet function under high shear stress
+*   **Closure Time (CT):** The time it takes for the aperture in the PFA cartridge to become occluded by a platelet plug
+*   **Epinephrine Closure Time (Epi-CT):** Closure time using a cartridge coated with collagen and epinephrine
+*   **ADP Closure Time (ADP-CT):** Closure time using a cartridge coated with collagen and ADP
+*   **Platelet Aggregation:** The clumping together of platelets
+*   **von Willebrand Disease (vWD):** An inherited bleeding disorder caused by a deficiency or dysfunction of von Willebrand factor
+*   **Aspirin:** A medication that inhibits platelet function by inhibiting cyclooxygenase (COX)
+*   **P2Y12 Inhibitors:** Medications that block the ADP receptor on platelets, inhibiting platelet activation and aggregation

@@ -1,0 +1,142 @@
+# Mixing Studies {-}
+
+## **Overview of Mixing Studies** {-}
+
+*   **Definition:** Mixing studies, also known as inhibitor studies or correction studies, are coagulation tests used to distinguish between factor deficiencies and factor inhibitors as the cause of a prolonged Prothrombin Time (PT) or Activated Partial Thromboplastin Time (aPTT)
+*   **Principle:**
+    *   The patient's plasma (which has a prolonged PT or aPTT) is mixed with normal plasma in a 1:1 ratio
+    *   The clotting time of the mixture is measured immediately and after incubation for a specified period of time (typically 1-2 hours at 37°C)
+    *   If the prolonged clotting time corrects to within the normal range upon mixing, it suggests a factor deficiency
+    *   If the prolonged clotting time does not correct or only partially corrects after mixing, it suggests the presence of a factor inhibitor
+*   **Clinical Significance:**
+    *   Differentiation of Coagulation Disorders: Distinguishes between factor deficiencies (which require replacement therapy) and factor inhibitors (which require immunosuppression or bypassing agents)
+    *   Evaluation of Unexplained Bleeding or Thrombosis: Helps identify underlying coagulation abnormalities
+    *   Management of Patients on Anticoagulant Therapy: Can be useful in evaluating unexpected results in patients on warfarin or heparin therapy
+*   **Limitations:**
+    *   Labor-intensive and time-consuming
+    *   The interpretation of results can be subjective, especially in cases with weak inhibitors
+    *   Not all inhibitors are easily detected by mixing studies
+
+## **Components of a Mixing Study** {-}
+
+*   **Specimen Collection:**
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate coagulation testing:
+        *   9:1 ratio of blood to anticoagulant
+    *   Processing:
+        *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+        *   PPP should have a platelet count < 10 x 10^9/L
+*   **Reagents:**
+    *   Normal Pooled Plasma (NPP): Pooled plasma from multiple healthy donors, used as a source of normal coagulation factors
+        *   Should have normal levels of all coagulation factors
+    *   aPTT Reagent: Contains a contact activator (e.g., silica, kaolin) and phospholipid
+    *   PT Reagent: Thromboplastin reagent containing tissue factor and calcium
+    *   Calcium Chloride: Provides calcium ions, which are essential for the activity of coagulation factors
+
+## **Procedure for Performing a Mixing Study** {-}
+
+1.  Prepare Plasma Samples:
+    *   Patient Plasma: The plasma sample from the patient with the prolonged PT or aPTT
+    *   Normal Pooled Plasma (NPP): The pooled plasma from healthy donors
+2.  Mix the Plasma Samples:
+    *   Prepare a 1:1 mixture of patient plasma and normal pooled plasma
+    *   Use accurate pipetting techniques to ensure proper mixing ratios
+3.  Perform Immediate aPTT (or PT) on the Mixture:
+    *   Run the aPTT (or PT) on the patient's plasma, the normal pooled plasma, and the 1:1 mixture immediately after preparing the mixture
+    *   This measures the initial clotting time of the mixture
+4.  Incubate the Mixture:
+    *   Incubate the 1:1 mixture at 37°C for 1-2 hours (the exact incubation time depends on the laboratory's protocol)
+    *   Incubation allows time for any inhibitors to exert their effect
+5.  Perform Delayed aPTT (or PT) on the Mixture:
+    *   After incubation, run the aPTT (or PT) again on the 1:1 mixture
+    *   This measures the clotting time of the mixture after incubation
+6.  Calculate Percentage Correction:
+    *   Compare the clotting time of the mixture to the clotting time of the normal pooled plasma:
+    *   Percentage Correction = [(Mixture Clotting Time - Normal Plasma Clotting Time) / Patient Clotting Time] x 100
+
+## **Interpreting Results** {-}
+
+*   **Correction:**
+    *   The aPTT (or PT) of the mixture corrects to within the normal reference range or to within a defined percentage of the normal plasma control:
+        *   Suggests a factor deficiency
+        *   The addition of normal plasma provides the missing factor, allowing the mixture to clot normally
+*   **No Correction (Inhibition):**
+    *   The aPTT (or PT) of the mixture remains prolonged (does not correct to within the normal range)
+    *   Suggests the presence of an inhibitor that is interfering with the coagulation process
+    *   The inhibitor is not neutralized by the addition of normal plasma
+*   **Time Dependent Inhibition:**
+    *   There is an initial correction, but the values slowly decline over time. This implies that the inhibitor is taking time to inactivate the target, and means further testing must be performed
+
+## **Types of Inhibitors** {-}
+
+*   **Factor-Specific Inhibitors:**
+
+    *   Antibodies that specifically target and neutralize the activity of a particular coagulation factor (e.g., Factor VIII inhibitor)
+    *   May cause severe bleeding
+    *   Typically demonstrate time-dependent inhibition (the clotting time becomes more prolonged with longer incubation times)
+*   **Lupus Anticoagulants (LA):**
+
+    *   Autoantibodies that bind to phospholipids and phospholipid-binding proteins
+    *   Interfere with phospholipid-dependent coagulation reactions in vitro, leading to prolonged clotting times
+    *   Exhibit phospholipid dependence: The prolonged clotting times are more pronounced in assays with lower phospholipid concentrations
+    *   Associated with an increased risk of thrombosis in vivo
+
+## **Pattern of Correction Results** {-}
+
+*   Full Correction: Factor Deficiency
+*   Partial Correction: Weak Inhibitor Present
+*   No Correction: Strong Inhibitor Present
+
+## **Factors Affecting Mixing Study Results** {-}
+
+*   **Pre-Analytical Variables:**
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents, and follow the manufacturer's instructions
+    *   Inadequate Incubation Time: Insufficient incubation time may not allow inhibitors to fully exert their effect
+    *   Temperature Variations: Maintain consistent temperature during incubation
+*   **Patient-Related Variables:**
+    *   Medications: Anticoagulants (e.g., heparin, direct oral anticoagulants)
+    *   Liver Disease: May affect the levels of coagulation factors and inhibitors
+    *   Acute Phase Reactants: Can affect the results
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the mixing study results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Ensure that the incubation time and temperature were correct
+    *   Investigate potential interfering substances or medications
+
+## **Reflex Testing** {-}
+
+*   If the mixing study suggests a factor deficiency:
+
+    *   Perform individual factor assays to identify the specific factor that is deficient
+
+*   If the mixing study suggests the presence of a factor inhibitor:
+
+    *   Perform inhibitor assays to identify and quantify the inhibitor
+        *   Factor VIII Inhibitor Assay (Bethesda Assay or Nijmegen-Bethesda Assay): To detect and quantify Factor VIII inhibitors
+        *   Lupus Anticoagulant Testing:
+            *   Dilute Russell's Viper Venom Time (dRVVT)
+            *   Silica Clotting Time (SCT)
+            *   Hexagonal Phase Phospholipid Neutralization Assay
+    *   Consider additional testing for other factor inhibitors (e.g., Factor V inhibitor) if clinically indicated
+
+## **Key Terms** {-}
+
+*   **Mixing Study:** A coagulation test to differentiate factor deficiencies from factor inhibitors
+*   **Inhibitor:** An antibody that interferes with the function of a coagulation factor
+*   **Correction:** The aPTT or PT of the mixture returns to within the normal range, suggesting a factor deficiency
+*   **No Correction:** The aPTT or PT of the mixture remains prolonged, suggesting the presence of an inhibitor
+*   **Factor Assay:** A laboratory test to measure the activity of a specific coagulation factor
+*   **Lupus Anticoagulant (LA):** An antibody that binds to phospholipids and proteins associated with the cell membrane

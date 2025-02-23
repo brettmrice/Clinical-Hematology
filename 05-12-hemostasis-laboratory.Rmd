@@ -1,0 +1,151 @@
+# Laboratory {-}
+
+## **Overview of the Testing Process** {-}
+
+In clinical laboratories, the testing process is generally divided into three phases:
+
+*   **Pre-Analytical Phase:** Includes all steps that occur *before* the actual testing of the sample. This is where most errors happen, so it is super important to know these steps!
+*   **Analytical Phase:** Includes the actual performance of the tests and quality control procedures
+*   **Post-Analytical Phase:** Includes the steps that occur *after* the tests have been performed, such as result review, interpretation, and reporting
+
+## **Pre-Analytical Phase** {-}
+
+This phase encompasses all the steps that occur before the sample is analyzed, from test ordering to sample collection and transport. Errors in the pre-analytical phase are the most common source of errors in the laboratory and can significantly impact the accuracy and reliability of coagulation results
+
+*   **Test Ordering:**
+    *   Appropriate Test Selection: Ensure that the correct coagulation tests are ordered based on the patient's clinical presentation and the physician's request
+        *   Common Coagulation Tests:
+            *   Prothrombin Time (PT) and International Normalized Ratio (INR)
+            *   Activated Partial Thromboplastin Time (aPTT)
+            *   Fibrinogen Level
+            *   D-dimer
+            *   Mixing Studies
+            *   Factor Assays (e.g., Factor VIII, Factor IX)
+            *   Lupus Anticoagulant Testing
+    *   Review Patient History: Check the patient's medication list (especially anticoagulants) and history of bleeding or thrombotic disorders
+    *   Follow Laboratory Guidelines: Adhere to the laboratory's test ordering policies and procedures
+*   **Patient Preparation:**
+    *   Fasting: Some coagulation tests may require the patient to fast for a certain period of time
+    *   Medications: Certain medications (e.g., warfarin, heparin, direct oral anticoagulants) can affect coagulation test results and should be noted on the test requisition
+    *   Patient Identification: Properly identify the patient using two unique identifiers to prevent errors
+*   **Sample Collection:**
+    *   Collection Tubes:
+        *   Use the correct type of blood collection tube:
+            *   Sodium Citrate (light blue top): The anticoagulant of choice for most coagulation tests
+            *   EDTA (purple top): Not appropriate for coagulation testing
+        *   Check Expiration Date: Ensure that the collection tube is not expired
+    *   Blood-to-Anticoagulant Ratio:
+        *   The correct blood-to-anticoagulant ratio is critical for accurate coagulation testing:
+            *   Typically 9:1 (9 parts blood to 1 part anticoagulant)
+        *   Underfilling the tube can lead to falsely prolonged clotting times due to excess anticoagulant
+        *   Overfilling the tube can lead to falsely shortened clotting times due to insufficient anticoagulant
+        *   Adjust Blood-to-Anticoagulant Ratio in Patients with High Hematocrit: In patients with hematocrits >55%, the amount of anticoagulant should be reduced to maintain the correct ratio
+        *   Use Vacutainer to fill to the line on the collection tube
+    *   Order of Draw:
+        *   Follow the recommended order of draw to prevent contamination of coagulation samples:
+            1.  Blood culture tubes (if applicable)
+            2.  Coagulation tube (light blue top)
+            3.  Serum tubes (red top)
+            4.  Heparin tubes (green top)
+            5.  EDTA tubes (purple top)
+            6.  Fluoride tubes (gray top)
+    *   Venipuncture Technique:
+        *   Perform a clean venipuncture to avoid tissue thromboplastin contamination
+        *   Avoid prolonged tourniquet time, as this can activate coagulation factors
+        *   Use a 21-gauge needle or larger to minimize hemolysis
+    *   Mixing:
+        *   Gently invert the collection tube 5-10 times immediately after collection to mix the blood with the anticoagulant
+        *   Avoid vigorous shaking, as this can cause hemolysis
+    *   Labeling:
+        *   Properly label the collection tube with the patient's name, date and time of collection, and other required information
+        *   Ensure that the information on the tube matches the information on the test requisition
+*   **Sample Transport and Storage:**
+    *   Transport:
+        *   Transport the sample to the laboratory promptly (within 1 hour) to minimize pre-analytical changes
+        *   Transport at room temperature (18-24°C)
+        *   Avoid extreme temperatures (e.g., direct sunlight, freezing)
+    *   Storage:
+        *   If testing cannot be performed immediately, store the sample according to the laboratory's guidelines
+        *   Platelet Poor Plasma (PPP) may need to be prepared and frozen for some assays:
+            *   For most coagulation tests, plasma should be tested within 4 hours of collection or frozen for testing later. Specifics will vary from lab to lab.
+            *   Centrifuge the sample at 1500-2000 g for 15 minutes to obtain platelet-poor plasma (platelet count < 10 x 10^9/L)
+            *   Aliquot the plasma into labeled plastic tubes
+            *   Freeze the plasma at -20°C or -70°C if needed to test at later date
+                *   Thaw samples to room temperature before testing
+
+## **Analytical Phase** {-}
+
+This phase encompasses the actual testing of the sample and quality control procedures
+
+*   **Instrumentation:**
+    *   Use Properly Calibrated Instruments: Ensure that coagulation analyzers are properly calibrated and maintained according to the manufacturer's instructions
+    *   Use Correct Reagents: Verify that the reagents are appropriate for the test being performed and that they are not expired
+*   **Test Performance:**
+    *   Follow Standard Operating Procedures: Adhere to standardized operating procedures (SOPs) for performing coagulation tests
+    *   Use Appropriate Controls: Run control materials at regular intervals (e.g., daily, with each batch of samples) to assess the accuracy and precision of the tests
+    *   Monitor Results: Review control results and evaluate them using statistical methods (e.g., Levey-Jennings charts, Westgard rules)
+    *   Take Corrective Action: If control results are outside the acceptable range, take corrective action before testing patient samples
+*   **Sample Handling:**
+    *   Ensure that samples are properly identified and stored
+    *   Thaw frozen samples completely before testing and mix gently
+    *   Check for hemolysis, lipemia, or other interfering substances
+    *   If necessary, perform corrective actions to minimize interference (e.g., saline replacement for lipemia)
+*   **Common Test Specific Procedures**
+        *   Prothrombin Time (PT):
+            *   Measures the function of the extrinsic and common pathways
+            *   Add thromboplastin reagent to plasma and measure the time to clot formation
+            *   Report results in seconds and as an International Normalized Ratio (INR) to standardize PT results
+            *   INR = (Patient PT / Mean Normal PT)ISI (ISI = International Sensitivity Index)
+            *   INR is used to monitor warfarin therapy
+        *   Activated Partial Thromboplastin Time (aPTT):
+            *   Measures the function of the intrinsic and common pathways
+            *   Add a contact activator (e.g., silica, kaolin), phospholipid, and calcium chloride to plasma and measure the time to clot formation
+            *   Used to monitor heparin therapy
+        *   Fibrinogen Assay:
+            *   Measures the concentration of fibrinogen in the plasma
+            *   Clauss method: A functional assay that measures the rate of clot formation after the addition of thrombin
+        *   D-Dimer Assay:
+            *   Measures the level of D-dimer in the plasma
+            *   Uses latex agglutination or immunoturbidimetric methods
+            *   Elevated in conditions with increased fibrinolysis (e.g., DVT, PE, DIC)
+*   **Monitoring and Troubleshooting:**
+    *   Monitor Instrument Performance: Regularly monitor the instrument's performance to detect any malfunctions or errors
+    *   Troubleshoot Problems: Follow established procedures for troubleshooting instrument errors or unexpected results
+    *   Consult with a Supervisor or Pathologist: Seek guidance from a supervisor or pathologist if the cause of the problem cannot be determined
+
+## **Post-Analytical Phase** {-}
+
+This phase encompasses the steps that occur after the tests have been performed, including result review, interpretation, and reporting
+
+*   **Result Review:**
+    *   Review all test results and quality control data
+    *   Check for any flags, alarms, or abnormal results
+    *   Verify that the results are consistent with the patient's clinical information and previous laboratory results
+*   **Result Interpretation:**
+    *   Interpret the results in the context of the patient's clinical history, medication list, and other laboratory findings
+    *   Consider potential causes for any abnormal results
+    *   Recognize patterns of results that are suggestive of specific coagulation disorders
+*   **Critical Value Notification:**
+    *   Immediately notify the physician or other authorized personnel of any critical values (e.g., markedly prolonged PT or aPTT, very low fibrinogen level)
+    *   Follow the laboratory's policy for critical value reporting
+*   **Reporting:**
+    *   Report the test results in a clear, concise, and accurate manner
+    *   Include the reference range for each parameter
+    *   Note any interfering substances or corrective actions taken
+    *   Add interpretive comments to the report to guide the clinician's interpretation of the results
+*   **Documentation:**
+    *   Maintain accurate and complete records of all test results, quality control data, and corrective actions taken
+    *   Follow all regulatory and accreditation requirements for documentation
+
+## **Key Terms** {-}
+
+*   **PT (Prothrombin Time):** Test of the extrinsic and common pathways
+*   **aPTT (Activated Partial Thromboplastin Time):** Test of the intrinsic and common pathways
+*   **INR (International Normalized Ratio):** A standardized ratio of the PT used to monitor warfarin therapy
+*   **Fibrinogen:** A protein that is converted to fibrin, the main component of a blood clot
+*   **D-dimer:** A fibrin degradation product that is elevated in thrombotic conditions
+*   **Pre-Analytical Phase:** The steps that occur before the sample is analyzed
+*   **Analytical Phase:** The actual performance of the tests
+*   **Post-Analytical Phase:** The steps that occur after the tests have been performed
+*   **Quality Control:** Procedures used to monitor the accuracy and precision of laboratory testing
+*   **Critical Value:** A test result that represents a life-threatening condition and requires immediate notification

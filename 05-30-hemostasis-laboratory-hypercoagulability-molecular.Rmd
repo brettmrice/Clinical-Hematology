@@ -1,0 +1,47 @@
+# Molecular {-}
+
+## **Overview of Molecular Testing in Hypercoagulability Assessment** {-}
+
+*   **Purpose:** Molecular testing is performed to identify genetic mutations that are associated with an increased risk of thrombosis (hypercoagulable state)
+*   **When to Consider Molecular Testing:**
+    *   Unexplained or recurrent venous thromboembolism (VTE)
+    *   VTE at a young age (<50 years)
+    *   Family history of thrombophilia
+    *   Thrombosis in unusual sites (e.g., mesenteric, cerebral)
+    *   Recurrent pregnancy loss
+*   **Important Considerations:**
+    *   Molecular testing is generally performed *after* an acute thrombotic event has resolved and the patient is *not* on anticoagulant therapy
+    *   The decision to perform molecular testing should be based on clinical judgment and consideration of the patient's risk factors and the likelihood of finding a clinically significant mutation
+    *   A positive result on molecular testing does not guarantee that the patient will develop thrombosis, but it can provide useful information for risk stratification and management decisions
+
+## **Key Molecular Tests** {-}
+
+Here's a detailed breakdown of the common molecular tests used to assess inherited thrombophilias:
+
+*   **Factor V Leiden Mutation Analysis (F5 Gene):**
+
+    *   *Background:* Factor V Leiden is the most common inherited thrombophilia
+
+*   **Prothrombin G20210A Mutation Analysis (F2 Gene):**
+
+    *   *Background:* The second most common inherited thrombophilia
+
+## **General Molecular Testing Procedures** {-}
+
+Regardless of the specific mutation being tested, the general procedure for molecular testing involves:
+
+1.  DNA Extraction: Extract DNA from a blood sample
+2.  PCR Amplification: Use PCR to amplify the region of the gene that contains the mutation
+3.  Mutation Detection: Use various techniques to detect the presence of the mutation:
+
+*   Allele-Specific PCR (AS-PCR): Uses primers that are specific for the mutated sequence
+*   Restriction Fragment Length Polymorphism (RFLP) Analysis: Uses restriction enzymes to cut the DNA at specific sites, creating fragments of different lengths depending on the presence or absence of the mutation
+*   Real-Time PCR: Uses fluorescent probes to detect the amplified DNA product and quantify the amount of the mutated sequence
+*   Next Generation Sequencing: If negative for Factor V Leiden and Prothrombin, then this is a good option. This can test many other mutations associated with thrombophilia
+
+## **Key Terms** {-}
+
+*   **Thrombophilia (Hypercoagulable State):** A condition with an increased risk of thrombosis
+*   **Factor V Leiden:** A common genetic mutation that causes resistance to activated protein C
+*   **Prothrombin G20210A Mutation:** A genetic mutation that leads to increased prothrombin levels
+*   **Mutation:** A change in the DNA sequence of a gene

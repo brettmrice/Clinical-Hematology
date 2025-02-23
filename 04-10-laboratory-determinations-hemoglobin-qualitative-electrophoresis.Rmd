@@ -1,0 +1,168 @@
+# Electrophoresis {-}
+
+## **Overview of Hemoglobin Electrophoresis** {-}
+
+*   **Definition:** Hemoglobin electrophoresis is an analytical technique used to separate and identify different types of hemoglobin (Hb) based on their electrical charge and migration patterns in a supporting medium when subjected to an electric field
+*   **Clinical Significance:**
+    *   Detection and Identification of Hemoglobin Variants: Helps identify normal (HbA, HbA2, HbF) and abnormal (HbS, HbC, HbD, HbE) hemoglobins
+    *   Diagnosis of Hemoglobinopathies: Essential for diagnosing sickle cell anemia, thalassemias, and other inherited hemoglobin disorders
+    *   Prenatal Screening: Can be used to screen for hemoglobinopathies in pregnant women or to diagnose affected fetuses
+    *   Monitoring Transfusion Therapy: Useful for tracking changes in hemoglobin composition after blood transfusions
+*   **Key Principle:** Exploits the differences in electrical charge among hemoglobin variants to separate them into distinct bands on a supporting medium
+
+## **Components of a Hemoglobin Electrophoresis System** {-}
+
+*   **Sample:** A hemolysate (lysed red blood cells) containing hemoglobin
+*   **Supporting Medium:** A solid or semi-solid matrix that provides a surface for hemoglobin migration
+    *   Common media: Cellulose acetate, agarose gel, capillary
+*   **Buffer:** An electrolyte solution that provides a constant pH and ionic strength, influencing the charge and migration of hemoglobin
+*   **Electrophoresis Chamber:** A device that holds the supporting medium and provides electrodes for applying the electric field
+*   **Power Supply:** A device that generates and controls the electric current
+*   **Stain:** A dye that binds to hemoglobin and makes the separated bands visible
+*   **Densitometer:** A device that measures the optical density of the stained bands, allowing for quantification of each hemoglobin type
+
+## **Methodologies for Hemoglobin Electrophoresis** {-}
+
+1.  **Cellulose Acetate Electrophoresis**
+    *   *Principle:* Separates hemoglobin variants on a cellulose acetate membrane at alkaline pH
+    *   *Supporting Medium:* A thin, flexible cellulose acetate membrane
+    *   *Buffer:* Tris-EDTA-borate (TEB) buffer (pH 8.4 - 8.6)
+    *   *Procedure:*
+        1.  Prepare Hemolysate: Lyse red blood cells to release hemoglobin
+        2.  Saturate Membrane: Soak the cellulose acetate membrane in the buffer
+        3.  Apply Sample: Apply a small amount of the hemolysate to the membrane
+        4.  Electrophoresis: Place the membrane in the electrophoresis chamber, apply the electric current, and allow the hemoglobin to migrate for a specific time (typically 20-30 minutes)
+        5.  Staining: Remove the membrane and stain it with Ponceau S or other suitable stain to visualize the hemoglobin bands
+        6.  Destaining: Remove excess stain with a destaining solution
+        7.  Interpretation: Examine the membrane visually or using densitometry to identify and quantify the hemoglobin bands
+    *   *Migration Pattern (from fastest to slowest migration):*
+        1.  HbA1
+        2.  HbF
+        3.  HbS
+        4.  HbC
+        5.  HbA2
+    *   *Advantages:*
+        *   Simple and relatively inexpensive
+        *   Good resolution for common hemoglobin variants (HbA, HbS, HbC, HbF)
+    *   *Limitations:*
+        *   Some hemoglobins comigrate (e.g., HbS and HbD, HbC and HbE) at alkaline pH
+        *   Cannot be used to detect unstable hemoglobins
+        *   Lower sensitivity compared to other methods
+
+2.  **Agarose Gel Electrophoresis**
+    *   *Principle:* Separates hemoglobin variants on an agarose gel at acidic pH
+    *   *Supporting Medium:* Agarose gel
+    *   *Buffer:* Citrate buffer (pH 6.0 - 6.2)
+    *   *Procedure:* Similar to cellulose acetate electrophoresis, but using an agarose gel as the supporting medium and an acidic buffer
+    *   *Migration Pattern (from fastest to slowest migration):*
+        1.  HbF
+        2.  HbA
+        3.  HbS
+        4.  HbC
+    *   *Advantages:*
+        *   Can be used to confirm the identity of certain hemoglobin variants that comigrate on cellulose acetate (e.g., HbS and HbD)
+    *   *Limitations:*
+        *   Not as commonly used as cellulose acetate electrophoresis for routine screening
+        *   Lower resolution for some hemoglobin variants
+
+3.  **Capillary Electrophoresis (CE)**
+    *   *Principle:* Separates hemoglobin variants based on their charge-to-size ratio as they migrate through a capillary tube filled with an electrolyte solution under the influence of an electric field
+    *   *Procedure:*
+        1.  Capillary Filling: The capillary tube is filled with an appropriate electrolyte solution
+        2.  Sample Injection: A small amount of the hemolysate is injected into the capillary
+        3.  Electrophoresis: An electric field is applied, causing the hemoglobin variants to migrate through the capillary
+        4.  Detection: A detector at the end of the capillary measures the absorbance or fluorescence of the separated hemoglobin variants
+        5.  Data Analysis: The data are analyzed by specialized software to identify and quantify the hemoglobin types
+    *   *Advantages:*
+        *   High resolution and sensitivity
+        *   Automated and rapid
+        *   Can quantify small amounts of abnormal hemoglobins
+        *   Reduced manual handling
+    *   *Limitations:*
+        *   More expensive than cellulose acetate electrophoresis
+        *   Requires specialized equipment and training
+
+## **Common Hemoglobin Variants and their Electrophoretic Patterns** {-}
+
+Here's a table summarizing the electrophoretic mobility of common hemoglobin variants at alkaline pH (cellulose acetate electrophoresis):
+
+| Hemoglobin Variant | Mobility at Alkaline pH |
+| ------------------- | ----------------------- |
+| HbA                | Most common, migrates normally         |
+| HbF                | Migrates near HbA                       |
+| HbS                | Slower than HbA but faster than HbC     |
+| HbC                | Slowest migration                       |
+| HbA2               | Slowest migration (same as HbC)         |
+| HbD                | Migrates with HbS                       |
+| HbE                | Migrates with HbC                       |
+
+*   **Important Note:** Remember that these migration patterns are at *alkaline pH*. The order may differ at acidic pH (agarose gel electrophoresis).
+
+## **Quality Control (QC) Procedures** {-}
+
+*   **Run Controls with Known Hemoglobin Patterns:**
+
+    *   Include normal and abnormal controls with each electrophoresis run
+    *   The control results should fall within established reference ranges
+*   **Check Reagents and Buffers:**
+
+    *   Use high-quality reagents and buffers
+    *   Prepare reagents according to the manufacturer's instructions
+    *   Monitor the pH and expiration dates of buffers
+*   **Monitor Temperature and Humidity:**
+
+    *   Maintain the recommended temperature and humidity in the electrophoresis laboratory
+
+*   **Inspect the Electrophoresis Equipment:**
+
+    *   Regularly inspect the electrophoresis chamber, power supply, and other equipment for damage or malfunction
+
+*   **Document All Quality Control Procedures:**
+
+    *   Record the dates, lot numbers, and results of all quality control procedures
+
+## **Troubleshooting** {-}
+
+*   Poor Band Resolution:
+
+    *   Check the buffer pH and ionic strength
+    *   Ensure proper staining and destaining techniques
+    *   Check for contamination of the sample or reagents
+*   Distorted or Uneven Bands:
+
+    *   Ensure that the supporting medium is properly hydrated and free of defects
+    *   Check the electrode polarity
+    *   Check for proper sample application
+*   Weak or Faint Bands:
+
+    *   Ensure that the sample concentration is adequate
+    *   Check the staining procedure
+*   Unexpected or Unidentified Bands:
+
+    *   Consider the possibility of rare hemoglobin variants or hemoglobin derivatives
+    *   Perform additional testing (e.g., HPLC, globin chain analysis) to confirm the identity of the unknown band
+*   Instrument Errors:
+
+    *   Consult the instrument's troubleshooting guide or contact the manufacturer for assistance
+
+## **Reporting Results** {-}
+
+*   Report the percentage of each hemoglobin type (e.g., HbA, HbA2, HbF, HbS, HbC)
+*   Include a visual representation of the electrophoresis pattern (if possible)
+*   Provide an interpretation of the results, noting any abnormal findings
+*   Correlate the laboratory findings with the patient's clinical information
+
+## **Key Terms** {-}
+
+*   **Hemoglobin Electrophoresis:** Technique to separate and identify hemoglobin types
+*   **Hemoglobinopathy:** A genetic disorder affecting the structure or synthesis of hemoglobin
+*   **Hemoglobin Variant:** An abnormal hemoglobin molecule
+*   **Cellulose Acetate Electrophoresis:** A common method for hemoglobin electrophoresis
+*   **Agarose Gel Electrophoresis:** Another method for hemoglobin electrophoresis
+*   **Capillary Electrophoresis (CE):** An automated method for hemoglobin separation
+*   **HPLC:** High Performance Liquid Chromatography
+*   **Isoelectric Focusing (IEF):** A high-resolution electrophoretic technique
+*   **HbA, HbA2, HbF, HbS, HbC:** Common hemoglobin types
+*   **Sickle Cell Trait (HbAS):** Heterozygous carrier of HbS
+*   **Sickle Cell Anemia (HbSS):** Homozygous for HbS
+*   **Migration Pattern:** The order in which different hemoglobin types move across the electrophoresis medium

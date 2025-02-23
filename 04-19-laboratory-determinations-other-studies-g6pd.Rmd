@@ -1,0 +1,130 @@
+# G6PD {-}
+
+## **Overview of G6PD Assay** {-}
+
+*   **Definition:** A laboratory test used to measure the activity of the enzyme glucose-6-phosphate dehydrogenase (G6PD) in red blood cells (RBCs)
+*   **Clinical Significance:**
+    *   Diagnosis of G6PD Deficiency: G6PD deficiency is a common inherited enzyme deficiency that can cause hemolytic anemia
+    *   Identifying at-Risk Individuals: Helps identify individuals who are at risk of developing hemolytic anemia after exposure to certain triggers (e.g., drugs, infections, foods)
+    *   Genetic Counseling: Provides information for genetic counseling and family planning
+*   **Background:**
+    *   G6PD is an enzyme in the pentose phosphate pathway (also known as the hexose monophosphate shunt)
+    *   G6PD catalyzes the first step in the pathway, which produces NADPH
+    *   NADPH is essential for reducing glutathione, which in turn protects RBCs from oxidative damage
+    *   G6PD deficiency impairs NADPH production, making RBCs vulnerable to oxidative stress, which leads to hemoglobin denaturation and hemolysis
+
+## **Principle of G6PD Assay** {-}
+
+G6PD assays are based on measuring the rate of NADPH production. The general principle is:
+
+1.  G6PD catalyzes the reaction of glucose-6-phosphate (G6P) to 6-phosphogluconate, producing NADPH
+2.  The rate of NADPH production is measured spectrophotometrically by monitoring the increase in absorbance at 340 nm (NADPH absorbs light at this wavelength)
+3.  The rate of NADPH production is directly proportional to the G6PD activity
+
+## **Methods for Measuring G6PD Activity** {-}
+
+*   **Quantitative Spectrophotometric Assay (Gold Standard):**
+
+    *   **Principle:** Measures the rate of NADPH production by monitoring the change in absorbance at 340 nm over time
+    *   **Procedure:**
+        1.  Prepare a Hemolysate: Lyse red blood cells to release G6PD
+        2.  Add Substrate and Coenzyme: Mix the hemolysate with a buffer containing glucose-6-phosphate (G6P) and nicotinamide adenine dinucleotide phosphate (NADP)
+        3.  Measure Absorbance: Monitor the absorbance at 340 nm over a fixed period (e.g., 5 minutes)
+        4.  Calculate G6PD Activity: Calculate the change in absorbance per minute (ΔA/min), which is proportional to the G6PD activity
+        5.  Normalize to Hemoglobin: Normalize the G6PD activity to the hemoglobin concentration in the sample to correct for variations in RBC number
+            *   G6PD Activity = (ΔA/min / Hemoglobin Concentration)
+    *   **Units:**
+        *   Units per gram of hemoglobin (U/g Hb)
+        *   International units (IU) per liter
+    *   **Advantages:**
+        *   Quantitative: Provides a precise measurement of G6PD activity
+        *   Most accurate method for diagnosing G6PD deficiency
+    *   **Limitations:**
+        *   More complex and time-consuming than screening tests
+        *   Requires a spectrophotometer and trained personnel
+
+*   **Qualitative Fluorescent Spot Test (Screening Test):**
+
+    *   **Principle:** Detects NADPH production by observing the fluorescence of NADPH under UV light
+    *   **Procedure:**
+        1.  Prepare a Blood Sample: Collect blood in an anticoagulant (e.g., EDTA or heparin)
+        2.  Incubate: Incubate a drop of blood on filter paper with G6PD substrate (glucose-6-phosphate) and NADP
+        3.  Observe Fluorescence: Examine the filter paper under UV light after a specific incubation period
+    *   **Interpretation:**
+        *   Positive (Normal): The spot fluoresces brightly under UV light, indicating sufficient NADPH production and normal G6PD activity
+        *   Negative (Deficient): The spot does not fluoresce or fluoresces weakly, indicating impaired NADPH production and G6PD deficiency
+    *   **Advantages:**
+        *   Simple and rapid
+        *   Inexpensive
+        *   Requires minimal equipment
+    *   **Limitations:**
+        *   Qualitative: Only provides a yes/no result, does not quantify G6PD activity
+        *   Less sensitive than quantitative assays
+        *   False-negative results can occur in:
+            *   Females with G6PD deficiency due to X-chromosome inactivation (mosaicism)
+            *   Patients with recent hemolytic episodes (young red cells have higher G6PD activity)
+        *   False-positive results can occur due to:
+            *   Blood Transfusions: recent transfusion will skew the value
+            *   High Blood Sugar: hyperglycemia
+
+*   **Flow Cytometry:**
+
+    *   **Principle:** Uses fluorescent dyes to measure G6PD activity in individual RBCs
+    *   **Procedure:**
+        1.  Label Blood Cells: Red blood cells are labeled with a fluorescent substrate that is converted to a fluorescent product by G6PD
+        2.  Flow Cytometry Analysis: The cells are analyzed by flow cytometry, and the fluorescence intensity of each cell is measured
+        3.  Quantification: G6PD activity is determined based on the fluorescence intensity
+    *   **Advantages:**
+        *   More sensitive and quantitative than the fluorescent spot test
+        *   Can detect G6PD deficiency in heterozygous females due to its ability to measure G6PD activity in individual cells
+    *   **Limitations:**
+        *   Requires a flow cytometer and trained personnel
+
+## **Interpretation of Results** {-}
+
+*   **Normal G6PD Activity:** Indicates that the individual has sufficient G6PD enzyme activity and is not at risk for hemolytic anemia
+*   **Decreased G6PD Activity:** Indicates G6PD deficiency
+*   **Important Considerations:**
+    *   Testing Should Be Performed Remotely From Hemolytic Episode: G6PD activity may be falsely normal during or shortly after a hemolytic episode due to increased numbers of reticulocytes (young RBCs have higher G6PD activity)
+    *   Repeat Testing: It is often recommended to repeat the G6PD assay several weeks or months after the hemolytic episode has resolved to obtain a more accurate result
+    *   Clinical Correlation: G6PD activity should always be interpreted in conjunction with the patient's clinical history, ethnicity, and family history
+
+## **Factors Affecting Accuracy** {-}
+
+*   **Sample Storage:** G6PD activity decreases over time, so testing should be performed as soon as possible after sample collection
+*   **Transfusions:** Recent blood transfusions can affect the results, as the transfused RBCs may have normal G6PD activity
+*   **Hemolysis:** Hemolyzed samples should not be used, as they can interfere with the assay
+*   **Medications:** Certain medications can interfere with the G6PD assay
+*   **Reticulocytosis:** During hemolytic episodes, the increased reticulocyte count can falsely elevate the G6PD activity
+*   **Assay Validation:** Ensure that the G6PD assay has been properly validated for the patient population being tested
+
+## **Quality Control** {-}
+
+*   **Run Controls with Known G6PD Activity Levels:**
+    *   Include normal and deficient controls with each assay run
+    *   The control results should fall within established reference ranges
+*   **Check Reagents and Buffers:**
+    *   Use high-quality reagents and buffers
+    *   Prepare reagents according to the manufacturer's instructions
+    *   Monitor the expiration dates of reagents
+*   **Follow Standardized Procedures:**
+    *   Adhere to standardized operating procedures for performing and interpreting the G6PD assay
+*   **Participate in Proficiency Testing Programs:**
+    *   To assess the accuracy and reliability of the laboratory's G6PD testing
+
+## **Reporting Results** {-}
+
+*   Report the G6PD activity level in the appropriate units (e.g., U/g Hb)
+*   Include the reference range for the assay
+*   Note the method used (e.g., quantitative spectrophotometric assay, fluorescent spot test)
+*   Provide an interpretation of the results, noting any abnormal findings
+*   Include any comments or qualifications, such as "G6PD activity may be falsely normal during or shortly after a hemolytic episode; repeat testing is recommended"
+
+## **Key Terms** {-}
+
+*   **Glucose-6-Phosphate Dehydrogenase (G6PD):** An enzyme that protects red blood cells from oxidative damage
+*   **NADPH:** A reducing agent that is essential for protecting cells from oxidative stress
+*   **Hemolytic Anemia:** Anemia caused by increased destruction of red blood cells
+*   **Fluorescent Spot Test:** A qualitative screening test for G6PD deficiency
+*   **Spectrophotometric Assay:** A quantitative method for measuring G6PD activity
+*   **Heinz Bodies:** Inclusions composed of denatured hemoglobin

@@ -1,0 +1,56 @@
+# Hemoglobin {-}
+
+## **Overview of Hemoglobin (Hb) Analysis** {-}
+
+*   **Definition:** Hemoglobin analysis involves a range of laboratory tests used to measure and characterize hemoglobin, the oxygen-carrying protein found in red blood cells (RBCs)
+*   **Clinical Significance:** Used to:
+    *   Diagnose anemias
+    *   Detect hemoglobinopathies (inherited disorders of hemoglobin structure or synthesis)
+    *   Monitor treatment of hemoglobin disorders
+*   **Types of Hemoglobin Analysis:**
+    *   Quantitative: Measures the total amount of hemoglobin in the blood
+    *   Qualitative: Identifies and characterizes different types of hemoglobin
+*   **Methods:**
+    *   Quantitative: Automated hematology analyzers
+    *   Qualitative: Hemoglobin electrophoresis, high-performance liquid chromatography (HPLC), and specialized tests (e.g., sickle solubility test)
+
+## **Quantitative Hemoglobin Measurement** {-}
+
+*   **Principle:**
+    *   Automated hematology analyzers measure hemoglobin concentration using spectrophotometry
+    *   RBCs are lysed (broken open) to release hemoglobin
+    *   Hemoglobin is converted to a stable colored compound (e.g., cyanmethemoglobin)
+    *   The analyzer measures the absorbance (optical density) of the solution at a specific wavelength
+    *   The absorbance is directly proportional to the hemoglobin concentration (Beer-Lambert Law)
+
+## **Qualitative Hemoglobin Analysis** {-}
+
+Qualitative methods are used to identify and characterize different types of hemoglobin
+
+*   **Hemoglobin Electrophoresis:**
+    *   *Principle:* Separates hemoglobin variants based on their electrical charge and migration patterns in an electric field
+        
+*   **High-Performance Liquid Chromatography (HPLC):**
+    *   *Principle:* Separates hemoglobin variants based on their interaction with a stationary phase in a column, followed by detection using spectrophotometry
+        
+*   **Sickle Solubility Test:**
+    *   *Principle:* Hemoglobin S (HbS) is insoluble in a concentrated phosphate buffer when deoxygenated, causing the solution to become turbid.
+
+## **Interpreting Results and Correlating with Clinical Findings** {-}
+
+*   **Consider the Patient's Age, Ethnicity, and Clinical History:** These factors can provide valuable clues for interpreting hemoglobin analysis results
+*   **Correlate with RBC Indices and Peripheral Blood Smear Findings:** RBC indices (MCV, MCH, MCHC) and peripheral blood smear morphology can help narrow down the differential diagnosis
+*   **Consider all Test Results:** Look at all test results together to determine the potential cause of the disease
+
+## **Key Terms** {-}
+
+*   **Hemoglobin (Hb):** The oxygen-carrying protein in red blood cells
+*   **Hemoglobinopathy:** A genetic disorder affecting the structure or synthesis of hemoglobin
+*   **Hemoglobin Variant:** An abnormal hemoglobin molecule
+*   **Hemoglobin Electrophoresis:** A technique to separate and identify hemoglobin types
+*   **High Performance Liquid Chromatography (HPLC):** A chromatographic method for hemoglobin separation
+*   **Sickle Solubility Test:** A screening test for sickle cell disease
+*   **Hemolysate:** Lysed red blood cells used for hemoglobin analysis
+*   **Densitometry:** A technique for quantifying the amount of each hemoglobin type on an electrophoretic gel
+*   **Point Mutation:** Change that occurs during replication where a single base is either inserted, deleted, or replaced
+*   **Turbidity:** Cloudiness or haziness of a solution

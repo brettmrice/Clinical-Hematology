@@ -2,14 +2,12 @@
 
 ## **Overview of Hemostasis Disease States** {-}
 
-## **General Principles** {-}
-
 *   **Hemostasis:** The process of stopping bleeding, involving a balance between procoagulant and anticoagulant forces
 *   **Disruption of Balance:** Disease states arise when this balance is disrupted, leading to either:
     *   **Bleeding Disorders:** Impaired clot formation or excessive clot breakdown
     *   **Thrombotic Disorders (Hypercoagulable States):** Excessive clot formation or impaired clot breakdown
 
-## **Key Components and Processes**
+## **Key Components and Processes** {-}
 
 *   **Vascular System:** Endothelial cells regulate blood flow, platelet activation, and coagulation
 *   **Platelets:** Form a primary plug at the site of injury (primary hemostasis)

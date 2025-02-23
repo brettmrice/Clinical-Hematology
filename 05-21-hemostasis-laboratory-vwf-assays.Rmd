@@ -1,0 +1,189 @@
+# von Willebrand Assays {-}
+
+## **Overview of von Willebrand Assays** {-}
+
+*   **Definition:** A panel of laboratory tests used to assess the quantity and function of von Willebrand factor (vWF), a protein essential for normal blood clotting
+*   **Purpose:**
+    *   Diagnosis of von Willebrand Disease (vWD): Confirms the diagnosis and helps classify the type of vWD
+    *   Differentiation of vWD from other Bleeding Disorders: Helps distinguish vWD from hemophilia and other platelet function disorders
+    *   Evaluation of Unexplained Bleeding: Used to investigate patients with a personal or family history of mucocutaneous bleeding
+    *   Monitoring Treatment: Used to monitor the response to treatment for vWD (e.g., desmopressin, vWF concentrates)
+*   **Key Assays:**
+    *   vWF Antigen (vWF:Ag)
+    *   vWF Activity (vWF:RCo)
+    *   Factor VIII Activity (FVIII:C)
+    *   vWF Multimeric Analysis
+    *   Platelet Function Analyzer (PFA-100) - though not specific to vWF, it can assist in diagnosis
+
+## **Components of von Willebrand Assays** {-}
+
+*   **Specimen Collection:**
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate coagulation testing:
+        *   9:1 ratio of blood to anticoagulant
+    *   Processing:
+        *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+        *   PPP should have a platelet count < 10 x 10^9/L
+        *   Test should be performed within 4 hours of collection or the plasma should be frozen if testing will be performed later. Specifics will vary from lab to lab
+*   **Reagents:**
+    *   vWF:Ag Reagent: Contains antibodies specific for vWF
+    *   vWF:RCo Reagent: Contains ristocetin, a substance that induces vWF-dependent platelet agglutination
+    *   Factor VIII Reagent: Contains purified factor VIII
+
+## **Individual Assays** {-}
+
+*   **von Willebrand Factor Antigen (vWF:Ag):**
+
+    *   *Principle:* Measures the amount of vWF protein in the plasma, regardless of its function
+    *   *Methods:*
+        *   Immunoturbidimetry: Measures the turbidity caused by the formation of antigen-antibody complexes
+        *   Nephelometry: Measures the light scattered by the antigen-antibody complexes
+        *   ELISA (Enzyme-Linked Immunosorbent Assay): Uses enzyme-labeled antibodies to detect vWF
+    *   *Procedure:*
+        1.  Add anti-vWF antibodies
+        2.  Read for what test is used whether it is measuring the antibody or test light to determine the concentration with the reference range
+
+    *   *Reporting:*
+        *   Reported as a percentage of normal or in IU/dL
+        *   Reference Range: Varies depending on the laboratory and the assay used (e.g., 50-200%)
+
+    *   *Interpretation:*
+        *   Decreased vWF:Ag: Suggests a quantitative deficiency of vWF (seen in type 1 and type 3 vWD)
+        *   Normal vWF:Ag: Does not rule out vWD; may be seen in qualitative vWF defects (type 2 vWD)
+
+*   **von Willebrand Factor Activity (vWF:RCo):**
+
+    *   *Principle:* Measures the ability of vWF to bind to platelets in the presence of ristocetin, a cofactor that promotes vWF-dependent platelet agglutination
+    *   *Method:*
+        *   Ristocetin-Induced Platelet Agglutination (RIPA):
+            *   Measures the rate of platelet agglutination after the addition of ristocetin and vWF-containing plasma
+            *   The degree of agglutination is proportional to the vWF activity
+        *   Automated vWF Activity Assays:
+            *   Use modified latex particles coated with GPIbα (the vWF receptor on platelets)
+            *   Measure the binding of vWF to the latex particles in the presence of ristocetin
+            *   Automated latex agglutination test can also be called vWF:Glycoprotein 1b Binding Assay (vWF:GPIbM)
+    *   *Procedure:*
+        1.  Test is ran through an analyzer
+        2.  The agglutination is read
+    *   *Reporting:*
+        *   Reported as a percentage of normal or in IU/dL
+        *   Reference Range: Varies depending on the laboratory and the assay used (e.g., 50-200%)
+    *   *Interpretation:*
+        *   Decreased vWF:RCo: Suggests a functional defect in vWF (seen in most types of vWD)
+        *   Increased vWF:RCo: Seen in type 2B vWD (vWF has increased affinity for platelets)
+
+*   **Factor VIII Activity (FVIII:C):**
+
+    *   *Principle:* Measures the activity of factor VIII, a coagulation protein that is bound to and stabilized by vWF
+    *   *Methods:*
+        *   Chromogenic Assay: Measures the amount of activated Factor X (Factor Xa) produced in the presence of Factor VIII and other coagulation factors
+        *   Clotting Assay: Measures the ability of plasma to correct the aPTT of Factor VIII-deficient plasma
+    *   *Procedure:*
+        *   Follow [Factor Assay][Factor Assays] procedure
+
+    *   *Reporting:*
+        *   Reported as a percentage of normal or in IU/dL
+        *   Reference Range: Varies depending on the laboratory and the assay used (e.g., 50-150%)
+    *   *Interpretation:*
+        *   Decreased FVIII:C: Suggests vWD type 2N (decreased binding of vWF to FVIII) or hemophilia A (Factor VIII deficiency)
+
+*   **vWF Multimeric Analysis:**
+
+    *   *Principle:* Evaluates the distribution of vWF multimers, which are polymers of vWF subunits
+    *   *Method:*
+        *   Gel Electrophoresis: vWF multimers are separated by electrophoresis on an agarose gel
+        *   Immunoblotting: The separated multimers are transferred to a membrane and detected with an antibody specific for vWF
+        *   Visualization: The multimers are visualized using a staining or detection method
+    *   *Interpretation:*
+        *   Normal Multimer Pattern: A full range of vWF multimers is present
+        *   Abnormal Multimer Pattern: Decreased high-molecular-weight multimers (HMW multimers) are seen in type 2A vWD
+    *   *Clinical Significance:* Helps differentiate type 2A vWD from other subtypes of vWD
+
+## **PFA-100 (Platelet Function Analyzer)** {-}
+
+*   **Principle:** Measures platelet function under high shear stress by aspirating blood through a small aperture coated with collagen and epinephrine or collagen and ADP
+*   **Procedure:**
+    *   A citrated whole blood sample is aspirated through a small aperture coated with collagen and either epinephrine or ADP
+    *   The time it takes for the aperture to become occluded by a platelet plug is measured (closure time)
+*   **Results:**
+    *   Closure Time (CT):
+        *   Epinephrine Closure Time (Epi-CT): Measures platelet function in response to collagen and epinephrine
+        *   ADP Closure Time (ADP-CT): Measures platelet function in response to collagen and ADP
+*   **Interpretation:**
+    *   Prolonged Closure Time: Suggests platelet dysfunction
+        *   Prolonged Epi-CT and ADP-CT: May be seen in vWD, aspirin use, or other platelet function disorders
+    *   Normal Closure Time: Does not rule out vWD or other platelet function disorders
+*   **Limitations:**
+    *   Affected by Hematocrit: Must be performed on samples with a hematocrit within the specified range
+    *   Affected by Platelet count: Must be performed on samples with a platelet count within the specified range
+    *   Not Specific for vWD: Prolonged closure time can be seen in other platelet function disorders
+
+## **Interpreting von Willebrand Assay Results** {-}
+
+The following table summarizes the typical patterns of results seen in different types of vWD:
+
+| vWD Type     | vWF:Ag | vWF:RCo | FVIII:C | Multimers | PFA-100 |
+| ------------- | ------ | ------- | ------- | --------- | ------- |
+| Type 1       | Low    | Low     | Low (may be) | Normal   | Prolonged |
+| Type 2A      | Normal or Low    | Low     | Normal   | Decreased HMW multimers | Prolonged |
+| Type 2B      | Normal or Low    | Increased  | Normal   | Normal   | Prolonged |
+| Type 2M      | Normal | Low     | Normal   | Normal   | Prolonged |
+| Type 2N      | Normal | Normal | Low    | Normal   | Normal or Prolonged |
+| Type 3       | Very Low | Very Low | Very Low | Absent   | Prolonged |
+
+## **Factors Affecting von Willebrand Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: vWF and FVIII can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Interfering Substances: Lipemia or icterus can interfere with optical clot detection
+    *   Assay Sensitivity: Different assays have different sensitivities for detecting vWF abnormalities
+*   **Patient-Related Variables:**
+
+    *   Blood Type: vWF levels are typically lower in individuals with blood type O
+    *   Age: vWF levels increase with age
+    *   Pregnancy: vWF levels increase during pregnancy
+    *   Estrogen Therapy: Increases vWF levels
+    *   Acute Phase Reactants: vWF is an acute phase reactant, so levels can increase during inflammation or infection
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the vWF assay results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Consider repeating the vWF assays after a period of stability (to account for normal fluctuations in vWF levels)
+    *   Evaluate for potential interfering substances or medications
+    *   Consult with a pathologist or coagulation expert
+
+## **Reflex Testing** {-}
+
+*   If the initial vWF assays are abnormal, further testing may be performed to:
+
+    *   Characterize the type of vWD (e.g., multimer analysis, FVIII binding assay)
+    *   Rule out other causes of bleeding (e.g., platelet function disorders)
+    *   Perform genetic testing to identify specific vWF gene mutations
+
+## **Key Terms** {-}
+
+*   **von Willebrand Factor (vWF):** A protein that mediates platelet adhesion and carries factor VIII
+*   **vWF Antigen (vWF:Ag):** Measures the amount of vWF protein
+*   **vWF Activity (vWF:RCo):** Measures the ability of vWF to bind to platelets
+*   **Factor VIII (FVIII:C):** A coagulation protein that is carried by vWF
+*   **Ristocetin:** An antibiotic that induces vWF-dependent platelet agglutination
+*   **Multimer Analysis:** Evaluates the distribution of vWF multimers
+*   **Platelet Function Analyzer (PFA):** A test that measures platelet function under high shear stress
+*   **Desmopressin (DDAVP):** A synthetic analog of vasopressin that stimulates the release of vWF and factor VIII
+*   **Type 1 vWD:** Partial quantitative deficiency of vWF
+*   **Type 2 vWD:** Qualitative defects in vWF function
+*   **Type 3 vWD:** Severe quantitative deficiency of vWF

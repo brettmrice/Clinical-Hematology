@@ -1,0 +1,135 @@
+# D-dimer {-}
+
+## **Overview of D-dimer Assays** {-}
+
+*   **Definition:** D-dimer assays are quantitative tests used to measure the level of D-dimer in plasma. D-dimer is a specific fibrin degradation product (FDP) that results from the breakdown of cross-linked fibrin
+*   **Clinical Significance:**
+    *   Exclusion of Venous Thromboembolism (VTE): D-dimer assays are primarily used to rule out venous thromboembolism (deep vein thrombosis [DVT] and pulmonary embolism [PE]) in patients with a low or intermediate pretest probability
+    *   Diagnosis of Disseminated Intravascular Coagulation (DIC): D-dimer is markedly elevated in DIC
+    *   Monitoring Thrombolytic Therapy: Can be used to monitor the effectiveness of thrombolytic therapy
+    *   Assessment of Other Conditions: Elevated D-dimer levels can also be seen in other conditions, including pregnancy, infection, inflammation, malignancy, and recent surgery
+*   **Limitations:**
+    *   Poor Specificity: Elevated D-dimer levels are not specific to VTE and can be seen in a variety of other conditions
+    *   Age-Related Increase: D-dimer levels tend to increase with age
+    *   Not Useful for Monitoring Anticoagulation: D-dimer is not used to monitor anticoagulant therapy
+
+## **Principle of D-dimer Assays** {-}
+
+D-dimer assays are based on immunochemical methods that use monoclonal antibodies specific for D-dimer
+
+*   **Latex Agglutination Assay:**
+    *   Latex particles are coated with monoclonal antibodies against D-dimer
+    *   When the reagent is mixed with a sample containing D-dimer, the antibodies bind to the D-dimer, causing the latex particles to agglutinate (clump together)
+    *   The agglutination is measured turbidimetrically or nephelometrically, and the result is compared to a calibration curve
+*   **Enzyme-Linked Immunosorbent Assay (ELISA):**
+    *   Microplate wells are coated with monoclonal antibodies against D-dimer
+    *   The sample is added to the wells, and any D-dimer present binds to the antibodies
+    *   A secondary antibody conjugated to an enzyme is added, which binds to the D-dimer-antibody complex
+    *   A substrate for the enzyme is added, and the resulting color change is measured spectrophotometrically
+*   **Immunoturbidimetric Assay:**
+    *   Antibodies against D-dimer are added to the sample
+    *   As the antibodies bind to D-dimer, immune complexes form
+    *   The turbidity of the solution is measured, which is proportional to the D-dimer concentration
+*   **Chemiluminescent Immunoassay:**
+    *   Similar to ELISA, but uses a chemiluminescent substrate instead of an enzyme-linked substrate
+    *   The emitted light is measured, which is proportional to the D-dimer concentration
+
+## **Procedure for Performing D-dimer Assay** {-}
+
+1.  Sample Collection and Preparation:
+    *   Collect blood in a sodium citrate (light blue top) tube
+    *   Process the sample within the specified timeframe to obtain platelet-poor plasma (PPP)
+    *   Follow the manufacturer's instructions for sample storage and handling
+
+2.  Assay Performance:
+    *   Follow the manufacturer's instructions for the specific assay being used
+    *   Ensure that all reagents are properly prepared and stored
+    *   Load the samples and reagents onto the automated analyzer
+    *   Start the assay and allow the instrument to perform the analysis
+
+3.  Quality Control:
+    *   Run control materials at regular intervals (e.g., daily, with each batch of samples) to assess the accuracy and precision of the assay
+    *   Evaluate control results and take corrective action if necessary
+4.  Result Calculation:
+    *   The automated analyzer calculates the D-dimer concentration based on a calibration curve
+    *   Ensure that the results are within the assay's linear range
+
+## **Reporting Results** {-}
+
+*   Report the D-dimer concentration in the appropriate units (e.g., ng/mL, μg/L)
+*   Include the reference range for the assay
+*   Note any abnormal results or flags
+*   Document all quality control procedures and corrective actions taken
+
+## **Interpreting Results** {-}
+
+*   **Negative D-dimer Result:**
+    *   D-dimer level is below the established cut-off value for the assay
+    *   In patients with a low or intermediate pretest probability for VTE, a negative D-dimer result is used to rule out DVT and PE
+*   **Elevated D-dimer Result:**
+    *   D-dimer level is above the cut-off value
+    *   Indicates the presence of fibrin degradation products in the plasma, suggesting that both coagulation and fibrinolysis have been activated
+    *   Causes of Elevated D-dimer:
+        *   Venous Thromboembolism (VTE): DVT and PE
+        *   Disseminated Intravascular Coagulation (DIC)
+        *   Surgery
+        *   Trauma
+        *   Pregnancy
+        *   Malignancy
+        *   Infection
+        *   Inflammation
+        *   Advanced Age
+    *   *Note:* An elevated D-dimer result is *not specific* for VTE, and further testing (e.g., imaging studies) is required to confirm the diagnosis
+
+## **Factors Affecting D-dimer Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Sample Collection:
+        *   Clotted sample: D-dimer cannot be accurately measured
+        *   Underfilled collection tube: Can affect the blood-to-anticoagulant ratio
+    *   Delayed Processing:
+        *   Prolonged storage at room temperature can lead to falsely elevated D-dimer levels
+        *   Samples should be processed and tested as soon as possible or stored according to the manufacturer's instructions
+    *   Lipemia or Icterus:
+        *   Can interfere with optical measurements
+*   **Analytical Variables:**
+
+    *   Assay Type: Different D-dimer assays have different sensitivities and specificities
+    *   Cut-off Values: Cut-off values for positivity can vary between laboratories
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the analyzer
+
+*   **Patient-Related Variables:**
+
+    *   Age: D-dimer levels tend to increase with age
+        *   Age-Adjusted Cut-Offs: Some laboratories use age-adjusted D-dimer cut-off values to improve specificity in older adults
+            *   Age-Adjusted Cut-Off = 0.50 μg/mL + (Age x 0.01 μg/mL)
+    *   Pregnancy: D-dimer levels are normally elevated during pregnancy
+    *   Medical Conditions:
+        *   Inflammation
+        *   Infection
+        *   Malignancy
+        *   Liver Disease
+        *   Kidney Disease
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the D-dimer result is inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots, hemolysis, or lipemia
+    *   Repeat the test on a fresh sample
+    *   Ensure that the test was performed within the acceptable timeframe
+    *   Consider the possibility of interfering substances
+    *   Review the patient's medical history and medication list
+    *   Consult with a pathologist or coagulation expert
+
+## **Key Terms** {-}
+
+*   **D-dimer:** A specific fibrin degradation product that is elevated in thrombotic conditions
+*   **Fibrinolysis:** The enzymatic breakdown of fibrin clots
+*   **Venous Thromboembolism (VTE):** A condition that includes deep vein thrombosis (DVT) and pulmonary embolism (PE)
+*   **Deep Vein Thrombosis (DVT):** A blood clot in a deep vein, usually in the leg
+*   **Pulmonary Embolism (PE):** A blood clot that travels to the lungs
+*   **Disseminated Intravascular Coagulation (DIC):** A complex disorder with widespread clotting and bleeding
+*   **Sensitivity:** The ability of a test to correctly identify individuals who have the condition (true positive rate)
+*   **Specificity:** The ability of a test to correctly identify individuals who do not have the condition (true negative rate)

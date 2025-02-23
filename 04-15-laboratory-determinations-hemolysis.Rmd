@@ -1,0 +1,158 @@
+# Hemolysis {-}
+
+## **Overview of Hemolytic Indicators** {-}
+
+*   **Definition:** Laboratory tests used to identify and quantify the presence of hemolysis (RBC destruction) in vivo (within the body)
+*   **Clinical Significance:**
+    *   Diagnosis of Hemolytic Anemia: Helps confirm the presence of hemolytic anemia and distinguish it from other causes of anemia
+    *   Assessment of Hemolysis Severity: Helps evaluate the degree of RBC destruction
+    *   Differentiation of Hemolytic Anemia Types: Helps differentiate between intravascular and extravascular hemolysis
+    *   Monitoring Response to Therapy: Used to assess the effectiveness of treatment for hemolytic anemia
+*   **Key Indicators:**
+    *   Haptoglobin
+    *   Lactate Dehydrogenase (LDH)
+    *   Unconjugated (Indirect) Bilirubin
+    *   Urine Hemoglobin and Hemosiderin
+*   **Methods:** These tests are typically performed using spectrophotometric or immunochemical methods on serum, plasma, or urine samples
+
+## **Haptoglobin** {-}
+
+*   **Definition:** An alpha-2 globulin protein synthesized in the liver that binds free hemoglobin (Hb) released into the plasma
+*   **Function:**
+    *   Binding to Free Hemoglobin: Haptoglobin binds to free hemoglobin, forming a stable hemoglobin-haptoglobin complex
+    *   Clearance of Hemoglobin: The hemoglobin-haptoglobin complex is rapidly cleared from the circulation by the liver via the CD163 receptor on macrophages
+    *   Prevents Kidney Damage: Binding to haptoglobin prevents free hemoglobin from being filtered by the kidneys, which can cause kidney damage
+    *   Antioxidant Activity: Haptoglobin has antioxidant properties, protecting tissues from oxidative damage caused by free hemoglobin
+*   **Measurement:**
+    *   Immunoturbidimetric Assay: The most common method
+        *   Antibodies specific to haptoglobin are added to the sample
+        *   The antibodies bind to haptoglobin, forming immune complexes
+        *   The turbidity (cloudiness) of the solution is measured, which is proportional to the haptoglobin concentration
+    *   Nephelometry: Similar to immunoturbidimetry, but measures the light scattered by the immune complexes
+*   **Reference Range:**
+    *   Varies depending on the laboratory and the assay used
+    *   Typical reference range: 30-200 mg/dL (adults)
+*   **Interpretation:**
+    *   Decreased Haptoglobin:
+        *   Increased hemolysis: Haptoglobin is consumed as it binds to free hemoglobin
+        *   Liver disease: Impaired haptoglobin synthesis
+        *   Congenital haptoglobin deficiency
+    *   Elevated Haptoglobin:
+        *   Acute phase reaction: Haptoglobin is an acute phase reactant, so levels can increase during inflammation or infection
+        *   Corticosteroid use
+
+## **Lactate Dehydrogenase (LDH)** {-}
+
+*   **Definition:** An intracellular enzyme present in many tissues, including red blood cells, liver, muscle, and heart
+*   **Function:** Catalyzes the interconversion of lactate and pyruvate
+*   **Isoenzymes:** LDH exists as five isoenzymes (LDH1-LDH5), each with a different tissue distribution:
+    *   LDH1: Heart, red blood cells
+    *   LDH2: Heart, red blood cells
+    *   LDH3: Lungs, lymphocytes
+    *   LDH4: Liver, muscle
+    *   LDH5: Liver, skeletal muscle
+*   **Measurement:**
+    *   Enzymatic Assay: Measures the rate of conversion of lactate to pyruvate or pyruvate to lactate
+    *   Spectrophotometry: The change in absorbance of NADH (nicotinamide adenine dinucleotide) is measured at a specific wavelength
+*   **Reference Range:**
+    *   Varies depending on the laboratory and the assay used
+    *   Typical reference range: 100-225 U/L (adults)
+*   **Interpretation:**
+    *   Elevated LDH:
+        *   Hemolysis: LDH is released from damaged red blood cells
+        *   Tissue Injury: LDH is released from damaged tissues (e.g., heart, liver, muscle)
+        *   Malignancy: Some cancers can cause elevated LDH levels
+        *   Pulmonary Embolism
+    *   Isoenzyme Analysis (Less Common): May be performed to identify the source of LDH elevation
+        *   Elevated LDH1 and LDH2: Suggests cardiac or RBC damage
+        *   Elevated LDH5: Suggests liver or muscle damage
+
+## **Unconjugated (Indirect) Bilirubin** {-}
+
+*   **Definition:** A yellow pigment formed from the breakdown of heme (the iron-containing portion of hemoglobin)
+*   **Formation and Metabolism:**
+    1.  Heme is converted to biliverdin by heme oxygenase
+    2.  Biliverdin is converted to unconjugated bilirubin by biliverdin reductase
+    3.  Unconjugated bilirubin is transported in the blood bound to albumin
+    4.  In the liver, unconjugated bilirubin is conjugated with glucuronic acid by UDP-glucuronosyltransferase (UGT)
+    5.  Conjugated bilirubin is excreted into the bile and then into the intestines
+    6.  In the intestines, bilirubin is converted to urobilinogen by bacteria
+    7.  Urobilinogen is either:
+        *   Excreted in the feces (as stercobilin, which gives feces its brown color)
+        *   Reabsorbed into the bloodstream and excreted in the urine (as urobilin, which gives urine its yellow color)
+*   **Measurement:**
+    *   Diazo Reaction: Bilirubin reacts with a diazo reagent to form a colored product
+    *   Spectrophotometry: The intensity of the color is measured at a specific wavelength
+    *   Direct Bilirubin: Reacts directly with the diazo reagent
+    *   Total Bilirubin: Requires the addition of an accelerator (e.g., methanol) to react with both conjugated and unconjugated bilirubin
+    *   Indirect Bilirubin: Calculated by subtracting the direct bilirubin from the total bilirubin (Indirect = Total - Direct)
+*   **Reference Range:**
+    *   Varies depending on the laboratory and the assay used
+    *   Typical reference range:
+        *   Total Bilirubin: 0.3-1.0 mg/dL
+        *   Direct Bilirubin: 0.0-0.3 mg/dL
+        *   Indirect Bilirubin: 0.2-0.8 mg/dL
+*   **Interpretation:**
+    *   Elevated Unconjugated (Indirect) Bilirubin:
+        *   Increased bilirubin production due to hemolysis
+        *   Impaired bilirubin uptake or conjugation by the liver
+        *   Examples: Hemolytic anemia, Gilbert syndrome, Crigler-Najjar syndrome
+    *   Elevated Conjugated (Direct) Bilirubin:
+        *   Impaired excretion of conjugated bilirubin from the liver
+        *   Biliary obstruction (e.g., gallstones, tumor)
+        *   Liver disease (e.g., hepatitis, cirrhosis)
+
+## **Urine Hemoglobin and Hemosiderin** {-}
+
+*   **Urine Hemoglobin:**
+    *   Normally, there is very little or no hemoglobin in the urine
+    *   In intravascular hemolysis, free hemoglobin is released into the plasma
+    *   Haptoglobin becomes saturated, free hemoglobin is filtered by the kidneys
+    *   Some hemoglobin is reabsorbed by the renal tubules
+    *   Excess hemoglobin is excreted in the urine (hemoglobinuria), causing the urine to appear red or brown
+    *   Measured using a urine dipstick test
+    *   False-positive results can occur with myoglobinuria or certain medications
+*   **Urine Hemosiderin:**
+    *   Hemosiderin is an iron-storage complex derived from hemoglobin
+    *   In chronic intravascular hemolysis, the renal tubular cells reabsorb hemoglobin and store it as hemosiderin
+    *   Hemosiderin is eventually sloughed off into the urine (hemosiderinuria)
+    *   Urine hemosiderin can be detected using a Prussian blue stain on a urine sediment sample
+
+## **Summary Table of Hemolytic Indicators** {-}
+
+| Test                      | Principle                                   | Expected Result in Hemolysis          | Notes                                                                                                               |
+| ------------------------- | ------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Haptoglobin               | Binds free hemoglobin                       | Decreased                             | Decreased in both intravascular and extravascular hemolysis; also decreased in liver disease                             |
+| LDH                       | Intracellular enzyme released with cell lysis | Elevated                              | Elevated in both intravascular and extravascular hemolysis; also elevated in tissue injury and malignancy           |
+| Unconjugated Bilirubin    | Breakdown product of heme                    | Elevated                              | Elevated in both intravascular and extravascular hemolysis; may also be elevated in liver disorders                     |
+| Urine Hemoglobin          | Detects free hemoglobin in urine             | Positive (in intravascular hemolysis) | Only positive in intravascular hemolysis; may have false positives due to myoglobin or other interfering substances |
+| Urine Hemosiderin         | Detects iron in urine                       | Positive (in chronic intravascular hemolysis)  | Seen in chronic intravascular hemolysis; takes time to develop                                                          |
+
+## **Differential Diagnosis of Hemolytic Anemias** {-}
+
+*   **Hemolytic Anemia:**
+
+    *   *Elevated Reticulocyte Count:* Increased bone marrow response
+    *   *Elevated Indirect Bilirubin and LDH:* Release of intracellular contents
+    *   *Decreased Haptoglobin:* Consumption by free hemoglobin
+
+*   **Extravascular Hemolysis:** (e.g., Hereditary Spherocytosis, Warm Autoimmune Hemolytic Anemia)
+    *   *Spherocytes on Peripheral Smear:*
+    *   *Positive DAT (in AIHA):*
+    *   *Splenomegaly:*
+*   **Intravascular Hemolysis:** (e.g., TTP, PNH)
+    *   *Schistocytes on Peripheral Smear:*
+    *   *Hemoglobinuria:*
+    *   *Hemosiderinuria:*
+
+## **Key Terms** {-}
+
+*   **Hemolysis:** Destruction of red blood cells
+*   **Intravascular Hemolysis:** RBC destruction within blood vessels
+*   **Extravascular Hemolysis:** RBC destruction outside blood vessels (primarily in the spleen)
+*   **Haptoglobin:** Protein that binds free hemoglobin
+*   **Lactate Dehydrogenase (LDH):** Enzyme released from damaged cells
+*   **Bilirubin:** Product of heme breakdown
+*   **Unconjugated (Indirect) Bilirubin:** Bilirubin that has not been processed by the liver
+*   **Hemoglobinuria:** Hemoglobin in the urine
+*   **Hemosiderinuria:** Hemosiderin (iron) in the urine

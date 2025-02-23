@@ -1,0 +1,89 @@
+# Lymphocyte Subsets {-}
+
+## **Overview of Lymphocyte Subset Analysis by Flow Cytometry** {-}
+
+*   **Definition:** Flow cytometry immunophenotyping is used to identify, quantify, and characterize lymphocyte populations (T cells, B cells, and NK cells) based on the expression of specific cell surface markers
+*   **Clinical Significance:**
+    *   Assessment of Immune Function: Provides information about the number and proportions of different lymphocyte subsets, which is essential for evaluating immune competence and detecting immune deficiencies
+    *   Diagnosis and Monitoring of Immunodeficiency Disorders: Used to diagnose and monitor patients with HIV/AIDS, severe combined immunodeficiency (SCID), and other immunodeficiency disorders
+    *   Monitoring Immunosuppressive Therapy: Used to monitor the effects of immunosuppressive drugs in transplant recipients and patients with autoimmune diseases
+    *   Diagnosis and Monitoring of Lymphoproliferative Disorders: Can help identify and characterize abnormal lymphocyte populations in leukemia and lymphoma
+*   **Key Cell Types:**
+    *   T Lymphocytes (T cells):
+        *   Helper T Cells (CD4+ T Cells)
+        *   Cytotoxic T Cells (CD8+ T Cells)
+        *   Regulatory T Cells (Tregs)
+    *   B Lymphocytes (B Cells)
+    *   Natural Killer (NK) Cells
+
+## **Cell Surface Markers and Their Significance** {-}
+
+The following table outlines the key cell surface markers used to identify and characterize lymphocyte subsets:
+
+| Marker   | Cell Type/Lineage       | Function                                            | Expression Pattern                                                                 |
+| -------- | ----------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| CD45     | All Leukocytes         | Protein tyrosine phosphatase; regulates leukocyte activation | Expressed on all leukocytes, but with varying intensity                           |
+| CD3      | T Cells                 | Part of the T cell receptor (TCR) complex; involved in T-cell activation | Expressed on all T cells                                                            |
+| CD4      | Helper T Cells          | Coreceptor for MHC class II; involved in T-cell activation | Expressed on helper T cells; also expressed on some monocytes and dendritic cells  |
+| CD8      | Cytotoxic T Cells        | Coreceptor for MHC class I; involved in T-cell cytotoxicity | Expressed on cytotoxic T cells and some NK cells                                     |
+| CD19     | B Cells                 | B-cell receptor complex component; involved in B-cell activation | Expressed on most B cells                                                             |
+| CD20     | B Cells                 | Calcium channel; involved in B-cell activation      | Expressed on mature B cells; expression can be lost after rituximab therapy       |
+| CD56 (NCAM) | NK Cells, Some T Cells   | Neural cell adhesion molecule; involved in cell-cell interactions | Expressed on NK cells and some T cells                                                |
+| CD16 (FcγRIII) | NK Cells, Neutrophils  | Fc receptor for IgG; involved in antibody-dependent cell-mediated cytotoxicity (ADCC) | Expressed on NK cells and neutrophils                                               |
+| CD25 (IL-2Rα) | Activated T and B Cells | Part of the IL-2 receptor; involved in lymphocyte proliferation | Expressed on activated T and B cells, regulatory T cells                            |
+| CD103  |  Regulatory T Cells          | Alpha E integrin, plays a role in trafficking and homing T regulatory cells  |   |
+
+## **Common Lymphocyte Subset Combinations** {-}
+
+*   **T Cell Analysis:**
+    *   CD45, CD3: To identify all T cells
+    *   CD4: To identify helper T cells
+    *   CD8: To identify cytotoxic T cells
+    *   CD4:CD8 Ratio: A useful marker for classifying types of T-Cells
+    *   CD25 and FoxP3 can identify regulatory T cells
+*   **B Cell Analysis:**
+    *   CD45, CD19: To identify all B cells
+    *   Kappa and Lambda Light Chains: To assess for clonality in B-cell populations
+*   **NK Cell Analysis:**
+    *   CD45, CD3-: Used to exclude T cells
+    *   CD56 or CD16: To identify NK cells
+
+## **Applications of Lymphocyte Subset Analysis** {-}
+
+*   **HIV/AIDS:**
+    *   Monitoring CD4+ T Cell Count: The CD4+ T cell count is a key indicator of immune function in HIV-infected individuals
+    *   Low CD4+ T cell counts indicate immune deficiency and increased susceptibility to opportunistic infections
+    *   Monitoring Treatment Response: Used to assess the effectiveness of antiretroviral therapy (ART) by monitoring increases in CD4+ T cell counts
+*   **Severe Combined Immunodeficiency (SCID):**
+    *   Diagnosis: Flow cytometry is used to identify the absence or severe reduction of T cells, B cells, and/or NK cells in infants with suspected SCID
+    *   T-B+NK+ SCID: Absence of T cells, but presence of B and NK cells
+    *   T-B-NK+ SCID: Absence of T cells and B cells, but presence of NK cells
+    *   T-B+NK- SCID: Absence of T cells and NK cells, but presence of B cells
+    *   T-B-NK- SCID: Absence of T cells, B cells, and NK cells
+*   **Autoimmune Disorders:**
+    *   Monitoring Immunosuppressive Therapy: Flow cytometry can be used to monitor the effects of immunosuppressive drugs on lymphocyte subsets in patients with autoimmune disorders (e.g., rheumatoid arthritis, systemic lupus erythematosus)
+    *   Assessment of Disease Activity: Changes in lymphocyte subset numbers or activation markers may correlate with disease activity
+*   **Transplant Monitoring:**
+    *   Chimerism Analysis: Used to assess the proportion of donor and recipient cells in the blood and bone marrow after hematopoietic stem cell transplantation (HSCT)
+    *   Detection of Graft-versus-Host Disease (GVHD): Flow cytometry can be used to identify activated T cells that are involved in GVHD
+
+## **Reporting Results** {-}
+
+*   Report the absolute counts and percentages of each lymphocyte subset (e.g., CD4+ T cells, CD8+ T cells, B cells, NK cells)
+*   Include the reference range for each parameter
+*   Note any abnormal results or deviations from normal lymphocyte subset distributions
+*   Correlate the laboratory findings with the patient's clinical information
+
+## **Key Terms** {-}
+
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers
+*   **Immunophenotyping:** Using flow cytometry to identify cell surface markers
+*   **Gating:** Selecting a population of cells for analysis based on their light scatter properties and/or expression of specific markers
+*   **Fluorochrome:** A fluorescent dye used to label antibodies or other molecules
+*   **Antibody:** A protein that binds to a specific antigen
+*   **Antigen:** A molecule that is recognized by an antibody
+*   **T Lymphocyte (T Cell):** A type of lymphocyte that mediates cell-mediated immunity
+*   **Helper T Cell (CD4+ T Cell):** A type of T cell that helps activate other immune cells
+*   **Cytotoxic T Cell (CD8+ T Cell):** A type of T cell that kills infected or cancerous cells
+*   **B Lymphocyte (B Cell):** A type of lymphocyte that produces antibodies
+*   **Natural Killer (NK) Cell:** A type of lymphocyte that kills infected or cancerous cells without prior sensitization

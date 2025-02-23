@@ -1,0 +1,128 @@
+# Indices {-}
+
+## **Overview of CBC Indices** {-}
+
+*   **Definition:** The red blood cell (RBC) indices are a set of calculations derived from the complete blood count (CBC) that provide information about the size, hemoglobin content, and concentration of hemoglobin in red blood cells
+*   **Clinical Significance:**
+    *   Classification of Anemias: RBC indices are essential for classifying anemias as microcytic, normocytic, or macrocytic, and for determining the degree of hemoglobinization (hypochromic vs. normochromic)
+    *   Differential Diagnosis: Help narrow down the differential diagnosis and guide further testing
+    *   Monitoring Treatment: Useful for monitoring the response to treatment for anemia
+*   **Measured Parameters:**
+    *   The RBC indices are calculated from the following parameters, which are directly measured by automated hematology analyzers:
+        *   Red Blood Cell Count (RBC): Number of red blood cells per unit volume of blood (e.g., x 10^12/L)
+        *   Hemoglobin (HGB): Concentration of hemoglobin in whole blood (g/dL)
+        *   Hematocrit (HCT): Percentage of blood volume occupied by red blood cells (%)
+*   **Calculated Indices:**
+    *   The RBC indices are calculated using the measured parameters and the following formulas:
+        *   Mean Corpuscular Volume (MCV)
+        *   Mean Corpuscular Hemoglobin (MCH)
+        *   Mean Corpuscular Hemoglobin Concentration (MCHC)
+
+## **Key RBC Indices and Their Significance** {-}
+
+*   **Mean Corpuscular Volume (MCV):**
+    *   *Definition:* The average volume of individual red blood cells
+    *   *Formula:* MCV (fL) = (HCT / RBC) x 10
+    *   *Units:* femtoliters (fL)
+    *   *Reference Range:* Typically 80-100 fL (varies slightly by laboratory)
+    *   *Clinical Significance:*
+        *   MCV < 80 fL: Microcytic Anemia (small RBCs)
+            *   Iron deficiency anemia
+            *   Thalassemia
+            *   Sideroblastic anemia
+            *   Anemia of chronic disease (in some cases)
+        *   MCV 80-100 fL: Normocytic Anemia (normal-sized RBCs)
+            *   Acute blood loss
+            *   Hemolytic anemia
+            *   Aplastic anemia
+            *   Anemia of chronic disease (in many cases)
+            *   Early iron deficiency
+        *   MCV > 100 fL: Macrocytic Anemia (large RBCs)
+            *   Vitamin B12 deficiency
+            *   Folate deficiency
+            *   Alcoholism
+            *   Liver disease
+            *   Hypothyroidism
+            *   Myelodysplastic syndromes (MDS)
+*   **Mean Corpuscular Hemoglobin (MCH):**
+    *   *Definition:* The average amount of hemoglobin per red blood cell
+    *   *Formula:* MCH (pg) = HGB / RBC x 10
+    *   *Units:* picograms (pg)
+    *   *Reference Range:* Typically 27-33 pg (varies slightly by laboratory)
+    *   *Clinical Significance:*
+        *   MCH is generally proportional to MCV, so it is useful for assessing the hemoglobin content in relation to cell size
+        *   Increased MCH: Macrocytic anemias
+        *   Decreased MCH: Microcytic anemias
+        *   *Note:* MCH is less useful than MCV and MCHC for classifying anemias
+*   **Mean Corpuscular Hemoglobin Concentration (MCHC):**
+    *   *Definition:* The average concentration of hemoglobin in a given volume of red blood cells
+    *   *Formula:* MCHC (g/dL) = HGB / HCT x 100
+    *   *Units:* grams per deciliter (g/dL) or grams per liter (g/L)
+    *   *Reference Range:* Typically 32-36 g/dL (varies slightly by laboratory)
+    *   *Clinical Significance:*
+        *   MCHC Provides information about the degree of hemoglobinization of red blood cells (i.e., how "full" the RBCs are with hemoglobin)
+        *   Increased MCHC: Hyperchromia (rare); seen in:
+            *   Hereditary spherocytosis: Due to dehydration of red blood cells
+            *   Cold agglutinin disease: Due to interference with hemoglobin measurement
+        *   Decreased MCHC: Hypochromia (pale RBCs)
+            *   Iron deficiency anemia
+            *   Thalassemia
+            *   Sideroblastic anemia
+            *   *Note:* The MCHC is a *critical* index for quality control. MCHC values > 36 g/dL are rare and often indicate a laboratory error (e.g., lipemia, cold agglutinins)
+*   **Red Cell Distribution Width (RDW):**
+    *   *Definition:* A measure of the variation in red blood cell size (anisocytosis)
+    *   *Units:* Expressed as a coefficient of variation (CV) or standard deviation (SD)
+    *   *Reference Range:*
+        *   RDW-CV: Typically 11.5-14.5%
+        *   RDW-SD: Typically 35-56 fL
+    *   *Clinical Significance:*
+        *   Increased RDW: Indicates greater variation in RBC size
+        *   Used in combination with MCV to narrow down the differential diagnosis of anemia
+        *   Helpful in Distinguishing Different Anemias:
+            *   Iron Deficiency Anemia: High RDW (due to increased variation in RBC size)
+            *   Thalassemia: Normal or slightly elevated RDW (RBCs are uniformly small)
+            *   Anemia of Chronic Disease: Normal RDW (unless coexisting with iron deficiency)
+
+## **Interpretation of RBC Indices** {-}
+
+*   **Microcytic Anemias (MCV < 80 fL):**
+    *   Iron Deficiency Anemia: Low MCV, low MCH, low MCHC, high RDW, low serum iron and ferritin, high TIBC
+    *   Thalassemia: Low MCV, low MCH, normal or high RBC count, normal or elevated serum iron and ferritin, normal or low RDW
+    *   Sideroblastic Anemia: Low or normal MCV, normal or high serum iron and ferritin, ringed sideroblasts in bone marrow
+    *   Anemia of Chronic Disease: Low or normal MCV, low serum iron, normal or high ferritin
+*   **Normocytic Anemias (MCV 80-100 fL):**
+    *   Acute Blood Loss: Normal RBC indices initially, but can develop into microcytic anemia over time if iron stores are depleted
+    *   Hemolytic Anemias: Normal or slightly elevated MCV, elevated reticulocyte count, elevated bilirubin and LDH, decreased haptoglobin
+    *   Aplastic Anemia: Normal RBC indices, pancytopenia, hypocellular bone marrow
+    *   Anemia of Chronic Disease: Normal RBC indices, low serum iron, normal or high ferritin
+*   **Macrocytic Anemias (MCV > 100 fL):**
+    *   Vitamin B12 Deficiency: High MCV, oval macrocytes, hypersegmented neutrophils, low serum vitamin B12, elevated MMA and homocysteine
+    *   Folate Deficiency: High MCV, oval macrocytes, hypersegmented neutrophils, low serum folate, elevated homocysteine
+    *   Alcoholism: High MCV, round macrocytes, normal vitamin B12 and folate levels
+    *   Liver Disease: High MCV, round macrocytes, abnormal liver function tests
+    *   Hypothyroidism: High MCV, round macrocytes, abnormal thyroid function tests
+    *   Myelodysplastic Syndromes (MDS): High MCV, dysplastic features in bone marrow
+
+## **Sources of Error and Troubleshooting** {-}
+
+*   **Cold Agglutinins:** Cause falsely elevated MCV and MCHC and falsely decreased RBC count
+    *   Corrective Action: Warm the sample to 37°C and reanalyze
+*   **Lipemia:** Falsely elevates hemoglobin, which can affect MCV and MCHC calculations
+    *   Corrective Action: Perform saline replacement or use a lipemia clearing agent
+*   **High White Blood Cell Count (Leukocytosis):** Can interfere with hemoglobin measurement and affect RBC indices
+    *   Corrective Action: Dilute the sample and correct the results for the dilution factor
+*   **Clotted Sample:** Invalidates the results and requires recollection of a new sample
+
+## **Key Terms** {-}
+
+*   **MCV (Mean Corpuscular Volume):** Average volume of red blood cells
+*   **MCH (Mean Corpuscular Hemoglobin):** Average amount of hemoglobin per red blood cell
+*   **MCHC (Mean Corpuscular Hemoglobin Concentration):** Average concentration of hemoglobin in red blood cells
+*   **RDW (Red Cell Distribution Width):** Measure of the variation in red blood cell size (anisocytosis)
+*   **Microcytic:** Small red blood cells
+*   **Normocytic:** Normal-sized red blood cells
+*   **Macrocytic:** Large red blood cells
+*   **Hypochromic:** Decreased hemoglobin content (pale color)
+*   **Hyperchromic:** Increased hemoglobin content (intensely colored)
+*   **Anisocytosis:** Variation in red blood cell size
+*   **Anemia:** Deficiency of red blood cells or hemoglobin

@@ -1,0 +1,115 @@
+# Heparin Neutralization {-}
+
+## **Overview of Heparin Neutralization Assays** {-}
+
+*   **Definition:** Heparin neutralization assays are a group of laboratory tests used to determine if heparin is interfering with other coagulation assays or to assess the presence of heparin-induced antibodies
+
+*   **Purpose:**
+    *   Distinguishing between heparin contamination and true coagulation factor deficiencies in patients with prolonged clotting times (PT and/or aPTT)
+    *   Investigating unexpected or unexplained bleeding
+    *   Evaluating heparin responsiveness
+    *   Detecting heparin-dependent antibodies (e.g., in heparin-induced thrombocytopenia - HIT)
+    
+*   **Two Main Categories:**
+    *   Heparin Neutralization to Correct Clotting Assays: Used to determine if heparin is causing prolonged clotting times
+    *   Heparin Antibody Assays: Used to detect and identify antibodies against heparin-platelet factor 4 (PF4) complexes, as in Heparin Induced Thrombocytopenia (HIT)
+
+## **Heparin Neutralization to Correct Clotting Assays** {-}
+
+*   **Principle:** These assays involve adding a heparin-neutralizing agent to the patient's plasma to inactivate any heparin present, and then repeating the prolonged clotting test (PT and/or aPTT)
+
+*   **Rationale:** If the prolonged clotting time corrects after heparin neutralization, it suggests that the prolongation was due to heparin interference, rather than a true factor deficiency or inhibitor
+
+*   **Methods:**
+    *   Polybrene Neutralization:
+        *   Polybrene is a positively charged compound that binds to and neutralizes heparin (which is negatively charged)
+        *   Polybrene is added to the patient's plasma before performing the clotting assay (PT or aPTT)
+    *   Protamine Sulfate Neutralization:
+        *   Protamine sulfate is a positively charged protein that binds to and neutralizes heparin
+        *   Protamine sulfate is added to the patient's plasma before performing the clotting assay (PT or aPTT)
+    *   Heparinase Digestion:
+        *   Heparinase is an enzyme that degrades heparin
+        *   The patient's plasma is incubated with heparinase to remove heparin, and then the clotting assay is performed
+
+*   **Procedure:**
+    1.  Prepare the Patient's Plasma: Collect and prepare platelet-poor plasma (PPP) from the patient's blood sample
+    2.  Perform Baseline Clotting Assay (PT or aPTT): Measure the PT or aPTT on the untreated patient plasma
+    3.  Prepare the Neutralized Plasma:
+        *   Add Polybrene, Protamine Sulfate, or Heparinase: Add the heparin-neutralizing agent to a portion of the patient's plasma, following the manufacturer's instructions
+        *   Incubate: Incubate the neutralized plasma for the recommended time (usually a few minutes)
+    4.  Perform the Clotting Assay on the Neutralized Plasma: Measure the PT or aPTT on the neutralized plasma
+    5.  Compare Results: Compare the clotting time of the untreated plasma to the clotting time of the neutralized plasma
+
+*   **Interpretation:**
+    *   Correction of Clotting Time: If the clotting time corrects (returns to the normal reference range) after heparin neutralization, it suggests that heparin was the cause of the prolonged clotting time
+    *   No Correction of Clotting Time: If the clotting time remains prolonged after heparin neutralization, it suggests that a factor deficiency or inhibitor is present, and heparin was not the sole cause of the prolonged clotting time
+
+## **Heparin Antibody Assays (for Heparin-Induced Thrombocytopenia - HIT)** {-}
+
+*   **Overview:** These assays are used to detect antibodies against heparin-platelet factor 4 (PF4) complexes, which are characteristic of heparin-induced thrombocytopenia (HIT)
+
+*   **HIT: A Quick Review:**
+    *   HIT is a prothrombotic disorder caused by the formation of antibodies that bind to complexes of heparin and platelet factor 4 (PF4)
+    *   Antibody binding activates platelets, leading to thrombocytopenia (low platelet count) and an increased risk of thrombosis
+    
+*   **HIT Diagnostic Algorithm**
+    *   4Ts Score: Estimate clinical likelihood of HIT (Thrombocytopenia, Timing, Thrombosis, other causes for Thrombocytopenia)
+    *   If score indicates high or intermediate likelihood of HIT, perform the following tests
+    
+*   **Assay Types**
+    *   Enzyme-Linked Immunosorbent Assay (ELISA):
+        *   Principle: Detects antibodies against heparin-PF4 complexes
+        *   Procedure:
+            *   Microplate wells are coated with heparin-PF4 complexes
+            *   The patient's serum or plasma is added to the wells, and any antibodies present bind to the heparin-PF4 complexes
+            *   An enzyme-labeled secondary antibody (e.g., anti-human IgG) is added, which binds to the bound antibodies
+            *   A substrate for the enzyme is added, and the resulting color change is measured spectrophotometrically
+        *   Interpretation:
+            *   Optical Density (OD) values are measured, with a higher OD correlating to more antibodies present
+            *   Can differentiate between IgG, IgM, and IgA antibodies
+            *   A positive result indicates the presence of heparin-PF4 antibodies, but does not confirm platelet activation
+    *   Functional Assays:
+        *   Serotonin Release Assay (SRA) and Heparin-Induced Platelet Aggregation (HIPA)
+            *   Principle: Measures platelet activation in the presence of heparin and patient serum/plasma
+            *   Procedure:
+                *   Patient serum is incubated with normal donor platelets and heparin
+                *   Platelet activation is measured by:
+                    *   Serotonin Release Assay (SRA): Measuring the release of serotonin from platelets
+                    *   Heparin-Induced Platelet Aggregation (HIPA): Measuring platelet aggregation
+            *   Interpretation:
+                *   Positive: Indicates the presence of platelet-activating antibodies, confirming HIT
+        *   Advantages of Functional Assays:
+            *   Higher specificity than ELISA
+            *   Detect platelet-activating antibodies, which are more clinically relevant
+
+## **Factors Affecting Results** {-}
+
+*   **Pre-analytical:**
+    *   Inappropriate sample type
+    *   Clotted samples
+    *   Improper handling or storage of the sample
+    
+*   **Analytical:**
+    *   Kit and reagent performance
+    *   Spectrophotometer functionality
+    *   Reader alignment and accuracy
+    
+*   **Patient-related:**
+    *   Recent heparin exposure
+    *   Concurrent medication and other factors
+
+## **Troubleshooting** {-}
+*   If the results are unexpected, repeat the test and ensure that all steps were performed correctly
+
+## **Reflex Testing** {-}
+*   Positive HIT Antibody ELISA: This test can have high false-positive results so must be confirmed with SRA or HIPA assay
+
+## **Key Terms** {-}
+
+*   **Heparin Neutralization:** Inactivation of heparin's anticoagulant activity
+*   **Polybrene and Protamine Sulfate:** Positively charged compounds that neutralize heparin
+*   **Heparinase:** An enzyme that degrades heparin
+*   **Heparin-Induced Thrombocytopenia (HIT):** A prothrombotic disorder caused by antibodies against heparin-PF4 complexes
+*    **Functional Assay:** Testing a samples ability to perform a certain task, which is used to confirm the presence of a functional antibody
+*   **ELISA:** Enzyme-Linked Immunosorbent Assay, which uses the binding properties of antibodies to confirm presence and quantity.
+*   **PF4:** Platelet Factor 4

@@ -1,0 +1,112 @@
+# Fibrinogen {-}
+
+## **Overview of Fibrinogen Assay** {-}
+
+*   **Definition:** A quantitative assay that measures the concentration of fibrinogen (Factor I) in plasma. Fibrinogen is a key protein in the coagulation cascade, essential for forming the fibrin clot
+*   **Clinical Significance:**
+    *   Diagnosis of Bleeding Disorders: Low fibrinogen levels can contribute to bleeding tendencies
+    *   Evaluation of Liver Function: Fibrinogen is synthesized in the liver, so levels can be decreased in liver disease
+    *   Assessment of Disseminated Intravascular Coagulation (DIC): Fibrinogen levels are often decreased in DIC due to consumption
+    *   Diagnosis of Inherited Fibrinogen Disorders: Afibrinogenemia, hypofibrinogenemia, and dysfibrinogenemia
+    *   Assessment of Thrombotic Risk: Fibrinogen is an acute-phase reactant, and elevated levels may be associated with an increased risk of thrombosis
+*   **Methods:**
+    *   Clauss Method (Functional Assay)
+    *   Immunologic Methods
+
+## **Clauss Method (Functional Assay)** {-}
+
+*   **Principle:** The Clauss method is a functional assay that measures the rate of clot formation after the addition of a high concentration of thrombin to diluted plasma. The clotting time is inversely proportional to the fibrinogen concentration
+*   **Procedure:**
+    1.  Plasma Dilution: The patient's plasma is diluted with a buffer to a specific concentration
+    2.  Thrombin Addition: A high concentration of thrombin is added to the diluted plasma
+    3.  Clot Detection: The time to clot formation is measured, either manually or using an automated coagulation analyzer
+    4.  Calculation: The fibrinogen concentration is determined by comparing the clotting time to a calibration curve generated using fibrinogen standards of known concentrations
+*   **Advantages:**
+    *   Measures the functional activity of fibrinogen, which is important for assessing the patient's ability to form a stable clot
+    *   Relatively simple and widely available
+*   **Limitations:**
+    *   Can be affected by inhibitors of thrombin (e.g., heparin, direct thrombin inhibitors)
+    *   May be inaccurate in patients with dysfibrinogenemia (abnormal fibrinogen molecule)
+
+## **Immunologic Methods** {-}
+
+*   **Principle:** These methods measure the amount of fibrinogen protein, regardless of its function
+*   **Methods:**
+    *   Nephelometry: Measures the turbidity caused by the formation of antigen-antibody complexes
+    *   Turbidimetry: Measures the decrease in light transmission through a solution as antigen-antibody complexes form
+*   **Procedure:**
+    1.  Add a specific antibody that targets fibrinogen to the sample
+    2.  Antigen-Antibody Complexes forms turbidity
+    3.  Measures the amount of the turbidity to determine how much fibrinogen is in the sample
+*   **Advantages:**
+    *   Not affected by inhibitors of thrombin
+    *   May be more accurate in patients with dysfibrinogenemia
+*   **Limitations:**
+    *   Does not assess the functional activity of fibrinogen
+    *   Can be affected by interfering substances (e.g., lipemia, high protein levels)
+
+## **Specimen Collection and Handling** {-}
+
+*   **Collection Tube:** Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+*   **Blood-to-Anticoagulant Ratio:** The correct ratio is critical for accurate coagulation testing:
+    *   9:1 ratio of blood to anticoagulant
+    *   Underfilling the tube can lead to falsely prolonged clotting times due to excess anticoagulant
+    *   Overfilling the tube can lead to falsely shortened clotting times due to insufficient anticoagulant
+*   **Processing:**
+    *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+    *   PPP should have a platelet count < 10 x 10^9/L
+    *   Test should be performed within 4 hours of collection or the plasma should be frozen to maintain optimal value of fibrongien
+
+## **Factors Affecting Fibrinogen Results** {-}
+
+*   **Pre-Analytical Variables:**
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Fibrinogen can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Lipemia or Icterus: Can interfere with optical clot detection or turbidimetric measurements
+*   **Patient-Related Variables:**
+    *   Medications: Fibrinolytic agents (e.g., tPA, streptokinase) can decrease fibrinogen levels
+    *   Liver Disease: Impairs the synthesis of fibrinogen
+    *   Disseminated Intravascular Coagulation (DIC): Consumption of fibrinogen
+
+## **Interpreting Results** {-}
+
+*   **Reference Range:** Varies depending on the method and laboratory; a typical range is 200-400 mg/dL
+*   **Elevated Fibrinogen:**
+    *   Acute Phase Reaction: Fibrinogen is an acute-phase reactant, so levels can increase during inflammation, infection, trauma, or surgery
+    *   Pregnancy: Fibrinogen levels increase during pregnancy
+    *   Oral Contraceptive Use
+    *   Increased Risk of Thrombosis
+*   **Decreased Fibrinogen:**
+    *   Disseminated Intravascular Coagulation (DIC): Consumption of fibrinogen
+    *   Liver Disease: Impaired fibrinogen synthesis
+    *   Inherited Fibrinogen Disorders:
+        *   Afibrinogenemia: Complete absence of fibrinogen (rare)
+        *   Hypofibrinogenemia: Reduced levels of fibrinogen
+        *   Dysfibrinogenemia: Presence of a dysfunctional fibrinogen molecule that does not clot properly
+        *   Amylodosis
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the fibrinogen result is inconsistent with the patient's clinical presentation or previous results:
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances (e.g., lipemia)
+    *   Review the patient's medication list and medical history
+
+## **Key Terms** {-}
+
+*   **Fibrinogen:** A protein (Factor I) that is converted to fibrin, the main component of a blood clot
+*   **Clauss Method:** A functional assay to measure fibrinogen concentration
+*   **Dysfibrinogenemia:** Presence of a dysfunctional fibrinogen molecule
+*   **Afibrinogenemia:** Complete absence of fibrinogen
+*   **Hypofibrinogenemia:** Reduced levels of fibrinogen
+*   **Disseminated Intravascular Coagulation (DIC):** A consumptive coagulopathy with widespread clotting and bleeding
+*   **Cryoprecipitate:** A blood product that is rich in fibrinogen

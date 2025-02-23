@@ -1,0 +1,129 @@
+# Assays {-}
+
+## **Overview of Assays for Hypercoagulability Assessment** {-}
+
+*   **Purpose:** To identify deficiencies or abnormalities in natural anticoagulant factors that contribute to an increased risk of thrombosis (hypercoagulable state, thrombophilia)
+*   **When to Consider Testing:**
+    *   Unprovoked venous thromboembolism (VTE)
+    *   VTE at a young age (<50 years)
+    *   Recurrent VTE
+    *   VTE in unusual sites (e.g., mesenteric, cerebral)
+    *   Family history of thrombophilia
+    *   Recurrent pregnancy loss
+    *   Arterial thrombosis in young individuals
+*   **Important Note:** Testing is best performed when the patient is *not* acutely thrombotic and *not* on anticoagulant therapy, as these factors can affect results.
+
+## **Key Assays** {-}
+
+Here's a detailed breakdown of the key assays used to assess hypercoagulable states, focusing on the testing principles and result interpretation:
+
+*   **Lupus Anticoagulant (LA) Testing**
+
+    *   **What it Detects:** Lupus anticoagulants (LAs) are a type of antiphospholipid antibody that bind to phospholipids and phospholipid-binding proteins. Despite the name, they *increase* the risk of thrombosis in vivo
+    
+    *   **Significance:** LAs are associated with:
+        *   Antiphospholipid Syndrome (APS): A systemic autoimmune disorder characterized by thrombosis, pregnancy morbidity, and the presence of antiphospholipid antibodies
+        *   Increased risk of venous and arterial thrombosis
+        *   Recurrent pregnancy loss
+        
+    *   **Testing Strategy:** A series of tests is required for LA detection because the antibodies interfere with phospholipid-dependent coagulation reactions *in vitro*, leading to prolonged clotting times. The tests must demonstrate:
+        *   Prolongation of phospholipid-dependent clotting tests (screening tests)
+        *   Failure to correct with mixing studies (indicating an inhibitor)
+        *   Correction with the addition of excess phospholipid (demonstrating phospholipid dependence
+        
+    *   **Common Tests Used:**
+        *   Activated Partial Thromboplastin Time (aPTT-LA): A modified aPTT reagent with a low phospholipid concentration is used to enhance the sensitivity to LA
+            *   Principle: Phospholipid neutralizes, in part, the inhibitor, so when less phospholipid is added, there will be a prolonged clotting time.
+        *   Dilute Russell's Viper Venom Time (dRVVT): A more sensitive test for LA
+            *   Principle: RVV directly activates Factor X, bypassing Factors VIII, IX, and XI, but requires phospholipids.
+            *   dRVVT Confirm: Perform same test with a high concentration of phospholipids.
+        *   Hexagonal Phase Phospholipid Neutralization Assay (Staclot LA): This is a more specific test
+            *   Principle: Phospholipids in the hexagonal phase are used to neutralize the inhibitor
+
+    *   **Interpretation:**
+        *   Prolonged screening test (aPTT-LA or dRVVT)
+        *   Failure to correct on mixing with normal plasma
+        *   Correction with the addition of excess phospholipid
+        *   Requires persistent positivity (present on two or more occasions, at least 12 weeks apart)
+        *   *Note:* Because false positives are possible, testing is repeated for confirmation
+    
+*   **Protein C Activity/Antigen Assay**
+
+    *   **What it Detects:** Deficiency in Protein C, a vitamin K-dependent serine protease that inactivates Factors Va and VIIIa, thus inhibiting coagulation
+    *   **Significance:** Protein C deficiency increases the risk of venous thrombosis
+    *   **Testing:**
+        *   Protein C Activity Assay:
+            *   Principle: Measures the functional activity of protein C
+            *   Method: A chromogenic or clotting assay is used to measure the ability of protein C to inactivate Factor Va
+        *   Protein C Antigen Assay:
+            *   Measures the amount of protein C protein present
+            *   Can be used to differentiate between type I (quantitative deficiency) and type II (qualitative deficiency) protein C deficiency
+    *   **Interpretation:**
+        *   Decreased Protein C Activity: Suggests protein C deficiency
+        *   Decreased Protein C Antigen: Suggests type I protein C deficiency (quantitative)
+        *   Normal Protein C Antigen, Decreased Activity: Suggests type II protein C deficiency (qualitative)
+        *   *Note:* Both activity and antigen levels should be assessed for accurate diagnosis.
+
+*   **Protein S Activity/Antigen Assay**
+
+    *   **What it Detects:** Deficiency in Protein S, a vitamin K-dependent cofactor for activated Protein C
+    *   **Significance:** Protein S deficiency increases the risk of venous thrombosis
+    *   **Testing:**
+        *   Protein S Activity Assay:
+            *    Measures the functional activity of protein S as a cofactor for APC
+            *   n aPTT-based assay is used to measure the ability of APC to prolong the clotting time in the presence of protein S
+        *   Total Protein S Antigen Assay:
+            *   Measures the total amount of protein S protein present
+            *   Immunoturbidimetric or ELISA-based methods are used
+        *   Free Protein S Antigen Assay:
+            *   Measures the amount of protein S that is not bound to C4b-binding protein (the active form of protein S)
+            *   Important to measure because protein S can be bound by C4b-binding protein, rendering it nonfunctional
+    *   **Interpretation:**
+        *   Decreased Protein S Activity: Suggests protein S deficiency
+        *   Decreased Free Protein S Antigen: Suggests protein S deficiency
+        *   Interpretation of Protein S Results is Complex Due to Different Types of Deficiencies:
+            *   Type I: Low total and free protein S antigen levels, low protein S activity
+            *   Type II: Normal total and free protein S antigen levels, low protein S activity
+            *   Type III: Normal total protein S antigen level, low free protein S antigen level, low protein S activity
+
+
+## **Factors Affecting Assay Results** {-}
+
+*   **Pre-Analytical Variables**
+    *   Proper Specimen Collection: Follow guidelines for collection tube type, blood-to-anticoagulant ratio, and order of draw
+    *   Prompt Processing and Testing: Analyze samples within the recommended timeframe to minimize pre-analytical changes
+    *   Avoid Contamination: Do not use samples with clots or hemolysis
+*   **Analytical Variables**
+    *   Reagent Quality: Use fresh, properly stored reagents
+    *   Instrument Calibration: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Interfering Substances: Be aware of potential interferences from lipemia, icterus, or drugs
+*   **Patient-Related Variables**
+    *   Anticoagulant Therapy: Warfarin, heparin, and direct oral anticoagulants (DOACs) can significantly affect results
+    *   Acute Thrombotic Events: May consume coagulation factors, affecting results
+    *   Pregnancy: Protein S levels decrease during pregnancy
+    *   Liver Disease: Impairs the synthesis of coagulation factors
+    *   Vitamin K Status: Affects the levels of vitamin K-dependent coagulation factors (Factors II, VII, IX, and X, as well as Proteins C and S)
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the test results are inconsistent with the patient's clinical presentation or other laboratory findings, consider the following:
+
+    *   Verify the patient's medication list and history of anticoagulant use
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Review the quality control data for the assay
+    *   Investigate potential interfering substances
+
+## **Reflex Testing** {-}
+
+*   If the initial thrombophilia testing reveals an abnormality, further testing may be performed to:
+    *   Confirm the diagnosis
+    *   Characterize the type and severity of the deficiency or abnormality
+    *   Evaluate for the presence of multiple thrombophilic risk factors
+
+## **Key Terms** {-}
+
+*   **Thrombophilia (Hypercoagulable State):** An increased tendency to develop blood clots
+*   **Lupus Anticoagulant (LA):** An antibody that interferes with phospholipid-dependent coagulation reactions
+*   **Protein C and S:** Vitamin K-dependent anticoagulant proteins
+*   **VTE (Venous Thromboembolism):** A condition that includes deep vein thrombosis (DVT) and pulmonary embolism (PE)

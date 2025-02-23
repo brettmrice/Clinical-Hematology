@@ -1,0 +1,175 @@
+# Manual {-}
+
+## **Overview of Manual Cell Counts** {-}
+
+*   **Definition:** Manual cell counts are performed by trained laboratory personnel using a microscope and a specialized counting chamber (hemocytometer) to enumerate cells in a fluid sample
+*   **Clinical Significance:** Although automated cell counters are now commonly used, manual cell counts remain important in certain situations:
+    *   When automated cell counts are inaccurate or unavailable
+    *   For counting cells in body fluids where automated methods may not be validated
+    *   To confirm abnormal results obtained by automated methods
+*   **Fluids Analyzed:**
+    *   Whole Blood: Red blood cells (RBCs), white blood cells (WBCs), and platelets
+    *   Body Fluids: Cerebrospinal fluid (CSF), synovial fluid, serous fluids (pleural, peritoneal, pericardial), and others
+
+## **Principles of Manual Cell Counting** {-}
+
+*   **Dilution:** The sample is diluted with a specific diluent to reduce the cell concentration to a manageable level
+*   **Counting Chamber (Hemocytometer):** A specialized glass slide with a precisely ruled grid of known dimensions The Neubauer counting chamber is the most common type
+*   **Microscopy:** A microscope is used to visualize the cells within the counting chamber
+*   **Cell Identification:** Cells are identified based on their morphology and staining characteristics
+*   **Calculation:** The cell count per unit volume is calculated using a formula that takes into account the dilution factor, the area of the counting chamber, and the depth of the chamber
+
+## **Equipment and Materials** {-}
+
+*   **Microscope:** With a calibrated eyepiece and 10x and 40x objectives
+*   **Counting Chamber (Hemocytometer):** Neubauer chamber is most common
+*   **Coverslip:** A special coverslip designed for use with the counting chamber to create a known volume above the counting grid
+*   **Pipettes:** Accurate pipettes for measuring the sample and diluent
+*   **Diluent:** An appropriate diluent for the specific cell type being counted:
+    *   WBC Count: Acetic acid (3%) or Turk's solution (lyses red blood cells)
+    *   RBC Count: Isotonic saline (0.85% NaCl)
+    *   Platelet Count: Ammonium oxalate (1%) or sodium citrate (3.8%)
+    *   Body Fluid Cell Counts: Isotonic saline (0.85% NaCl) or crystal violet stain
+*   **Tally Counter:** A manual or electronic tally counter to keep track of the cells being counted
+
+## **Procedure for Manual Cell Counts** {-}
+
+*   **Sample Preparation:**
+    1.  Mix the Sample: Ensure that the blood or body fluid sample is well-mixed
+    2.  Prepare the Dilution:
+        *   Use a calibrated pipette to accurately measure the sample and diluent
+        *   Prepare the appropriate dilution according to established laboratory procedures
+            *   WBC Count: Typically a 1:20 or 1:100 dilution
+            *   RBC Count: Typically a 1:200 dilution
+            *   Platelet Count: Typically a 1:100 dilution
+            *   Body Fluid Cell Counts: May require no dilution or up to a 1:20 dilution, depending on the cell concentration
+        *   Mix the sample and diluent thoroughly
+    3.  Allow to Stand: For WBC counts using a lytic diluent, allow the mixture to stand for at least 10 minutes to allow the red blood cells to lyse
+
+*   **Charging the Counting Chamber:**
+    1.  Clean the Hemocytometer and Coverslip: Use lens paper to thoroughly clean the hemocytometer and coverslip
+    2.  Position the Coverslip: Carefully place the coverslip on the hemocytometer, ensuring that it is properly seated and covers the counting area
+    3.  Charge the Counting Chamber: Gently introduce a small amount of the diluted sample into the counting chamber by capillary action. Avoid overfilling or introducing air bubbles
+    4.  Allow Cells to Settle: Allow the cells to settle for a few minutes before counting
+
+*   **Microscopic Examination and Counting:**
+    1.  Position the Counting Chamber: Place the hemocytometer on the microscope stage and secure it with the clips
+    2.  Focus: Use the 10x objective to focus on the counting grid
+    3.  Counting Rules: Follow consistent counting rules to avoid over- or undercounting cells:
+        *   Count cells that touch the upper and left-hand boundaries of the counting area
+        *   Do not count cells that touch the lower and right-hand boundaries
+        *   Count cells within the defined area of the counting chamber
+    4.  Counting Patterns:
+        *   Systematically count the cells within the designated squares of the counting chamber
+        *   Use a consistent counting pattern (e.g., serpentine pattern) to ensure that all cells are counted
+    5.  WBC Count: Count the cells in the four large corner squares of the Neubauer chamber
+    6.  RBC Count: Count the cells in the five small squares within the central large square of the Neubauer chamber
+    7.  Platelet Count: Count the platelets in the twenty-five small squares within the central large square of the Neubauer chamber
+    8.  Body Fluid Cell Counts: Count the cells in all nine large squares of the Neubauer chamber
+    9.  Record the Counts: Use a tally counter to keep track of the number of cells counted
+    10. Perform Duplicate Counts: Perform duplicate counts on a second chamber to assess precision
+
+*   **Calculation of Results:**
+
+    1.  Apply the Appropriate Formula: The formula for calculating the cell count depends on the dilution factor and the area and depth of the counting chamber
+        *   General Formula:
+            Cell Count (cells/μL) = (Number of Cells Counted x Dilution Factor) / (Area Counted (mm2) x Depth of Chamber (mm))
+        *   Specific Formulas (Neubauer Chamber):
+            *   WBC Count:
+                Cell Count (cells/μL) = (Number of Cells Counted x Dilution Factor) / (4 mm2 x 0.1 mm)
+            *   RBC Count:
+                Cell Count (cells/μL) = (Number of Cells Counted x Dilution Factor) / (0.2 mm2 x 0.1 mm)
+            *   Platelet Count:
+                Cell Count (cells/μL) = (Number of Cells Counted x Dilution Factor) / (1.0 mm2 x 0.1 mm)
+            *   Body Fluid Cell Counts:
+                Cell Count (cells/μL) = (Number of Cells Counted x Dilution Factor) / (9 mm2 x 0.1 mm)
+    2.  Average Duplicate Counts: If duplicate counts were performed, calculate the average of the two counts
+    3.  Report the Result: Report the cell count in the appropriate units (e.g., cells/μL)
+
+## **Specific Procedures for Blood Cell Counts** {-}
+
+*   **White Blood Cell (WBC) Count:**
+    *   Diluent: Acetic acid (3%) or Turk's solution (lyses red blood cells)
+    *   Dilution: Typically 1:20 or 1:100
+    *   Counting Area: Four large corner squares of the Neubauer chamber
+    *   Counting Cells touching the upper and left-hand boundaries, but not those touching the lower and right-hand boundaries
+
+*   **Red Blood Cell (RBC) Count:**
+    *   Diluent: Isotonic saline (0.85% NaCl)
+    *   Dilution: Typically 1:200
+    *   Counting Area: Five small squares within the central large square of the Neubauer chamber
+    *   Avoid air bubbles
+
+*   **Platelet Count:**
+    *   Diluent: Ammonium oxalate (1%) or sodium citrate (3.8%)
+    *   Dilution: Typically 1:100
+    *   Counting Area: Twenty-five small squares within the central large square of the Neubauer chamber
+    *   Allow platelets to settle for 10-15 minutes before counting
+    *   Use phase-contrast microscopy if available to enhance platelet visualization
+
+## **Specific Procedures for Body Fluid Cell Counts** {-}
+
+*   **Cerebrospinal Fluid (CSF):**
+    *   Diluent: Isotonic saline (0.85% NaCl) or crystal violet stain
+    *   Dilution: May require no dilution or up to a 1:20 dilution, depending on the cell concentration
+    *   Counting Area: All nine large squares of the Neubauer chamber
+    *   Report RBC count and total nucleated cell (TNC) count
+    *   Perform a cytospin preparation to differentiate the types of nucleated cells (e.g., neutrophils, lymphocytes, monocytes)
+
+*   **Serous Fluids (Pleural, Peritoneal, Pericardial):**
+    *   Diluent: Isotonic saline (0.85% NaCl) or crystal violet stain
+    *   Dilution: May require no dilution or up to a 1:20 dilution, depending on the cell concentration
+    *   Counting Area: All nine large squares of the Neubauer chamber
+    *   Report RBC count and total nucleated cell (TNC) count
+    *   Perform a cytospin preparation to differentiate the types of nucleated cells (e.g., neutrophils, lymphocytes, mesothelial cells)
+
+*   **Synovial Fluid:**
+    *   Diluent: Isotonic saline (0.85% NaCl) or crystal violet stain
+    *   Dilution: May require no dilution or up to a 1:20 dilution, depending on the cell concentration
+    *   Hyaluronidase Pre-Treatment: If the synovial fluid is viscous, pretreat with hyaluronidase to reduce viscosity and improve cell dispersal
+    *   Counting Area: All nine large squares of the Neubauer chamber
+    *   Report RBC count and total nucleated cell (TNC) count
+    *   Perform a cytospin preparation to differentiate the types of nucleated cells (e.g., neutrophils, lymphocytes, monocytes, synovial lining cells)
+
+## **Quality Control and Troubleshooting** {-}
+
+*   **Use Calibrated Equipment:**
+    *   Ensure that pipettes and counting chambers are properly calibrated
+
+*   **Maintain Clean Equipment:**
+    *   Thoroughly clean the hemocytometer and coverslip before each use
+    *   Use fresh, clean diluent
+
+*   **Follow Established Procedures:**
+    *   Adhere to standardized procedures for dilution, charging the counting chamber, counting cells, and calculating results
+
+*   **Count an Adequate Number of Cells:**
+    *   Count at least 100 cells (or more) to improve accuracy, especially for body fluid cell counts with low cell concentrations
+
+*   **Perform Duplicate Counts:**
+    *   Perform duplicate counts on a second chamber to assess precision
+    *   The two counts should agree within an acceptable range (e.g., +/- 10%)
+
+*   **Identify and Correct Errors:**
+    *   Uneven Cell Distribution: Ensure that the cells are evenly distributed in the counting chamber
+    *   Air Bubbles: Avoid introducing air bubbles when charging the chamber
+    *   Contamination: Prevent contamination of the sample or diluent
+    *   Inaccurate Pipetting: Use calibrated pipettes and ensure accurate measurement of the sample and diluent
+    *   Improper Cell Identification: Develop expertise in identifying different cell types to minimize counting errors
+
+## **Reporting Results** {-}
+
+*   Report the cell counts in the appropriate units (e.g., cells/μL, x 10^9/L)
+*   Include the reference range for each parameter
+*   Note any abnormal results or flags
+*   Document all quality control procedures and corrective actions taken
+
+## **Key Terms** {-}
+
+*   **Hemocytometer:** A specialized counting chamber used for manual cell counts
+*   **Neubauer Chamber:** The most common type of hemocytometer
+*   **Diluent:** A fluid used to dilute a sample
+*   **Total Nucleated Cell (TNC) Count:** The number of all nucleated cells in a body fluid sample
+*   **Cytospin Preparation:** A method for concentrating cells from a fluid sample onto a slide for microscopic examination
+*   **Hyaluronidase:** An enzyme used to reduce the viscosity of synovial fluid
+*   **Controls:** Testing known samples to ensure proper testing technique

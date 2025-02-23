@@ -1,0 +1,114 @@
+# FV Leiden {-}
+
+## **Overview of Factor V Leiden** {-}
+
+*   **Definition:** Factor V Leiden is a specific genetic mutation in the *F5* gene (encoding Factor V) that results in resistance to inactivation by Activated Protein C (APC)
+*   **Significance:** The most common inherited thrombophilia, associated with an increased risk of venous thromboembolism (VTE), such as deep vein thrombosis (DVT) and pulmonary embolism (PE)
+*   **Key Points:**
+    *   Molecular Test: Diagnosis is made by detecting the presence of the Factor V Leiden mutation using DNA-based molecular assays
+    *   No Cure: Having the mutation isn't always symptomatic, but it's essential to know that if the mutation is present, a higher level of care is required
+    *   Increased Risk: Those with it are more prone to clotting
+
+## **The *F5* Gene and Factor V Leiden Mutation** {-}
+
+*   **The F5 Gene:**
+    *   Location: Chromosome 1 (1q24.2)
+    *   Encodes: Factor V, a key coagulation factor that acts as a cofactor to Factor Xa in the prothrombinase complex, which converts prothrombin to thrombin
+    
+*   **The Factor V Leiden Mutation:**
+    *   Description: A point mutation in the *F5* gene (G1691A)
+    *   Amino Acid Substitution: Results in a glutamine (Q) to arginine (R) substitution at amino acid position 506 (R506Q)
+    *   Effect on APC Cleavage Site: This substitution alters one of the cleavage sites on Factor V that is normally recognized by activated protein C (APC)
+    
+*   **Mechanism of Resistance to APC:**
+    *   Normal Inactivation of Factor V: APC, along with its cofactor protein S, normally inactivates Factor Va by cleaving it at specific sites
+    *   Factor V Leiden Resistance: The R506Q mutation makes Factor V resistant to inactivation by APC, leading to prolonged activity of Factor Va and increased thrombin generation
+
+## **Testing Principles** {-}
+
+*   **Molecular Testing is Required:** The Factor V Leiden mutation is detected using DNA-based molecular assays. This can be done with a simple blood draw as this mutation is present from birth
+*   These tests analyze the patient's DNA to determine if the mutation is present, or not
+
+## **Molecular Testing Procedures** {-}
+
+The general procedure for detecting the Factor V Leiden mutation involves the following steps:
+
+1.  **DNA Extraction:**
+    *   Extract DNA from a blood sample (typically EDTA whole blood) using a commercially available DNA extraction kit
+    *   Ensure that the DNA is of high quality and free from inhibitors
+    
+2.  **PCR Amplification:**
+    *   Use the polymerase chain reaction (PCR) to amplify a specific region of the *F5* gene that contains the R506Q mutation
+    *   Use primers that flank the region of interest and are specific for the *F5* gene
+    
+3.  **Mutation Detection:** Use various techniques to detect the presence of the Factor V Leiden mutation:
+    *   **Allele-Specific PCR (AS-PCR):**
+        *   Uses primers that are specific for either the normal sequence or the mutated sequence
+        *   The presence of a PCR product indicates the presence of that specific allele
+    *   **Restriction Fragment Length Polymorphism (RFLP) Analysis:**
+        *   Uses a restriction enzyme that recognizes and cuts the normal DNA sequence but does not cut the mutated sequence
+        *   The PCR product is digested with the restriction enzyme, and the resulting fragments are analyzed by gel electrophoresis
+        *   The presence of different fragment sizes indicates the presence of the Factor V Leiden mutation
+    *   **Real-Time PCR (qPCR):**
+        *   Uses fluorescent probes to detect the amplified DNA product in real time
+        *   Can be used to quantify the amount of the normal and mutated alleles
+    *   **Next-Generation Sequencing (NGS):**
+        *   Can be used to sequence the entire *F5* gene and identify both known and novel mutations
+        *   More commonly used when other genetic abnormalities are suspected
+
+## **Interpretation of Results** {-}
+
+*   **Normal (Homozygous Wild-Type):** The patient has two copies of the normal *F5* gene and does not carry the Factor V Leiden mutation
+*   **Heterozygous:** The patient has one copy of the normal *F5* gene and one copy of the Factor V Leiden mutated gene
+    *   Increased risk of venous thrombosis
+*   **Homozygous:** The patient has two copies of the Factor V Leiden mutated gene
+    *   Higher risk of venous thrombosis compared to heterozygotes
+*   *Important Note:* The interpretation of results should always be made in the context of the patient's clinical history, family history, and other laboratory findings
+
+## **Key Considerations:** {-}
+
+*   Results are qualitative, which will not determine treatment
+
+## **Factors Affecting Test Results** {-}
+
+*   **Pre-Analytical Variables:**
+    *   Sample Collection:
+        *   Collect blood in an EDTA (purple-top) tube
+        *   Avoid clots or hemolysis
+    *   Sample Storage:
+        *   Store samples properly to prevent DNA degradation
+        
+*   **Analytical Variables:**
+    *   Reagent Quality:
+        *   Use high-quality reagents and ensure that they are not expired
+    *   Proper Controls:
+        *   Include positive and negative controls in each PCR run to monitor the performance of the assay
+    *   Contamination:
+        *   Take precautions to prevent contamination of the PCR reagents and samples
+
+*   **Patient-Related Variables:**
+    *   Recent Blood Transfusion:
+        *   May affect results if the transfused blood contains a different *F5* genotype than the patient's own cells
+        *   Wait several weeks after transfusion before performing the test
+    *   Hematopoietic Stem Cell Transplantation (HSCT):
+        *   The *F5* genotype may reflect the donor's genotype rather than the patient's original genotype
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the molecular test results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Verify the sample identity and chain of custody
+    *   Repeat the test on a fresh sample
+    *   Check the quality control data for the assay
+    *   Investigate potential interfering substances or technical errors
+    *   Consider the possibility of a rare or novel *F5* mutation
+
+## **Key Terms** {-}
+
+*   ***F5* Gene:** The gene that encodes Factor V
+*   **Factor V Leiden:** A specific mutation in the *F5* gene (R506Q) that causes resistance to activated protein C
+*   **Hypercoagulability (Thrombophilia):** An increased tendency to develop blood clots
+*   **Venous Thromboembolism (VTE):** A condition that includes deep vein thrombosis (DVT) and pulmonary embolism (PE)
+*   **Allele-Specific PCR (AS-PCR):** A PCR technique that uses primers specific for either the normal or mutated sequence
+*   **Restriction Fragment Length Polymorphism (RFLP):** A technique that uses restriction enzymes to cut DNA at specific sites
+*   **Real-Time PCR (qPCR):** A PCR technique that allows for the quantification of the amplified DNA product

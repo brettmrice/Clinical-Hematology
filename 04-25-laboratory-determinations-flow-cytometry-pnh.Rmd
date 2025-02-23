@@ -1,0 +1,87 @@
+# PNH {-}
+
+## **Overview of Paroxysmal Nocturnal Hemoglobinuria (PNH)** {-}
+
+*   **Definition:** A rare, acquired, life-threatening hematopoietic stem cell disorder characterized by a deficiency of glycosylphosphatidylinositol (GPI)-anchored proteins on the surface of blood cells
+*   **Pathophysiology:**
+    *   Acquired Mutation: PNH arises from an acquired mutation in the *PIGA* gene (phosphatidylinositol glycan anchor biosynthesis class A), located on the X chromosome
+    *   Defective GPI Anchor Synthesis: The *PIGA* gene is essential for the synthesis of the glycosylphosphatidylinositol (GPI) anchor, which attaches certain proteins to the cell surface
+    *   Deficiency of GPI-Anchored Proteins: The *PIGA* mutation leads to a deficiency of all GPI-anchored proteins on the surface of affected blood cells, including:
+        *   CD55 (Decay-Accelerating Factor): Regulates complement activation on cell surfaces
+        *   CD59 (Membrane Inhibitor of Reactive Lysis): Inhibits the formation of the membrane attack complex (MAC), the terminal component of the complement cascade
+        *   Other GPI-linked Proteins: CD16 (FcγRIII), CD48, CD14, and many others
+    *   Unregulated Complement Activation: The deficiency of CD55 and CD59 results in uncontrolled complement activation on the surface of RBCs, WBCs, and platelets
+    *   Intravascular Hemolysis: Complement activation on RBCs leads to formation of the MAC, causing RBC lysis within the blood vessels (intravascular hemolysis)
+*   **Clinical Features:**
+    *   Hemolytic Anemia:
+        *   Fatigue
+        *   Weakness
+        *   Jaundice (yellowing of the skin and eyes)
+        *   Dark urine (hemoglobinuria), especially in the morning (paroxysmal)
+    *   Thrombosis:
+        *   Increased risk of blood clots due to platelet activation and complement-mediated endothelial damage
+        *   Venous thrombosis (DVT, PE) is more common than arterial thrombosis
+        *   Unusual sites of thrombosis (e.g., hepatic vein thrombosis)
+    *   Bone Marrow Failure:
+        *   Cytopenias (anemia, thrombocytopenia, leukopenia) may occur due to bone marrow dysfunction
+        *   Some patients with PNH may also have underlying aplastic anemia or myelodysplastic syndromes (MDS)
+    *   Other Manifestations:
+        *   Smooth muscle dystonia (abdominal pain, dysphagia, erectile dysfunction)
+        *   Pulmonary hypertension
+        *   Chronic kidney disease
+
+## **Flow Cytometry Immunophenotyping for PNH** {-}
+
+*   **Principle:**
+    *   Flow cytometry is the *gold standard* for diagnosing PNH
+    *   It detects the absence or reduced expression of GPI-linked proteins on blood cells (RBCs, granulocytes, and monocytes)
+    *   Fluorescently labeled antibodies are used to bind to specific GPI-linked proteins, and the fluorescence intensity is measured by flow cytometry
+*   **Cell Populations Analyzed:**
+    *   Granulocytes:
+        *   CD15, CD45: Used to identify and gate on the granulocyte population
+        *   GPI-linked proteins: CD16, CD24
+    *   Monocytes:
+        *   CD14, CD45: Used to identify and gate on the monocyte population
+        *   GPI-linked proteins: CD14, CD48
+    *   Red Blood Cells (RBCs):
+        *   Anti-glycophorin A or anti-CD71: Used to identify and gate on the RBC population
+        *   FLAER (Fluorescently Labeled Aerolysin): A bacterial toxin that binds to the GPI anchor itself. It stains all GPI-anchored cells, including RBCs.
+*   **Antibodies Used:**
+    *   CD55 (Decay-Accelerating Factor, DAF): A GPI-linked protein that regulates complement activation
+    *   CD59 (Membrane Inhibitor of Reactive Lysis, MIRL): A GPI-linked protein that inhibits the formation of the membrane attack complex (MAC)
+    *   Other GPI-Linked Proteins: CD16 (FcγRIII), CD24, CD14, CD48, CD66b
+    *   Fluorescently Labeled Aerolysin (FLAER): A bacterial toxin that binds to the GPI anchor itself
+
+*   **Gating Strategy:**
+
+    1.  Forward Scatter (FSC) and Side Scatter (SSC): Used to identify and gate on the granulocyte and monocyte populations
+    2.  CD45 Expression: Used to further refine the gating and exclude debris and non-leukocyte events
+    3.  CD15 or CD14 Expression: Used to specifically identify granulocytes (CD15+) and monocytes (CD14+)
+*   **Analysis and Interpretation:**
+
+    *   Normal Cells: Express normal levels of all GPI-linked proteins (CD55, CD59, CD16, CD24, CD14, CD48)
+    *   PNH Cells: Show decreased or absent expression of one or more GPI-linked proteins
+    *   Types of PNH Cell Populations:
+        *   Type I Cells: Normal cells with normal expression of GPI-linked proteins
+        *   Type II Cells: Cells with partial deficiency of GPI-linked proteins (intermediate expression)
+        *   Type III Cells: Cells with complete deficiency of GPI-linked proteins (absent expression)
+    *   Quantification: The percentage of PNH cells (Type II and Type III cells) is calculated for each cell population (granulocytes, monocytes, and RBCs)
+    *   Clinical Correlation: The percentage of PNH cells correlates with the severity of the disease and the risk of complications
+
+## **Reporting Results** {-}
+
+*   Report the percentage of PNH cells (Type II and Type III cells) in each cell population (granulocytes, monocytes, and RBCs)
+*   Include histograms or dot plots showing the expression of CD55 and CD59 (or other GPI-linked proteins)
+*   Provide an interpretation of the results, noting the presence or absence of PNH and the size of the PNH clone
+*   Correlate the laboratory findings with the patient's clinical information
+
+## **Key Terms** {-}
+
+*   **Paroxysmal Nocturnal Hemoglobinuria (PNH):** An acquired stem cell disorder characterized by deficiency of GPI-anchored proteins
+*   **GPI Anchor:** Glycosylphosphatidylinositol, a glycolipid that anchors certain proteins to the cell surface
+*   **CD55 (DAF):** Decay-accelerating factor, a GPI-linked protein that regulates complement activation
+*   **CD59 (MIRL):** Membrane inhibitor of reactive lysis, a GPI-linked protein that inhibits the formation of the membrane attack complex (MAC)
+*   **FLAER:** Fluorescently Labeled Aerolysin, a bacterial toxin that binds to the GPI anchor
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers
+*   **Immunophenotyping:** Using flow cytometry to identify cell surface markers
+*   **Clone:** A population of cells derived from a single progenitor cell

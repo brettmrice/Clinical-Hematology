@@ -1,0 +1,128 @@
+# PT/INR {-}
+
+## **Overview of the PT/INR Test** {-}
+
+*   **Prothrombin Time (PT):**
+    *   **Definition:** A coagulation test that measures the time (in seconds) it takes for plasma to clot after the addition of thromboplastin and calcium
+    *   **Purpose:**
+        *   Evaluate the extrinsic and common pathways of coagulation
+        *   Monitor oral anticoagulant therapy with warfarin (Coumadin)
+        *   Assess liver function
+        *   Evaluate for coagulation factor deficiencies
+    *   **Principle:**
+        *   Thromboplastin (Tissue Factor): A reagent that contains tissue factor, phospholipids, and calcium
+        *   Addition of Thromboplastin: Activates the extrinsic pathway of coagulation, leading to thrombin formation and fibrin clot formation
+        *   Clot Detection: The time to clot formation is measured, either manually or using an automated coagulation analyzer
+*   **International Normalized Ratio (INR):**
+    *   **Definition:** A standardized ratio calculated from the patient's PT result that is used to monitor warfarin therapy
+    *   **Purpose:**
+        *   To reduce inter-laboratory variability in PT results due to differences in thromboplastin reagents
+        *   To provide a consistent and reliable measure of the degree of anticoagulation
+    *   **Calculation:**
+        *   INR = (Patient PT / Mean Normal PT)^ISI
+        *   Patient PT: The patient's prothrombin time in seconds
+        *   Mean Normal PT (MNPT): The average PT value from a group of healthy individuals tested in the same laboratory using the same thromboplastin reagent
+        *   International Sensitivity Index (ISI): A value assigned to each thromboplastin reagent by the manufacturer, reflecting its sensitivity to vitamin K-dependent coagulation factors
+
+## **Components of the PT/INR Test** {-}
+
+*   **Specimen Collection:**
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate results:
+        *   9:1 ratio of blood to anticoagulant
+        *   Underfilling the tube can lead to falsely prolonged PT/INR results
+        *   Overfilling the tube can lead to falsely shortened PT/INR results
+
+*   **Reagents:**
+
+    *   Thromboplastin: Contains tissue factor, phospholipids, and calcium ions, which initiate the extrinsic pathway of coagulation
+    *   Calcium Chloride: Provides calcium ions, which are essential for the activity of coagulation factors
+    *   Standard: Used to create a clot based on a known sample.
+
+*   **Instrumentation:**
+
+    *   Automated Coagulation Analyzer: Detects clot formation using optical or mechanical methods:
+        *   Optical Method: Measures changes in light transmission as the clot forms
+        *   Mechanical Method: Detects the movement of a probe or wire as the clot forms
+
+## **Procedure for Performing the PT/INR Test** {-}
+
+1.  Sample Preparation:
+    *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+    *   PPP should have a platelet count < 10 x 10^9/L
+
+2.  Automated Method:
+    *   Follow the instrument manufacturer's instructions
+    *   Add thromboplastin reagent to the plasma
+    *   Add calcium chloride to initiate coagulation
+    *   Measure the time to clot formation (PT in seconds)
+
+3.  INR Calculation:
+    *   The instrument automatically calculates the INR using the formula:
+        INR = (Patient PT / Mean Normal PT)^ISI
+        
+4.  Quality Control:
+    *   Run control materials at regular intervals to assess the accuracy and precision of the test
+    *   Review control results and take corrective action if necessary
+
+## **Interpreting Results** {-}
+
+*   **Prothrombin Time (PT):**
+
+    *   Reference Range: Varies depending on the thromboplastin reagent and instrument used (e.g. 11-13 seconds)
+    *   Prolonged PT: Indicates a deficiency or dysfunction of one or more factors in the extrinsic or common pathways (Factors II, V, VII, X, or fibrinogen)
+        *   Liver Disease: Impaired synthesis of coagulation factors
+        *   Vitamin K Deficiency: Impaired carboxylation of vitamin K-dependent factors
+        *   Warfarin Therapy: Inhibition of vitamin K-dependent factors
+        *   Disseminated Intravascular Coagulation (DIC): Consumption of coagulation factors
+        *   Factor VII Deficiency: Specific deficiency of Factor VII
+        
+*   **International Normalized Ratio (INR):**
+
+    *   Target INR Range for Warfarin Therapy:
+        *   Typically 2.0-3.0 for most indications (e.g., atrial fibrillation, venous thromboembolism)
+        *   Higher INR ranges (e.g., 2.5-3.5) may be used for patients with mechanical heart valves
+    *   INR < Target Range: Indicates subtherapeutic anticoagulation and increased risk of thrombosis
+    *   INR > Target Range: Indicates supratherapeutic anticoagulation and increased risk of bleeding
+
+## **Factors Affecting PT/INR Results** {-}
+
+*   **Pre-Analytical Variables:**
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Lipemia or Icterus: Can interfere with optical clot detection
+    *   High Factor V Level: Can artificially shorten the PT
+*   **Patient-Related Variables:**
+    *   Medications: Warfarin, heparin, direct oral anticoagulants, and other medications can affect coagulation test results
+    *   Diet: Vitamin K intake can affect warfarin therapy
+    *   Liver Disease: Impairs the synthesis of coagulation factors
+    *   Genetic Factors: Rare genetic variations can affect coagulation factor levels
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the PT/INR result is inconsistent with the patient's clinical presentation or previous results:
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances (e.g., lipemia)
+    *   Review the patient's medication list and medical history
+    *   Perform a mixing study to rule out factor inhibitors
+
+## **Key Terms** {-}
+
+*   **Prothrombin Time (PT):** Test of the extrinsic and common pathways
+*   **Thromboplastin:** Reagent used to initiate the PT test
+*   **International Normalized Ratio (INR):** A standardized ratio of the PT used to monitor warfarin therapy
+*   **Warfarin (Coumadin):** An oral anticoagulant that inhibits vitamin K-dependent coagulation factors
+*   **Extrinsic Pathway:** A pathway in the coagulation cascade initiated by tissue factor
+*   **Common Pathway:** The final pathway in the coagulation cascade, leading to fibrin formation
+*   **Coagulation Factors:** Proteins involved in the coagulation cascade
+*   **Control Materials:** Samples with known values that are used to assess the accuracy and precision of an instrument
+*   **Reagents:** Substances used to carry out a chemical reaction

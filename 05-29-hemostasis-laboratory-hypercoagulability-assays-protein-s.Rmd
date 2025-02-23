@@ -1,0 +1,119 @@
+# Protein S {-}
+
+## **Overview of Protein S in Hemostasis** {-}
+
+*   **Definition:** Protein S is a vitamin K-dependent glycoprotein synthesized in the liver that functions as a cofactor for activated protein C (APC) in the inactivation of Factors Va and VIIIa, key components of the coagulation cascade
+*   **Significance:** Protein S, along with Protein C, acts as a natural anticoagulant, helping to regulate thrombin generation and prevent excessive clot formation. Protein S deficiency is a well-established risk factor for venous thromboembolism (VTE)
+*   **Two Forms of Protein S:**
+    *   Free Protein S: The active form that functions as a cofactor for APC
+    *   Bound Protein S: Bound to C4b-binding protein (C4BP), an acute-phase reactant. This bound form is inactive and does not function as a cofactor for APC
+
+## **Assays for Protein S** {-}
+
+*   **Protein S Activity Assay:**
+    *   *Principle:* Measures the functional activity of protein S, i.e., its ability to act as a cofactor for APC in the inactivation of Factor Va
+    *   *Methods:*
+        *   Activated Partial Thromboplastin Time (aPTT)-Based Assay:
+            *   A modified aPTT assay is used, where the aPTT is performed in the presence and absence of APC
+            *   The degree to which APC prolongs the aPTT is proportional to the amount of functional Protein S present
+        *   Chromogenic Assay:
+            *   A chromogenic substrate is used to measure the activity of APC in the presence of Protein S
+    *   *Interpretation:*
+        *   Decreased Protein S Activity: Suggests Protein S deficiency
+
+*   **Total Protein S Antigen Assay:**
+    *   *Principle:* Measures the total amount of Protein S protein present, regardless of whether it is in the free or bound form
+    *   *Methods:*
+        *   Immunoturbidimetry: Antibodies specific to protein S are added to the sample, and the turbidity of the solution is measured
+        *   Nephelometry: Measures the light scattered by the immune complexes
+        *   ELISA (Enzyme-Linked Immunosorbent Assay): Uses enzyme-labeled antibodies to detect protein S
+    *   *Interpretation:*
+        *   Decreased Total Protein S Antigen: Suggests a quantitative deficiency of Protein S
+
+*   **Free Protein S Antigen Assay:**
+
+    *   *Principle:* Measures the amount of Protein S that is *not bound* to C4b-binding protein (C4BP). Only free Protein S has anticoagulant activity
+    *   *Methods:*
+        *   Immunometric Assay with Precipitation: Free Protein S is captured by an antibody, and then total protein S is measured after dissociation
+    *   *Interpretation:*
+        *   Decreased Free Protein S Antigen: Suggests a deficiency in the active, free form of Protein S
+
+## **Interpreting Protein S Assay Results** {-}
+
+The interpretation of Protein S assay results can be complex due to the different types of Protein S deficiency and the influence of C4b-binding protein (C4BP) levels
+
+*   **Types of Protein S Deficiency (based on laboratory findings):**
+
+    *   *Type I:* (Quantitative Deficiency)
+        *   Decreased Total Protein S Antigen
+        *   Decreased Free Protein S Antigen
+        *   Decreased Protein S Activity
+    *   *Type II:* (Qualitative Deficiency)
+        *   Normal Total Protein S Antigen
+        *   Normal Free Protein S Antigen
+        *   Decreased Protein S Activity
+    *   *Type III:* (Low Free Protein S)
+        *   Normal Total Protein S Antigen
+        *   Decreased Free Protein S Antigen
+        *   Decreased Protein S Activity
+
+*   **Important Considerations:**
+
+    *   Pregnancy: Pregnancy is associated with decreased Protein S levels, making interpretation difficult
+    *   Oral Contraceptives and Hormone Replacement Therapy: Can decrease Protein S levels
+    *   Acute Thrombosis: Acute thrombotic events can consume Protein S
+    *   Inflammation: C4b-binding protein (C4BP) is an acute-phase reactant. Increased C4BP can bind more Protein S, leading to decreased free Protein S levels
+*   **Recommendations:**
+        *   Confirm the results by repeating the testing when the patient is not acutely ill or pregnant, and not taking oral birth control.
+        *   Check C4b-binding protein level to confirm that there is not an increased level lowering free protein S
+
+## **Factors Affecting Protein S Assay Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Specimen Collection: Traumatic venipuncture, underfilled collection tube, or clots in the sample
+    *   Delayed Testing: Protein S activity and antigen levels can decrease with prolonged storage
+    *   Improper Storage: Samples should be stored properly to maintain protein S activity
+
+*   **Analytical Variables:**
+
+    *   Reagent Quality: Use fresh, properly stored reagents
+    *   Instrument Calibration: Ensure proper calibration of the instrument
+    *   Interfering Substances: Heparin, lupus anticoagulants, and other substances can interfere with some assays
+
+*   **Patient-Related Variables:**
+
+    *   Anticoagulant Therapy: Warfarin can affect Protein S levels
+    *   Pregnancy: Protein S levels decrease during pregnancy
+    *   Liver Disease: Impairs the synthesis of Protein S
+    *   Nephrotic Syndrome: Protein S loss in the urine
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the Protein S results are unexpected or inconsistent with the patient's clinical presentation:
+    *   Check the sample for clots or hemolysis
+    *   Verify the quality control data
+    *   Repeat the test on a fresh sample, ensuring proper collection and handling
+    *   Consider the possibility of interfering substances or medications
+    *   Review the patient's medical history and medication list
+    *   Repeat the test during a period of stability (e.g., after pregnancy or discontinuing warfarin)
+
+## **Reflex Testing** {-}
+
+*   If the initial Protein S activity or antigen level is low, further testing may be performed to:
+    *   Rule Out Acquired Causes of Protein S Deficiency:
+        *   Check liver function tests
+        *   Evaluate for nephrotic syndrome (urine protein)
+        *   Rule out DIC
+    *   Assess C4b-Binding Protein (C4BP) Level: Elevated C4BP can lead to decreased free protein S
+    *   Perform Genetic Testing: To identify specific *PROS1* gene mutations (rarely done)
+
+## **Key Terms** {-}
+
+*   **Protein S:** A vitamin K-dependent anticoagulant protein that acts as a cofactor for activated protein C
+*   **Thrombophilia (Hypercoagulable State):** An increased tendency to develop blood clots
+*   **Vitamin K-Dependent Factors:** Coagulation factors (II, VII, IX, X) and anticoagulant proteins (C and S) that require vitamin K for their synthesis
+*   **Free Protein S:** The active form of protein S that is not bound to C4b-binding protein
+*   **Total Protein S:** The total amount of protein S, including both free and bound forms
+*   **C4b-Binding Protein (C4BP):** An acute-phase reactant that binds to protein S, reducing the amount of free protein S
+*   **VTE (Venous Thromboembolism):** A condition that includes deep vein thrombosis (DVT) and pulmonary embolism (PE)

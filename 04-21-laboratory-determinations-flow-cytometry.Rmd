@@ -1,0 +1,110 @@
+# Flow Cytometry {-}
+
+## **Overview of Flow Cytometry Immunophenotyping** {-}
+
+*   **Definition:** A powerful and versatile technique that allows for the identification, characterization, and quantification of cells based on their expression of specific cell surface markers (antigens)
+*   **Principle:**
+    *   Cells are labeled with fluorescently labeled antibodies that bind to specific cell surface or intracellular antigens
+    *   The labeled cells are passed through a laser beam in a flow cytometer
+    *   The instrument measures the amount of light scattered and fluorescence emitted by each cell
+    *   The data are analyzed to identify and quantify different cell populations
+*   **Clinical Significance:**
+    *   Diagnosis and Classification of Hematologic Malignancies: Essential for diagnosing and classifying leukemias and lymphomas
+    *   Monitoring Minimal Residual Disease (MRD): Used to detect small numbers of residual cancer cells after treatment
+    *   Assessment of Immune Function: Used to enumerate lymphocyte subsets (e.g., CD4+ T cells, CD8+ T cells) and assess immune cell activation
+    *   Diagnosis of Paroxysmal Nocturnal Hemoglobinuria (PNH): Detects deficiency of GPI-linked proteins on blood cells
+    *   Transplant Monitoring: Used to assess chimerism and detect graft-versus-host disease (GVHD)
+
+## **Basic Principles of Flow Cytometry** {-}
+
+1.  **Sample Preparation:**
+    *   Whole Blood or Bone Marrow Aspirate: Samples are collected in EDTA (purple-top) tubes or heparin tubes
+    *   Cell Separation: RBCs are lysed to remove them, and the remaining cells are washed and resuspended in buffer
+
+2.  **Antibody Labeling:**
+    *   Antibodies: Monoclonal antibodies specific for different cell surface or intracellular antigens are used
+    *   Fluorochromes: Each antibody is conjugated to a fluorescent dye (fluorochrome) that emits light at a specific wavelength when excited by a laser
+    *   Antibody Combinations: Multiple antibodies with different fluorochromes are often used simultaneously to identify multiple markers on the same cell (multicolor flow cytometry)
+    *   Incubation: The cells are incubated with the antibody cocktail, allowing the antibodies to bind to their target antigens
+
+3.  **Flow Cytometry Analysis:**
+    *   Flow Cell: The labeled cells are passed through a flow cell in a single stream
+    *   Laser Excitation: A laser beam illuminates the cells as they pass through the flow cell
+    *   Light Scatter: The instrument measures:
+        *   Forward Scatter (FSC): Proportional to cell size
+        *   Side Scatter (SSC): Proportional to cell granularity and internal complexity
+    *   Fluorescence Detection: Detectors measure the intensity of fluorescence emitted by each fluorochrome
+
+4.  **Data Analysis:**
+    *   Gating: Cell populations are identified and gated based on their FSC and SSC properties
+        *   Sequential Gating: The cells are first gated based on FSC and SSC to isolate the population of interest (e.g., lymphocytes, blasts), and then further gated based on the expression of specific markers
+        *   "Backgating": Starting with the specific population and looking to the source based on side and forward scatter.
+    *   Data Display: Data are typically displayed as dot plots or histograms, showing the expression of different markers on each cell population
+    *   Quadrant Statistics: Quadrant markers are placed on dot plots to divide the cell population into four quadrants, and the percentage of cells in each quadrant is calculated
+        *   Allows quantification of cells that are positive or negative for two different markers
+
+## **Applications of Flow Cytometry Immunophenotyping** {-}
+
+*   **Leukemia and Lymphoma Diagnosis and Classification**
+
+    *   Acute Leukemias:
+        *   Lineage Assignment
+        *   Subtyping of AML
+    *   Chronic Lymphoproliferative Disorders
+    *   Minimal Residual Disease (MRD) Monitoring
+
+*   **Lymphocyte Subset Analysis**
+
+    *   CD4+ T Cell Count
+    *   CD8+ T Cell Count
+    *   B Cell Quantification
+    *   NK Cell Quantification
+
+*   **Paroxysmal Nocturnal Hemoglobinuria (PNH)**
+
+## **Quality Control** {-}
+
+*   **Instrument Calibration and Standardization:**
+    *   Regular calibration of the flow cytometer to ensure accurate and reproducible results
+    *   Use of standardized reagents and protocols
+*   **Compensation:**
+    *   Correction for spectral overlap between different fluorochromes
+    *   Using compensation controls to set appropriate compensation values
+*   **Gating Strategies:**
+    *   Use consistent and reproducible gating strategies
+    *   Include appropriate controls to identify and exclude non-specific staining
+
+## **Factors Affecting Accuracy** {-}
+
+*   **Sample Handling:**
+    *   Collect blood in EDTA (purple-top) tubes
+    *   Process samples within 24 hours of collection to minimize cell degradation
+
+*   **Antibody Selection:**
+    *   Use high-quality, well-characterized antibodies
+    *   Select antibodies that are known to be sensitive and specific for GPI-linked proteins
+
+*   **Instrument Calibration:**
+    *   Perform daily instrument calibration and quality control procedures
+
+*   **Compensation:**
+    *   Properly compensate for spectral overlap between different fluorochromes
+
+*   **Gating Strategy:**
+    *   Use a consistent and well-defined gating strategy to accurately identify cell populations
+
+*   **Data Analysis:**
+    *   Ensure that the data analysis is performed by trained personnel
+    
+## **Key Terms** {-}
+
+*   **Flow Cytometry:** A technique for identifying and quantifying cells based on their surface markers and other characteristics
+*   **Immunophenotyping:** Using flow cytometry to identify cell surface markers
+*   **Gating:** Selecting a population of cells for analysis based on their forward and side scatter characteristics
+*   **Fluorochrome:** A fluorescent dye used to label antibodies or other molecules
+*   **Antibody:** A protein that binds to a specific antigen
+*   **Antigen:** A molecule that is recognized by an antibody
+*   **Leukemia:** A malignant disorder of blood-forming cells
+*   **Lymphoma:** A malignant disorder of lymphocytes that typically arises in lymph nodes
+*   **Minimal Residual Disease (MRD):** Small numbers of residual cancer cells that remain after treatment
+*   **Paroxysmal Nocturnal Hemoglobinuria (PNH):** An acquired stem cell disorder characterized by deficiency of GPI-anchored proteins

@@ -1,0 +1,122 @@
+# Thrombin Time {-}
+
+## **Overview of Thrombin Time (TT)** {-}
+
+*   **Definition:** The thrombin time (TT), also known as the thrombin clotting time (TCT), is a coagulation test that measures the time (in seconds) it takes for a clot to form in plasma after the addition of thrombin
+*   **Purpose:**
+    *   Assess the final common pathway of coagulation, specifically the conversion of fibrinogen to fibrin
+    *   Detect quantitative and qualitative abnormalities of fibrinogen
+    *   Detect the presence of thrombin inhibitors (e.g., heparin, direct thrombin inhibitors, fibrin degradation products)
+*   **Principle:**
+    *   Thrombin is added to plasma, bypassing the intrinsic and extrinsic pathways of coagulation
+    *   The rate of clot formation depends on the concentration and function of fibrinogen, as well as the presence of any thrombin inhibitors
+
+## **Components of the Thrombin Time Test** {-}
+
+*   **Specimen Collection:**
+
+    *   Collection Tube: Sodium citrate (light blue top) tube with a 3.2% or 3.8% sodium citrate concentration
+    *   Blood-to-Anticoagulant Ratio: The correct ratio is critical for accurate coagulation testing:
+        *   9:1 ratio of blood to anticoagulant
+        *   Underfilling the tube can lead to falsely prolonged clotting times due to excess anticoagulant
+        *   Overfilling the tube can lead to falsely shortened clotting times due to insufficient anticoagulant
+
+*   **Reagents:**
+
+    *   Thrombin Reagent: A solution of purified thrombin
+        *   The concentration of thrombin is carefully controlled to ensure consistent results
+    *   Calcium Chloride: Provides calcium ions, which are essential for the thrombin-fibrinogen reaction
+    *   Buffer: Tris buffer or other suitable buffer to maintain a stable pH
+
+*   **Instrumentation:**
+
+    *   Automated Coagulation Analyzer: Detects clot formation using optical or mechanical methods:
+        *   Optical Method: Measures changes in light transmission as the clot forms
+        *   Mechanical Method: Detects the movement of a probe or wire as the clot forms
+
+## **Procedure for Performing the Thrombin Time Test** {-}
+
+1.  Sample Preparation:
+    *   Centrifuge the sodium citrate tube to obtain platelet-poor plasma (PPP)
+    *   PPP should have a platelet count < 10 x 10^9/L
+
+2.  Automated Method:
+    *   Follow the instrument manufacturer's instructions
+    *   Incubate the plasma at 37°C
+    *   Add the thrombin reagent to the plasma
+    *   Measure the time to clot formation (TT in seconds)
+
+3.  Quality Control:
+    *   Run control materials at regular intervals to assess the accuracy and precision of the test
+    *   Review control results and take corrective action if necessary
+
+## **Interpreting Results** {-}
+
+*   **Thrombin Time (TT):**
+    *   Reference Range: Varies depending on the reagent and instrument used (e.g., 9-13 seconds)
+    *   Prolonged Thrombin Time: Indicates a deficiency or dysfunction of fibrinogen or the presence of thrombin inhibitors
+        *   Hypofibrinogenemia: Decreased levels of fibrinogen
+        *   Dysfibrinogenemia: Abnormal fibrinogen molecule that does not clot properly
+        *   Heparin: Inhibits thrombin activity
+        *   Direct Thrombin Inhibitors (DTIs): Dabigatran, argatroban, bivalirudin
+        *   Fibrin Degradation Products (FDPs): Can interfere with fibrin polymerization
+        *   Amyloidosis: Causes fibrin to form large, poorly formed clots
+
+## **Factors Affecting Thrombin Time Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Incorrect Blood-to-Anticoagulant Ratio: Underfilling or overfilling the collection tube
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Fibrinogen can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the coagulation analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Interfering Substances: High levels of paraproteins (e.g., in multiple myeloma) can interfere with clot detection
+
+*   **Patient-Related Variables:**
+
+    *   Medications: Heparin, direct thrombin inhibitors, and other anticoagulants
+    *   Liver Disease: Impairs the synthesis of fibrinogen
+    *   Disseminated Intravascular Coagulation (DIC): Consumption of fibrinogen
+    *   Inherited Fibrinogen Disorders: Afibrinogenemia, hypofibrinogenemia, dysfibrinogenemia
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the thrombin time result is inconsistent with the patient's clinical presentation or previous results:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Ensure that the correct blood-to-anticoagulant ratio was used
+    *   Verify the instrument and reagent quality control results
+    *   Investigate potential interfering substances
+    *   Review the patient's medication list and medical history
+    *   Consider performing additional tests to investigate fibrinogen abnormalities (see below)
+
+## **Reflex Testing** {-}
+
+*   If the thrombin time is prolonged, further testing may be performed to determine the cause of the prolongation:
+
+    *   Reptilase Time: Measures the time it takes for a clot to form after the addition of reptilase (an enzyme that cleaves fibrinogen)
+        *   Normal Reptilase Time: Suggests the presence of heparin or a direct thrombin inhibitor
+        *   Prolonged Reptilase Time: Suggests a deficiency or dysfunction of fibrinogen
+    *   Fibrinogen Assay: Measures the concentration of fibrinogen in the plasma
+        *   Low Fibrinogen: Suggests hypofibrinogenemia or afibrinogenemia
+        *   Normal Fibrinogen: Suggests dysfibrinogenemia or the presence of a thrombin inhibitor
+    *   Thrombin Inhibitor Assay: To detect and quantify thrombin inhibitors
+
+## **Key Terms** {-}
+
+*   **Thrombin Time (TT):** A test that measures the time it takes for a clot to form after the addition of thrombin
+*   **Thrombin:** A key enzyme in the coagulation cascade that converts fibrinogen to fibrin
+*   **Fibrinogen:** A protein (Factor I) that is converted to fibrin, the main component of a blood clot
+*   **Reptilase Time:** A test that measures the time it takes for a clot to form after the addition of reptilase
+*   **Hypofibrinogenemia:** Reduced levels of fibrinogen
+*   **Dysfibrinogenemia:** Presence of a dysfunctional fibrinogen molecule
+*   **Thrombin Inhibitor:** A substance that inhibits the activity of thrombin
+*   **Pre-analytical Variable:** A variable that can affect the results of a test that occurs before analysis
+*   **Analytical Variable:** A variable that can affect the results of a test that occurs during analysis

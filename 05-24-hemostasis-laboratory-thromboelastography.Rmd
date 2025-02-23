@@ -1,0 +1,171 @@
+# Thromboelastography {-}
+
+## **Overview of Thromboelastography (TEG)** {-}
+
+*   **Definition:** Thromboelastography (TEG) and rotational thromboelastometry (ROTEM) are viscoelastic hemostatic assays that provide a comprehensive assessment of hemostasis, including:
+    *   Coagulation: The formation of fibrin clot
+    *   Platelet Function: The contribution of platelets to clot strength
+    *   Fibrinolysis: The breakdown of the clot
+*   **Principle:**
+    *   Whole Blood Analysis: TEG analyzes the entire coagulation process in whole blood, providing a more comprehensive assessment of hemostasis than traditional plasma-based coagulation tests (PT and aPTT)
+    *   Viscoelastic Measurements: Measures the viscoelastic properties of the developing clot over time, including:
+        *   Clot Strength
+        *   Clotting Time
+        *   Fibrinolysis
+    *   Dynamic Assessment: Provides a dynamic assessment of clot formation and breakdown, reflecting the interactions between coagulation factors, platelets, and fibrinolytic proteins
+*   **Clinical Significance:**
+    *   Assessment of Bleeding Risk: Helps identify patients at risk of bleeding during surgery or other invasive procedures
+    *   Goal-Directed Hemostatic Therapy: Guides the use of blood products and hemostatic agents in bleeding patients
+    *   Monitoring Anticoagulation: Can be used to monitor the effects of anticoagulants
+    *   Diagnosis of Coagulation Disorders: Can help identify inherited or acquired coagulation disorders
+    *   Assessment of Trauma-Induced Coagulopathy: Useful for assessing coagulopathy in trauma patients
+*   **Instruments:**
+    *   Thromboelastograph (TEG): Older technology, measures the movement of a pin suspended in a cup of whole blood
+    *   Rotational Thromboelastometry (ROTEM): Newer technology, measures the rotation of a pin suspended in a cup of whole blood
+
+## **Components of the TEG/ROTEM System** {-}
+
+*   **Instrumentation:**
+    *   TEG or ROTEM Analyzer: The instrument that performs the viscoelastic measurements
+    *   Cups and Pins: Disposable cups and pins that are used to hold the blood sample and measure clot formation
+    *   Pipettes: Accurate pipettes for measuring reagents and samples
+    *   Temperature Control: System to maintain the sample at a constant temperature (typically 37°C)
+*   **Reagents:**
+    *   Activators: Reagents that activate the coagulation cascade
+        *   Kaolin: A contact activator that initiates the intrinsic pathway
+        *   Tissue Factor (TF): Activates the extrinsic pathway
+        *   Ellagic Acid: Activates the contact pathway
+    *   Inhibitors (Optional): Used to assess specific components of the coagulation system
+        *   Cytochalasin D: Inhibits platelet function
+        *   Aprotinin: Inhibits fibrinolysis
+    *   Quality Control Materials: Commercially available control materials are used to monitor the performance of the instrument
+*   **Sample Preparation:**
+
+    *   Whole Blood Collection:
+        *   Collect whole blood in a specialized tube recommended by the manufacturer (typically a citrate tube with a specific formulation)
+        *   Ensure that the tube is filled to the correct volume to maintain the proper blood-to-anticoagulant ratio
+        *   Gentle Mixing: Gently invert the collection tube 5-10 times to mix the blood with the anticoagulant
+    *   Timely Analysis:
+        *   Test the sample within the timeframe recommended by the manufacturer (typically within 1-4 hours of collection)
+        *   Store the sample at room temperature (22-25°C) until testing
+
+## **Procedure for Performing TEG/ROTEM** {-}
+
+1.  Sample Preparation:
+    *   Follow the instrument manufacturer's instructions for sample preparation
+    *   Ensure that the blood sample is well-mixed and free of clots
+    
+2.  Reagent Preparation:
+    *   Prepare the reagents according to the manufacturer's instructions
+    *   Ensure that the reagents are properly stored and are not expired
+    
+3.  Instrument Setup:
+    *   Turn on the instrument and allow it to warm up
+    *   Load the appropriate cups and pins into the instrument
+    *   Enter the patient information and test order into the instrument software
+    
+4.  Running the Assay:
+    *   Pipette a specific volume of the whole blood sample into the cup
+    *   Add the appropriate activator (e.g., kaolin or tissue factor) to the sample
+    *   Start the test and allow the instrument to perform the analysis
+    *   The instrument will continuously monitor the viscoelastic properties of the developing clot and generate a TEG or ROTEM tracing
+
+## **Interpreting TEG/ROTEM Results** {-}
+
+*   **Key Parameters:**
+
+    *   R (Reaction Time):
+        *   The time from the start of the test until the first evidence of clot formation (initial fibrin formation)
+        *   Represents the activity of the coagulation factors
+        *   Prolonged R: Indicates a deficiency or inhibition of coagulation factors
+    *   K (Clot Formation Time):
+        *   The time from the end of R until the clot reaches a certain level of strength
+        *   Represents the rate of fibrin clot formation
+        *   Prolonged K: Suggests a deficiency or dysfunction of fibrinogen
+    *   α (Alpha Angle):
+        *   The angle between the R and K parameters
+        *   Reflects the speed of clot formation
+        *   Decreased Alpha Angle: Suggests a deficiency or dysfunction of fibrinogen or platelets
+    *   MA (Maximum Amplitude):
+        *   The maximum strength of the clot, reflecting the interaction of platelets and fibrin
+        *   Represents the contribution of platelets to clot strength
+        *   Low MA: Suggests thrombocytopenia or platelet dysfunction
+    *   CI (Clotting Index):
+        *   A global measure of hemostasis
+    *   LY30 (Lysis at 30 Minutes):
+        *   The percentage decrease in clot amplitude 30 minutes after MA
+        *   Reflects the degree of fibrinolysis
+        *   Increased LY30: Suggests hyperfibrinolysis
+
+*   **Interpretation Based on Specific Clinical Scenarios:**
+
+    *   Bleeding Patient:
+        *   Prolonged R: Factor deficiency (e.g., hemophilia)
+        *   Prolonged K or Decreased α: Fibrinogen deficiency or dysfunction
+        *   Low MA: Thrombocytopenia or platelet dysfunction
+        *   Increased LY30: Hyperfibrinolysis (e.g., DIC)
+    *   Thrombotic Patient:
+        *   Shortened R and K: Hypercoagulability
+        *   Increased MA: Increased platelet reactivity
+        *   Decreased LY30: Impaired fibrinolysis
+    *   Monitoring Anticoagulation:
+        *   Heparin: Prolonged R and K, normal MA and LY30
+        *   Direct Thrombin Inhibitors: Prolonged R and K, normal MA and LY30
+        *   Fibrinolytic Agents: Increased LY30
+
+## **Factors Affecting TEG/ROTEM Results** {-}
+
+*   **Pre-Analytical Variables:**
+
+    *   Improper Collection Technique: Tissue thromboplastin contamination or hemolysis
+    *   Clotted Sample: Invalidates the results
+    *   Delayed Testing: Coagulation factors and platelets can degrade over time
+    *   Improper Storage: Incorrect storage temperatures can affect results
+*   **Analytical Variables:**
+
+    *   Instrument Malfunction: Ensure proper calibration and maintenance of the analyzer
+    *   Reagent Problems: Use fresh, properly stored reagents and follow the manufacturer's instructions
+    *   Air Bubbles: Avoid introducing air bubbles into the sample or reagents
+    *   Temperature: Maintain a constant temperature (37°C) during the assay
+
+*   **Patient-Related Variables:**
+
+    *   Medications: Anticoagulants, antiplatelet agents, and other medications can affect TEG/ROTEM results
+    *   Underlying Medical Conditions: Liver disease, kidney disease, and other conditions can affect coagulation and fibrinolysis
+    *   Hypothermia: Can prolong clotting times
+    *   Hemodilution: Can affect results in trauma patients
+
+## **Troubleshooting Erroneous Results** {-}
+
+*   If the TEG/ROTEM results are unexpected or inconsistent with the patient's clinical presentation:
+
+    *   Check the sample for clots or hemolysis
+    *   Repeat the test on a fresh sample
+    *   Verify the instrument and reagent quality control results
+    *   Ensure that the sample and reagents were handled and stored properly
+    *   Review the patient's medication list and medical history
+    *   Consult with a pathologist or coagulation expert
+
+## **Reflex Testing** {-}
+
+*   If the TEG/ROTEM results are abnormal, additional testing may be performed to:
+
+    *   Identify specific factor deficiencies: Factor assays
+    *   Detect platelet function defects: Platelet aggregation studies, flow cytometry
+    *   Quantify fibrinolysis: D-dimer assay, plasminogen activator inhibitor-1 (PAI-1) assay
+    *   Assess heparin or direct thrombin inhibitor (DTI) levels
+
+## **Key Terms** {-}
+
+*   **Thromboelastography (TEG):** A viscoelastic hemostatic assay that measures clot formation, strength, and breakdown
+*   **Rotational Thromboelastometry (ROTEM):** A similar viscoelastic hemostatic assay that uses a different type of instrument
+*   **R (Reaction Time):** Time to initial clot formation
+*   **K (Clot Formation Time):** Time to reach a certain clot strength
+*   **α (Alpha Angle):** Rate of clot formation
+*   **MA (Maximum Amplitude):** Maximum clot strength
+*   **CI (Clotting Index):** A global measure of hemostasis
+*   **LY30 (Lysis at 30 Minutes):** Percentage decrease in clot amplitude 30 minutes after MA
+*   **Hypercoagulability:** An increased tendency to clot
+*   **Hypofibrinolysis:** Decreased breakdown of fibrin clots
+*   **Hyperfibrinolysis:** Excessive breakdown of fibrin clots
+*   **Point of Care Testing (POCT):** Performance of laboratory tests at or near the site of patient care

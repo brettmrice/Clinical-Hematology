@@ -1,0 +1,31 @@
+# Other Studies {-}
+
+## **Overview or Other Studies (ESR, G6PD, Heinz Body)** {-}
+
+This study guide will cover three key laboratory tests that, while not part of the standard CBC, can provide valuable information for diagnosing and monitoring various conditions, particularly those involving inflammation, hemolysis, and enzyme deficiencies.
+
+## **Erythrocyte Sedimentation Rate (ESR)** {-}
+
+*   **Definition:** The erythrocyte sedimentation rate (ESR) is a nonspecific test that measures the rate at which red blood cells (RBCs) sediment (settle) in a vertical tube over a period of one hour
+
+## **Glucose-6-Phosphate Dehydrogenase (G6PD) Assay** {-}
+
+*   **Definition:** A quantitative or qualitative test used to measure the activity of the G6PD enzyme in red blood cells (RBCs)
+
+## **Heinz Body Stain** {-}
+
+*   **Definition:** A staining technique used to visualize Heinz bodies in red blood cells (RBCs)
+
+## **Key Terms** {-}
+
+*   **Erythrocyte Sedimentation Rate (ESR):** A nonspecific test that measures the rate at which red blood cells settle in a tube
+*   **Acute-Phase Proteins:** Proteins whose serum concentrations increase or decrease in response to inflammation
+*   **Rouleaux Formation:** Stacking of red blood cells
+*   **G6PD (Glucose-6-Phosphate Dehydrogenase):** An enzyme that protects red blood cells from oxidative damage
+*   **Heinz Bodies:** Inclusions composed of denatured hemoglobin
+*   **Supravital Stain:** A dye used to stain living cells
+*   **Hemolysis:** Destruction of red blood cells
+*   **Normocytic Anemia:** Anemia with a normal MCV
+*   **Microcytic Anemia:** Anemia with a low MCV
+*   **Macrocytic Anemia:** Anemia with a high MCV
+*   **Hemoglobinopathy:** A disorder that occurs from a mutation that results in abnormal structure

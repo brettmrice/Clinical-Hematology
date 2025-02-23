@@ -1,0 +1,136 @@
+# BCR/ABL1 {-}
+
+## **Overview of the *BCR/ABL1* Fusion Gene** {-}
+
+*   **Definition:** The *BCR-ABL1* fusion gene is an abnormal gene formed by a reciprocal translocation between chromosomes 9 and 22, denoted as t(9;22)(q34.1;q11.2)
+*   **Historical Context:** This translocation results in the formation of the Philadelphia chromosome (Ph chromosome), named after the city where it was discovered
+*   **Significance:**
+    *   Diagnostic Marker for CML: The presence of *BCR-ABL1* is the defining characteristic of Chronic Myeloid Leukemia (CML)
+    *   Prognostic Marker: In CML, the level of *BCR-ABL1* transcript is used to monitor treatment response and predict the risk of disease progression
+    *   Diagnostic and Prognostic Marker for ALL: Present in some cases of Acute Lymphoblastic Leukemia (ALL), particularly adult B-ALL, and is associated with a poorer prognosis
+    *   Target for Therapy: The BCR-ABL1 fusion protein is a tyrosine kinase, making it a target for specific tyrosine kinase inhibitors (TKIs)
+
+## **Molecular Basis of the *BCR-ABL1* Fusion Gene** {-}
+
+*   **Normal Genes:**
+    *   *ABL1* (Abelson murine leukemia viral oncogene homolog 1): Located on chromosome 9 (9q34.1)
+        *   Encodes a non-receptor tyrosine kinase involved in cell growth, differentiation, and survival
+    *   *BCR* (Breakpoint Cluster Region): Located on chromosome 22 (22q11.2)
+        *   Encodes a serine/threonine kinase involved in signal transduction
+*   **Translocation Process:**
+    *   A reciprocal translocation occurs between chromosomes 9 and 22:
+        *   Part of the *ABL1* gene from chromosome 9 translocates to the *BCR* gene on chromosome 22
+        *   Part of the *BCR* gene from chromosome 22 translocates to chromosome 9
+*   **Resulting Fusion Gene:**
+    *   The translocation creates a new fusion gene, *BCR-ABL1*, on the Philadelphia chromosome (derivative chromosome 22)
+    *   The *BCR-ABL1* fusion gene encodes a 210 kDa protein that has constitutive tyrosine kinase activity
+
+## **Pathophysiology** {-}
+
+*   **Constitutive Tyrosine Kinase Activity:**
+    *   The BCR-ABL1 fusion protein has uncontrolled tyrosine kinase activity, meaning it is always "switched on"
+    *   This unregulated kinase activity leads to:
+        *   Uncontrolled cell proliferation
+        *   Inhibition of apoptosis (programmed cell death)
+        *   Genomic instability
+    *   These effects result in the clonal expansion of malignant myeloid cells (in CML) or lymphoid cells (in Ph+ ALL)
+*   **Downstream Signaling Pathways:**
+    *   BCR-ABL1 activates multiple downstream signaling pathways, including:
+        *   RAS/MAPK pathway
+        *   PI3K/AKT pathway
+        *   JAK/STAT pathway
+    *   These pathways regulate cell growth, survival, and differentiation
+
+## **Laboratory Detection of BCR-ABL1** {-}
+
+*   **Cytogenetic Analysis (Karyotyping):**
+    *   *Principle:* Visualizes the Philadelphia chromosome (Ph chromosome) resulting from the t(9;22) translocation
+    *   *Procedure:*
+        *   Cells are cultured, arrested in metaphase, and stained to visualize the chromosomes
+        *   Karyotype is analyzed to identify the Ph chromosome
+    *   *Reporting:*
+        *   t(9;22)(q34.1;q11.2)
+    *   *Advantages:*
+        *   Can detect other chromosomal abnormalities in addition to the Ph chromosome
+    *   *Limitations:*
+        *   Requires viable cells and cell culture
+        *   Time-consuming
+        *   Cannot detect cryptic translocations or variant translocations
+
+*   **Fluorescence In Situ Hybridization (FISH):**
+    *   *Principle:* Uses fluorescently labeled DNA probes to detect the *BCR* and *ABL1* genes and the *BCR-ABL1* fusion gene
+    *   *Procedure:*
+        *   Interphase FISH: Performed on uncultured bone marrow cells
+        *   Metaphase FISH: Performed on cultured cells
+        *   Hybridization: Fluorescent probes are hybridized to the chromosomes on a slide
+        *   Microscopic Examination: The slide is examined under a fluorescence microscope, and the number and location of the fluorescent signals are counted
+    *   *Advantages:*
+        *   More rapid than karyotyping
+        *   Can be performed on non-dividing cells
+        *   Can detect cryptic translocations
+    *   *Limitations:*
+        *   Only detects known chromosomal abnormalities for which probes are available
+        *   Cannot detect novel translocations or complex rearrangements
+
+*   **Reverse Transcription Polymerase Chain Reaction (RT-PCR):**
+    *   *Principle:* Amplifies and detects the *BCR-ABL1* fusion transcript (mRNA)
+    *   *Procedure:*
+        1.  RNA Extraction: Extract RNA from bone marrow aspirate or peripheral blood
+        2.  Reverse Transcription: Convert RNA to complementary DNA (cDNA) using reverse transcriptase
+        3.  Amplification: Use PCR to amplify the *BCR-ABL1* fusion transcript using specific primers
+        4.  Detection: Detect the amplified DNA product using gel electrophoresis or real-time PCR
+    *   *Qualitative RT-PCR:*
+        *   Detects the presence or absence of the *BCR-ABL1* transcript
+        *   Used for initial diagnosis
+    *   *Quantitative Real-Time PCR (RQ-PCR):*
+        *   Measures the level of *BCR-ABL1* transcript
+        *   Used for monitoring minimal residual disease (MRD) and assessing treatment response
+        *   Results are typically reported as a percentage of *BCR-ABL1* transcript relative to a control gene (e.g., *ABL1* or *GUS*)
+        *   The International Scale (IS) is used to standardize *BCR-ABL1* transcript levels across different laboratories
+    *   *Advantages:*
+        *   High sensitivity and specificity
+        *   Can quantify the amount of *BCR-ABL1* transcript
+        *   Rapid turnaround time
+    *   *Limitations:*
+        *   Only detects known fusion transcripts for which primers are available
+        *   Requires specialized equipment and expertise
+        *   Susceptible to contamination
+
+*   **Next-Generation Sequencing (NGS):**
+    *   *Principle:* Massively parallel sequencing technology that can detect the *BCR-ABL1* fusion gene and other mutations
+    *   *Advantages:*
+        *   Can detect both known and novel fusion genes and mutations
+        *   Can identify co-occurring mutations that may affect prognosis or treatment response
+    *   *Limitations:*
+        *   More complex and expensive than PCR-based methods
+        *   Requires bioinformatics expertise for data analysis
+
+## **Clinical Interpretation** {-}
+
+*   **CML Diagnosis:**
+    *   A diagnosis of CML requires the presence of the *BCR-ABL1* fusion gene or the Philadelphia chromosome
+    *   The *BCR-ABL1* transcript level is used to monitor treatment response
+*   **CML Response to TKI Therapy:**
+    *   Hematologic Response: Normalization of blood counts
+    *   Cytogenetic Response: Reduction or elimination of the Ph chromosome
+    *   Molecular Response: Reduction in *BCR-ABL1* transcript levels, as measured by RQ-PCR
+        *   Major Molecular Response (MMR): *BCR-ABL1* transcript level ≤ 0.1% on the International Scale (IS)
+        *   Deep Molecular Response (MR4, MR4.5): Very low or undetectable *BCR-ABL1* transcript levels
+*   **Prognosis:**
+    *   The level of *BCR-ABL1* transcript is a key prognostic factor in CML
+    *   Patients who achieve a deep molecular response have a lower risk of disease progression
+*   **Resistance to TKI Therapy:**
+    *   Mutations in the *ABL1* kinase domain can lead to resistance to tyrosine kinase inhibitors (TKIs)
+    *   *ABL1* kinase domain mutation testing is performed to identify resistance mutations and guide treatment decisions
+
+## **Key Terms** {-}
+
+*   **BCR-ABL1* Fusion Gene:** A fusion gene created by the translocation between chromosomes 9 and 22, resulting in the Philadelphia chromosome
+*   **Philadelphia Chromosome (Ph Chromosome):** The derivative chromosome 22 that contains the *BCR-ABL1* fusion gene
+*   **Translocation:** The transfer of genetic material from one chromosome to another
+*   **Tyrosine Kinase Inhibitor (TKI):** A drug that inhibits the activity of tyrosine kinases, such as the BCR-ABL1 protein
+*   **Minimal Residual Disease (MRD):** Small numbers of residual cancer cells that remain after treatment
+*   **Major Molecular Response (MMR):** A significant reduction in *BCR-ABL1* transcript level
+*   **Deep Molecular Response:** Very low or undetectable *BCR-ABL1* transcript levels
+*   **ABL1 Kinase Domain Mutation:** Mutations in the *ABL1* kinase domain that can cause resistance to TKIs
+*   **FISH (Fluorescence In Situ Hybridization):** Uses fluorescent probes to identify certain mutations in the body

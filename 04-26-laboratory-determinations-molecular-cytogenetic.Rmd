@@ -1,0 +1,147 @@
+# Molecular/Cytogenetic {-}
+
+## **Overview of Molecular and Cytogenetic Testing in Hematology** {-}
+
+*   **Definition:** Laboratory techniques used to identify genetic abnormalities (chromosomal and molecular) in blood and bone marrow cells
+*   **Clinical Significance:**
+    *   Diagnosis and Classification: Essential for diagnosing and classifying hematologic malignancies, including leukemias, lymphomas, and myeloproliferative neoplasms
+    *   Prognosis: Many genetic abnormalities have prognostic significance and can help predict the course of the disease
+    *   Therapeutic Decision-Making: Some genetic abnormalities are targets for specific therapies
+    *   Monitoring Treatment Response: Used to detect minimal residual disease (MRD) and monitor treatment response
+*   **Types of Tests:**
+    *   Cytogenetic Analysis (Karyotyping)
+    *   Fluorescence In Situ Hybridization (FISH)
+    *   Polymerase Chain Reaction (PCR)
+    *   Next-Generation Sequencing (NGS)
+
+## **Cytogenetic Analysis (Karyotyping)** {-}
+
+*   **Principle:**
+    *   Analyzes the structure and number of chromosomes in a cell
+    *   Cells are cultured, arrested in metaphase, and then stained to visualize the chromosomes
+    *   Chromosomes are arranged in a standardized format (karyotype)
+*   **Procedure:**
+    1.  Sample Collection: Bone marrow aspirate or peripheral blood
+    2.  Cell Culture: Cells are cultured to increase the number of cells in metaphase
+    3.  Chromosome Preparation: Cells are treated with a chemical (e.g., colchicine) to arrest them in metaphase, then lysed and fixed
+    4.  Staining: Chromosomes are stained with Giemsa or other banding techniques to reveal their structure
+    5.  Microscopic Examination: A trained cytogeneticist examines the stained chromosomes under a microscope
+    6.  Karyotype Analysis: Chromosomes are arranged in a standardized format, and any abnormalities (e.g., translocations, deletions, inversions) are identified
+*   **Reporting:**
+    *   Karyotype is described using the International System for Human Cytogenetic Nomenclature (ISCN)
+    *   Example: 46,XY,t(9;22)(q34;q11.2) indicates a male karyotype with a translocation between chromosomes 9 and 22
+*   **Advantages:**
+    *   Provides a global view of the entire genome
+    *   Can detect complex chromosomal rearrangements
+*   **Limitations:**
+    *   Requires viable cells and cell culture
+    *   Time-consuming
+    *   Limited resolution (cannot detect small deletions or point mutations)
+    *   Cannot detect abnormalities in non-dividing cells
+
+## **Fluorescence In Situ Hybridization (FISH)** {-}
+
+*   **Principle:**
+    *   Uses fluorescently labeled DNA probes that bind to specific DNA sequences on chromosomes
+    *   Allows for the detection of specific chromosomal abnormalities (e.g., translocations, deletions, amplifications) in individual cells
+*   **Procedure:**
+    1.  Prepare a Cell Suspension: Bone marrow aspirate, peripheral blood, or tissue sample
+    2.  Hybridization: Fluorescently labeled DNA probes are hybridized to the chromosomes on a slide
+    3.  Washing: Unbound probes are washed away
+    4.  Microscopic Examination: The slide is examined under a fluorescence microscope, and the number and location of the fluorescent signals are counted
+*   **Types of FISH Probes:**
+    *   Break-Apart Probes: Detect chromosomal translocations by flanking the breakpoint region; a normal cell will show two fusion signals, while a cell with the translocation will show separated signals
+    *   Fusion Probes: Detect chromosomal translocations by hybridizing to both fusion partners; a normal cell will show separate signals, while a cell with the translocation will show a fusion signal
+    *   Enumeration Probes: Detect the number of copies of a specific gene or chromosome; used to identify deletions or amplifications
+*   **Advantages:**
+    *   Relatively rapid turnaround time compared to karyotyping
+    *   Can be performed on non-dividing cells
+    *   Can detect submicroscopic deletions and translocations
+*   **Limitations:**
+    *   Only detects known chromosomal abnormalities for which probes are available
+    *   Cannot detect novel or complex chromosomal rearrangements
+
+## **Molecular Testing (PCR and Next-Generation Sequencing)** {-}
+
+*   **Polymerase Chain Reaction (PCR):**
+    *   *Principle:* Amplifies specific DNA sequences, allowing for the detection of gene mutations and fusion genes
+    *   *Procedure:*
+        1.  DNA Extraction: Extract DNA from bone marrow aspirate or peripheral blood
+        2.  Amplification: Use PCR to amplify the target DNA sequence using specific primers
+        3.  Detection: Detect the amplified DNA product using gel electrophoresis, real-time PCR, or other methods
+    *   *Real-Time Quantitative PCR (RQ-PCR):*
+        *   Allows for the quantification of the amplified DNA product
+        *   Used for monitoring minimal residual disease (MRD) in leukemia
+    *   *Advantages:*
+        *   High sensitivity and specificity
+        *   Relatively rapid turnaround time
+    *   *Limitations:*
+        *   Can only detect known mutations or fusion genes for which primers are available
+        *   Cannot detect novel or unknown genetic abnormalities
+
+*   **Next-Generation Sequencing (NGS):**
+    *   *Principle:* Massively parallel sequencing technology that allows for the simultaneous sequencing of millions of DNA fragments
+    *   *Procedure:*
+        1.  DNA Extraction: Extract DNA from bone marrow aspirate or peripheral blood
+        2.  Library Preparation: Prepare a DNA library by fragmenting the DNA and adding adaptors
+        3.  Sequencing: Sequence the DNA fragments using an NGS platform
+        4.  Data Analysis: Align the sequencing reads to a reference genome and identify gene mutations, insertions, deletions, and other genomic alterations
+    *   *Advantages:*
+        *   Can detect both known and novel mutations
+        *   Can detect multiple mutations simultaneously
+        *   Can be used to identify gene expression changes
+    *   *Limitations:*
+        *   More complex and expensive than PCR-based methods
+        *   Requires bioinformatics expertise for data analysis
+
+## **Key Genetic Abnormalities in Myeloid Neoplasms** {-}
+
+Here's a table summarizing the key genetic abnormalities and associated myeloid neoplasms (as defined by the WHO classification):
+
+| Genetic Abnormality                         | Myeloid Neoplasm                                        | Clinical Significance                                                                                                |
+| ------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| t(9;22)(q34.1;q11.2); BCR-ABL1            | Chronic Myeloid Leukemia (CML)                          | Diagnostic hallmark of CML; target for tyrosine kinase inhibitors (TKIs)                                      |
+| JAK2 V617F Mutation                         | Polycythemia Vera (PV), Essential Thrombocythemia (ET), Primary Myelofibrosis (PMF) | Diagnostic and prognostic marker; target for JAK2 inhibitors (e.g., ruxolitinib)                                |
+| t(15;17)(q24.1;q21.1); PML-RARA           | Acute Promyelocytic Leukemia (APL)                       | Diagnostic hallmark of APL; target for all-trans retinoic acid (ATRA) and arsenic trioxide (ATO)                     |
+| inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11 | Acute Myeloid Leukemia (AML) with inv(16)             | Favorable prognosis                                                                                                |
+| t(8;21)(q22;q22); RUNX1-RUNX1T1               | Acute Myeloid Leukemia (AML) with t(8;21)               | Favorable prognosis                                                                                                |
+| NPM1 Mutation                               | Acute Myeloid Leukemia (AML) with mutated NPM1         | Favorable prognosis in the absence of FLT3-ITD                                                                     |
+| FLT3-ITD Mutation                             | Acute Myeloid Leukemia (AML)                           | Adverse prognosis                                                                                                    |
+| del(5q)                                       | Myelodysplastic Syndrome (MDS) with isolated del(5q)   | Good response to lenalidomide                                                                                           |
+| SF3B1 Mutation                                | MDS with Ringed Sideroblasts (MDS-RS)                   | Better prognosis; may be responsive to luspatercept                               |
+
+
+## **Specific Genetic Abnormalities** {-}
+
+*   **BCR-ABL1 Fusion Gene (Chronic Myeloid Leukemia)**
+    *   Created by the reciprocal translocation t(9;22)(q34.1;q11.2), resulting in the Philadelphia chromosome (Ph chromosome)
+    *   Results in a fusion protein with constitutive tyrosine kinase activity, driving uncontrolled cell proliferation
+    *   Detected by:
+        *   Cytogenetic analysis (karyotyping)
+        *   FISH (fluorescence in situ hybridization)
+        *   RT-PCR (reverse transcription polymerase chain reaction): Used to quantify *BCR-ABL1* transcript levels and monitor minimal residual disease (MRD)
+        
+*   **JAK2 V617F Mutation (MPNs)**
+    *   A point mutation in the *JAK2* gene (Janus kinase 2)
+    *   Leads to constitutive activation of the JAK-STAT signaling pathway, resulting in increased cell proliferation
+    *   Found in:
+        *   Polycythemia Vera (PV): >95% of cases
+        *   Essential Thrombocythemia (ET): ~50-60% of cases
+        *   Primary Myelofibrosis (PMF): ~50-60% of cases
+    *   Detected by:
+        *   PCR-based assays
+
+## **Key Terms** {-}
+
+*   **Cytogenetic Analysis (Karyotyping):** The study of chromosomes and their abnormalities
+*   **FISH (Fluorescence In Situ Hybridization):** A technique that uses fluorescent probes to detect specific DNA sequences on chromosomes
+*   **PCR (Polymerase Chain Reaction):** A technique to amplify specific DNA sequences
+*   **Next-Generation Sequencing (NGS):** A high-throughput sequencing technology
+*   **Mutation:** A change in the DNA sequence of a gene
+*   **Translocation:** The transfer of genetic material from one chromosome to another
+*   **Deletion:** The loss of a portion of a chromosome
+*   **Inversion:** The reversal of a segment of a chromosome
+*   **Fusion Gene:** A gene formed by the fusion of two separate genes due to a chromosomal translocation or deletion
+*   **Immunophenotyping:**
+Technique that uses antibodies to identify cell surface and intracellular markers,
+*   **Minimal Residual Disease (MRD):** Small numbers of residual cancer cells that remain after treatment

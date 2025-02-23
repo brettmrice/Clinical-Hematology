@@ -27,16 +27,16 @@
 *   **Heparin-Induced Thrombocytopenia (HIT):**
     *   **Definition:** A prothrombotic disorder caused by antibodies against heparin-platelet factor 4 (PF4) complexes
 
-## **Decreased Platelet Production**
+## **Decreased Platelet Production** {-}
 
 *   **Bone Marrow Failure:**
 *   **Medications:**
 
-## **Pseudothrombocytopenia (Spurious Thrombocytopenia)**
+## **Pseudothrombocytopenia (Spurious Thrombocytopenia)** {-}
 
 *   **Definition:** A falsely low platelet count due to in vitro platelet clumping or satellitism
 
-## **General Laboratory Tests**
+## **General Laboratory Tests** {-}
 
 *   **Complete Blood Count (CBC) with Peripheral Blood Smear:** Essential for diagnosing and classifying thrombocytopenia
 *   **Reticulocyte Count:** Assesses bone marrow response
@@ -48,7 +48,7 @@
 *   **ADAMTS13 Activity Assay:** To diagnose TTP
 *   **HIT Antibody Testing:** To diagnose heparin-induced thrombocytopenia
 
-## **Key Terms**
+## **Key Terms** {-}
 
 *   **Thrombocytopenia:** Decreased platelet count
 *   **Purpura:** Bruising due to bleeding under the skin

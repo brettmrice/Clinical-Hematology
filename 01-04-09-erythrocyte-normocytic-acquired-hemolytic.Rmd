@@ -1,6 +1,6 @@
 # Acquired Hemolytic {-}
 
-## **Overview of Acquired [Immune-Mediated] Hemolytic Anemias**
+## **Overview of Acquired [Immune-Mediated] Hemolytic Anemias** {-}
 
 *   **Definition:** Hemolysis (RBC destruction) that occurs due to the binding of antibodies and/or complement proteins to the surface of RBCs
 *   **Hallmark:** A positive Direct Antiglobulin Test (DAT), also known as a Coombs test. The DAT detects the presence of antibodies or complement proteins bound to RBCs
@@ -14,7 +14,7 @@
         *   Hemolytic Disease of the Fetus and Newborn (HDFN)
         *   Hemolytic Transfusion Reactions
 
-## **Mechanisms of Immune-Mediated Hemolysis**
+## **Mechanisms of Immune-Mediated Hemolysis** {-}
 *   **The Players**
     *   **Red Blood Cells (RBCs):** Our innocent bystanders in this scenario, carrying antigens on their surface that can be mistakenly targeted by the immune system
     *   **Antibodies:** Immunoglobulins (IgG or IgM) produced by B lymphocytes that can bind to specific antigens on the RBC surface
@@ -79,7 +79,7 @@
             *   Breaking down the RBCs and recycling their components
 
 
-## **Types of Immune-Mediated Hemolytic Anemias**
+## **Types of Immune-Mediated Hemolytic Anemias** {-}
 
 *   **Autoimmune Hemolytic Anemia (AIHA)**
     *   **Definition:** Anemia caused by autoantibodies directed against the individual's own RBC antigens
@@ -192,7 +192,7 @@
             *   Supportive care (IV fluids, vasopressors)
             *   Manage complications (e.g., acute renal failure, DIC)
 
-## **General Laboratory Findings in Immune-Mediated Hemolytic Anemias**
+## **General Laboratory Findings in Immune-Mediated Hemolytic Anemias** {-}
 
 *   **Complete Blood Count (CBC):**
     *   Anemia (low HGB and HCT)
@@ -217,7 +217,7 @@
         *   HDFN: Positive for IgG
         *   Hemolytic Transfusion Reactions: Positive for IgG, complement, or both
 
-## **Key Terms**
+## **Key Terms** {-}
 
 *   **Autoimmune Hemolytic Anemia (AIHA):** Anemia caused by autoantibodies against RBCs
 *   **Warm AIHA:** IgG-mediated hemolysis at body temperature
