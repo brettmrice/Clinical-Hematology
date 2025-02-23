@@ -4,6 +4,7 @@ author: "Brett M. Rice"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
+template: bs4_book.html
 documentclass: book
 bibliography:
 - book.bib

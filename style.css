@@ -144,7 +144,9 @@ form[role="search"] > span {
 
 
 .chapter-nav {
-  margin-bottom: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 0;
 }
 .chapter-nav .prev,
 .chapter-nav .next {
@@ -199,6 +201,9 @@ pre code {
 
 h1, h2, h3, h4, h5 {
   font-weight: bold;
+}
+main {
+  margin-bottom: 2rem;
 }
 main h2 {
   position: sticky;
