@@ -1,5 +1,5 @@
 --- 
-title: "Clinical Hematology"
+title: "Hematology"
 author: "Brett M. Rice"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
