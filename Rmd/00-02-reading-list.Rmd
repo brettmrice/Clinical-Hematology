@@ -1,0 +1,45 @@
+# Reading List {-}
+
+ASCP makes it clear that their suggested reading/reference list for the Technologist in Hematology, H(ASCP), and the Specialist in Hematology, SH(ASCP), certification exams "is intended only as a partial reference source". The suggested reading/reference list below was last revised on ASCP's website January 2025
+
+## **Journals** {-}
+*   <a href="https://clsjournal.ascls.org/" target="_blank">Clinical Laboratory Science</a>. Published by American Society for Clinical Laboratory Science
+*   <a href="https://academic.oup.com/labmed" target="_blank">Laboratory Medicine</a>. Published by Oxford University Press
+*   <a href="https://www.mlo-online.com/" target="_blank">Medical Laboratory Observer</a>. Published by Endeavor Business Media, LLC
+
+## **Texts** {-}
+
+### **Hematology & Hemostasis** {-}
+*   Glassy, E.F. (2018). <a href="https://estore.cap.org/OA_HTML/xxCAPibeCCtpItmDspRte.jsp?section=10044&item=518857&sitex=10020:22372:US" target="_blank">Color Atlas of Hematology: An Illustrated Field Guide Based on Proficiency Testing</a> (2nd ed.). College of American Pathologists.
+*   Keohane, E.M., et al. (2024). <a href="https://www.amazon.com/Rodaks-Hematology-Clinical-Principles-Applications-dp-0323936504/dp/0323936504" target="_blank">Rodak’s Hematology: Clinical Principles & Applications</a> (7th ed.). St. Louis, MO: Elsevier.
+*   McKenzie, S.B., Landis-Piwowar, K., & Williams, L. (2019). <a href="https://www.amazon.com/Clinical-Laboratory-Hematology-Print-Offer-4th/dp/013470939X" target="_blank">Clinical Laboratory Hematology</a> (4th ed.). New Jersey: Prentice
+Hall.
+*   McPherson, R.A. & Pincus, M.R. (2021). <a href="https://www.amazon.com/Clinical-Diagnosis-Management-Laboratory-Methods-dp-0323673201/dp/0323673201" target="_blank">Henry’s Clinical Diagnosis and Management by Laboratory Methods</a> (24th ed.). Philadelphia: Elsevier.
+*   Means Jr., R.T., et al. (2023). <a href="https://www.amazon.com/Wintrobes-Clinical-Hematology-Robert-Means-dp-1975184696/dp/1975184696/" target="_blank">Wintrobe’s Clinical Hematology</a> (15th ed.). Wolters Kluwer.
+*   WHO Classification of Tumours Editorial Board. (2024). <a href="https://publications.iarc.fr/Book-And-Report-Series/Who-Classification-Of-Tumours/Haematolymphoid-Tumours-2024" target="_blank">WHO Classification of Tumours: Haematolymphoid Tumours,
+Part A</a> (5th ed., Vol. 11). Lyon, France: IARC Press.
+
+### **Body Fluids** {-}
+*   Brunzel, N.A. (2022). <a href="https://www.us.elsevierhealth.com/fundamentals-of-urine-and-body-fluid-analysis-9780323711975.html" target="_blank">Fundamentals of Urine and Body Fluid Analysis</a> (5th ed.). St. Louis, MO: Elsevier.
+*   Galagan, K.A., et al. (2006). <a href="https://estore.cap.org/OA_HTML/xxCAPibeCCtpItmDspRte.jsp?section=10044&item=3102&sitex=10020:22372:US" target="_blank">Color Atlas of Body Fluids: An Illustrated Field Guide Based on Proficiency Testing</a>. College of American Pathologists.
+*   Kjeldsberg, C. & Hussong, J. (2015). <a href="https://store.ascp.org/productlisting/productdetail?productId=12820516" target="_blank">Kjeldsberg’s Body Fluid Analysis</a>. Chicago, IL: ASCP Press.
+*   Strasinger, S.K. & Di Lorenzo, M.S. (2021). <a href="https://www.amazon.com/Urinalysis-Body-Fluids-Susan-Strasinger-dp-0803675828/dp/0803675828" target="_blank">Urinalysis and Body Fluids</a> (7th ed.). Philadelphia: F.A. Davis Company.
+
+### **Laboratory Operations** {-}
+*   Davis, D.L. (2016). <a href="https://store.ascp.org/productlisting/productdetail?productId=58808536" target="_blank">Laboratory Safety: A Self-Assessment Workbook</a> (2nd ed.) Chicago: ASCP Press.
+*   Doucette, L.J. (2021). <a href="https://www.amazon.com/Mathematics-Clinical-Laboratory-Lorraine-Doucette-dp-0323554822/dp/0323554822" target="_blank">Mathematics for the Clinical Laboratory</a> (4th ed.). St. Louis: Elsevier.
+*   Harmening, D.M. (2020). <a href="https://www.amazon.com/Laboratory-Management-Principles-Processes-Fourth/dp/0943903181" target="_blank">Laboratory Management, Principles and Processes</a> (4th ed.). St. Petersburg, FL: D. H. Publishing & Consulting Inc (*More appropriate for Specialist (SH) level*)
+
+## **Online** {-}
+*   <a href="https://www.bloodline.net/imageatlas/" target="_blank">Bloodline Image Atlas</a> (Hematology Images)
+*   <a href="https://www.cellavision.com/products/software/cellavisionr-cellatlas" target="_blank">CellaVision CellAtlas App</a> – Blood Cell Morphology Guide
+*   <a href="https://www.cms.gov/" target="_blank">Centers for Medicare and Medicaid Services (CMS)</a> - includes CLIA regulations
+*   <a href="https://www.cap.org/" target="_blank">College of American Pathologists (CAP)</a> - includes inspector training
+*   <a href="http://hematologyoutlines.com/" target="_blank">Hematology Outlines</a> – Online Textbook & Atlas
+*   <a href="https://www.osha.gov/" target="_blank">Occupational Safety & Health Administration (OSHA)</a>
+*   <a href="https://practical-haemostasis.com/" target="_blank">Practical-Haemostasis</a> (*More appropriate for Specialist (SH) level*)
+*   <a href="https://fritsmafactor.com/" target="_blank">The Fritsma Factor</a>
+*   <a href="https://www.jointcommission.org/" target="_blank">The Joint Commission</a>
+
+
+<a href="" target="_blank"></a>
