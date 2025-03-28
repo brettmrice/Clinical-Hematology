@@ -1,0 +1,5 @@
+part-erythrocytes
+part-leukocytes
+part-platelets
+part-laboratory
+part-hemostasis

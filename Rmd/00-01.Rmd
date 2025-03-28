@@ -1,0 +1,13 @@
+# Content Areas {-}
+
+Major content areas covered:
+
+*   [Erythrocytes](rbc-production.html)
+*   [Leukocytes](wbc-production.html)
+*   [Platelets](plt-production.html)
+*   [Laboratory](cell-counts.html)
+*   [Hemostasis](coagulation-pathways.html)
+
+## Last Updated {-}
+
+Last edit pushed to this site was on <span id="last_updated">`r Sys.Date()`</span>

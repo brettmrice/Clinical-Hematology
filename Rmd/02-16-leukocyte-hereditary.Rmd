@@ -1,0 +1,195 @@
+# Hereditary {-}
+
+This category encompasses several rare, inherited disorders that affect the morphology and/or function of leukocytes, and have been listed in the WHO classification
+
+##  **Hereditary Anomalies of Leukocytes** {-}
+
+*   **Definition:** A group of inherited disorders characterized by distinct morphological or functional abnormalities in leukocytes
+*   **Key Features**
+    *   Present from Birth: These abnormalities are present from birth and persist throughout life
+    *   Typically Benign: Most are asymptomatic and do not cause significant clinical problems
+    *   Recognizable Morphology: They are recognized by their distinctive morphological features on the peripheral blood smear
+    *   Genetic Basis: Caused by mutations in specific genes
+*   **Importance of Recognition:** Crucial for laboratory personnel to recognize these anomalies to avoid misdiagnosis of more serious conditions, such as myelodysplastic syndromes (MDS) or acute leukemia
+
+##  **Specific Hereditary Anomalies** {-}
+
+Here's a breakdown of the key hereditary anomalies, including their genetic basis, morphological features, clinical significance, and laboratory findings:
+
+### **Pelger-Huët Anomaly (PHA)** {-}
+
+*   **Definition:** A benign inherited disorder characterized by a high percentage of neutrophils with bilobed or unsegmented nuclei (hyposegmentation)
+*   **Genetic Basis:**
+    *   Autosomal dominant inheritance
+    *   Most commonly caused by a mutation in the *Lamin B Receptor (LBR)* gene on chromosome 1q42.13
+*   **Pathophysiology:** Mutation in *LBR* gene disrupts normal neutrophil nuclear segmentation. Remember that this is one of the later steps in maturation!
+*   **Morphological Features**
+    *   Increased number of neutrophils with bilobed or unsegmented nuclei
+    *   Nuclei have a "pince-nez" or "dumbbell" shape
+    *   Normal chromatin condensation
+    *   Cells otherwise appear normal, and typically don't have other qualitative features
+    *   May see occasional unsegmented neutrophils (band forms)
+    *   All neutrophils are affected (uniformity of findings)
+*   **Clinical Significance**
+    *   Benign and Asymptomatic: Does not cause any health problems
+    *   Importance of Recognition: Must be distinguished from *pseudo*-Pelger-Huët anomaly, which is associated with more serious conditions like MDS
+*   **Laboratory Findings**
+    *   CBC: Normal WBC count
+    *   Peripheral Blood Smear:
+        *   Increased percentage of neutrophils with bilobed or unsegmented nuclei
+        *   Normal neutrophils with 3-4 lobes may be present, but are less common than bilobed cells
+        *   Lack of toxic granulation or other dysplastic features
+    *   Reticulocyte Count
+    *   Family Testing: Not required for diagnosis but may be done to confirm hereditary nature of the abnormality
+
+*   **How to Distinguish From Pseudo-Pelger-Huët Anomaly:** A "true" PHA usually occurs in all cell lines, is always present, and exhibits cells that are still properly shaped
+
+### **May-Hegglin Anomaly (MHA)** {-}
+
+*   **Definition:** A rare autosomal dominant disorder characterized by:
+    *   Large, pale-blue inclusions (Döhle bodies) in neutrophils, eosinophils, basophils, and monocytes
+    *   Thrombocytopenia (low platelet count)
+    *   Giant Platelets (megathrombocytes)
+*   **Genetic Basis:** Caused by mutations in the *MYH9* gene, which encodes nonmuscle myosin heavy chain IIA
+*   **Pathophysiology**
+    *   Abnormal Myosin Heavy Chain: Affects normal platelet and leukocyte function
+    *   Döhle Bodies: Consist of aggregates of abnormal myosin heavy chain
+    *   Thrombocytopenia: Results from impaired platelet production and increased platelet destruction
+*   **Morphological Features**
+    *   Neutrophils, Eosinophils, Basophils, and Monocytes: Contain large, pale-blue, spindle-shaped or round inclusions (Döhle bodies)
+    *   Platelets: Thrombocytopenia with giant platelets
+    *   Easy to see on PBS at 40X lens strength
+*   **Clinical Features**
+    *   Mild to moderate bleeding tendencies:
+        *   Easy bruising
+        *   Nosebleeds
+        *   Prolonged bleeding after cuts or surgery
+    *   Most patients are asymptomatic
+*   **Laboratory Findings**
+    *   CBC:
+        *   Thrombocytopenia (platelet count often between 50-100 x 10^9/L)
+        *   Normal WBC count
+    *   Peripheral Blood Smear:
+        *   Döhle-like inclusions in neutrophils, eosinophils, basophils, and monocytes
+        *   Giant platelets (macrothrombocytes)
+*   **Treatment**
+    *   Usually supportive
+    *   Avoid aspirin and other antiplatelet agents
+    *   Platelet transfusions may be necessary for severe bleeding
+    *   Desmopressin may be helpful in some cases
+    *   Genetic counseling
+
+### **Alder-Reilly Anomaly** {-}
+
+*   **Definition:** A rare, inherited anomaly characterized by large, intensely staining granules in all types of leukocytes (neutrophils, lymphocytes, monocytes, eosinophils, and basophils)
+*   **Genetic Basis**
+    *   Autosomal recessive inheritance
+    *   Caused by a deficiency in certain lysosomal enzymes involved in the degradation of mucopolysaccharides
+*   **Pathophysiology**
+    *   Lysosomal Storage Disorder: Deficiency of lysosomal enzymes leads to the accumulation of undigested mucopolysaccharides in lysosomes
+    *   Granule Formation: The accumulated mucopolysaccharides form large granules that are visible in the cytoplasm of leukocytes
+*   **Morphological Features**
+    *   Large, intensely staining azurophilic (purple-red) granules in all types of leukocytes
+    *   Granules are typically larger and more prominent than normal granules
+    *   Distinction from Toxic Granulation: Alder-Reilly granules are present in *all* types of leukocytes, while toxic granulation is usually limited to neutrophils
+*   **Associated Conditions:** Mucopolysaccharidoses (MPS), a group of inherited metabolic disorders:
+    *   Hurler syndrome (MPS IH)
+    *   Hunter syndrome (MPS II)
+    *   Sanfilippo syndrome (MPS III)
+    *   Morquio syndrome (MPS IV)
+*   **Clinical Features**
+    *   Related to Mucopolysaccharidoses
+    *   Skeletal abnormalities
+    *   Mental retardation
+    *   Hepatosplenomegaly
+    *   Corneal clouding
+*   **Laboratory Findings**
+    *   CBC: May be normal
+    *   Peripheral Blood Smear:
+        *   Large, intensely staining granules in all types of leukocytes
+    *   Bone Marrow Examination:
+        *   May show storage cells containing mucopolysaccharides
+    *   Enzyme Assays:
+        *   Demonstrate deficiency of the specific lysosomal enzyme that is affected in the particular mucopolysaccharidosis
+    *   Genetic Testing:
+        *   Can confirm the diagnosis and identify the specific mutation
+*   **Treatment**
+    *   Supportive care for the underlying mucopolysaccharidosis
+    *   Enzyme replacement therapy is available for some MPS disorders
+    *   Hematopoietic stem cell transplantation (HSCT) may be considered in some cases
+
+### **Chédiak-Higashi Syndrome (CHS)** {-}
+
+*   **Definition:** A rare autosomal recessive disorder characterized by:
+    *   Giant granules in leukocytes, melanocytes, and other cells
+    *   Partial albinism (skin and hair)
+    *   Recurrent bacterial infections
+    *   Neurological abnormalities
+*   **Genetic Basis:** Caused by mutations in the *LYST* (also known as *CHS1*) gene, which regulates lysosomal trafficking
+*   **Pathophysiology**
+    *   Abnormal Lysosomal Trafficking: Defective LYST protein disrupts the normal fusion and trafficking of lysosomes and other organelles
+    *   Giant Granule Formation: Leads to the formation of abnormally large granules in various cell types, including leukocytes, melanocytes, and nerve cells
+    *   Impaired Function: The giant granules impair the normal function of these cells, leading to the clinical manifestations of the syndrome
+*   **Morphological Features**
+    *   Neutrophils, Eosinophils, Basophils, Monocytes, and Lymphocytes: Contain giant granules that stain with Wright-Giemsa stain
+    *   The granules are often irregular in shape and size
+*   **Clinical Features**
+    *   Partial Albinism: Light skin and hair color due to abnormal melanosomes
+    *   Recurrent Bacterial Infections: Due to impaired neutrophil chemotaxis and killing
+    *   Neurological Abnormalities: Peripheral neuropathy, seizures, developmental delay
+    *   Accelerated Phase: Some patients develop an accelerated phase characterized by uncontrolled lymphocyte proliferation, hepatosplenomegaly, lymphadenopathy, and pancytopenia
+*   **Laboratory Findings**
+    *   CBC:
+        *   May be normal or show neutropenia, thrombocytopenia, or anemia
+    *   Peripheral Blood Smear:
+        *   Giant granules in leukocytes (neutrophils, eosinophils, basophils, monocytes, and lymphocytes)
+        *   Large platelets may be present
+    *   Bone Marrow Examination:
+        *   May show giant granules in hematopoietic cells
+    *   Microscopy of Skin and Hair:
+        *   Melanocytes contain large, abnormal melanosomes
+    *   Genetic Testing:
+        *   Can confirm the diagnosis by identifying mutations in the *LYST* gene
+*   **Treatment**
+    *   Supportive Care:
+        *   Antibiotics to treat infections
+        *   Antiviral medications (e.g., acyclovir) for viral infections
+    *   Hematopoietic Stem Cell Transplantation (HSCT):
+        *   The only curative treatment
+        *   Most effective if performed early in life, before the development of severe neurological complications
+    *   Other Therapies:
+        *   Ascorbic acid (vitamin C) may improve some aspects of immune function
+        *   Interferon-gamma may reduce the frequency of infections
+
+##  **Laboratory Evaluation** {-}
+
+*   **Complete Blood Count (CBC) with Differential**
+
+    *   Used to assess the number and types of leukocytes in the blood
+
+*   **Peripheral Blood Smear Examination**
+
+    *   The most important test for identifying hereditary anomalies of leukocytes
+    *   Careful examination of the smear morphology is essential for accurate diagnosis
+
+*   **Special Stains**
+
+    *   May be used to highlight specific features of the cells
+
+*   **Flow Cytometry Immunophenotyping**
+
+    *   Can be used to identify cell surface markers
+
+*   **Genetic Testing**
+
+    *   Used to confirm the diagnosis and identify the specific gene mutation
+
+**Key Terms**
+
+*   **Hereditary Anomaly:** An inherited disorder characterized by distinct morphological or functional abnormalities
+*   **Pelger-Huët Anomaly:** Neutrophils with bilobed or unsegmented nuclei
+*   **May-Hegglin Anomaly:** Döhle-like inclusions in leukocytes, thrombocytopenia, and giant platelets
+*   **Alder-Reilly Anomaly:** Large granules in all leukocytes
+*   **Chédiak-Higashi Syndrome:** Giant granules in leukocytes, partial albinism, and recurrent infections
+*   **Peripheral Blood Smear:** A blood sample spread thinly on a slide for microscopic examination
+*   **Lysosomal Storage Disorder:** A group of inherited metabolic disorders characterized by the accumulation of undigested materials in lysosomes
