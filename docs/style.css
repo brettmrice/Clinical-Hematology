@@ -207,12 +207,6 @@ a:hover {
   border-radius: 3px;
 }
 
-
-footer {
-  display: none;
-}
-
-
 .caption {
   color: #777;
   margin-top: 10px;
@@ -316,6 +310,16 @@ main p > a {
 
 .sidebar .book-part {
   border-bottom: 1px solid #ccc;
+}
+
+mark, .mark {
+  padding: .2em;
+  background-color: #efe1ce;
+  border-radius: 0 5px 5px 0;
+  border-bottom: 2px solid var(--theme-first-color);
+}
+mark {
+  background: linear-gradient(-100deg, hsl(35deg 51% 87% / 30%), hsl(35deg 51% 87% / 70%) 95%, #efe1ce);
 }
 
 

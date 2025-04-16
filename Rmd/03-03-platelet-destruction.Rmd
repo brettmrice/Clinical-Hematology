@@ -1,5 +1,12 @@
 # PLT Destruction {-}
 
+<div class="section level2 unnumbered">
+  <h2 class="no-stick"><strong>Audio Overview</strong></h2>
+  <center>
+    <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/thrombocytes/id1780125002?i=1000703167883"></iframe>
+  </center>
+</div>
+
 ## **Overview of Thrombocytopenia Due to Increased Platelet Destruction** {-}
 
 *   **Definition:** A group of disorders characterized by a decreased platelet count (<150 x 10^9/L) resulting from the accelerated destruction or consumption of platelets.
