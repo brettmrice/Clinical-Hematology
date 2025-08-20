@@ -1,5 +1,12 @@
 # Iron Deficiency {-}
 
+<div class="section level2 unnumbered">
+  <h2 class="no-stick"><strong>Audio Overview</strong></h2>
+  <center>
+    <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/he-iron-deficiency-anemia/id1780125002?i=1000722225701"></iframe>
+  </center>
+</div>
+
 ## **Overview of Iron Deficiency Anemia (IDA)** {-}
 
 *   **Definition:** A microcytic, hypochromic anemia characterized by decreased red blood cell production due to insufficient iron stores
@@ -153,3 +160,9 @@
 *   **Hypochromic:** Decreased hemoglobin content (pale color)
 *   **Pica:** Unusual cravings for non-food substances
 *   **Koilonychia:** Spoon-shaped nails
+
+## **Further Readings** {-}
+
+Kumar, A., Sharma, E., Marley, A., Samaan, M. A., & Brookes, M. J. (2022). Iron deficiency anaemia: pathophysiology, assessment, practical management. BMJ open gastroenterology, 9(1), e000759. <a href="https://doi.org/10.1136/bmjgast-2021-000759" target="_blank">https://doi.org/10.1136/bmjgast-2021-000759</a>
+
+Warner MJ, Kamran MT. Iron Deficiency Anemia. [Updated 2023 Aug 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK448065/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK448065/</a>

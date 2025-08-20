@@ -107,3 +107,7 @@ Here's a breakdown of commonly used markers, with the caveat that specific panel
 *   **Blast Cells:** Immature, abnormal cells seen in acute leukemia
 *   **Lineage Assignment:** Determining the cell type that a leukemia or lymphoma is derived from (e.g., myeloid, B-lymphoid, T-lymphoid)
 *   **Aberrant Antigen Expression:** Expression of antigens that are not normally found on cells of that lineage
+
+## **Further Readings** {-}
+
+Kala PS, Zubair M. Flow Cytometry Blood Cell Identification. [Updated 2024 Sep 11]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK608011/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK608011/</a>

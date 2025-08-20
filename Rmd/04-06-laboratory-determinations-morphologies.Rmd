@@ -273,8 +273,8 @@
         *   Identification: Identified by immunophenotyping
 
 *   **Myeloid Lineage**
-
 These cells are part of the granulocytic and monocytic series
+
     *   **Myeloblast:**
         *   Description: Immature granulocyte precursor
         *   Size: 14-20 μm

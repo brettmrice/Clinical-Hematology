@@ -1,5 +1,12 @@
 # Chronic Disease {-}
 
+<div class="section level2 unnumbered">
+  <h2 class="no-stick"><strong>Audio Overview</strong></h2>
+  <center>
+    <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/he-anemia-of-chronic-inflammation-disease/id1780125002?i=1000722244430"></iframe>
+  </center>
+</div>
+
 ## **Overview of Anemia of Chronic Disease (ACD)** {-}
 
 *   **Definition:** Anemia associated with chronic inflammatory, infectious, or malignant conditions
@@ -168,3 +175,12 @@
 *   **Erythropoietin (EPO):** Hormone that stimulates red blood cell production
 *   **Erythropoiesis-Stimulating Agents (ESAs):** Medications used to stimulate red blood cell production
 *   **Iron-Restricted Erythropoiesis:** Impaired red blood cell production due to limited iron availability
+
+## **Further Readings** {-}
+
+Badireddy M, Baradhi KM. Chronic Anemia. [Updated 2023 Aug 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK534803/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK534803/</a>
+
+Freeman AM, Zubair M. Anemia Screening. [Updated 2025 Feb 17]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK499905/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK499905/</a> 
+
+Hashmi MF, Shaikh H, Rout P. Anemia of Chronic Kidney Disease. [Updated 2024 Jul 23]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK539871/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK539871/</a>
+
